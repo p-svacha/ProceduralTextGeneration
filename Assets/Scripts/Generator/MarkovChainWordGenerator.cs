@@ -9,6 +9,7 @@ public class MarkovChainWordGenerator
     public static Dictionary<string, InputDataType> WordCategories = new Dictionary<string, InputDataType>{
         { "Planet", InputDataType.SingleLine},
         { "Country", InputDataType.SingleLine},
+        { "Province", InputDataType.SingleLine},
         { "Gemeinde", InputDataType.SingleLine},
         { "Mineral", InputDataType.SingleLine},
         { "FaberSongs", InputDataType.SingleLine},
