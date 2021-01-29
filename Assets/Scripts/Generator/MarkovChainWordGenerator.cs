@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using UnityEngine;
 
 public class MarkovChainWordGenerator
@@ -11,17 +12,18 @@ public class MarkovChainWordGenerator
         { "Country", InputDataType.SingleLine},
         { "Gemeinde", InputDataType.SingleLine},
         { "Mineral", InputDataType.SingleLine},
+        { "TrackmaniaMapNames", InputDataType.SingleLine },
         { "FaberSongs", InputDataType.SingleLine},
         { "FaberSongText", InputDataType.MultiLine},
         { "Test", InputDataType.SingleLine},
     };
 
-    private const char WordStartChar = '>';
-    private const char WordEndChar = '<';
+    private const char WordStartChar = '˨';
+    private const char WordEndChar = '˩';
     private const string MultiLineEndInput = "---ENDINPUT---";
 
     public int MinNGramLength = 2;
-    public int MaxNGramLength = 6;
+    public int MaxNGramLength = 12;
 
     /// <summary>
     /// The initial key represents the word type (i.e. "Planet" or "Country")
@@ -62,6 +64,7 @@ public class MarkovChainWordGenerator
 
     public string GenerateWord(string wordType, int nGramLength)
     {
+        //Debug.Log("##################### NEW WORD #######################");
         string word = WordStartChar + "";
 
         while (!word.EndsWith(WordEndChar + ""))
@@ -92,7 +95,7 @@ public class MarkovChainWordGenerator
         InputWords.Add(category, new List<string>());
 
         string line;
-        System.IO.StreamReader file = new System.IO.StreamReader("Assets/Resources/InputData/" + category + ".txt", System.Text.Encoding.GetEncoding("iso-8859-1"));
+        System.IO.StreamReader file = new System.IO.StreamReader("Assets/Resources/InputData/" + category + ".txt", Encoding.UTF8);
         while ((line = file.ReadLine()) != null)
         {
             if (!InputWords[category].Contains(line))
@@ -121,7 +124,7 @@ public class MarkovChainWordGenerator
         InputWords.Add(category, new List<string>());
         string line;
         string currentInput = "";
-        System.IO.StreamReader file = new System.IO.StreamReader("Assets/Resources/InputData/" + category + ".txt", System.Text.Encoding.GetEncoding("iso-8859-1"));
+        System.IO.StreamReader file = new System.IO.StreamReader("Assets/Resources/InputData/" + category + ".txt", Encoding.GetEncoding("iso-8859-1"));
         while ((line = file.ReadLine()) != null)
         {
             if (line == MultiLineEndInput)
@@ -144,7 +147,7 @@ public class MarkovChainWordGenerator
 
     private string PickRandomNGramStartingWith(string wordType, string nGramStart, int nGramLength)
     {
-        Dictionary<string, int> candidateNGrams = NGrams[wordType][nGramLength].Where(x => x.Key.StartsWith(nGramStart)).ToDictionary(x => x.Key, x => x.Value);
+        Dictionary<string, int> candidateNGrams = NGrams[wordType][nGramLength].Where(x => StartsWith(x.Key, nGramStart)).ToDictionary(x => x.Key, x => x.Value);
         int totalProbability = candidateNGrams.Sum(x => x.Value);
 
         // Create array where each ngram has as many occurences as it has in the original list
@@ -156,18 +159,26 @@ public class MarkovChainWordGenerator
         // Chose one random entry in the weighted array
         if (weightedArray.Length == 0) throw new Exception("No nGram found that starts with " + nGramStart);
         string chosenNgram = weightedArray[UnityEngine.Random.Range(0, weightedArray.Length)];
-        //Debug.Log("Chosen nGram: " + chosenNgram + " (out of " + candidateNGrams.Count + " options)");
-        return chosenNgram;
+        byte[] bytes = Encoding.UTF8.GetBytes(chosenNgram);
+        string encodedNGram = Encoding.Default.GetString(bytes);
+
+        string options = "";
+        //foreach (KeyValuePair<string, int> kvp in candidateNGrams) options += "\n" + kvp.Key + " (" + kvp.Value + ")";
+        //Debug.Log("Chosen nGram: " + chosenNgram + " out of " + candidateNGrams.Count + " options. Listing options:" + options);
+        
+        return encodedNGram;
     }
 
     private void CreateNGramsFor(string wordType, string word, int nGramLength)
     {
         if (word.Length < (nGramLength - 1)) return; // Skip word if shorter than nGramLength - 1
-        AddNGram(wordType, WordStartChar + word.Substring(0, nGramLength - 1), nGramLength);
+        string nGram = WordStartChar + word.Substring(0, nGramLength - 1);
+        AddNGram(wordType, nGram, nGramLength);
         for(int i = 0; i < word.Length; i++)
         {
-            if (i < word.Length - (nGramLength - 1)) AddNGram(wordType, word.Substring(i, nGramLength), nGramLength);
-            else AddNGram(wordType, word.Substring(i, word.Length - i) + WordEndChar, nGramLength);
+            if (i < word.Length - (nGramLength - 1)) nGram = word.Substring(i, nGramLength);
+            else nGram = word.Substring(i, word.Length - i) + WordEndChar;
+            AddNGram(wordType, nGram, nGramLength);
         }
     }
 
@@ -176,5 +187,14 @@ public class MarkovChainWordGenerator
         if (!NGrams[wordType].ContainsKey(nGramLength)) NGrams[wordType].Add(nGramLength, new Dictionary<string, int>());
         if (NGrams[wordType][nGramLength].ContainsKey(ngram)) NGrams[wordType][nGramLength][ngram]++;
         else NGrams[wordType][nGramLength].Add(ngram, 1);
+    }
+
+    private bool StartsWith(string nGram, string start)
+    {
+        for(int i = 0; i < start.Length; i++)
+        {
+            if (nGram[i] != start[i]) return false;
+        }
+        return true;
     }
 }
