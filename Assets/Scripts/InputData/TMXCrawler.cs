@@ -12,8 +12,11 @@ using UnityEngine;
 /// </summary>
 public class TMXCrawler
 {
-    // https://trackmania.exchange/mapsearch2/search?api=on&limit=100&priord=3&page={???}
-    // Added pages: 111
+    // How to Use:
+    // 1. Go to https://trackmania.exchange/mapsearch2/search?api=on&limit=100&priord=3&page={???}, where ??? is the first page number that hasn't been added yet
+    // Added pages: 128
+    // 2. Copy paste the content into Assets/Resources/RawInputData/tmxJson.txt
+    // 3. Run the sample scene and click "Read tmx Json"
     private static string InputFilePath = Application.dataPath + "/Resources/InputData/TrackmaniaMapNames.txt";
     private static string RawInputFilePath = Application.dataPath + "/Resources/RawInputData/tmxJson.txt";
 
