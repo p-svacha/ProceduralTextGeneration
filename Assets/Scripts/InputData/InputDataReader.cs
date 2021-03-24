@@ -15,6 +15,7 @@ public static class InputDataReader
         { "TrackmaniaMapNames", InputDataType.SingleLine },
         { "FaberSongs", InputDataType.SingleLine},
         { "FaberSongText", InputDataType.MultiLine},
+        { "Usernames", InputDataType.SingleLine},
         { "Test", InputDataType.SingleLine},
        
     };
@@ -22,12 +23,7 @@ public static class InputDataReader
 
     private static Dictionary<string, List<string>> InputWords;
 
-    /// <summary>
-    /// Reads all files with input data seperated by category. Can be filtered by a string of accepted chars. Then only words than only contain chars within the acceptedChars string are returned.
-    /// </summary>
-    /// <param name="acceptedChars"></param>
-    /// <returns></returns>
-    public static Dictionary<string, List<string>> GetInputWords(string acceptedChars = "", bool debug = false)
+    public static void Init()
     {
         InputWords = new Dictionary<string, List<string>>();
 
@@ -35,36 +31,67 @@ public static class InputDataReader
         {
             string category = kvp.Key;
             InputDataType inputDataType = kvp.Value;
+            Debug.Log("############### READING INPUT DATA >>>" + category + "<<< ###############");
 
             switch (inputDataType)
             {
                 case InputDataType.SingleLine:
-                    ReadSingleLineInputs(category, acceptedChars);
-                    if(debug) Debug.Log("Added " + InputWords[category].Count + " words from the category " + category);
+                    ReadSingleLineInputs(category);
                     break;
 
                 case InputDataType.MultiLine:
-                    ReadMultiLineInputs(category, acceptedChars);
-                    if(debug) Debug.Log("Added " + InputWords[category].Count + " words from the category " + category);
+                    ReadMultiLineInputs(category);
                     break;
             }
-        }
 
-        return InputWords;
+            Debug.Log("Added " + InputWords[category].Count + " words from the category " + category);
+        }
     }
 
-    private static void ReadSingleLineInputs(string category, string acceptedChars = "")
+    /// <summary>
+    /// Reads all files with input data seperated by category. Can be filtered by a string of accepted chars. Then only words than only contain chars within the acceptedChars string are returned.
+    /// </summary>
+    /// <param name="acceptedChars"></param>
+    /// <returns></returns>
+    public static List<string> GetInputWords(string category, string acceptedChars = "")
+    {
+        List<string> words = new List<string>();
+        List<string> invalidWords = new List<string>();
+
+        foreach(string word in InputWords[category])
+        {
+            if (IsValidWord(word, acceptedChars)) words.Add(word);
+            else invalidWords.Add(word);
+        }
+
+        if (invalidWords.Count > 0)
+        {
+            string s = "";
+            s += category + ": " + invalidWords.Count + " entries are invalid with the acceptedChars [" + acceptedChars + "]:\n";
+            foreach (string d in invalidWords) s += d + "\n";
+            Debug.Log(s);
+        }
+
+        return words;
+    }
+
+    private static void ReadSingleLineInputs(string category)
     {
         List<string> duplicates = new List<string>();
-        List<string> invalidWords = new List<string>();
+        Dictionary<string, int> charOccurences = new Dictionary<string, int>();
         InputWords.Add(category, new List<string>());
 
         string line;
         System.IO.StreamReader file = new System.IO.StreamReader("Assets/Resources/InputData/" + category + ".txt", Encoding.UTF8);
         while ((line = file.ReadLine()) != null)
         {
+            foreach(char c in line)
+            {
+                string s = c.ToString();
+                if (charOccurences.ContainsKey(s)) charOccurences[s]++;
+                else charOccurences.Add(s, 1);
+            }
             if (InputWords[category].Contains(line)) duplicates.Add(line);
-            else if (!IsValidWord(line, acceptedChars)) invalidWords.Add(line);
             else InputWords[category].Add(line);
         }
         file.Close();
@@ -72,17 +99,16 @@ public static class InputDataReader
         if (duplicates.Count > 0)
         {
             string s = "";
-            s += "Following entries are duplicate in input data " + category + ":\n";
+            s += category + ": " + duplicates.Count + " entries are duplicate:\n";
             foreach (string d in duplicates) s += d + "\n";
             Debug.Log(s);
         }
-        if (invalidWords.Count > 0)
+        string charString = category + ": Character occurences ordered from most occuring to least occuring:";
+        foreach (KeyValuePair<string, int> kvp in charOccurences.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, y => y.Value))
         {
-            string s = "";
-            s += "Following entries are invalid in input data " + category + " with the acceptedChars [" + acceptedChars + "]:\n";
-            foreach (string d in invalidWords) s += d + "\n";
-            Debug.Log(s);
+            charString += "\n" + kvp.Key + ": " + kvp.Value;
         }
+        Debug.Log(charString);
     }
 
     private static void ReadMultiLineInputs(string category, string acceptedChars = "")

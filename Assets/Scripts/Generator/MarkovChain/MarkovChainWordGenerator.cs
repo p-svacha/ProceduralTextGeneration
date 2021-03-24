@@ -30,15 +30,15 @@ public class MarkovChainWordGenerator
     public MarkovChainWordGenerator()
     {
         NGrams = new Dictionary<string, Dictionary<int, Dictionary<string, int>>>();
-        InputWords = InputDataReader.GetInputWords();
+        InputWords = new Dictionary<string, List<string>>();
 
-        foreach (KeyValuePair<string, List<string>> kvp in InputWords)
+        foreach (string category in InputDataReader.WordCategories.Keys)
         {
-            string category = kvp.Key;
-            List<string> words = kvp.Value;
+            List<string> inputWords = InputDataReader.GetInputWords(category);
+            InputWords.Add(category, inputWords);
 
             NGrams.Add(category, new Dictionary<int, Dictionary<string, int>>());
-            foreach(string word in words)
+            foreach(string word in inputWords)
             {
                 for (int i = MinNGramLength; i <= MaxNGramLength; i++)
                 {

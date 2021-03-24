@@ -21,7 +21,19 @@ public class CNNTextGenerator
     /// <summary>
     /// Only chars in this string are seen as valid inputs
     /// </summary>
-    private string AcceptedChars = " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz-'";
+    private Dictionary<string, string> AcceptedChars = new Dictionary<string, string>()
+    {
+        {"Planet", "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
+        {"Country", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz-'" },
+        {"Province", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz-'" },
+        {"Gemeinde", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
+        {"Mineral", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
+        {"TrackmaniaMapNames", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890-#" },
+        {"FaberSongs", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
+        {"FaberSongText", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
+        {"Usernames", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890-_" },
+        {"Test", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
+    };
 
     /// <summary>
     /// Defines how many letters back are given the network as an input to predict the next letter
@@ -33,19 +45,19 @@ public class CNNTextGenerator
 
     public CNNTextGenerator()
     {
-        InputWords = InputDataReader.GetInputWords(AcceptedChars, debug: true);
+        InputWords = new Dictionary<string, List<string>>();
         Networks = new Dictionary<string, NeuralNetwork>();
         TrainingIterations = new Dictionary<string, int>();
 
-        AcceptedChars += WordStartChar;
-        AcceptedChars += WordEndChar;
-
-        foreach (KeyValuePair<string, List<string>> kvp in InputWords)
+        foreach (string category in InputDataReader.WordCategories.Keys)
         {
-            string category = kvp.Key;
-            List<string> words = kvp.Value;
+            AcceptedChars[category] += WordStartChar;
+            AcceptedChars[category] += WordEndChar;
+            List<string> inputWords = InputDataReader.GetInputWords(category, AcceptedChars[category]);
+            InputWords.Add(category, inputWords);
 
-            int[] layers = new int[] { AcceptedChars.Length * SegmentLength, AcceptedChars.Length * SegmentLength / 2, AcceptedChars.Length * SegmentLength / 2, AcceptedChars.Length};
+            int[] layers = new int[] { AcceptedChars[category].Length * SegmentLength, AcceptedChars[category].Length * SegmentLength / 2, AcceptedChars[category].Length * SegmentLength / 2, AcceptedChars[category].Length };
+
             NeuralNetwork network = new NeuralNetwork(layers, ActivationFunctionType.Sigmoid);
             Networks.Add(category, network);
         }
@@ -56,11 +68,11 @@ public class CNNTextGenerator
         NeuralNetwork network = Networks[category];
         string word = WordStartChar + start + "";
 
-        while(word[word.Length - 1] != WordEndChar && word.Length < 20)
+        while(word[word.Length - 1] != WordEndChar && word.Length < 50)
         {
-            float[] input = WordToNeuralNetInput(word);
+            float[] input = WordToNeuralNetInput(category, word);
             float[] output = network.FeedForward(input);
-            char c = NeuralNetOutputToChar(output, skewValue);
+            char c = NeuralNetOutputToChar(category, output, skewValue);
             word += c;
         }
 
@@ -99,8 +111,8 @@ public class CNNTextGenerator
             {
                 //Debug.Log(randomWord + " || i = " + i + ": trainWord = " + trainWord + ", expectedNextLetter = " + expectedNextChar);
 
-                float[] networkInput = WordToNeuralNetInput(trainWord);
-                float[] expectedOutput = CharToNeuralNetExpectedOutput(expectedNextChar);
+                float[] networkInput = WordToNeuralNetInput(category, trainWord);
+                float[] expectedOutput = CharToNeuralNetExpectedOutput(category, expectedNextChar);
 
                 network.FeedForward(networkInput);
                 network.BackPropagation(expectedOutput);
@@ -112,16 +124,16 @@ public class CNNTextGenerator
         }
     }
 
-    private float[] WordToNeuralNetInput(string word)
+    private float[] WordToNeuralNetInput(string category, string word)
     {
-        float[] input = new float[AcceptedChars.Length * SegmentLength];
+        float[] input = new float[AcceptedChars[category].Length * SegmentLength];
 
         for(int i = 0; i < SegmentLength; i++)
         {
-            int startIndex = i * AcceptedChars.Length;
+            int startIndex = i * AcceptedChars[category].Length;
             if(i >= word.Length) // word too short, fill with 0's
             {
-                for(int j = 0; j < AcceptedChars.Length; j++)
+                for(int j = 0; j < AcceptedChars[category].Length; j++)
                 {
                     input[startIndex + j] = 0;
                 }
@@ -129,8 +141,8 @@ public class CNNTextGenerator
             else
             {
                 char c = word[word.Length - 1 - i]; // fill char node with 1, rest 0
-                int charIndex = AcceptedChars.IndexOf(c);
-                for (int j = 0; j < AcceptedChars.Length; j++)
+                int charIndex = AcceptedChars[category].IndexOf(c);
+                for (int j = 0; j < AcceptedChars[category].Length; j++)
                 {
                     if(j == charIndex) input[startIndex + j] = 1;
                     else input[startIndex + j] = 0;
@@ -141,13 +153,13 @@ public class CNNTextGenerator
         return input;
     }
 
-    private float[] CharToNeuralNetExpectedOutput(char c)
+    private float[] CharToNeuralNetExpectedOutput(string category, char c)
     {
-        float[] expectedOutput = new float[AcceptedChars.Length];
-        int charIndex = AcceptedChars.IndexOf(c);
+        float[] expectedOutput = new float[AcceptedChars[category].Length];
+        int charIndex = AcceptedChars[category].IndexOf(c);
         //if (!AcceptedChars.Contains(c)) throw new System.Exception("Char " + c + " not found in accepted chars.");
 
-        for (int i = 0; i < AcceptedChars.Length; i++)
+        for (int i = 0; i < AcceptedChars[category].Length; i++)
         {
             if (i == charIndex) expectedOutput[i] = 1;
             else expectedOutput[i] = 0;
@@ -156,15 +168,15 @@ public class CNNTextGenerator
         return expectedOutput;
     }
 
-    private char NeuralNetOutputToChar(float[] output, float skewValue)
+    private char NeuralNetOutputToChar(string category, float[] output, float skewValue)
     {
         Dictionary<char, float> charProbabilites = new Dictionary<char, float>();
-        for (int i = 0; i < AcceptedChars.Length; i++)
+        for (int i = 0; i < AcceptedChars[category].Length; i++)
         {
             float baseValue = output[i];
             float skewedValue = output[i] * output[i];
             float realValue = baseValue + ((skewedValue - baseValue) * skewValue);
-            charProbabilites.Add(AcceptedChars[i], realValue); // skew randomness in favor of probable outputs
+            charProbabilites.Add(AcceptedChars[category][i], realValue); // skew randomness in favor of probable outputs
         }
 
         float probSum = charProbabilites.Values.Sum();

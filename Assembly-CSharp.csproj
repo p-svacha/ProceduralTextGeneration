@@ -55,24 +55,24 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\TestDatapoint.cs" />
+    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\ActivationFunctionType.cs" />
+    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\NeuralNetwork.cs" />
     <Compile Include="Assets\TMX\TMXNameGenerator.cs" />
     <Compile Include="Assets\Scripts\Generator\MarkovChain\MarkovChainWordGenerator.cs" />
+    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\AF_Sigmoid.cs" />
     <Compile Include="Assets\Scripts\InputData\TMXMap.cs" />
+    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\AF_TanH.cs" />
+    <Compile Include="Assets\Scripts\InputData\InputDataReader.cs" />
     <Compile Include="Assets\Scripts\UI\UIElement.cs" />
     <Compile Include="Assets\Scripts\InputData\TMXMapList.cs" />
     <Compile Include="Assets\Resources\InputDataClearer.cs" />
     <Compile Include="Assets\Scripts\Generator\MarkovChain\InputDataType.cs" />
     <Compile Include="Assets\Scripts\InputData\TMXCrawler.cs" />
-    <Compile Include="Assets\Scripts\UI\GeneratorUI.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\ActivationFunctionType.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\NeuralNetwork.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\AF_Sigmoid.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\AF_TanH.cs" />
     <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\InputDataPoint.cs" />
     <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\ActivationFunction.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\TestDatapoint.cs" />
     <Compile Include="Assets\Scripts\Generator\CNN\CNNTextGenerator.cs" />
-    <Compile Include="Assets\Scripts\InputData\InputDataReader.cs" />
+    <Compile Include="Assets\Scripts\UI\GeneratorUI.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Resources\InputData\TrackmaniaMapNames.txt" />
@@ -80,6 +80,7 @@
      <None Include="Assets\Resources\InputData\Gemeinde.txt" />
      <None Include="Assets\Resources\RawInputData\tmxJson.txt" />
      <None Include="Assets\Resources\InputData\Province.txt" />
+     <None Include="Assets\Resources\InputData\Usernames.txt" />
      <None Include="Assets\Resources\InputData\Test.txt" />
      <None Include="Assets\Resources\InputData\Planet.txt" />
      <None Include="Assets\Resources\InputData\FaberSongText.txt" />

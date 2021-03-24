@@ -39,6 +39,8 @@ public class GeneratorUI : UIElement
 
     protected override void OnStart()
     {
+        InputDataReader.Init();
+
         MarkovWordGenerator = new MarkovChainWordGenerator();
         CNNWordGenerator = new CNNTextGenerator();
         GenerateMarkovButton.onClick.AddListener(GenerateMarkovButton_OnClick);
