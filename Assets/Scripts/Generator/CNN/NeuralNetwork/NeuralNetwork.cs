@@ -11,10 +11,12 @@ public class NeuralNetwork
     public Layer[] layers;
     public System.Random random;
     public int TestCounter;
-    public Queue<bool> guesses = new Queue<bool>(1000);
 
     private ActivationFunction ActivationFunction;
 
+    /// <summary>
+    /// Instantiate a new random network with the given layers
+    /// </summary>
     public NeuralNetwork(int[] layer, ActivationFunctionType af)
     {
         switch(af)
@@ -29,17 +31,35 @@ public class NeuralNetwork
 
         random = new System.Random();
         this.layer = new int[layer.Length];
-        for(int i = 0;i < layer.Length; i++)
-        {
-            this.layer[i] = layer[i];
-        }
+        for(int i = 0;i < layer.Length; i++) this.layer[i] = layer[i];
 
         layers = new Layer[layer.Length - 1];
+        for(int i = 0; i < layers.Length; i++) layers[i] = new Layer(layer[i], layer[i + 1], ActivationFunction);
+    }
 
-        for(int i = 0; i < layers.Length; i++)
+    /// <summary>
+    /// Initialize a neural network with the given layers and weights
+    /// </summary>
+    public NeuralNetwork(List<int> layer, List<float[,]> weights, ActivationFunctionType af)
+    {
+        if (layer.Count - 1 != weights.Count) throw new Exception("Wrong amount of layer weights. Expected: " + (layer.Count - 1) + ", Actual: " + weights.Count);
+
+        switch (af)
         {
-            layers[i] = new Layer(layer[i], layer[i + 1], ActivationFunction);
+            case ActivationFunctionType.Sigmoid:
+                ActivationFunction = new AF_Sigmoid();
+                break;
+            case ActivationFunctionType.TanH:
+                ActivationFunction = new AF_TanH();
+                break;
         }
+
+        random = new System.Random();
+        this.layer = new int[layer.Count];
+        for (int i = 0; i < layer.Count; i++) this.layer[i] = layer[i];
+
+        layers = new Layer[layer.Count - 1];
+        for (int i = 0; i < layers.Length; i++) layers[i] = new Layer(layer[i], layer[i + 1], ActivationFunction, weights[i]);
     }
 
     /// <summary>
@@ -96,7 +116,7 @@ public class NeuralNetwork
         private static System.Random random = new System.Random();
 
 
-        public Layer(int numberOfInputs, int numberOfOutputs, ActivationFunction af)
+        public Layer(int numberOfInputs, int numberOfOutputs, ActivationFunction af, float[,] initWeights = null)
         {
             ActivationFunction = af;
             this.numberOfInputs = numberOfInputs;
@@ -104,12 +124,29 @@ public class NeuralNetwork
 
             inputs = new float[numberOfInputs];
             outputs = new float[numberOfOutputs];
-            weights = new float[numberOfOutputs, numberOfInputs];
             weightsDelta = new float[numberOfOutputs, numberOfInputs];
             gamma = new float[numberOfOutputs];
             error = new float[numberOfOutputs];
 
-            InitializeWeights();
+            if (initWeights == null)
+            {
+                weights = new float[numberOfOutputs, numberOfInputs];
+                InitializeWeights();
+            }
+            else
+            {
+                if(initWeights.GetLength(0) != numberOfOutputs || initWeights.GetLength(1) != numberOfInputs)
+                    throw new Exception("Layer initialization failed because weights do not match expected number of inputs/outputs: Expected: " + numberOfOutputs + "/" + numberOfInputs + ", Actual: " + initWeights.GetLength(0) + "/" + initWeights.GetLength(1)); ;
+
+                weights = new float[numberOfOutputs, numberOfInputs];
+                for (int i = 0; i < numberOfOutputs; i++)
+                {
+                    for (int j = 0; j < numberOfInputs; j++)
+                    {
+                        weights[i, j] = initWeights[i, j];
+                    }
+                }
+            }
         }
 
         public void InitializeWeights()

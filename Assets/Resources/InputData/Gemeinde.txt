@@ -30,7 +30,8 @@ Aire-la-Ville
 Airolo
 Alberswil
 Albinen
-Albula/Alvra
+Albula
+Alvra
 Alchenstorf
 Allaman
 Alle
@@ -193,7 +194,8 @@ Biasca
 Biberist
 Biberstein
 Bichelsee-Balterswil
-Biel/Bienne
+Biel
+Bienne
 Biel-Benken
 Bière
 Biezwil
@@ -240,7 +242,8 @@ Bonstetten
 Bonvillars
 Boppelsen
 Borex
-Bosco/Gurin
+Bosco
+Gurin
 Bösingen
 Bossonnens
 Boswil
@@ -265,7 +268,8 @@ Bözen
 Braunau
 Bregaglia
 Breggia
-Breil/Brigels
+Breil
+Brigels
 Breitenbach
 Bremblens
 Bremgarten (AG)
@@ -355,7 +359,8 @@ Castaneda
 Castel San Pietro
 Casti-Wergenstein
 Cazis
-Celerina/Schlarigna
+Celerina
+Schlarigna
 Céligny
 Centovalli
 Cerentino
@@ -381,16 +386,16 @@ Châtillon (JU)
 Châtonnaye
 Chavannes-de-Bogis
 Chavannes-des-Bois
-Chavannes-le-Chêne
+Chavannes-le-Chene
 Chavannes-le-Veyron
 Chavannes-près-Renens
 Chavannes-sur-Moudon
 Chavornay
 Cheiry
-Chêne-Bougeries
-Chêne-Bourg
+Chene-Bougeries
+Chene-Bourg
 Chénens
-Chêne-Pâquier
+Chene-Pâquier
 Cheseaux-Noréaz
 Cheseaux-sur-Lausanne
 Chéserex
@@ -517,10 +522,12 @@ Dietlikon
 Dietwil
 Dinhard
 Dintikon
-Disentis/Mustér
+Disentis
+Mustér
 Dittingen
 Dizy
-Domat/Ems
+Domat
+Ems
 Domleschg
 Dompierre (VD)
 Donat
@@ -756,7 +763,7 @@ Göschenen
 Gossau (SG)
 Gossau (ZH)
 Gottlieben
-Goumoëns
+Goumoens
 Graben
 Grabs
 Grächen
@@ -785,7 +792,7 @@ Grimisuat
 Grindel
 Grindelwald
 Grolley
-Grône
+Grone
 Grono
 Grossaffoltern
 Grossdietwil
@@ -913,7 +920,8 @@ Huttwil
 Hüttwilen
 Icogne
 Iffwil
-Ilanz/Glion
+Ilanz
+Glion
 Illgau
 Illnau-Effretikon
 Inden
@@ -1011,7 +1019,7 @@ La Chaux (Cossonay)
 La Chaux-de-Fonds
 La Chaux-des-Breuleux
 La Chaux-du-Milieu
-La Côte-aux-Fées
+La Cote-aux-Fées
 La Ferrière
 La Folliaz
 La Grande-Béroche
@@ -1044,7 +1052,8 @@ Langenthal
 Langnau am Albis
 Langnau im Emmental
 Langrickenbach
-Lantsch/Lenz
+Lantsch
+Lenz
 Lauenen
 Lauerz
 Läufelfingen
@@ -1591,7 +1600,7 @@ Rohr (SO)
 Rohrbach
 Rohrbachgraben
 Rolle
-Romainmôtier-Envy
+Romainmotier-Envy
 Romanel-sur-Lausanne
 Romanel-sur-Morges
 Romanshorn
@@ -1796,7 +1805,8 @@ Signy-Avenex
 Sigriswil
 Silenen
 Sils im Domleschg
-Sils im Engadin/Segl
+Sils im Engadin
+Segl
 Silvaplana
 Simplon
 Sins
@@ -1903,7 +1913,7 @@ Thalwil
 Thayngen
 Therwil
 Thierachern
-Thônex
+Thonex
 Thörigen
 Thun
 Thundorf
@@ -2010,11 +2020,12 @@ Varen
 Vaulion
 Vaulruz
 Vaux-sur-Morges
-Vaz/Obervaz
+Vaz
+Obervaz
 Vechigen
 Veltheim (AG)
 Vendlincourt
-Venthône
+Venthone
 Vernate
 Vernayaz
 Vernier

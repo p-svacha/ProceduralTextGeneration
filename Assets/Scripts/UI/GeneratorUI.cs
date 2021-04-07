@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
@@ -27,12 +26,16 @@ public class GeneratorUI : UIElement
     public Toggle CNN_TrainToggle;
     public Slider CNN_SkewSlider;
     public Text CNN_SkewValueText;
-    public Button CNN_GenerateButton;
+    public Button CNN_GenerateCurrentButton;
+    public Button CNN_SaveCnnButton;
+    public Button CNN_GenerateLoadedButton;
+    public Button CNN_LoadCnnButton;
+    public Text CNN_InfoText;
 
     [Header("TMX")]
     public Button TmxButton;
     
-    private string WordType;
+    private string CurrentCategory;
 
     MarkovChainWordGenerator MarkovWordGenerator;
     CNNTextGenerator CNNWordGenerator;
@@ -51,7 +54,10 @@ public class GeneratorUI : UIElement
         NGramSliderValueText.text = MarkovWordGenerator.MinNGramLength.ToString();
 
         CNN_SkewSlider.onValueChanged.AddListener(SkewFactorSlider_OnValueChanged);
-        CNN_GenerateButton.onClick.AddListener(GenerateCNNButton_OnClick);
+        CNN_GenerateCurrentButton.onClick.AddListener(GenerateCurrentCnnButton_OnClick);
+        CNN_SaveCnnButton.onClick.AddListener(SaveCnnButton_OnClick);
+        CNN_GenerateLoadedButton.onClick.AddListener(GenerateLoadedCnnButton_OnClick);
+        CNN_LoadCnnButton.onClick.AddListener(LoadCnnButton_OnClick);
         CNN_SkewSlider.value = 0.8f;
 
         foreach(string s in InputDataReader.WordCategories.Keys) TypeDropdown.options.Add(new Dropdown.OptionData(s));
@@ -59,15 +65,15 @@ public class GeneratorUI : UIElement
         TypeDropdown.value = 1;
         TypeDropdown.value = 0;
 
-        AmountInput.text = "30";
+        AmountInput.text = "10";
     }
 
     void Update()
     {
         if(CNN_TrainToggle.isOn)
         {
-            CNNWordGenerator.TrainOnce(WordType);
-            CNN_TrainIterationsText.text = CNNWordGenerator.TrainingIterations[WordType].ToString();
+            CNNWordGenerator.TrainOnce(CurrentCategory);
+            CNN_TrainIterationsText.text = CNNWordGenerator.TrainingIterations[CurrentCategory].ToString();
         }
     }
 
@@ -105,7 +111,7 @@ public class GeneratorUI : UIElement
 
         foreach (string input in randomizedList)
         {
-            AddText(input, fontSize, MarkovWordGenerator.InputWords[WordType].Contains(input) ? Color.black : new Color(0, 0.4f, 0), FontStyle.Normal, col * xStep + xMargin, titleHeight + (row * yStep), (col + 1) * xStep - xMargin, titleHeight + ((row + 1) * yStep), parent, TextAnchor.UpperLeft);
+            AddText(input, fontSize, MarkovWordGenerator.InputWords[CurrentCategory].Contains(input) ? Color.black : new Color(0, 0.4f, 0), FontStyle.Normal, col * xStep + xMargin, titleHeight + (row * yStep), (col + 1) * xStep - xMargin, titleHeight + ((row + 1) * yStep), parent, TextAnchor.UpperLeft);
             row++;
             if(row == nRows)
             {
@@ -117,8 +123,8 @@ public class GeneratorUI : UIElement
 
     private void TypeDropdown_OnValueChanged(int value)
     {
-        WordType = TypeDropdown.options[value].text;
-        UpdateUI(CNNWordGenerator.InputWords[WordType], new List<string>());
+        CurrentCategory = TypeDropdown.options[value].text;
+        UpdateUI(CNNWordGenerator.InputWords[CurrentCategory], new List<string>());
     }
 
     private void SkewFactorSlider_OnValueChanged(float value)
@@ -132,8 +138,8 @@ public class GeneratorUI : UIElement
         int iterationsWithoutNewWord = 0;
         while(words.Count < int.Parse(AmountInput.text) && iterationsWithoutNewWord < 100)
         {
-            string word = MarkovWordGenerator.GenerateWord(WordType, (int)NGramSlider.value, StartInput.text);
-            if (!words.Contains(word) && (!HideEqualOutputs.isOn || !MarkovWordGenerator.InputWords[WordType].Contains(word)))
+            string word = MarkovWordGenerator.GenerateWord(CurrentCategory, (int)NGramSlider.value, StartInput.text);
+            if (!words.Contains(word) && (!HideEqualOutputs.isOn || !MarkovWordGenerator.InputWords[CurrentCategory].Contains(word)))
             {
                 words.Add(word);
                 iterationsWithoutNewWord = 0;
@@ -141,7 +147,7 @@ public class GeneratorUI : UIElement
             else iterationsWithoutNewWord++;
             
         }
-        UpdateUI(MarkovWordGenerator.InputWords[WordType], words);
+        UpdateUI(MarkovWordGenerator.InputWords[CurrentCategory], words);
     }
 
     private void NGramSlider_OnValueChanged(float value)
@@ -149,14 +155,14 @@ public class GeneratorUI : UIElement
         NGramSliderValueText.text = value.ToString();
     }
 
-    private void GenerateCNNButton_OnClick()
+    private void GenerateCurrentCnnButton_OnClick()
     {
         List<string> words = new List<string>();
         int iterationsWithoutNewWord = 0;
         while (words.Count < int.Parse(AmountInput.text) && iterationsWithoutNewWord < 100)
         {
-            string word = CNNWordGenerator.GenerateWord(WordType, CNN_SkewSlider.value, StartInput.text);
-            if (!words.Contains(word) && (!HideEqualOutputs.isOn || !CNNWordGenerator.InputWords[WordType].Contains(word)))
+            string word = CNNWordGenerator.GenerateWord(CurrentCategory, CNN_SkewSlider.value, StartInput.text);
+            if (!words.Contains(word) && (!HideEqualOutputs.isOn || !CNNWordGenerator.InputWords[CurrentCategory].Contains(word)))
             {
                 words.Add(word);
                 iterationsWithoutNewWord = 0;
@@ -164,7 +170,43 @@ public class GeneratorUI : UIElement
             else iterationsWithoutNewWord++;
 
         }
-        UpdateUI(CNNWordGenerator.InputWords[WordType], words);
+        UpdateUI(CNNWordGenerator.InputWords[CurrentCategory], words);
+    }
+
+    private void SaveCnnButton_OnClick()
+    {
+        //string path = "Assets/Resources/SavedNetworks/" + CurrentCategory + "_" + System.DateTime.Now.Year + "_" + System.DateTime.Now.Month + "_" + System.DateTime.Now.Day + "_" + System.DateTime.Now.Hour + "_" + System.DateTime.Now.Minute + "_" + System.DateTime.Now.Second + ".txt";
+        string path = "Assets/Resources/SavedNetworks/" + CurrentCategory + ".txt";
+        CNN_InfoText.text = CNNWordGenerator.SaveCnn(CurrentCategory, path);
+    }
+
+    private void GenerateLoadedCnnButton_OnClick()
+    {
+        if(CNNWordGenerator.LoadedNetwork == null)
+        {
+            CNN_InfoText.text = "No network loaded";
+            return;
+        }
+
+        List<string> words = new List<string>();
+        int iterationsWithoutNewWord = 0;
+        while (words.Count < int.Parse(AmountInput.text) && iterationsWithoutNewWord < 100)
+        {
+            string word = CNNWordGenerator.GenerateLoadedNetworkWord(CNN_SkewSlider.value, StartInput.text);
+            if (!words.Contains(word) && (!HideEqualOutputs.isOn || !CNNWordGenerator.InputWords[CurrentCategory].Contains(word)))
+            {
+                words.Add(word);
+                iterationsWithoutNewWord = 0;
+            }
+            else iterationsWithoutNewWord++;
+
+        }
+        UpdateUI(CNNWordGenerator.InputWords[CurrentCategory], words);
+    }
+
+    private void LoadCnnButton_OnClick()
+    {
+        CNN_InfoText.text = CNNWordGenerator.LoadCnn(CurrentCategory);
     }
 
 }

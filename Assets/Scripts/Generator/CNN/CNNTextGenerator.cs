@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using UnityEngine;
 
@@ -26,7 +27,7 @@ public class CNNTextGenerator
         {"Planet", "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
         {"Country", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz-'" },
         {"Province", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz-'" },
-        {"Gemeinde", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
+        {"Gemeinde", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzÄäÖöÜü-().'èéâ" },
         {"Mineral", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
         {"TrackmaniaMapNames", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890-#" },
         {"FaberSongs", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
@@ -40,8 +41,11 @@ public class CNNTextGenerator
     /// </summary>
     private const int SegmentLength = 8;
 
-    private const char WordStartChar = '˨';
-    private const char WordEndChar = '˩';
+    private const char WordStartChar = '>';
+    private const char WordEndChar = '<';
+
+    public string LoadedAcceptedChars;
+    public NeuralNetwork LoadedNetwork;
 
     public CNNTextGenerator()
     {
@@ -56,7 +60,7 @@ public class CNNTextGenerator
             List<string> inputWords = InputDataReader.GetInputWords(category, AcceptedChars[category]);
             InputWords.Add(category, inputWords);
 
-            int[] layers = new int[] { AcceptedChars[category].Length * SegmentLength, AcceptedChars[category].Length * SegmentLength / 2, AcceptedChars[category].Length * SegmentLength / 2, AcceptedChars[category].Length };
+            int[] layers = new int[] { AcceptedChars[category].Length * SegmentLength, AcceptedChars[category].Length * SegmentLength / 2, AcceptedChars[category].Length * SegmentLength / 4, AcceptedChars[category].Length };
 
             NeuralNetwork network = new NeuralNetwork(layers, ActivationFunctionType.Sigmoid);
             Networks.Add(category, network);
@@ -70,9 +74,24 @@ public class CNNTextGenerator
 
         while(word[word.Length - 1] != WordEndChar && word.Length < 50)
         {
-            float[] input = WordToNeuralNetInput(category, word);
+            float[] input = WordToNeuralNetInput(AcceptedChars[category], word);
             float[] output = network.FeedForward(input);
-            char c = NeuralNetOutputToChar(category, output, skewValue);
+            char c = NeuralNetOutputToChar(AcceptedChars[category], output, skewValue);
+            word += c;
+        }
+
+        return word.Substring(1, word.Length - 2); // Remove word start and end char
+    }
+
+    public string GenerateLoadedNetworkWord(float skewValue, string start)
+    {
+        string word = WordStartChar + start + "";
+
+        while (word[word.Length - 1] != WordEndChar && word.Length < 50)
+        {
+            float[] input = WordToNeuralNetInput(LoadedAcceptedChars, word);
+            float[] output = LoadedNetwork.FeedForward(input);
+            char c = NeuralNetOutputToChar(LoadedAcceptedChars, output, skewValue);
             word += c;
         }
 
@@ -111,8 +130,8 @@ public class CNNTextGenerator
             {
                 //Debug.Log(randomWord + " || i = " + i + ": trainWord = " + trainWord + ", expectedNextLetter = " + expectedNextChar);
 
-                float[] networkInput = WordToNeuralNetInput(category, trainWord);
-                float[] expectedOutput = CharToNeuralNetExpectedOutput(category, expectedNextChar);
+                float[] networkInput = WordToNeuralNetInput(AcceptedChars[category], trainWord);
+                float[] expectedOutput = CharToNeuralNetExpectedOutput(AcceptedChars[category], expectedNextChar);
 
                 network.FeedForward(networkInput);
                 network.BackPropagation(expectedOutput);
@@ -124,16 +143,16 @@ public class CNNTextGenerator
         }
     }
 
-    private float[] WordToNeuralNetInput(string category, string word)
+    private float[] WordToNeuralNetInput(string acceptedChars, string word)
     {
-        float[] input = new float[AcceptedChars[category].Length * SegmentLength];
+        float[] input = new float[acceptedChars.Length * SegmentLength];
 
         for(int i = 0; i < SegmentLength; i++)
         {
-            int startIndex = i * AcceptedChars[category].Length;
+            int startIndex = i * acceptedChars.Length;
             if(i >= word.Length) // word too short, fill with 0's
             {
-                for(int j = 0; j < AcceptedChars[category].Length; j++)
+                for(int j = 0; j < acceptedChars.Length; j++)
                 {
                     input[startIndex + j] = 0;
                 }
@@ -141,8 +160,8 @@ public class CNNTextGenerator
             else
             {
                 char c = word[word.Length - 1 - i]; // fill char node with 1, rest 0
-                int charIndex = AcceptedChars[category].IndexOf(c);
-                for (int j = 0; j < AcceptedChars[category].Length; j++)
+                int charIndex = acceptedChars.IndexOf(c);
+                for (int j = 0; j < acceptedChars.Length; j++)
                 {
                     if(j == charIndex) input[startIndex + j] = 1;
                     else input[startIndex + j] = 0;
@@ -153,13 +172,13 @@ public class CNNTextGenerator
         return input;
     }
 
-    private float[] CharToNeuralNetExpectedOutput(string category, char c)
+    private float[] CharToNeuralNetExpectedOutput(string acceptedChars, char c)
     {
-        float[] expectedOutput = new float[AcceptedChars[category].Length];
-        int charIndex = AcceptedChars[category].IndexOf(c);
+        float[] expectedOutput = new float[acceptedChars.Length];
+        int charIndex = acceptedChars.IndexOf(c);
         //if (!AcceptedChars.Contains(c)) throw new System.Exception("Char " + c + " not found in accepted chars.");
 
-        for (int i = 0; i < AcceptedChars[category].Length; i++)
+        for (int i = 0; i < acceptedChars.Length; i++)
         {
             if (i == charIndex) expectedOutput[i] = 1;
             else expectedOutput[i] = 0;
@@ -168,15 +187,15 @@ public class CNNTextGenerator
         return expectedOutput;
     }
 
-    private char NeuralNetOutputToChar(string category, float[] output, float skewValue)
+    private char NeuralNetOutputToChar(string acceptedChars, float[] output, float skewValue)
     {
         Dictionary<char, float> charProbabilites = new Dictionary<char, float>();
-        for (int i = 0; i < AcceptedChars[category].Length; i++)
+        for (int i = 0; i < acceptedChars.Length; i++)
         {
             float baseValue = output[i];
             float skewedValue = output[i] * output[i];
             float realValue = baseValue + ((skewedValue - baseValue) * skewValue);
-            charProbabilites.Add(AcceptedChars[category][i], realValue); // skew randomness in favor of probable outputs
+            charProbabilites.Add(acceptedChars[i], realValue); // skew randomness in favor of probable outputs
         }
 
         float probSum = charProbabilites.Values.Sum();
@@ -189,4 +208,95 @@ public class CNNTextGenerator
         }
         return '?';
     }
+
+    #region IO
+
+    /// <summary>
+    /// Saves the text generator CNN of a given category in a text file at the current path
+    /// </summary>
+    public string SaveCnn(string category, string path)
+    {
+        NeuralNetwork network = Networks[category];
+
+        if (!File.Exists(path))
+        {
+            // Create a file to write to.
+            using (StreamWriter sw = File.CreateText(path))
+            {
+                // 1. Line: accepted chars
+                sw.Write(AcceptedChars[category]);
+
+                // 2. Line: network layer sizes
+                sw.Write("\n");
+                for (int i = 0; i < network.layer.Length; i++)
+                {
+                    sw.Write(network.layer[i]);
+                    if (i < network.layer.Length - 1) sw.Write(",");
+                }
+
+                // Every line from here contains the weight of the n'th layer
+                foreach (NeuralNetwork.Layer layer in network.layers)
+                {
+                    sw.Write("\n");
+                    for (int i = 0; i < layer.weights.GetLength(0); i++)
+                    {
+                        for (int j = 0; j < layer.weights.GetLength(1); j++)
+                        {
+                            sw.Write(layer.weights[i, j]);
+                            if (i < layer.weights.GetLength(0) - 1 || j < layer.weights.GetLength(1) - 1) sw.Write(",");
+                        }
+                    }
+                }
+            }
+
+            return "Network for " + category + " successfully saved in " + path;
+        }
+        else return "Did not save CNN because one already exists for this category. Delete it in Assets/Resources/SavedNetworks if you want to save.";
+    }
+
+    public string LoadCnn(string category)
+    {
+        string path = "Assets/Resources/SavedNetworks/" + category + ".txt";
+        if (File.Exists(path))
+        {
+            StreamReader file = new StreamReader(path);
+
+            string line;
+            List<string> lines = new List<string>();
+            while((line = file.ReadLine()) != null)
+            {
+                lines.Add(line);
+            }
+
+            LoadedAcceptedChars = lines[0];
+
+            List<int> layers = new List<int>();
+            string[] layerSizes = lines[1].Split(',');
+            foreach (string s in layerSizes) layers.Add(int.Parse(s));
+
+            List<float[,]> weights = new List<float[,]>();
+            for(int i = 2; i < lines.Count; i++)
+            {
+                string[] layerWeightsS = lines[i].Split(',');
+                float[,] layerWeightsF = new float[layers[i - 1], layers[i - 2]];
+                for (int j = 0; j < layerWeightsS.Length; j++)
+                {
+                    float value = float.Parse(layerWeightsS[j]);
+                    int x = j / layers[i - 2];
+                    int y = j % layers[i - 2];
+                    layerWeightsF[x, y] = value;
+                }
+                weights.Add(layerWeightsF);
+            }
+
+            LoadedNetwork = new NeuralNetwork(layers, weights, ActivationFunctionType.Sigmoid);
+
+            file.Close();
+
+            return "Network for " + category + " succesfully loaded.";
+        }
+        else return "No saved network found for category " + category;
+    }
+
+    #endregion
 }
