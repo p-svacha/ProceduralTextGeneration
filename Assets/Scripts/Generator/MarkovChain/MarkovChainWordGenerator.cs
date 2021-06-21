@@ -48,6 +48,7 @@ public class MarkovChainWordGenerator
         }
     }
 
+
     public string GenerateWord(string wordType, int nGramLength, string start = "")
     {
         //Debug.Log("##################### NEW WORD #######################");
