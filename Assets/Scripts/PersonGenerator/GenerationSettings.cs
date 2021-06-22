@@ -9,23 +9,32 @@ namespace PersonGenerator
         public int NumNames;
         public List<string> Origins;
         public List<string> Sex;
-        public FilterType CountryFilterType;
-        public FilterType SexFilterType;
+        public OriginType OriginFilterType;
+        public SexType SexFilterType;
 
-        public GenerationSettings(int numNames, List<string> origins, List<string> sex, FilterType countryFilterType, FilterType sexFilterType)
+        public GenerationSettings(int numNames, List<string> origins, List<string> sex, OriginType countryFilterType, SexType sexFilterType)
         {
             NumNames = numNames;
             Origins = origins;
             Sex = sex;
-            CountryFilterType = countryFilterType;
+            OriginFilterType = countryFilterType;
             SexFilterType = sexFilterType;
         }
     }
 
-    public enum FilterType
+    public enum OriginType
     {
+        Mixed,
         Specific,
-        Any
+        Unspecified
+    }
+
+    public enum SexType
+    {
+        Mixed,
+        Male,
+        Female,
+        Unspecified
     }
 
 }

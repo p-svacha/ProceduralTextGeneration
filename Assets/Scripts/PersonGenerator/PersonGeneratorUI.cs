@@ -12,8 +12,14 @@ namespace PersonGenerator
     {
         // UI
         public PersonDisplay PersonDisplayPrefab;
-        public GameObject OutputContainer;
+
+        public InputField NumPeopleInput;
+        public Dropdown OriginDropdown;
+        public Dropdown OriginSpecificDropdown;
+        public Dropdown SexDropdown;
         public Button GenerateButton;
+
+        public GameObject OutputContainer;
 
         // Data Loading - not used atm
         private int NumRows = 1000;
@@ -51,9 +57,19 @@ namespace PersonGenerator
         // Start is called before the first frame update
         private void Start()
         {
-            GenerateButton.onClick.AddListener(GenerateButton_OnClick);
-            //LoadAllData();
             ReadData();
+
+            NumPeopleInput.text = DefaultNumNames + "";
+
+            foreach (string region in Regions) OriginSpecificDropdown.options.Add(new Dropdown.OptionData(region));
+            OriginDropdown.onValueChanged.AddListener(OriginDropdown_OnValueChanged);
+            foreach (OriginType type in System.Enum.GetValues(typeof(OriginType))) OriginDropdown.options.Add(new Dropdown.OptionData(type.ToString()));
+            OriginDropdown.value = 1; OriginDropdown.value = 0;
+            foreach (SexType type in System.Enum.GetValues(typeof(SexType))) SexDropdown.options.Add(new Dropdown.OptionData(type.ToString()));
+            SexDropdown.value = 1; SexDropdown.value = 0;
+
+            GenerateButton.onClick.AddListener(GenerateButton_OnClick);
+            
         }
 
         /*
@@ -94,6 +110,8 @@ namespace PersonGenerator
             while ((line = regionsFile.ReadLine()) != null) Regions.Add(line.ToLower().Replace(" ", "-").Replace(",", ""));
             regionsFile.Close();
 
+            Regions = Regions.OrderBy(x => x).ToList();
+
             foreach(string region in Regions)
             {
                 
@@ -115,17 +133,24 @@ namespace PersonGenerator
             }
         }
 
-        private void GenerateButton_OnClick()
-        {
-            GenerationSettings settings = GetGenerationSettings();
-            List<Person> generatedPeople = GeneratePeople(settings);
-            //foreach (Person p in generatedPeople) Debug.Log(p.Attributes.Sex + "/" + p.Attributes.Origin + " " + p.FirstName + " " + p.LastName);
-            DisplayGeneratedPeople(generatedPeople);
-        }
+
 
         private GenerationSettings GetGenerationSettings()
         {
-            return new GenerationSettings(DefaultNumNames, Regions, new List<string>() { "m", "f" }, FilterType.Specific, FilterType.Specific);
+            List<string> originList = new List<string>();
+            OriginType originType = (OriginType)System.Enum.Parse(typeof(OriginType), OriginDropdown.options[OriginDropdown.value].text);
+            if (originType == OriginType.Mixed || originType == OriginType.Unspecified) originList = Regions;
+            else if (originType == OriginType.Specific) originList = new List<string>() { OriginSpecificDropdown.options[OriginSpecificDropdown.value].text };
+
+            List<string> sexList = new List<string>();
+            SexType sexType = (SexType)System.Enum.Parse(typeof(SexType), SexDropdown.options[SexDropdown.value].text);
+            if (sexType == SexType.Mixed || sexType == SexType.Unspecified) sexList = new List<string>() { "m", "f" };
+            else if (sexType == SexType.Male) sexList = new List<string>() { "m" };
+            else if (sexType == SexType.Female) sexList = new List<string>() { "f" };
+
+            int numPeople = int.Parse(NumPeopleInput.text);
+            if (numPeople > 10) numPeople = 10;
+            return new GenerationSettings(numPeople, originList, sexList, originType , sexType);
         }
 
 
@@ -143,17 +168,98 @@ namespace PersonGenerator
 
         private Person GeneratePerson(GenerationSettings settings)
         {
-            string targetOrigin = settings.Origins[Random.Range(0, settings.Origins.Count)];
-            string targetSex = settings.Sex[Random.Range(0, settings.Sex.Count)];
+            // Both origin and sex undefined
+            if (settings.OriginFilterType == OriginType.Unspecified && settings.SexFilterType == SexType.Unspecified)
+            {
+                List<string> forenameCandidates = new List<string>();
+                foreach (KeyValuePair<string, List<string>> kvp in FemaleForenames) forenameCandidates.AddRange(kvp.Value);
+                foreach (KeyValuePair<string, List<string>> kvp in MaleForenames) forenameCandidates.AddRange(kvp.Value);
 
-            string firstName = "";
-            if (targetSex == "m") firstName = MaleForenames[targetOrigin][Random.Range(0, MaleForenames[targetOrigin].Count)]; 
-            else firstName = FemaleForenames[targetOrigin][Random.Range(0, FemaleForenames[targetOrigin].Count)];
-            string lastName = Surnames[targetOrigin][Random.Range(0, Surnames[targetOrigin].Count)];
-            return new Person(firstName, lastName, targetOrigin, targetSex);
+                List<string> surnameCandidates = new List<string>();
+                foreach (KeyValuePair<string, List<string>> kvp in Surnames) surnameCandidates.AddRange(kvp.Value);
+
+                string forename = forenameCandidates[Random.Range(0, forenameCandidates.Count)];
+                string surname = surnameCandidates[Random.Range(0, surnameCandidates.Count)];
+
+                return new Person(forename, surname, "", "");
+            }
+
+            // Only origin undefined
+            else if (settings.OriginFilterType == OriginType.Unspecified)
+            {
+                string targetSex = settings.Sex[Random.Range(0, settings.Sex.Count)];
+
+                List<string> forenameCandidates = new List<string>();
+                if (targetSex == "f")
+                {
+                    foreach (KeyValuePair<string, List<string>> kvp in FemaleForenames) forenameCandidates.AddRange(kvp.Value);
+                }
+                else
+                {
+                    foreach (KeyValuePair<string, List<string>> kvp in MaleForenames) forenameCandidates.AddRange(kvp.Value);
+                }
+
+                List<string> surnameCandidates = new List<string>();
+                foreach (KeyValuePair<string, List<string>> kvp in Surnames) surnameCandidates.AddRange(kvp.Value);
+
+                string forename = forenameCandidates[Random.Range(0, forenameCandidates.Count)];
+                string surname = surnameCandidates[Random.Range(0, surnameCandidates.Count)];
+
+                return new Person(forename, surname, "", targetSex);
+            }
+
+            // Only sex undefined
+            else if (settings.SexFilterType == SexType.Unspecified)
+            {
+                string targetOrigin = settings.Origins[Random.Range(0, settings.Origins.Count)];
+                List<string> forenameCandidates = new List<string>();
+                forenameCandidates.AddRange(FemaleForenames[targetOrigin]);
+                forenameCandidates.AddRange(MaleForenames[targetOrigin]);
+                List<string> surnameCandidates = Surnames[targetOrigin];
+
+                string forename = forenameCandidates[Random.Range(0, forenameCandidates.Count)];
+                string surname = surnameCandidates[Random.Range(0, surnameCandidates.Count)];
+
+                return new Person(forename, surname, targetOrigin, "");
+            }
+
+            // Origin and sex specified
+            else
+            {
+                string targetOrigin = settings.Origins[Random.Range(0, settings.Origins.Count)];
+                string targetSex = settings.Sex[Random.Range(0, settings.Sex.Count)];
+
+                List<string> forenameCandidates = new List<string>();
+                if (targetSex == "m") forenameCandidates = MaleForenames[targetOrigin];
+                else forenameCandidates = FemaleForenames[targetOrigin];
+                List<string> surnameCandidates = Surnames[targetOrigin];
+
+                string forename = forenameCandidates[Random.Range(0, forenameCandidates.Count)];
+                string surname = surnameCandidates[Random.Range(0, surnameCandidates.Count)];
+
+                return new Person(forename, surname, targetOrigin, targetSex);
+            }
         }
 
 
+
+        #endregion
+
+        #region UI Actions
+
+        private void GenerateButton_OnClick()
+        {
+            GenerationSettings settings = GetGenerationSettings();
+            List<Person> generatedPeople = GeneratePeople(settings);
+            //foreach (Person p in generatedPeople) Debug.Log(p.Attributes.Sex + "/" + p.Attributes.Origin + " " + p.FirstName + " " + p.LastName);
+            DisplayGeneratedPeople(generatedPeople);
+        }
+
+        private void OriginDropdown_OnValueChanged(int value)
+        {
+            if (value == 1) OriginSpecificDropdown.gameObject.SetActive(true);
+            else OriginSpecificDropdown.gameObject.SetActive(false);
+        }
 
         #endregion
     }
