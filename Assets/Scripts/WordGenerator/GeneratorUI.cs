@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class GeneratorUI : UIElement
@@ -75,6 +76,12 @@ public class GeneratorUI : UIElement
             CNNWordGenerator.TrainOnce(CurrentCategory);
             CNN_TrainIterationsText.text = CNNWordGenerator.TrainingIterations[CurrentCategory].ToString();
         }
+    }
+
+    // Used in editor by main menu button
+    public void GoToMainMenu()
+    {
+        SceneManager.LoadScene(sceneName: "MainMenu");
     }
 
     public void UpdateUI(List<string> inputs, List<string> outputs)

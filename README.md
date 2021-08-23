@@ -4,6 +4,6 @@ This unity project contains different approaches and datasets to procedurally ge
 Currently there are 3 different generation methods: Markov Chains, Convolutional Neural Networks (CNN) and a "Person Generator"
 
 # How to Use
-To test the generators, simply run the projects and apply the filters and settings to the generators.
+To use the generators, simply run **Builds/ProceduralTextGeneration.exe** and chose the desired generators, attributes and filters. Use the big, green "Generate" buttons to generate outputs. Enjoy :)
 
 

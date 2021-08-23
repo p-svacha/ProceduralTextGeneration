@@ -3,15 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace PersonGenerator
 {
     public class PersonGeneratorUI : MonoBehaviour
     {
-        // UI
+        [Header("Prefabs")]
         public PersonDisplay PersonDisplayPrefab;
 
+        [Header("Elements")]
         public InputField NumPeopleInput;
         public Dropdown OriginDropdown;
         public Dropdown OriginSpecificDropdown;
@@ -29,6 +31,12 @@ namespace PersonGenerator
 
 
         #region UI
+
+        // Used in editor by main menu button
+        public void GoToMainMenu() 
+        {
+            SceneManager.LoadScene(sceneName: "MainMenu");
+        }
 
         private void DisplayGeneratedPeople(List<Person> people)
         {

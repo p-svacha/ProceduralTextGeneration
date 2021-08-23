@@ -12,11 +12,11 @@ public static class InputDataReader
         { "Province", InputDataType.SingleLine},
         { "Gemeinde", InputDataType.SingleLine},
         { "Mineral", InputDataType.SingleLine},
-        { "TrackmaniaMapNames", InputDataType.SingleLine },
-        { "FaberSongs", InputDataType.SingleLine},
-        { "FaberSongText", InputDataType.MultiLine},
+        //{ "TrackmaniaMapNames", InputDataType.SingleLine },
+        //{ "FaberSongs", InputDataType.SingleLine},
+        //{ "FaberSongText", InputDataType.MultiLine},
         { "Usernames", InputDataType.SingleLine},
-        { "Test", InputDataType.SingleLine},
+        //{ "Test", InputDataType.SingleLine},
        
     };
     private const string MultiLineEndInput = "---ENDINPUT---";
