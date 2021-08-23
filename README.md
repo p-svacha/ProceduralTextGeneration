@@ -7,7 +7,7 @@ Currently there are 3 different generation methods: Markov Chains, Convolutional
 To use the generators, simply run **Builds/ProceduralTextGeneration.exe** and chose the desired generators, attributes and filters. Use the big, green "Generate" buttons to generate outputs. Enjoy :)
 
 # Examples
-* Province names generated with Markov Chains (n-gram length: 4)*
+*Province names generated with Markov Chains (n-gram length: 4)*
 <br/><img src="Screenshots/province_markov_4.png" alt="markov" width="300" /><br/>
 
 *15 Country names generated with a CNN (training iterations: > 1'000'000, skew factor: 0.8)*
