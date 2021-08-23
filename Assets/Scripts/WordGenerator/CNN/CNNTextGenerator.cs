@@ -263,7 +263,7 @@ public class CNNTextGenerator
 
             string line;
             List<string> lines = new List<string>();
-            while((line = file.ReadLine()) != null)
+            while ((line = file.ReadLine()) != null)
             {
                 lines.Add(line);
             }
@@ -275,7 +275,7 @@ public class CNNTextGenerator
             foreach (string s in layerSizes) layers.Add(int.Parse(s));
 
             List<float[,]> weights = new List<float[,]>();
-            for(int i = 2; i < lines.Count; i++)
+            for (int i = 2; i < lines.Count; i++)
             {
                 string[] layerWeightsS = lines[i].Split(',');
                 float[,] layerWeightsF = new float[layers[i - 1], layers[i - 2]];
@@ -295,7 +295,11 @@ public class CNNTextGenerator
 
             return "Network for " + category + " succesfully loaded.";
         }
-        else return "No saved network found for category " + category;
+        else
+        {
+            LoadedNetwork = null;
+            return "No saved network found for category " + category;
+        }
     }
 
     #endregion

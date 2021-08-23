@@ -29,8 +29,7 @@ public class GeneratorUI : UIElement
     public Text CNN_SkewValueText;
     public Button CNN_GenerateCurrentButton;
     public Button CNN_SaveCnnButton;
-    public Button CNN_GenerateLoadedButton;
-    public Button CNN_LoadCnnButton;
+    public Button CNN_GenerateSavedButton;
     public Text CNN_InfoText;
 
     [Header("TMX")]
@@ -57,8 +56,7 @@ public class GeneratorUI : UIElement
         CNN_SkewSlider.onValueChanged.AddListener(SkewFactorSlider_OnValueChanged);
         CNN_GenerateCurrentButton.onClick.AddListener(GenerateCurrentCnnButton_OnClick);
         CNN_SaveCnnButton.onClick.AddListener(SaveCnnButton_OnClick);
-        CNN_GenerateLoadedButton.onClick.AddListener(GenerateLoadedCnnButton_OnClick);
-        CNN_LoadCnnButton.onClick.AddListener(LoadCnnButton_OnClick);
+        CNN_GenerateSavedButton.onClick.AddListener(GenerateSavedCnnButton_OnClick);
         CNN_SkewSlider.value = 0.8f;
 
         foreach(string s in InputDataReader.WordCategories.Keys) TypeDropdown.options.Add(new Dropdown.OptionData(s));
@@ -182,18 +180,15 @@ public class GeneratorUI : UIElement
 
     private void SaveCnnButton_OnClick()
     {
-        //string path = "Assets/Resources/SavedNetworks/" + CurrentCategory + "_" + System.DateTime.Now.Year + "_" + System.DateTime.Now.Month + "_" + System.DateTime.Now.Day + "_" + System.DateTime.Now.Hour + "_" + System.DateTime.Now.Minute + "_" + System.DateTime.Now.Second + ".txt";
         string path = "Assets/Resources/SavedNetworks/" + CurrentCategory + ".txt";
         CNN_InfoText.text = CNNWordGenerator.SaveCnn(CurrentCategory, path);
     }
 
-    private void GenerateLoadedCnnButton_OnClick()
+    private void GenerateSavedCnnButton_OnClick()
     {
-        if(CNNWordGenerator.LoadedNetwork == null)
-        {
-            CNN_InfoText.text = "No network loaded";
-            return;
-        }
+        CNN_InfoText.text = CNNWordGenerator.LoadCnn(CurrentCategory);
+
+        if (CNNWordGenerator.LoadedNetwork == null) return;
 
         List<string> words = new List<string>();
         int iterationsWithoutNewWord = 0;
@@ -210,10 +205,4 @@ public class GeneratorUI : UIElement
         }
         UpdateUI(CNNWordGenerator.InputWords[CurrentCategory], words);
     }
-
-    private void LoadCnnButton_OnClick()
-    {
-        CNN_InfoText.text = CNNWordGenerator.LoadCnn(CurrentCategory);
-    }
-
 }
