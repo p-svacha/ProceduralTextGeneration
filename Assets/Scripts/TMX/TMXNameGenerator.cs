@@ -12,6 +12,7 @@ namespace TMTrackNameGen
 
         void Start()
         {
+            InputDataReader.Init();
             MarkovChainWordGenerator WordGenerator = new MarkovChainWordGenerator();
             for(int i = 0; i < 5; i++)
             {

@@ -56,49 +56,32 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\UI\GeneratorUI.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v4\Spreadsheet.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v4\Public\SpreadsheetManager.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v3\SpreadSheetManager.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Animal Example\Scripts\Scriptable Objects\Animal.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\CNNTextGenerator.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Animal Example\Scripts\AnimalManager.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\Utils\GoogleSheetsToUnityUtilities.cs" />
-    <Compile Include="Assets\Scripts\InputData\TMXMap.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v3\OAuth2.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\ActivationFunction.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Animal Example\Scripts\AnimalObject.cs" />
-    <Compile Include="Assets\Scripts\Generator\MarkovChain\MarkovChainWordGenerator.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v3\PublicSpreadSheetManager.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\AF_TanH.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\TestDatapoint.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\GeneratorUI.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\CNNTextGenerator.cs" />
+    <Compile Include="Assets\Scripts\TMX\TMXMap.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\NeuralNetwork\ActivationFunction.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\MarkovChain\MarkovChainWordGenerator.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\NeuralNetwork\AF_TanH.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\NeuralNetwork\TestDatapoint.cs" />
     <Compile Include="Assets\Scripts\PersonGenerator\ForebearsNameCrawler.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\Utils\EditorCoroutineRunner.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Animal Example\Scripts\Scriptable Objects\AnimalContainer.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\Utils\SecondaryKeyDictionary.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\ActivationFunctionType.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v3\SecurityPolicy.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\NeuralNetwork.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\Utils\Task.cs" />
-    <Compile Include="Assets\TMX\TMXNameGenerator.cs" />
-    <Compile Include="Assets\Scripts\Generator\MarkovChain\InputDataType.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\NeuralNetwork\ActivationFunctionType.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\NeuralNetwork\NeuralNetwork.cs" />
+    <Compile Include="Assets\Scripts\TMX\TMXNameGenerator.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\MarkovChain\InputDataType.cs" />
     <Compile Include="Assets\Scripts\PersonGenerator\Person.cs" />
     <Compile Include="Assets\Scripts\PersonGenerator\GenerationSettings.cs" />
     <Compile Include="Assets\Scripts\InputData\InputDataReader.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v4\Private\SpreadsheetManager.cs" />
     <Compile Include="Assets\Resources\InputDataClearer.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\InputDataPoint.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\NeuralNetwork\InputDataPoint.cs" />
     <Compile Include="Assets\Scripts\PersonGenerator\PersonGeneratorUI.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\v4\GoogleAuthrisationHelper.cs" />
-    <Compile Include="Assets\Google Sheets to Unity\Scripts\Utils\GoogleSheetsToUnityConfig.cs" />
-    <Compile Include="Assets\Scripts\InputData\TMXMapList.cs" />
-    <Compile Include="Assets\Scripts\Generator\CNN\NeuralNetwork\AF_Sigmoid.cs" />
-    <Compile Include="Assets\Scripts\InputData\TMXCrawler.cs" />
+    <Compile Include="Assets\Scripts\TMX\TMXMapList.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\CNN\NeuralNetwork\AF_Sigmoid.cs" />
+    <Compile Include="Assets\Scripts\TMX\TMXCrawler.cs" />
     <Compile Include="Assets\Scripts\PersonGenerator\PersonDisplay.cs" />
-    <Compile Include="Assets\Scripts\UI\UIElement.cs" />
+    <Compile Include="Assets\Scripts\WordGenerator\UIElement.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\Google Sheets to Unity\Scripts\v3\Plugins\TinyJSON.dll" />
+     <None Include="Assets\Resources\Geographical\cities\GEODATASOURCE-CITIES-FREE.TXT" />
      <None Include="Assets\Resources\Geographical\forenames\latvia_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\surnames\syria_surnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\serbia_surnames.txt" />
@@ -180,7 +163,6 @@
      <None Include="Assets\Resources\Geographical\surnames\saint-kitts-and-nevis_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\albania_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\india_forenames_male.txt" />
-     <None Include="Assets\Google Sheets to Unity\Scripts\v3\Plugins\Newtonsoft.Json.dll" />
      <None Include="Assets\Resources\Geographical\forenames\poland_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\zimbabwe_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\surnames\guam_surnames.txt" />
@@ -283,7 +265,6 @@
      <None Include="Assets\Resources\Geographical\forenames\north-macedonia_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\surnames\greece_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\yemen_forenames_male.txt" />
-     <None Include="Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Documents.dll" />
      <None Include="Assets\Resources\Geographical\surnames\samoa_surnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\kazakhstan_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\afghanistan_forenames_male.txt" />
@@ -345,7 +326,6 @@
      <None Include="Assets\Resources\Geographical\forenames\liechtenstein_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\surnames\angola_surnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\burkina-faso_surnames.txt" />
-     <None Include="Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.AccessControl.DLL" />
      <None Include="Assets\Resources\Geographical\forenames\aruba_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\sierra-leone_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\zambia_forenames_male.txt" />
@@ -382,7 +362,6 @@
      <None Include="Assets\Resources\Geographical\forenames\germany_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\montserrat_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\surnames\marshall-islands_surnames.txt" />
-     <None Include="Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Spreadsheets.dll" />
      <None Include="Assets\Resources\Geographical\forenames\nauru_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\afghanistan_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\uganda_forenames_male.txt" />
@@ -576,7 +555,6 @@
      <None Include="Assets\Resources\Geographical\surnames\zimbabwe_surnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\japan_surnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\anguilla_surnames.txt" />
-     <None Include="Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Client.dll" />
      <None Include="Assets\Resources\Geographical\forenames\ukraine_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\macau_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\cayman-islands_forenames_male.txt" />
@@ -653,7 +631,6 @@
      <None Include="Assets\Resources\Geographical\forenames\turkey_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\surnames\slovakia_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\guinea-bissau_forenames_male.txt" />
-     <None Include="Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Extensions.dll" />
      <None Include="Assets\Resources\Geographical\surnames\pitcairn-islands_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\wales_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\egypt_forenames_female.txt" />
@@ -1045,27 +1022,6 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files\2020.3.2f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.GData.Client">
-      <HintPath>Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Client.dll</HintPath>
-    </Reference>
-    <Reference Include="TinyJSON">
-      <HintPath>Assets\Google Sheets to Unity\Scripts\v3\Plugins\TinyJSON.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets\Google Sheets to Unity\Scripts\v3\Plugins\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.GData.Extensions">
-      <HintPath>Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.GData.Spreadsheets">
-      <HintPath>Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Spreadsheets.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.GData.Documents">
-      <HintPath>Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.Documents.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.GData.AccessControl">
-      <HintPath>Assets\Google Sheets to Unity\Scripts\v3\Plugins\Google.GData.AccessControl.DLL</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\2020.3.2f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>

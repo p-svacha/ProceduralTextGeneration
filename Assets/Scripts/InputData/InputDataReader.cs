@@ -69,7 +69,7 @@ public static class InputDataReader
             string s = "";
             s += category + ": " + invalidWords.Count + " entries are invalid with the acceptedChars [" + acceptedChars + "]:\n";
             foreach (string d in invalidWords) s += d + "\n";
-            Debug.Log(s);
+            Debug.LogWarning(s);
         }
 
         return words;
@@ -101,7 +101,7 @@ public static class InputDataReader
             string s = "";
             s += category + ": " + duplicates.Count + " entries are duplicate:\n";
             foreach (string d in duplicates) s += d + "\n";
-            Debug.Log(s);
+            Debug.LogWarning(s);
         }
         string charString = category + ": Character occurences ordered from most occuring to least occuring:";
         foreach (KeyValuePair<string, int> kvp in charOccurences.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, y => y.Value))

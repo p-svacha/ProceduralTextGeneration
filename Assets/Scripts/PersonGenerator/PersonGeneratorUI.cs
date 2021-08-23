@@ -1,5 +1,4 @@
-﻿using GoogleSheetsToUnity;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,14 +19,6 @@ namespace PersonGenerator
         public Button GenerateButton;
 
         public GameObject OutputContainer;
-
-        // Data Loading - not used atm
-        private int NumRows = 1000;
-        [HideInInspector]
-        public string associatedSheet = "1ZkDcDbQ3p1x-xhNPGtv2PU1_BQIErTawoS_vgFCoZ5Q";
-        [HideInInspector]
-        public string associatedWorksheet = "Names";
-        GstuSpreadSheet Spreadsheet;
 
         private const int DefaultNumNames = 5;
 
