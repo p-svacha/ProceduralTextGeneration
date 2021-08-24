@@ -1,0 +1,866 @@
+Inir
+Aqar al `Atabah
+Aqar
+Sabratah
+Sayyad
+Surman
+Tabaqah
+Taminah
+Tamzin
+Tarmisah
+As Sabiriyah
+As Salihat
+As Safsaf
+As Saq`abi
+At Tala'i`iyah
+At Tallab
+At Tuwaybiyah
+Abu ar Rish
+Abu Ghaylan
+Abu Kammash
+Abu Zayyan
+Abu `Isa
+Abyar as Sababil
+Ad Disah
+Ad Dafinah
+Ad Dawun
+Ad Dayasir
+Ad Duwaysah
+Ahl al Wadi
+Akar Etba
+Al Asabi`ah
+Al Abraq
+Al Abyar
+Al Abyad
+Al Ajaylat
+Al Ashhab
+Al Athrun
+Al Bumbah
+Al Bakhabikhah
+Al Bakki
+Al Barahimah
+Al Barakat
+Al Bayatinah
+Al Baydan
+Al Budayr
+Al Burayqah
+Al Burdi
+Al Buhur
+Al Fajir
+Al Fatih
+Al Farnaj
+Al Fawadil
+Al Fawatir
+Al Fujayj
+Al Fuqaha'
+Al Fuqar
+Al Ghiran
+Al Ghazalah
+Al Ghuraybat
+Al Ghurayfah
+Al Hiri
+Al Hishah
+Al Hadari`ah
+Al Hanshir
+Al Hawwari
+Al Hilal
+Al Jadid
+Al Jaghbub
+Al Jawahiliyah
+Al Jawf
+Al Jawsh as Saghir
+Al Jawsh al Kabir
+Al Jawsh
+Al Ja`afirah
+Al Jumayl
+Al Juhaysh
+Al Kararim
+Al Karmah
+Al Kashalifah
+Al Khala'ifah
+Al Khara'iq
+Al Khadra'
+Al Khazur
+Al Khirbah
+Al Kulaybah
+Al Kuwayfiyah
+Al Labbah
+Al Lamamish
+Al La`aqib
+Al Mayah
+Al Mabni
+Al Magharibah
+Al Maghasil
+Al Majabirah
+Al Malaqi
+Al Mallahah al Bahriyah
+Al Mallahah al Gharbiyah
+Al Manasir
+Al Mansur
+Al Maqasibah al Bahriyah
+Al Maqasibah al Qibliyah
+Al Maqarin
+Al Maqrun
+Al Masil
+Al Masufiyin
+Al Mashashitah
+Al Mashwashin
+Al Mahjub
+Al Mahruqah
+Al Mawahi
+Al Ma`murah
+Al Milaytaniyah
+Al Mutrad
+Al Mukhayli
+Al Qabil
+Al Qasabat
+Al Qatrun
+Al Qadhadhimah
+Al Qal`ah
+Al Qanafidh
+Al Qaraya
+Al Qaryat al Gharbiyah
+Al Qaryat ash Sharqiyah
+Al Qarzabah
+Al Qahasat
+Al Qawasim
+Al Qawati
+Al Qayqab
+Al Qa`rah
+Al Qusayr
+Al Qubbah
+Al Quradiyin
+Al Qurdah
+Al Hashiyah al Hamra'
+Al Hatiyah
+Al Hajarah
+Al Halamah
+Al Hamidiyah
+Al Hamamah
+Al Hamra'
+Al Haniyah
+Al Harabah
+Al Hawamid
+Al Himadah
+Al Hummayrah
+Al Hurshah
+Al Huwayjat
+Al Wigh
+Al Watiyah
+Al Ya`aqib
+Al Zramga
+Al `Adam
+Al `Alawinah
+Al `Amamirah
+Al `Assah
+Al 'Awinat
+Al `Izziyat
+Al `Ubayyat
+Al `Uqaylah
+Al `Urban
+Al `Urqub
+Al `Uwayliyah ash Sharqiyah
+Al `Uwaynat
+Amhayyah
+Amzir
+An Nasiriyah
+An Naqur
+An Nakhlayn
+An Nawfaliyah
+An Nawwaqiyah
+An Nusf
+Antalat
+Anzu
+Ar Rabitah
+Ar Rumiyah
+Ar Rajubat
+Ar Rajmah
+Ar Raqabah
+Ar Rayayinah
+Ar Rujban
+Ar Ruhaybat
+As Salamat
+As Saqa'if
+As Sawadinah
+As Sawani
+As Sawa`idiyah
+As Sidadah
+As Sidrah
+As Subaytat
+As Sultan
+Asbi`ah
+Ash Shabari
+Ash Shaqarinah
+Ash Shaqqi
+Ash Sharsharah
+Ash Shawati
+Ash Shawashinah
+Ash Shaykh Bu `Ujaylah
+Ash Sha`biniyah
+Ash Shiyab
+Ash Shi`afiyin
+Ash Shi`taf
+Ash Shuqayqah
+Ash Shuruf
+Ash Shurraf
+Ash Shuwayrif
+Ashkidah
+Ahqaf al Jabbarat
+Ahqaf al Jabhiyah
+Ahqaf ar Ruzat
+Asyadi al `Amariyin
+At Taj
+At Taban
+At Tamimi
+At Taribjah
+Awjilah
+Awlad Abu Salamah
+Awlad Abu Suhayyirah
+Awlad Bu Jadid
+Awlad Bu Ra's
+Awlad Badr
+Awlad Bin Ahmad
+Awlad Bin Ya`qub
+Awlad Jabir
+Awlad Jarbu`
+Awlad Khalifah
+Awlad Khalaf Allah
+Awlad Mushad
+Awlad Mansur
+Awlad Mahmud
+Awlad Mas`ud
+Awlad Mudif
+Awlad Qalasi
+Awlad Rayyan
+Awlad Sidi Khalifah
+Awlad Salim
+Awlad Sa`id
+Awlad Hamid
+Awlad Hamad
+Awlad Yusuf
+Awlad Yahya
+Awlad `Isa
+Awlad `Atiyah
+Awlad `Abd ad Da'im
+Awlad `Abd al Jalil
+Awlad `Abd al Mawla
+Awlad `Abd al `Aziz `Inan
+Awlad `Abd Allah
+Awlad `Ali Bu al Qasim
+Awlad `Ali
+Awlad `Azzam
+Awlad `Inan
+Az Zighan
+Az Zawiyah
+Az Zahra'
+Az Zamamiqah
+Az Zaram
+Az Zarqan
+Az Zatarinah
+Az Zaytunah
+Az Zintan
+Az Zurqan
+Az Zuwaytinah
+Az Zuwayyah
+Bu al Ashhar
+Bu ath Thamir
+Bu Ghaylan
+Bu Jabalayn
+Bu Maryam
+Baldat ad Duwayb
+Baldat al Kurumah
+Baldat al Qawasim
+Baldat al `Umyan
+Baldat al `Uqaybah
+Baldat Awlad Milad
+Baldat Diqqi
+Baldat Jurayjin
+Baldat Raqraq
+Bani Wazir
+Bani Yakhlaf
+Bani Yakhlif
+Bani Walid
+Baqqalah
+Barashin
+Barqawi
+Barqin
+Bin Ghashir
+Bin Jawwad
+Bin Harith
+Bin Yahya
+Bint Bayyah
+Bishr
+Bi'r Abu al Ghurab
+Bi'r al Ashhab
+Bi'r al Ghanam
+Bi'r Bin Ghunaymah
+Bi'r Dufan
+Bi'r `Ayyad
+Brak
+Buqayqilah
+Burayk
+Buwayrat al Hasun
+Buzaymah
+Curni Ebredaa
+Dujal
+Dushin
+Dabdab
+Dahman
+Dannun
+Daraj
+Daryanah
+Dashrah
+Dulaym
+Emi Madema
+Fasatah
+Farzughah
+Faysalan
+Faywit
+Funduq al Jahsh
+Funduq al `Allus
+Funduq an Naqqazah
+Funduq ash Shaybani
+Funduq Tarbanah
+Funqul
+Ghadamis
+Ghadduwah
+Ghawat
+Ghawt al Hisan
+Ghuram
+Hayy as Sina'i
+Heg' Hagel
+Irmabhat az Zintan
+Jadu
+Jalu
+Jadda'im
+Jakharrah
+Jammarah
+Jandubah
+Jannawan
+Janzur
+Jardas al Ahrar
+Jardas al `Abid
+Jarmah
+Jikharrah
+Kabaw
+Kaf Miyas
+Kamb al `Ajjaj
+Kambut
+Kammun
+Karsah
+Khishan al Budur
+Khallat al Qamudi
+Khadra'
+Khulayf
+Kiklah
+Ki`am
+Kontangyi
+Kuhuf Bu Qalbut
+Kuhuf Tuhudiyah
+Kurkurah
+Lamludah
+Maryan
+Matris
+Mazuzah
+Madinat Tulmaythah
+Madinat Bayad
+Madrusah
+Maghwah
+Majdul
+Malluk
+Mansurah
+Maradah
+Marawah
+Martubah
+Masallatah
+Masliwah
+Massah
+Mazra`at Titanu
+Mazra`at Katarilla
+Mazra`at Saqil
+Ma`fan
+Ma`tan as Sarah
+Mintaqat ad Daghdughi
+Mintaqat al Ghanimah
+Mintaqat al Hashshan
+Mintaqat Wadi Harawah
+Mintaqat Zawiyat Sidi `Atiyah
+Misiqwin
+Miskah
+Misquwin
+Mizdah
+Mukhayla
+Murqus
+Musa`id
+Mu`askar Jalu
+Nasamah
+Nazlah
+Na`imah
+Nuqtat al Khattabiyah
+Posto Trucchi
+Qirah
+Qawat
+Qasabat Madi
+Qasabat `Akkah
+Qasbat Diyab
+Qasr al Fawqani
+Qasr al Jady
+Qasr al Qarabulli
+Qasr al Hajj
+Qasr al Wat'ani
+Qasr al `Urayyid
+Qasr Ahmad al Qibliyah
+Qasr Barruru
+Qasr Bin Ghashir
+Qasr Khiyar
+Qasr Khulayf
+Qasr Libiya
+Qasr Larocu
+Qabilah
+Qabilat as Saqu`
+Qabilat Abu Sahamah
+Qabilat al Abqar
+Qabilat al Afadil
+Qabilat al Bakakishah
+Qabilat al Fawatir
+Qabilat al Jawabir
+Qabilat al Kararitah
+Qabilat al Karawinah
+Qabilat al Kawarighiliyah
+Qabilat al Khums
+Qabilat al Mala'itah
+Qabilat al Maqsabah
+Qabilat al Mu`ammariyin
+Qabilat al Qalil
+Qabilat al Qanawat
+Qabilat al Qazzir
+Qabilat al Hajj `Umran
+Qabilat al Hurmah
+Qabilat al `Ataya
+Qabilat al `Abadilah
+Qabilat al `Abadinah
+Qabilat al `Amariyin
+Qabilat al `Aql
+Qabilat an Nattatat
+Qabilat ar Raghah
+Qabilat ar Radadah
+Qabilat ar Raqa'iqiyah
+Qabilat ar Rahumat
+Qabilat ar Rahbah
+Qabilat ash Sha`afiyin
+Qabilat ash Shutaywiyah
+Qabilat ash Shurfah
+Qabilat Awlad as Saghir
+Qabilat Awlad at Tamid
+Qabilat Awlad Abu Suhayyirah
+Qabilat Awlad Abu Salamah
+Qabilat Awlad Ba`ayyu
+Qabilat Awlad Bin Ahmad
+Qabilat Awlad Dhiyab
+Qabilat Awlad Jabir
+Qabilat Awlad Hamid
+Qabilat Awlad Za'id
+Qabilat Awlad `Isa
+Qabilat Awlad `Amir
+Qabilat Awlad `Arif
+Qabilat Awlad `Izaz
+Qabilat Awlad `Umar
+Qabilat az Zaribah
+Qabilat az Zintan al `Umyan
+Qabilat Badarthan
+Qabilat Bani Layth
+Qabilat Bani Salim
+Qabilat Bin Musallam
+Qabilat Dajibitah
+Qabilat Dirsunah
+Qabilat Indarah
+Qabilat Lawatah
+Qabilat Mantar
+Qabilat Quba`
+Qabilat Sidi Mu`ammar
+Qabilat Silin
+Qabilat Suq ad Dawun
+Qabilat Salimah
+Qabilat Saqin
+Qabilat Takut
+Qabilat Wadinah
+Qabilat Warjin
+Qabilat Za`faran
+Qabr Jirah
+Qabr Umm al Hishah
+Qal`at al Wasat
+Qaminis
+Qandulah
+Qaraqarah
+Qarqarish
+Qaryat Sur al `Ud
+Qaryat Sur A`rabi
+Qaryat Sawwan
+Qaryat as Suwak `Ayn Ghulu
+Qaryat as Sabayah
+Qaryat as Sawabiyah
+Qaryat as Sawadiq
+Qaryat at Tayrah
+Qaryat Abu al Ahnash
+Qaryat Abu Fakhirah
+Qaryat Abu Qurayn
+Qaryat Abu Sharwal
+Qaryat Abu `Ayyad
+Qaryat ad Dababisah
+Qaryat ad Dararifah
+Qaryat ad Dawa'irah
+Qaryat al Barahimah
+Qaryat al Barakat
+Qaryat al Barrani
+Qaryat al Bayda'
+Qaryat al Bayyadah
+Qaryat al Fa'idiyah
+Qaryat al Fayasilah
+Qaryat al Ghut
+Qaryat al Ghadrah
+Qaryat al Ghawil
+Qaryat al Habarah
+Qaryat al Hama'imah
+Qaryat al Hanadah
+Qaryat al Jataliwah
+Qaryat al Ja`afirah
+Qaryat al Karran
+Qaryat al Kamshat
+Qaryat al Khirbah
+Qaryat al Lufiyah
+Qaryat al Magharibah
+Qaryat al Majaris
+Qaryat al Malihah
+Qaryat al Mayamin
+Qaryat al Ma`anin
+Qaryat al Qi`an
+Qaryat al Qat`
+Qaryat al Qaddahiyah
+Qaryat al Qawarishah
+Qaryat al Qusaybat
+Qaryat al Halibiyah
+Qaryat al Huwayjat
+Qaryat al Wafawat
+Qaryat al Wuqayyat
+Qaryat al `Amruni
+Qaryat al `Arimah
+Qaryat al `Awa'idah
+Qaryat al `Imamah
+Qaryat al `Unayzi
+Qaryat an Nadwah
+Qaryat an Nushayh
+Qaryat ar Rus
+Qaryat ar Ramlah
+Qaryat ar Ra`itat
+Qaryat ar Ru'aysat
+Qaryat as Subaykhat
+Qaryat ash Shuyyab
+Qaryat at Tawalikiyah
+Qaryat Awla Bin Shayyah
+Qaryat Awlad Abu Sha``alah
+Qaryat Awlad Dhu'ayb
+Qaryat Awlad Duwab
+Qaryat Awlad Jama`ah
+Qaryat az Zarruq
+Qaryat az Zurayqi
+Qaryat Bu Nujaym
+Qaryat Bu Ruwayyah
+Qaryat Battah
+Qaryat Ballalah
+Qaryat Bani Musallam
+Qaryat Bin Hasan
+Qaryat Bin Tallis
+Qaryat Bishr
+Qaryat Dajajirah
+Qaryat Hanshir al Budur
+Qaryat Isma`il
+Qaryat Jital
+Qaryat Jardinah
+Qaryat Jarrufah
+Qaryat Maqrun
+Qaryat Marwan
+Qaryat Mazghurah
+Qaryat Mazzu
+Qaryat Nabukar
+Qaryat Nadbas
+Qaryat Qarat
+Qaryat Qasr al `Ajuz
+Qaryat Qararah
+Qaryat Qunfudhah
+Qaryat Ra's Abu Hammar
+Qaryat Ra's ath Thumah
+Qaryat Ra's `Ali
+Qaryat Rufaydah
+Qaryat Sidi Khalifah
+Qaryat Sidi Mahyub
+Qaryat Sidi Shahir ad Din
+Qaryat Suq al Jum`ah
+Qaryat Shumaykh
+Qaryat Hasan al Hajj
+Qaryat Hujjajah
+Qaryat Suluq
+Qaryat Su`ud
+Qaryat T
+Qaryat Tunin
+Qaryat Umm as Safa'
+Qaryat Umm ad Dananir
+Qaryat `A'ilat Zaydan
+Qaryat `Arifah
+Qaryat `Ayn Abu Ghulah
+Qaryat `Ayn Abu Shaybah
+Qaryat `Ayn al Kabir
+Qaryat `Ayn al Madham
+Qaryat `Ayn az Zayt
+Qaryat `Ayn Bu al Qa'id
+Qaryat `Ayn Fakrunah
+Qaryat `Ayn Kurayyim
+Qaryat `Ayn Makhluf
+Qaryat `Umar al Mukhtar
+Qarzah
+Qasr Abu Hadi
+Qayqam
+Qirnadah
+Qirrim
+Qusay`ah
+Quttah
+Qurji
+Quwayjilah
+Rashidah
+Ra's at Tabl
+Ra's Judayr
+Ra's Lanuf
+Ri'asat Difa` Barqah
+Sidi as Sayd
+Sidi as Sa'ih
+Sidi Bin al Bashiri
+Sidi Bin Zinah
+Sidi `Ali
+Sinawin
+Suknah
+Suq ad Dawawidah
+Suq al Ahad
+Suq al Khamis
+Suq al `Ajaj
+Suq al `Alaliqah
+Suq as Sabt
+Suq Qamatah al Gharbiyah
+Susah
+Sadrus
+Samnu
+Sawani al Qawarishah
+Sawani Bin Adam
+Sawani Fassanu
+Sbitat
+Shahat
+Shahhat
+Shakshuk
+Shatal al Ghabat
+Sha`wa'
+Snudah
+Hishan al `Arabat
+Hishan al `Aryat
+Hishan `A'ilat Baqi
+Harqah
+Hawsh ash Shuwayyim
+Hawsh Barji
+Hawsh Warid
+Hijarah
+Sultan
+Suluntah
+Tiji
+Tikah
+Tininay
+Taghmah
+Tajura'
+Takbal
+Taknis
+Talat
+Tarut
+Tawurghah
+Tazmarayit
+Tukrah
+Tuskin
+Tabalut
+Taghrinnah
+Taglin
+Tajarhi
+Takarkibah
+Tamanhint
+Tamazdah
+Tamzawah
+Tanahmu
+Tandimmirah
+Tannushat
+Tansulukh
+Taqrutin
+Taraghin
+Tarbu
+Tardiyah
+Tarhuna
+Tasawah
+Tfalfalt
+Tinzight
+Tirakt
+Tmisan
+Tmassah
+Tripoli
+Tuquttah
+Tuwaysh
+Tuwaywa
+Tuzugu
+Umm Saffar
+Umm al Aranib
+Umm al Ahrar
+Umm al Hamam
+Umm al `Abid
+Umm al `Izam
+Umm ar Rizam
+Umm az Zarsan
+Umm Shuwayshah
+Wifat
+Wamis
+Wanziraf
+Waw al Kabir
+Wazin
+Waddan
+Wanzarik
+Wisadan
+Wuriran
+Yafran
+Zighan
+Zizaw
+Zawiyat at Tilimun
+Zawiyat al Manastir
+Zawiyat al Mahjub
+Zawiyat al Murassas
+Zawiyat al Habib
+Zawiyat al `Amariyin
+Zawiyat al `Izziyat
+Zawiyat al `Urqub
+Zawiyat as Samah
+Zawiyat at Tarit
+Zawiyat Bisharah
+Zawiyat Janzur
+Zawiyat Masus
+Zawiyat Umm Rukbah
+Zazamt
+Zahrah
+Zaltan
+Zalwaz
+Zawilah
+Zawiya
+Za`rarah
+Zillah
+Zintan
+Zliten
+`A'ilat Lamwis
+`Akramah
+`Aqqar
+`Ayn al Ghazaya
+`Ayn Marrah
+`Ayn Zarah
+`Eoj Wahs
+`Uwaynat Wanin
+Ajdabiya
+Al Bayda'
+Al Khums
+Al Marj
+Al 'Aziziyah
+Benghazi
+Darnah
+Gharyan
+Ghat
+Hun
+Idri
+Misratah
+Murzuq
+Nalut
+Sabha
+Sirte
+Tobruk
+Zuwarah
+Ra's Al Hilal
+Cyrene
+Qaryat Umm an Na`am
+Zawiyat Umm Hufayn
+As Sabiri al Gharbi
+As Sabiri ash Sharqi
+Abu Salim
+Ad Durawi
+Akhraybish
+Al-Fatih Neighborhood
+Al Babsa
+Al Birkah
+Al Dahra
+Al Fuwayhat al Gharbiyah
+Al Hawary
+Al Jazirah
+Al Jazeera
+Al Lathamah
+Al Laythi
+Al Madinah al Qadimah
+Al Madinah ar Riyaddiyyah
+Al Marj al Jadidah
+Al Masakin Bu `Atani
+Al Muhayshi
+Al Wuhayshi
+Al `Urubah
+Alhadba Alkhadra
+Ar Ruwaysat
+Ard Zwawa al Bahria
+Ard ash Sharif
+Ard Shabnah
+As Salmani al Gharbi
+As Salmani ash Sharqi
+Ash Shabi
+Ash Sharif
+Azzytun Neighborhood
+Bab al Farnaj
+Bab al `Amrus
+Bab al `Aziziyah
+Bab Ban Ghashir
+Bab Qarqarish
+Bab Tarhunah
+Bab Ta' Jura`
+Bab `Akkarah
+Balkhayr
+Bu Sittah
+Ballouzah District
+Beloun
+Benina
+Bin Yunus
+Bin `Isa
+Buhidima
+Dar al Kish
+Dawud al Bahri
+Dawud al Gharbi
+Dawud al Qibli
+Dakakin Hamid
+Eastern Al Fuwayhat
+Eastern Dawud
+Fillat al Khalij
+Fillat al Malik Idris
+Garden City
+Ghuraybil
+Hay Demsheq
+Hayy al Andalus
+Karzaz
+Mintaqat al Lathamah
+Mintaqat al Majuri
+Mintaqat `Abd Allah Salih al `Uqayli
+Qaryunus
+Qaryat al Baladiyah
+Qaryat Qaryunis
+Qatar Neighborhood
+Ras Abaydah
+Sidi Salim
+Sidi Husayn
+Suq al Jum`ah
+Hayy as Salam
+Hayy Barzakh Layira'
+Hayy Sidi Yunus
+Tabalino
+The University Neighborhood
+Venice Neighborhood
+Zamzam Neighborhood
+`Imarat as Sirati

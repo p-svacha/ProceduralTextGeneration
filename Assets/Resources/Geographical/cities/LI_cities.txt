@@ -1,0 +1,335 @@
+Allmeina
+Alpelti
+Barg
+Badal
+Bendern
+Berg
+Betsche
+Bim Stall
+Breita
+Eggalti
+Erbi
+Foppa
+Fromahus
+Fura
+Gnalp
+Lavadina
+Loch
+Lums
+Moliholz
+Mals
+Malbun
+Masescha
+Mitatsch
+Nendeln
+Neugrutt
+Ober Stall
+Oberplanken
+Ruti
+Riethof
+Rotenboden
+Sucka
+Schaanwald
+Silum
+Steg
+Studaberg
+Vaduz
+Vorder Prufatscheng
+Wangerberg
+Welda Bongert
+Balzers
+Eschen
+Gamprin
+Mauren
+Planken
+Ruggell
+Schaan
+Schellenberg
+Triesen
+Triesenberg
+Bunda
+Bi den undera Hotta
+Bim Brunna
+Gadami
+Hofe
+Hinderegga
+Nasshagga
+Ord
+Parsula
+Rackholtera
+Raibuhel
+Silumerbord
+Steinascht
+Under Bual
+Valuna
+Vordersilum
+Zlinerbord
+Uenaboda
+Auli
+Altrutti
+Am Bach
+Aspa
+Au
+Aubunt
+Aussernendeln
+Buala
+Buel
+Bunt
+Buntle
+Buntner
+Balischguad
+Bartlegrosch
+Bei der Kirchstrasse
+Bendererbunt
+Besch
+Betzi
+Bi der Steinmur
+Bim Kruz
+Bim Zughusle
+Binza
+Blacha
+Bleika
+Boda
+Boia
+Bruel
+Bretscha
+Buacha
+Burg
+Burkrat
+Chamma
+Chalberruti
+Chleistag
+Dreiangel
+Dux
+Duxplatz
+Ebaholz
+Egerta
+Egeta
+Egga
+Furstafeld
+Fallsbretscha
+Fallsgass
+Fanal
+Fanola
+Faraboda
+Feld
+Fina
+Finne
+Flux
+Fuera
+Fuggsegga
+Guediga
+Golla
+Garbi
+Gassle
+Gafos
+Galga
+Galgateil
+Gampalutz
+Gantafies
+Gapetsch
+Gapluem
+Gapont
+Garlanga
+Garnis
+Garsill
+Geisszepfel
+Gerbi
+Giessa
+Glenn
+Gmeinsgarta
+Gnetsch
+Gossahalda
+Grutt
+Grasgarta
+Grosch
+Grossstag
+Gschind
+Gufer
+Guler
+Huschi
+Hofli
+Holl
+Haberacher
+Hafner
+Hag
+Hala
+Halda
+Hampflander
+Hega
+Heiligkruz
+Hellabarta
+Hellbock
+Hest
+Hiertwes
+Hinderbuela
+Hinderdorf
+Hinderschloss
+Hinterer Schaanwald
+Hinterschellenberg
+Hof
+Holzgatter
+Hueb
+Inner Hala
+Inner Wesa
+Insel
+Iradug
+Iramalin
+Iratell
+Iratetsch
+Joraboda
+Kalchofa
+Kaserna
+Kellersfeld
+Klenn
+Klifeld
+Kolbafeld
+Kruzbunt
+Kresta
+Krestisrutti
+Krummenacker
+Lacha
+Langacker
+Ledi
+Leitawis
+Lett
+Letta
+Letzana
+Lindaplatz
+Litzi
+Lowal
+Lutzfeld
+Moligarta
+Moliholzli
+Mosma
+Malsner Dorf
+Malarsch
+Maree
+Matschels
+Mazora
+Meierhof
+Messina
+Michel Ohri
+Mittlerer Schaanwald
+Mittlerer Schellenberg
+Musbuhel
+Neurutti
+Ob der Gass
+Obem Dorf
+Ober Bunt
+Ober Hala
+Ober Moliholz
+Obera Berg
+Oberau
+Oberdarf
+Oberdorf
+Oberfeld
+Oberstadtli
+Oberwiler
+Obrosa
+Oksner
+Osser Hala
+Ossera
+Pardiel
+Pfifer
+Platta
+Plattabach
+Platzbunt
+Popers
+Pralawisch
+Pradafant
+Purtscher
+Quaderli
+Quader
+Quadera
+Rufi
+Rutelti
+Rutti
+Ruttistein
+Rosle
+Resch
+Riet
+Rietle
+Rietli
+Rinkawingert
+Rofaberg
+Rosabueler
+Rosagarta
+Rossboda
+Rossfeld
+Rotagass
+Runkels
+Sutigerwis
+Sass
+Sand
+Sandgrueb
+Sankt Mamerta
+Sankt Wolfgang
+Sax
+Schonabuel
+Schlatt
+Schliessa
+Schwefel
+Sennwis
+Spania
+Speckemad
+Specki
+Speckibunta
+Spenni
+Spezadengla
+Spidach
+Spiegel
+Stadtli
+Stadel
+Stafel
+Stefas Guet
+Stein-Egerta
+Steinbos
+Steinord
+Stelza
+Stotz
+Stubi
+Sunnaberg
+Tascherbord
+Tascherloch
+Talezze
+Tils
+Tisa
+Tobel
+Tola
+Tona
+Toniauli
+Troxle
+Trischel
+Uf da Stotz
+Under Atzig
+Under Berg
+Under der Gassa
+Under Moliholz
+Under Stall
+Underau
+Underdarf
+Underdorf
+Underem Ruttistein
+Underem Schloss
+Underem Stein
+Underfeld
+Unternendeln
+Vorderdorf
+Vorderer Schaanwald
+Vorderer Schellenberg
+Walcha
+Waldteile
+Weier
+Wert
+Wesa
+Widau
+Widum
+Winchel
+Wingerta
+Winkel
+Wisleguet
+Wisli
+Zagalzel
+Ziegelmad
+Zweistapfle

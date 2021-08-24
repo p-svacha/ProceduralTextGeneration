@@ -34,8 +34,9 @@ Ida
 Arrokoth
 Phobos
 Deimos
-Churyumov-Gerasimenko
-Hartley 2
+Churyumov
+Gerasimenko
+Hartley
 Amycus
 Bienor
 Hylonome
@@ -82,7 +83,6 @@ Euanthe
 Aitne
 Hegemone
 Erinome
-S/2016 J1
 Ersa
 Sponde
 Kallichore
@@ -98,28 +98,7 @@ Eupheme
 Orthosie
 Herse
 Philphrosyne
-S/2003 J2
-S/2003 J4
-S/2003 J10
-S/2003 J16
-S/2003 J18
-S/2003 J19
-S/2003 J23
-S/2010 J1
-S/2017 J1
-S/2017 J2
-S/2017 J3
-S/2017 J5
-S/2017 J6
-S/2017 J7
-S/2017 J9
-S/2003 J9
-S/2003 J12
-S/2010 J2
-S/2011 J1
 Valetudo
-S/2011 J2
-S/2017 J8
 Rhea
 Iapetus
 Dione
@@ -157,43 +136,14 @@ Aegir
 Bergelmir
 Greip
 Hati
-S/2006 S 1
-S/2006 S 3
-S/2004 S7
-S/2004 S13
-S/2004 S27
-S/2004 S35
 Jarnsaxa
 Surtur
 Farbauti
 Fenrir
-S/2004 S12
-S/2004 S17
-S/2007 S2
-S/2007 S3
-S/2004 S23
-S/2004 S25
-S/2004 S26
-S/2004 S28
-S/2004 S29
-S/2004 S31
-S/2004 S32
-S/2004 S33
 Methone
-S/2004 S37
-S/2004 S38
-S/2004 S20
-S/2004 S21
-S/2004 S22
-S/2004 S24
-S/2004 S30
-S/2004 S36
-S/2004 S34
-S/2004 S39
 Polydueces
 Anthe
 Aegaeon
-S/2009 S1
 Titania
 Obero
 Umbriel
@@ -249,7 +199,6 @@ Hi'iaka
 Namaka
 Quaoar
 Weywot
-S/2015
 Varda
 Illmare
 Gonggong

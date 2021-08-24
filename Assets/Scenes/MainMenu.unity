@@ -546,8 +546,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Used to create names for specific word types (such as planets, countries,
-    provinces) using either Markov Chains or Convolutional Neural Networks.
+  m_Text: Generate names for specific word types (such as planets, countries, provinces)
+    using either Markov Chains or Convolutional Neural Networks.
 --- !u!222 &379144629
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1070,7 +1070,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Person Generator
+  m_Text: Geographical
 --- !u!222 &1732284310
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1336,7 +1336,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Word Generator
+  m_Text: Classic
 --- !u!222 &1955127334
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1381,7 +1381,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 10, y: 10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2002243498
 MonoBehaviour:
@@ -1508,8 +1508,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Used to generate names for people. Can be filitered by sex and origin country.
-    Names are generated with real-life datasets for all countries and regions.
+  m_Text: Generate names for people and their home town cities based on country /
+    sex. Uses real-life data and works for every country in the world.
 --- !u!222 &2028630281
 CanvasRenderer:
   m_ObjectHideFlags: 0

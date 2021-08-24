@@ -1,0 +1,526 @@
+Achiwib
+Adelair
+Adventure
+Agricola
+Aishalton
+Ajimipepai
+Akar Village
+Akawini Amerindian Village
+Akwero
+Alness
+Altora Village
+Amamuri Village
+Amazon
+Ambrose Village
+Amokokopai Village
+Ampa
+Ann's Grove
+Anna Catherina
+Anna Regina
+Annai
+Apanachi
+Apoteri
+Arakaka
+Arakwai Outstation
+Arau Village
+Arawai Village
+Arnik Village
+Arthurville
+Assura Village
+Atamadpau
+Attai Village
+Aunama Village
+Aurora
+Awarabati
+Awaruwaunawa
+Bachelors Adventure
+Bagotstown
+Banakari
+Barabara
+Barabina Hill
+Barakara
+Baramanni
+Baramita
+Basha Village
+Belladrum
+Beribisiballi
+Berks
+Beterverwagting
+Bethany
+Big Baiabu
+Biloku
+Blairmont
+Bon Success
+Bonfim
+Bounty Hall
+Brandwagt-Sari
+Brighton
+Burisanawa Village
+Burma
+Bush Lot
+Butukari
+Buxton
+Cajueiro
+Caledonia
+Cane Grove
+Canefield
+Capoey
+Catherine
+Charity
+Chenapowu Village
+Chinese Landing
+Clonbrook
+Courida Park
+Crabwood Creek
+Craig
+Dadanawa
+Dalli
+Daniel
+Dartmouth
+Dawa
+De Gezusters
+De Kinderen
+Den Amstel
+Dukestown
+Durung Bang
+Ebini
+Ekereku
+Eldorado
+Elizabeth
+Enachu Landing
+Enaruko Village
+Enmore
+Enterprise
+Epira
+Eurowa
+Fort Nassau
+Georgetown
+Glasgow Village
+GNS Kimbia
+Golden Fleece
+Golden Grove
+Good Hope
+Good Intent
+Good Success
+Grahams Hall
+Harlem
+Hawkins Mission
+Helena Number One
+Helena Number Two
+Herstelling
+Hiawa
+Hitia
+Hobediah
+Hoff Van Aurich
+Holmia
+Hopetown
+Hororabo
+Hosororo
+Hotakwai
+Houston
+Hubu
+Hururu
+Igupa Village
+Illimir Village
+Imbaimadai
+Imprenza
+Ipisiau Village
+Ipotaikuru
+Isherton
+Islington
+Issano Terminus
+Isseneru Village
+Itabac
+Ituni
+Jacoba
+Jakaretinga
+Java
+Joanna
+Johi Village
+Kabakaburi
+Kaibarupai Village
+Kaikan
+Kalakun
+Kalkuni
+Kamana Village
+Kamarang
+Kamaria
+Kamuda Village
+Kamwatta Hill
+Kanapang Village
+Karanambo
+Karasabai Village
+Karaudanawa
+Kariakaria
+Kariaku
+Karisparu Village
+Kataliriwau Outstation
+Kato Village
+Keweigek
+Kokadai
+Kokerite
+Konashen
+Konoro Village
+Kopinang Mission
+Koriabo
+Kotoewau
+Kowaeng Village
+Kukui-Eng Village
+Kumaka
+Kurachi
+Kurukabaru Village
+Kurukuru-Baibari
+Kurutuku Village
+Kwabanna
+Kwaimatta Village
+Kwakwani
+Kwatata
+Kwiokrebaru
+La Bagatelle
+La Grange
+La Jalousie
+La Juanita
+Lanaballi
+Lancaster
+Land of Canaan
+Leeds
+Lesbeholden
+Lichfield
+Lorenza
+Louisiana
+Lower Kamaria
+Lucky Spot
+Lumidpau
+Lusignan
+Macaw
+Machabo
+Macusi Village
+Mahaica Village
+Mahaicony Village
+Makari
+Makouria
+Malali
+Mamir Pawa
+Manaka
+Manari Village
+Manari
+Manawarin
+Marakanata
+Margot
+Maria Johanna
+Mariwa Village
+Marlborough
+Marurawaunawa Village
+Masabona
+Massara
+Matthews Ridge
+Melville
+Meritizero
+Meruwang
+Mibikuri
+Minata
+Mission Landing
+Moco-Moco Village
+Mongreppo
+Monkey Mountain
+Morasi
+Morawhanna
+Moreiru
+Morowta
+Mortice
+Mount Everard
+Mountain Point
+Mountain View
+Mubohina
+Muruakundi
+Muruwawe Village
+Nappi Village
+Nismes
+North East La Penitence
+Number Forty-five
+Number Forty-one
+Number Forty-six
+Number Forty
+Number Seventy-eight Mary and Eliza
+Number Seventy-five Spring Garden
+Number Seventy-four Stockholm
+Number Seventy-one Little Massiah
+Number Seventy-six Harriet
+Number Seventy-three Clonbrook
+Number Seventy-two Hong Kong
+Number Seventy Massiah
+Number Sixty-five New Market
+Number Sixty-four Babylon
+Number Sixty-nine Friendship
+Number Sixty-seven
+Number Sixty-six
+Number Sixty-two
+Number Ten
+Number Three Fyrish
+Number Twelve
+Old England
+Onderneeming
+Opadai
+Oranapai Landing
+Orealla
+Orinduik
+Pakera
+Parabara
+Paradise
+Paramakatoi
+Parapimai
+Parika
+Parikaranal
+Parishara
+Paruima Mission
+Patentia
+Pathawaru
+Pearl
+Peropo
+Perth
+Phoenix Town
+Pickersgill
+Pilinawa
+Pipillipai
+Pirara
+Plaisance
+Pomona
+Port Kaituma
+Port Mourant
+Poterima
+Powisanau Village
+Princetown
+Providence Place
+Providence
+Pubu
+Pukasanta Village
+Puwa Village
+Red Hill Settlement
+Ridge
+Rising Sun
+Riverstown
+Rockstone
+Rose Hall
+Rosignol
+Sabernawau Village
+Saint Bede's Mission
+Saint Benedict Mission
+Saint Cuthberts Mission
+Saint Edwards Mission
+Saint Francis Mission
+Saint Ignatius
+Saint Marys
+Saint Mary's
+Saint Nicholas Mission
+Sand Creek Village
+Sandhills
+Santa Cruz
+Santa Fe
+Santa Rosa Mission
+Sarah Johanna
+Sarah
+Sawariwaunawa
+Saxakalli
+Schoonord
+Scottsburg
+Seafield
+Shea Village
+Shulinab
+Simirie
+Sinclair Landing
+Sir James
+Sirikie
+Sisipelin Village
+Skeldon
+Soesdyke
+Somerset
+Springlands
+St. Cuthbert's
+Stanleytown
+Success
+Suddie
+Sunnyside
+Surama Village
+Surprise Hill
+Surumatra
+Takama Battle School
+Takama
+Tamton
+Tarlogie
+Taruka
+Taruma Village
+The Clip
+Three Friends
+Tiger Pond Village
+Tipuru Village
+Toka Village
+Towakaima
+Tumareng
+Tuschen
+Uitvlugt
+Upper Kamaria
+Urisirima
+Velgrad
+Vergenoegen
+Victoria
+Wai-Wai
+Waikerebi Mission
+Waioklepaluta Village
+Waipa Village
+Waiwoi Village
+Wakadanawa
+Wakakulud Village
+Wakapau Village
+Wales
+Wandaik Village
+Wandapa Village
+Waramadon Village
+Waramuri Mission
+Ward village
+Warimure
+Wariwau
+Waruma
+Wauna-Yarikita
+Wel te Vreeden
+Weldaad
+Whim
+Wiapri
+Wichabai
+Windsor Forest
+Wineperu
+Wiribisirikanali
+Wolga
+Woweta Village
+Yakarinta
+Yakusari
+Yarowkabra
+Yepi Village
+Yepu Village
+Yupukarri
+Zeelandia
+Zion
+Bartica
+Fort Wellington
+Lethem
+Linden
+Mabaruma
+Mahdia
+New Amsterdam
+Vreed-en-Hoop
+Alliance
+Ankerville
+Bara Bara
+Belle Plaine
+Belvidere
+Blenheim
+Buabanna
+Cove
+Diamond Place
+Dora
+Elizabeth Ann
+Essau and Jacob
+Experience
+First Savannah
+Fort Canje
+Glasgow
+Gold Hill
+Goodmans Freetown
+Gordon Table
+Governor Light
+Hampshire
+Haswell
+Hyde Park
+Kartabu Point
+Lana
+Loo Lands
+Low Wood
+Macouba
+Martins Burial Ground
+Moca Moca
+Mon Desir
+Monkey Jump
+Mora Point
+New Aanlegt
+Novar
+Number Seventy-seven
+Number Sixty-one
+Number Sixty-three Benab
+Number Sixty
+Number Two Courtland
+Patientia
+Pine Ground
+Princess Carolina
+Resource
+Riverview
+Sand Hills
+Sans Souci
+Santa Mission
+Simiri
+Spring Garden
+Stena
+Susannahs Rust
+Tain
+Uit
+Urisirima Point
+Warida
+Wash Clothes
+Williamsburg
+Yarow Creek
+Unity Village
+Agricola Village
+Alberttown
+Albouystown
+Alexander Village
+Alexanderville
+Amsterdam
+Bel Air Gardens
+Bel Air Park
+Bel Air Springs
+Bel Air
+Blygezight Gardens
+Blygezight
+Bourda
+Campbellville
+Charlestown
+Christianburg
+Cummingsburg
+East Ruimveldt
+Festival City
+Greenfield Park
+Kingston
+Kitty
+Kokatara Village
+La Penitence
+Lacytown
+Lamaha Gardens
+Lodge
+Mackenzie
+Mc Doom
+Meadow Bank
+Meadow Brook Gardens
+Melanie Damishana
+Nandy Park
+New Haven
+New Providence
+Newburg
+Newtown
+Noitgedacht
+Ogle
+Prashad Nagar
+Queenstown
+Republic Park
+Robbstown
+Roxanne Burnham Gardens
+Smythfield
+Sophia
+South Ruimveldt Gardens
+South Ruimveldt Park
+Stabroek
+Subryanville
+Thomas Lands
+Tucville
+Watuka
+Werk-en-Rust
+West Ruimveldt
+Wismar
+Wortmanville
