@@ -85,8 +85,11 @@ namespace PersonGenerator
             foreach(Country country in Countries)
             {
                 string maleForenamesPath = "Assets/Resources/Geographical/forenames/" + country.Name.ToLower().Replace(" ", "-").Replace(",", "") + "_forenames_male.txt";
+                if(!File.Exists(maleForenamesPath)) maleForenamesPath = "Assets/Resources/Geographical/forenames/" + country.ISO + "_forenames_male.txt";
                 string femaleForenamesPath = "Assets/Resources/Geographical/forenames/" + country.Name.ToLower().Replace(" ", "-").Replace(",", "") + "_forenames_female.txt";
+                if (!File.Exists(femaleForenamesPath)) femaleForenamesPath = "Assets/Resources/Geographical/forenames/" + country.ISO + "_forenames_female.txt";
                 string surnamesPath = "Assets/Resources/Geographical/surnames/" + country.Name.ToLower().Replace(" ", "-").Replace(",", "") + "_surnames.txt";
+                if (!File.Exists(surnamesPath)) surnamesPath = "Assets/Resources/Geographical/surnames/" + country.ISO + "_surnames.txt";
                 string cityPath = "Assets/Resources/Geographical/cities/" + country.ISO + "_cities.txt";
 
                 if (!File.Exists(maleForenamesPath) || !File.Exists(femaleForenamesPath) || !File.Exists(surnamesPath) || !File.Exists(cityPath))

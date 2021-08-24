@@ -11,6 +11,7 @@ public static class CountryInfoReader
         // Read country info
         string line;
         System.IO.StreamReader countryFile = new System.IO.StreamReader("Assets/Resources/Geographical/countryInfo.txt");
+        line = countryFile.ReadLine(); // Skip first line
         while ((line = countryFile.ReadLine()) != null)
         {
             string sep = "\t";

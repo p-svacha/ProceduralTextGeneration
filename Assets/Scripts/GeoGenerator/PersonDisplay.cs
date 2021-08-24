@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -21,7 +22,9 @@ namespace PersonGenerator
             }
             else
             {
-                OriginImage.sprite = Resources.Load<Sprite>("Icons/Flags/" + person.Origin.Name.Replace(" ", "-").ToLower());
+                string flagPath = "Icons/Flags/" + person.Origin.Name.Replace(" ", "-").ToLower();
+                if(!File.Exists("Assets/Resources/" + flagPath + ".png")) flagPath = "Icons/Flags/" + person.Origin.ISO.ToLower();
+                OriginImage.sprite = Resources.Load<Sprite>(flagPath);
                 CityText.text = "from " + person.City + ", " + person.Origin.Name;
             }
             if (person.Sex == "m") SexImage.sprite = Resources.Load<Sprite>("Icons/male");
