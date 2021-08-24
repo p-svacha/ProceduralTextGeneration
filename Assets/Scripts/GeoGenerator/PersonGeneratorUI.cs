@@ -117,7 +117,7 @@ namespace PersonGenerator
 
                 // cities
                 Cities.Add(country.ISO, new List<string>());
-                System.IO.StreamReader citiesFile = new System.IO.StreamReader(surnamesPath);
+                System.IO.StreamReader citiesFile = new System.IO.StreamReader(cityPath);
                 while ((line = citiesFile.ReadLine()) != null) Cities[country.ISO].Add(line);
                 citiesFile.Close();
             }
