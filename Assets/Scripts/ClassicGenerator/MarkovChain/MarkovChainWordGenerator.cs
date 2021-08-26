@@ -14,6 +14,9 @@ public class MarkovChainWordGenerator
     public int MinNGramLength = 2;
     public int MaxNGramLength = 12;
 
+    public int MinLanguageWeight = 0;
+    public int MaxLanguageWeight = 100;
+
     /// <summary>
     /// The initial key represents the word type (i.e. "Planet" or "Country")
     /// The key of the first dictionary is the nGram length.
@@ -49,7 +52,7 @@ public class MarkovChainWordGenerator
     }
 
 
-    public string GenerateWord(string wordType, int nGramLength, string start = "")
+    public string GenerateWord(string wordType, int nGramLength, string start = "", Language language = null, int languageWeight = 0)
     {
         //Debug.Log("##################### NEW WORD #######################");
         string word = WordStartChar + start + "";
@@ -61,14 +64,14 @@ public class MarkovChainWordGenerator
             {
                 int startIndex = 0;
                 int length = word.Length;
-                string nGram = PickRandomNGramStartingWith(wordType, word.Substring(startIndex, length), nGramLength);
+                string nGram = PickRandomNGramStartingWith(word, wordType, word.Substring(startIndex, length), nGramLength, language, languageWeight);
                 word += nGram[word.Length];
             }
             else
             {
                 int startIndex = word.Length - (nGramLength - 1);
                 int length = nGramLength - 1;
-                string nGram = PickRandomNGramStartingWith(wordType, word.Substring(startIndex, length), nGramLength);
+                string nGram = PickRandomNGramStartingWith(word, wordType, word.Substring(startIndex, length), nGramLength, language, languageWeight);
                 word += nGram[nGramLength - 1];
             }
         }
@@ -76,9 +79,9 @@ public class MarkovChainWordGenerator
         return word.Substring(1, word.Length - 2); // Remove word start and end char
     }
 
-    private string PickRandomNGramStartingWith(string wordType, string nGramStart, int nGramLength)
+    private string PickRandomNGramStartingWith(string wordSoFar, string wordType, string nGramStart, int nGramLength, Language language = null, int languageWeight = 0)
     {
-        Dictionary<string, int> candidateNGrams = NGrams[wordType][nGramLength].Where(x => StartsWith(x.Key, nGramStart)).ToDictionary(x => x.Key, x => x.Value);
+        Dictionary<string, int> candidateNGrams = NGrams[wordType][nGramLength].Where(x => StartsWith(x.Key, nGramStart)).ToDictionary(x => x.Key, x => language == null ? x.Value : GetNGramLanguageValue(wordSoFar, x.Key, x.Value, language, languageWeight));
         int totalProbability = candidateNGrams.Sum(x => x.Value);
 
         // Create array where each ngram has as many occurences as it has in the original list
@@ -98,6 +101,46 @@ public class MarkovChainWordGenerator
         //Debug.Log("Chosen nGram: " + chosenNgram + " out of " + candidateNGrams.Count + " options. Listing options:" + options);
         
         return encodedNGram;
+    }
+
+    /// <summary>
+    /// This method returns the value of an ngram in a specific language. If the language has no influence on the ngram, the method will return the original value.
+    /// Values higher than the original value mean the ngram is more likely to appear in the language, less means less likely.
+    /// </summary>
+    private int GetNGramLanguageValue(string origWordSoFar, string origNgram, int origValue, Language language, int languageWeight)
+    {
+        string ngram = origNgram.ToLower();
+        int value = origValue;
+        string wordSoFar = origWordSoFar.ToLower();
+
+        int ngramStartIndex = (wordSoFar.Length < ngram.Length - 1) ? wordSoFar.Length : ngram.Length - 1;
+        char addedChar = ngram[ngramStartIndex];
+
+        foreach(string pattern in language.MainLetters)
+        {
+            for(int i = 0; i < pattern.Length; i++)
+            {
+                if(i == 0 && addedChar == pattern[0]) value += languageWeight; // First letter of the pattern has always a bonus to appear
+                else if (i > 0 && wordSoFar.Length >= pattern.Length - 1) // All other letters of the pattern have a bonus when the end of the word matches the start of the pattern
+                {
+                    // TODO: Consider ngramstartindex
+                    string wordEnd = wordSoFar.Substring(wordSoFar.Length - i, i);
+                    string patternStart = pattern.Substring(0, i);
+                    if (wordEnd == patternStart && addedChar == pattern[i]) value += languageWeight * (i + 1);
+                }
+            }
+        }
+
+        foreach(string pattern in language.OmittedLetters)
+        {
+            if (pattern.Length != 1) throw new Exception("Omitpatterns with more than 1 letter cannot be handled.");
+            if (addedChar == pattern[0]) value -= languageWeight;
+        }
+        if (value <= 0) value = 1;
+
+
+        if (value != origValue) Debug.Log(wordSoFar + ": " + origNgram + " with added char " + addedChar + " has a new language value: " + origValue + " --> " + value);
+        return value;
     }
 
     private void CreateNGramsFor(string wordType, string word, int nGramLength)
@@ -127,5 +170,12 @@ public class MarkovChainWordGenerator
             if (nGram[i] != start[i]) return false;
         }
         return true;
+    }
+
+    public string GetRandomNgram(string category, int length, int minOccurences)
+    {
+        Dictionary<string, int> ngrams = NGrams[category][length];
+        List<string> candidateNgrams = ngrams.Where(x => !x.Key.Contains(WordStartChar) && !x.Key.Contains(WordEndChar) && x.Value >= minOccurences).Select(x => x.Key).ToList();
+        return candidateNgrams[UnityEngine.Random.Range(0, candidateNgrams.Count)];
     }
 }

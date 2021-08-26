@@ -10,6 +10,7 @@ public static class InputDataReader
         { "Planet", InputDataType.SingleLine},
         { "Country", InputDataType.SingleLine},
         { "Province", InputDataType.SingleLine},
+        { "Language", InputDataType.SingleLine },
         { "Gemeinde", InputDataType.SingleLine},
         { "Mineral", InputDataType.SingleLine},
         //{ "TrackmaniaMapNames", InputDataType.SingleLine },

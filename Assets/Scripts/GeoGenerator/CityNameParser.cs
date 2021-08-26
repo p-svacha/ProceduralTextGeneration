@@ -35,6 +35,7 @@ public class CityNameParser : MonoBehaviour
             string cityName = splits[2];
             CityNames[countryIso].Add(cityName);
         }
+        countryFile.Close();
     }
 
     private void SaveCityDataByCountry()

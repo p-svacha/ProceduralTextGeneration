@@ -7,8 +7,10 @@ using UnityEngine.UI;
 public class GeneratorUI : UIElement
 {
     [Header("Layout")]
+    public Text InputTitle;
     public RectTransform InputPanel;
     public RectTransform MidPanel;
+    public Text OutputTitle;
     public RectTransform OutputPanel;
 
     [Header("General")]
@@ -16,6 +18,16 @@ public class GeneratorUI : UIElement
     public InputField AmountInput;
     public InputField StartInput;
     public Toggle HideEqualOutputs;
+
+    [Header("Language")]
+    private List<Language> Languages = new List<Language>();
+    private Language ActiveLanguage;
+    public Dropdown LanguageDropdown;
+    public Button AddLanguageButton;
+    public Text LangMainLettersText;
+    public Text LangOmitLettersText;
+    public Slider LangWeightSlider;
+    public Text LangSliderValueText;
 
     [Header("Markov")]
     public Slider NGramSlider;
@@ -59,10 +71,19 @@ public class GeneratorUI : UIElement
         CNN_GenerateSavedButton.onClick.AddListener(GenerateSavedCnnButton_OnClick);
         CNN_SkewSlider.value = 0.8f;
 
-        foreach(string s in InputDataReader.WordCategories.Keys) TypeDropdown.options.Add(new Dropdown.OptionData(s));
+        LanguageDropdown.onValueChanged.AddListener(LanguageDropdown_OnValueChanged);
+        LanguageDropdown.options.Add(new Dropdown.OptionData("Default"));
+        LanguageDropdown.value = 1; LanguageDropdown.value = 0;
+        AddLanguageButton.onClick.AddListener(AddLanguageButton_OnClick);
+        LangWeightSlider.onValueChanged.AddListener(LanguageWeightSlider_OnValueChanged);
+        LangWeightSlider.minValue = MarkovWordGenerator.MinLanguageWeight;
+        LangWeightSlider.maxValue = MarkovWordGenerator.MaxLanguageWeight;
+        LangWeightSlider.value = MarkovWordGenerator.MinLanguageWeight;
+        LanguageWeightSlider_OnValueChanged(LangWeightSlider.value);
+
+        foreach (string s in InputDataReader.WordCategories.Keys) TypeDropdown.options.Add(new Dropdown.OptionData(s));
         TypeDropdown.onValueChanged.AddListener(TypeDropdown_OnValueChanged);
-        TypeDropdown.value = 1;
-        TypeDropdown.value = 0;
+        TypeDropdown.value = 1; TypeDropdown.value = 0;
 
         AmountInput.text = "10";
     }
@@ -85,13 +106,14 @@ public class GeneratorUI : UIElement
     public void UpdateUI(List<string> inputs, List<string> outputs)
     {
         Clear();
-        UpdatePanel(inputs.Take(200).ToList(), InputPanel, 12, 40);
-        UpdatePanel(outputs, OutputPanel, 20, 30);
+        UpdatePanel(inputs.Take(200).ToList(), InputPanel, InputTitle, "Inputs (" + inputs.Count + ")", 12, 40);
+        UpdatePanel(outputs, OutputPanel, OutputTitle, "Outputs (" + outputs.Count + ")", 20, 30);
     }
 
-    private void UpdatePanel(List<string> inputs, RectTransform parent, int fontSize, int nRows)
+    private void UpdatePanel(List<string> inputs, RectTransform parent, Text title, string titleText, int fontSize, int nRows)
     {
         float titleHeight = 0.05f;
+        title.text = titleText;
 
         int row = 0;
         int col = 0;
@@ -116,7 +138,7 @@ public class GeneratorUI : UIElement
 
         foreach (string input in randomizedList)
         {
-            AddText(input, fontSize, MarkovWordGenerator.InputWords[CurrentCategory].Contains(input) ? Color.black : new Color(0, 0.4f, 0), FontStyle.Normal, col * xStep + xMargin, titleHeight + (row * yStep), (col + 1) * xStep - xMargin, titleHeight + ((row + 1) * yStep), parent, TextAnchor.UpperLeft);
+            AddText(input, fontSize, MarkovWordGenerator.InputWords[CurrentCategory].Contains(input) ? Color.white : new Color(0.6f, 1f, 0.6f), FontStyle.Normal, col * xStep + xMargin, titleHeight + (row * yStep), (col + 1) * xStep - xMargin, titleHeight + ((row + 1) * yStep), parent, TextAnchor.UpperLeft);
             row++;
             if(row == nRows)
             {
@@ -132,6 +154,35 @@ public class GeneratorUI : UIElement
         UpdateUI(CNNWordGenerator.InputWords[CurrentCategory], new List<string>());
     }
 
+    private void LanguageDropdown_OnValueChanged(int value)
+    {
+        if(value == 0)
+        {
+            LangMainLettersText.text = "";
+            LangOmitLettersText.text = "";
+            ActiveLanguage = null;
+        }
+        else
+        {
+            ActiveLanguage = Languages[value - 1];
+            LangMainLettersText.text = ActiveLanguage.GetMainLetters();
+            LangOmitLettersText.text = ActiveLanguage.GetOmittedLetters();
+        }
+    }
+
+    private void AddLanguageButton_OnClick()
+    {
+        Language newLanguage = Language.GetRandomLanguage(MarkovWordGenerator);
+        Languages.Add(newLanguage);
+        LanguageDropdown.options.Add(new Dropdown.OptionData(newLanguage.Name));
+        LanguageDropdown.value = Languages.Count;
+    }
+
+    private void LanguageWeightSlider_OnValueChanged(float value)
+    {
+        LangSliderValueText.text = value.ToString();
+    }
+
     private void SkewFactorSlider_OnValueChanged(float value)
     {
         CNN_SkewValueText.text = value.ToString();
@@ -143,7 +194,7 @@ public class GeneratorUI : UIElement
         int iterationsWithoutNewWord = 0;
         while(words.Count < int.Parse(AmountInput.text) && iterationsWithoutNewWord < 100)
         {
-            string word = MarkovWordGenerator.GenerateWord(CurrentCategory, (int)NGramSlider.value, StartInput.text);
+            string word = MarkovWordGenerator.GenerateWord(CurrentCategory, (int)NGramSlider.value, StartInput.text, ActiveLanguage, (int)LangWeightSlider.value);
             if (!words.Contains(word) && (!HideEqualOutputs.isOn || !MarkovWordGenerator.InputWords[CurrentCategory].Contains(word)))
             {
                 words.Add(word);
