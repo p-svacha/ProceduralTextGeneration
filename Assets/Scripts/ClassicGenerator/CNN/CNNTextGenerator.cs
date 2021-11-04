@@ -34,13 +34,15 @@ public class CNNTextGenerator
         {"FaberSongs", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
         {"FaberSongText", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
         {"Usernames", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890-_" },
+        {"Murlyndium", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzäöü/-;0123456789" },
         {"Test", " AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz" },
     };
 
     /// <summary>
     /// Defines how many letters back are given the network as an input to predict the next letter
     /// </summary>
-    private const int SegmentLength = 8;
+    private const int SegmentLength = 12; // 8
+    private const float LearningRate = 0.02f; // 0.008f;
 
     private const char WordStartChar = '>';
     private const char WordEndChar = '<';
@@ -63,7 +65,7 @@ public class CNNTextGenerator
 
             int[] layers = new int[] { AcceptedChars[category].Length * SegmentLength, AcceptedChars[category].Length * SegmentLength / 2, AcceptedChars[category].Length * SegmentLength / 4, AcceptedChars[category].Length };
 
-            NeuralNetwork network = new NeuralNetwork(layers, ActivationFunctionType.Sigmoid);
+            NeuralNetwork network = new NeuralNetwork(layers, ActivationFunctionType.Sigmoid, LearningRate);
             Networks.Add(category, network);
         }
     }

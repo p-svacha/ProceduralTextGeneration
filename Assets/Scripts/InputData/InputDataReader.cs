@@ -17,6 +17,7 @@ public static class InputDataReader
         //{ "FaberSongs", InputDataType.SingleLine},
         //{ "FaberSongText", InputDataType.MultiLine},
         { "Usernames", InputDataType.SingleLine},
+        { "Murlyndium", InputDataType.SingleLine},
         //{ "Test", InputDataType.SingleLine},
        
     };

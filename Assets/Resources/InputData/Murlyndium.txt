@@ -1,0 +1,215 @@
+Murlynd;K;1;1;2;FR
+Blöder Kiesel;K;1;1;1;ST
+Dämonenhändler;K;2;2;2;DM
+Grosse Eiche;K;4;4;5;PF
+Retry;Z;3;;;
+Strassenhändler;K;3;2;2;
+Verkauf;Z;0;;;
+Saphir;K;2;0;4;ST
+Toter Doc;K;6;3;5;GE
+Fraton;K;2;3;2;FR
+Class Cleansing;Z;4;;;
+Surprise Heal;Z;0;;;
+NPC;K;4;1;1;
+Heilige Beschützerin;K;5;3;3;
+Krümelfresser ;K;3;2;4;FR
+Karneval;Z;1;;;
+Supersmoothie;Z;4;;;
+Kaulquappe;K;2;1;1;FR
+Froschkönig;K;8;7;7;FR
+Little Helper;K;2;2;2;
+Besoffener Axtkämpfer;K;3;5;2;ZW
+Schlechter Raub;Z;3;;;
+Glückszwerg;K;3;3;3;ZW
+Anfängergespenst;K;1;1;1;GE
+Fat Cat;K;6;4;6;KK
+Pestdoktor;K;5;3;6;DM
+Platzregen;Z;2;;;
+Mahlzeit;Z;6;;;
+Der Zwergenführer;K;6;7;6;ZW
+Class Retreat;Z;3;;;
+Nachbarnerver;K;6;6;3;GE
+Katzengras;K;3;1;5;PF
+ATM;K;3;0;5;
+Rammbockbüsi;K;3;3;1;KK
+wtf put it back;Z;3;;;
+Stöcklibüsi;K;3;5;2;KK
+Sandmann;K;2;2;2;ZW
+Efeu;K;0;3;3;PF
+Für mich statt dich;Z;4;;;
+Aktion und Ausverkauf;Z;3;;;
+Slaphand;K;2;2;1;
+Mauerstein;K;2;2;2;ST
+Selbstbedienung;Z;4;;;
+Lange Finger;Z;2;;;
+Atombombe;Z;6;;;
+Pestizid;Z;2;;;
+Inversed Yeti;K;4;5;4;
+Wurzelstock;K;4;2;6;PF
+Rich Boiii;Z;2;;;
+Medizintrank;Z;2;;;
+Duftpilz;K;2;1;4;PF
+Money Money Money;Z;4;;;
+Blutspende;Z;0;;;
+Barrikadenbauer;K;5;3;5;
+Ausschreibung;Z;4;;;
+Deus ex machina;Z;5;;;
+Feuerspucker;K;5;4;4;
+Recycle;Z;1;;;
+Erzzwerg;K;2;3;2;ZW
+Wundergras;K;5;4;4;PF
+Das reinste Gewusel;K;1;1;1;KK
+In yo face;Z;1;;;
+Orangenstrauch;K;4;1;7;PF
+Wählerischer Assassine;K;5;4;3;
+Wichteln;Z;3;;;
+Powerpflanze;K;1;1;1;PF
+Trash Demon;K;1;1;1;DM
+Nachtdieb;K;4;2;2;GE
+Raubfrosch;K;5;3;5;ZW/FR
+Zauberzwerg;K;4;3;4;ZW
+Solider Kaktus;K;3;3;2;PF
+Anästhetikum;Z;2;;;
+Das grosse Mischeln;Z;0;;;
+Morphblob;K;7;6;6;Alles
+Stinky Cat;K;4;7;3;KK
+Atompilz;K;6;7;4;PF
+Release the Zoo!;Z;6;;;
+Wildes Mammut;K;5;4;4;DD
+Piñata-Büsi;K;1;0;4;KK
+Panzerkröte;K;4;4;3;FR
+Big Brain;K;5;5;3;DM
+Spickzettel;Z;3;;;
+(Re)treat yourself;Z;2;;;
+Spitzhacke;Z;3;;;
+Magic Mushroom;K;5;3;4;PF
+Mean Cat;K;4;4;4;KK
+Mine;K;3;1;1;ST
+Ouchy Time;Z;2;;;
+Vampirkatze;K;4;3;2;KK
+Magnetit;K;1;0;4;ST
+Mean Swine;K;5;3;3;
+Anti-Bohne;K;1;3;2;PF
+Drachenpanther;K;5;5;4;DD/KK
+Pfannkuchen Pflanze;K;2;2;2;PF
+Überzeugende Kröte;K;3;2;1;FR
+Erbse;K;0;1;1;PF
+Wundertüte;Z;4;;;
+Giftpflanze;K;1;1;2;PF
+Kartenwurf;Z;3;;;
+Auftanken;Z;2;;;
+Kleinkramputz;Z;4;;;
+Mean Ferkel;K;3;2;2;
+Chamäleon;K;2;2;3;
+Wunderbohne;K;4;2;3;PF
+Onoryant, the Demon;K;4;6;3;DM
+Kleiner Wachser;K;3;3;2;ZW
+Verräterfrosch;K;3;6;2;FR
+Blattlaus;K;1;2;1;
+Emerald;K;2;0;4;ST
+Profi-Horter;K;5;1;3;
+Aufladen;Z;1;;;
+Schlingelpflanze;K;3;4;3;PF
+Counterspell;Z;2;;;
+Surfzwerg;K;3;0;4;ZW
+Dünger;Z;3;;;
+Froschlurch;K;2;2;1;FR
+Schüleraustausch;Z;0;;;
+Spezialköder;Z;1;;;
+Masterplant;K;7;4;8;PF
+Mini-Miniatur;K;1;1;1;ZW
+Froschschreck;K;3;1;4;PF
+Von Nichts kommt Nichts;Z;X;;;
+Zwerg im Panzer;K;5;5;6;ZW
+Kieselwurf;Z;2;;;
+Alphalöwe;K;5;6;5;KK
+Wetterfee;K;2;1;3;
+Hypnoss;K;5;6;3;DM
+Mutterkatze;K;2;1;4;KK
+Mitläufer-Zwerg;K;3;4;3;ZW
+Coup Surprise;Z;3;;;
+Toter Masochist;K;2;3;2;GE
+Fremdstreicheln;Z;4;;;
+Zwergjäger;K;3;2;1;KK
+Restart;Z;2;;;
+Nachschub;Z;1;;;
+Löwentiger;K;7;8;5;KK
+Blutsauger;K;4;3;2;DM
+Pokercheater;K;2;2;3;
+Mein, Dein;Z;4;;;
+Sonnenbad;Z;1;;;
+Giesskanne;Z;3;;;
+Krötenbuddies;K;4;2;2;FR
+Schwobbel;K;3;2;2;
+Mini-Turtle;K;1;1;3;FR
+Stop hitting yourself!;Z;5;;;
+Mini-Wunderlampe;Z;1;;;
+Kleiner Schenker;K;2;1;1;
+Rundumschlag;Z;5;;;
+Räuber-Geist;K;2;1;1;GE
+Wunderlampe;Z;3;;;
+Maxi-Turtle;K;7;3;9;FR
+Schildträger;K;2;2;3;
+Frolix;K;2;1;1;FR
+Jumpcat;K;4;3;2;KK
+Duolingo-Owl;Z;1;;;
+Dicke Bescherung;Z;1;;;
+Schwert oder Schild;Z;5;;;
+Höllenkater;K;5;3;1;KK/DM
+Blöder Stein;K;3;3;3;ST
+Equal Reduction;Z;5;;;
+Rubin;K;3;0;4;ST
+Dinolurch;K;5;3;5;FR/DD
+Messer & Gabel;Z;3;;;
+Powerkater;K;5;5;3;KK
+Geschenkbringer;K;4;3;2;ZW
+Aura-Zwerg;K;4;4;4;ZW
+Moody Cat;K;3;4;4;KK
+Diamant;K;2;0;4;ST
+Boost;Z;1;;;
+Gnadenschuss;Z;1;;;
+Todesseher;K;4;5;3;DM
+Stealing the Enemy;Z;5;;;
+Shun'Goll;K;3;4;3;DM
+Schreckgespenst;K;3;2;1;GE
+Turbobüsi;K;3;6;1;KK
+Twinspells;Z;2;;;
+Blöder Fels;K;7;6;6;ST
+Marionetten ziehen;Z;4;;;
+Stolper-Zwerg;K;3;1;3;ZW
+Doubelizer;Z;4;;;
+Zeitgeist;K;5;4;2;GE
+Goldgolem;K;3;3;3;ST
+Kleiner Hüpfer;K;2;2;3;FR
+Heiliger Gral;Z;5;;;
+Megalosaurus;K;8;7;8;DD
+Panthera Insidia;K;4;6;2;KK
+Kartenfresser;K;0;4;2;DM
+Verflechtung;Z;1;;;
+Spiegelwunsch;Z;1;;;
+Bemooster Heilkristall;K;4;2;5;PF/ST
+Megablock;Z;3;;;
+VIP-Zwerg;K;4;4;5;ZW
+Ruhelose Seele;K;7;3;4;GE
+Geisterstunde;Z;3;;;
+Combonbon;K;0;0;2;Alles
+Eintageszwerg;K;0;1;1;ZW
+Repression;Z;4;;;
+Rem'Voy;K;5;5;4;DM
+Khart'Horteria;K;3;2;5;DM
+Steinschlag;Z;2;;;
+Morgensängerin;K;4;3;3;GE
+X-Zug;Z;X;;;
+Big Ouchy;Z;4;;;
+Split Ouchies;Z;5;;;
+Ballonwurm;K;8;7;6;DM/DD
+Zwergonom;K;3;3;3;ZW
+Effizienz;Z;X;;;
+Lawine;Z;3;;;
+Annojo;K;1;0;1;DM
+Kompostblume;K;3;3;2;PF
+Initiraptor;K;6;7;5;DD
+Augenhöhe;Z;4;;;
+Neuverkabelung;Z;2;;;
+Drachenschneck;K;9;5;8;ST/DD
+Karakal;K;6;5;4;KK

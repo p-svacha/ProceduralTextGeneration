@@ -17,7 +17,7 @@ public class NeuralNetwork
     /// <summary>
     /// Instantiate a new random network with the given layers
     /// </summary>
-    public NeuralNetwork(int[] layer, ActivationFunctionType af)
+    public NeuralNetwork(int[] layer, ActivationFunctionType af, float learningRate = 0.008f)
     {
         switch(af)
         {
@@ -34,13 +34,13 @@ public class NeuralNetwork
         for(int i = 0;i < layer.Length; i++) this.layer[i] = layer[i];
 
         layers = new Layer[layer.Length - 1];
-        for(int i = 0; i < layers.Length; i++) layers[i] = new Layer(layer[i], layer[i + 1], ActivationFunction);
+        for(int i = 0; i < layers.Length; i++) layers[i] = new Layer(layer[i], layer[i + 1], ActivationFunction, learningRate);
     }
 
     /// <summary>
     /// Initialize a neural network with the given layers and weights
     /// </summary>
-    public NeuralNetwork(List<int> layer, List<float[,]> weights, ActivationFunctionType af)
+    public NeuralNetwork(List<int> layer, List<float[,]> weights, ActivationFunctionType af, float learningRate = 0.008f)
     {
         if (layer.Count - 1 != weights.Count) throw new Exception("Wrong amount of layer weights. Expected: " + (layer.Count - 1) + ", Actual: " + weights.Count);
 
@@ -59,7 +59,7 @@ public class NeuralNetwork
         for (int i = 0; i < layer.Count; i++) this.layer[i] = layer[i];
 
         layers = new Layer[layer.Count - 1];
-        for (int i = 0; i < layers.Length; i++) layers[i] = new Layer(layer[i], layer[i + 1], ActivationFunction, weights[i]);
+        for (int i = 0; i < layers.Length; i++) layers[i] = new Layer(layer[i], layer[i + 1], ActivationFunction, learningRate, weights[i]);
     }
 
     /// <summary>
@@ -102,7 +102,7 @@ public class NeuralNetwork
     {
         public ActivationFunction ActivationFunction;
 
-        static float LearningRate = 0.008f;
+        static float LearningRate;
 
         int numberOfInputs; //# of neurons in previous layer
         int numberOfOutputs; //# of neurons in current layer
@@ -116,9 +116,10 @@ public class NeuralNetwork
         private static System.Random random = new System.Random();
 
 
-        public Layer(int numberOfInputs, int numberOfOutputs, ActivationFunction af, float[,] initWeights = null)
+        public Layer(int numberOfInputs, int numberOfOutputs, ActivationFunction af, float learningRate, float[,] initWeights = null)
         {
             ActivationFunction = af;
+            LearningRate = learningRate;
             this.numberOfInputs = numberOfInputs;
             this.numberOfOutputs = numberOfOutputs;
 

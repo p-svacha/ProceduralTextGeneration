@@ -62,7 +62,7 @@
     <Compile Include="Assets\Scripts\ClassicGenerator\CNN\NeuralNetwork\ActivationFunction.cs" />
     <Compile Include="Assets\Scripts\GeoGenerator\CityNameParser.cs" />
     <Compile Include="Assets\Scripts\ClassicGenerator\MarkovChain\MarkovChainWordGenerator.cs" />
-    <Compile Include="Assets\Scripts\ClassicGenerator\Language\LanguageParser.cs" />
+    <Compile Include="Assets\Scripts\ClassicGenerator\Language\FileParser.cs" />
     <Compile Include="Assets\Scripts\ClassicGenerator\CNN\NeuralNetwork\AF_TanH.cs" />
     <Compile Include="Assets\Scripts\GeoGenerator\Country.cs" />
     <Compile Include="Assets\Scripts\ClassicGenerator\CNN\NeuralNetwork\TestDatapoint.cs" />
@@ -77,6 +77,7 @@
     <Compile Include="Assets\Scripts\GeoGenerator\GenerationSettings.cs" />
     <Compile Include="Assets\Scripts\InputData\InputDataReader.cs" />
     <Compile Include="Assets\Resources\InputDataClearer.cs" />
+    <Compile Include="Assets\Scripts\ClassicGenerator\Language\SyllableStructure.cs" />
     <Compile Include="Assets\Scripts\ClassicGenerator\CNN\NeuralNetwork\InputDataPoint.cs" />
     <Compile Include="Assets\Scripts\GeoGenerator\PersonGeneratorUI.cs" />
     <Compile Include="Assets\Scripts\GeoGenerator\CountryInfoReader.cs" />
@@ -85,7 +86,6 @@
     <Compile Include="Assets\Scripts\TMX\TMXCrawler.cs" />
     <Compile Include="Assets\Scripts\GeoGenerator\PersonDisplay.cs" />
     <Compile Include="Assets\Scripts\ClassicGenerator\UIElement.cs" />
-    <Compile Include="Assets\Scripts\ClassicGenerator\Language\SyllableStructure.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Resources\Geographical\forenames\latvia_forenames_female.txt" />
@@ -297,6 +297,7 @@
      <None Include="Assets\Resources\Geographical\cities\MO_cities.txt" />
      <None Include="Assets\Resources\Geographical\forenames\sudan_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\bangladesh_forenames_female.txt" />
+     <None Include="Assets\Resources\SavedNetworks\Planet.txt" />
      <None Include="Assets\Resources\Geographical\forenames\sudan_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\hong-kong_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\surnames\egypt_surnames.txt" />
@@ -445,6 +446,7 @@
      <None Include="Assets\Resources\Geographical\forenames\peru_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\lesotho_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\saint-lucia_forenames_female.txt" />
+     <None Include="Assets\Resources\output_111000.txt" />
      <None Include="Assets\Resources\Geographical\surnames\czech-republic_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\saint-barthelemy_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\cities\IS_cities.txt" />
@@ -468,6 +470,7 @@
      <None Include="Assets\Resources\Geographical\forenames\uganda_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\guatemala_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\forenames\samoa_forenames_male.txt" />
+     <None Include="Assets\Resources\InputData\MaleFirstnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\isle-of-man_surnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\east-timor_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\aruba_forenames_male.txt" />
@@ -609,6 +612,7 @@
      <None Include="Assets\Resources\Geographical\cities\IT_cities.txt" />
      <None Include="Assets\Resources\Geographical\cities\PS_cities.txt" />
      <None Include="Assets\Resources\Geographical\surnames\jordan_surnames.txt" />
+     <None Include="Assets\Resources\output_15000.txt" />
      <None Include="Assets\Resources\Geographical\cities\NC_cities.txt" />
      <None Include="Assets\Resources\Geographical\forenames\saint-helena-ascension-and-tristan-da-cunha_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\cities\SB_cities.txt" />
@@ -931,6 +935,7 @@
      <None Include="Assets\Resources\Geographical\forenames\tonga_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\turkmenistan_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\surnames\argentina_surnames.txt" />
+     <None Include="Assets\Resources\output_10000.txt" />
      <None Include="Assets\Resources\Geographical\forenames\GB_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\surnames\ivory-coast_surnames.txt" />
      <None Include="Assets\Resources\Geographical\surnames\american-samoa_surnames.txt" />
@@ -1003,6 +1008,7 @@
      <None Include="Assets\Resources\Geographical\forenames\belgium_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\saudi-arabia_forenames_female.txt" />
      <None Include="Assets\Resources\InputData\Planet.txt" />
+     <None Include="Assets\Resources\InputData\City.txt" />
      <None Include="Assets\Resources\Geographical\forenames\romania_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\surnames\barbados_surnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\russia_forenames_male.txt" />
@@ -1018,6 +1024,9 @@
      <None Include="Assets\Resources\Geographical\forenames\malta_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\cities\SN_cities.txt" />
      <None Include="Assets\Resources\Geographical\countryInfo.txt" />
+     <None Include="Assets\Resources\InputData\FemaleFirstnames.txt" />
+     <None Include="Assets\Resources\RawInputData\cities15000.txt" />
+     <None Include="Assets\Resources\InputData\Murlyndium.txt" />
      <None Include="Assets\Resources\Geographical\forenames\marshall-islands_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\cities\AQ_cities.txt" />
      <None Include="Assets\Resources\Geographical\forenames\malaysia_forenames_male.txt" />
@@ -1048,6 +1057,7 @@
      <None Include="Assets\Resources\Geographical\cities\IM_cities.txt" />
      <None Include="Assets\Resources\Geographical\forenames\trinidad-and-tobago_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\surnames\cameroon_surnames.txt" />
+     <None Include="Assets\Resources\InputData\Lastnames.txt" />
      <None Include="Assets\Resources\Geographical\forenames\kuwait_forenames_female.txt" />
      <None Include="Assets\Resources\Geographical\forenames\ivory-coast_forenames_male.txt" />
      <None Include="Assets\Resources\Geographical\cities\FJ_cities.txt" />
