@@ -12,13 +12,23 @@ namespace PersonGenerator
         public OriginType OriginFilterType;
         public SexType SexFilterType;
 
-        public GenerationSettings(int numNames, List<Country> origins, List<string> sex, OriginType countryFilterType, SexType sexFilterType)
+        public int MaxLengthFirstName;
+        public int MaxLengthLastName;
+        public int MaxLengthStreet;
+        public int MaxLengthCity;
+
+        public GenerationSettings(int numNames, List<Country> origins, List<string> sex, OriginType countryFilterType, SexType sexFilterType, int maxLengthFirstName, int maxLengthLastName, int maxLengthStreet, int maxLengthCity)
         {
             NumNames = numNames;
             Origins = origins;
             Sex = sex;
             OriginFilterType = countryFilterType;
             SexFilterType = sexFilterType;
+
+            MaxLengthFirstName = maxLengthFirstName;
+            MaxLengthLastName = maxLengthLastName;
+            MaxLengthStreet = maxLengthStreet;
+            MaxLengthCity = maxLengthCity;
         }
     }
 

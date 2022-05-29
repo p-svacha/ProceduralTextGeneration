@@ -1,0 +1,626 @@
+St James's Club Antigua
+Galleon Beach Club
+Falmouth Harbour Condominium
+Galley Bay Heights
+John Hughs Community
+Sugar Ridge
+The North Shore Luxury Serviced Apartments
+The Palms
+Royal Gardens
+Seaview Villes
+Cedar Valley Springs
+Amor Villas
+Coral Villas
+Paynters Paradise: Social Security Housing Scheme
+Bolans
+2 Armstrong Rd
+Abbotts Farm Road
+Admiral Lane
+A Goodman Street
+Almond Drive
+Athill Street
+Athil Street
+Barrel Beef Avenue
+Basil Crescent
+Batchelor Road
+Bennett Street
+Bishopsgate Street
+Blackpineapple Drive
+Boon's Haven
+Bougainvillea Lane
+Brysons Street
+Caribbean Drive
+Carolyn Avenue
+Cedarwood Lane
+Cemetary Road
+Central Street
+Charlotte Street
+Church Road
+Church Walk
+College Street
+Complex Drive
+Dove Trail
+Dr. Yele Akande Drive
+Duberry Road
+East Lightfoot Drive
+Emerson Rise
+Farrel Road
+Fernie Drive
+First Avenue
+Florence Cole Street
+Francis Lane
+George Street
+Golf Course Road
+Hidden Valley Road
+Hilda Davis Drive
+Hill Side View
+Hilltop Drive
+Hunte Road
+Jim Daddy Road
+Jolly Harbour
+Joseph Road
+Limestone Street
+Linkencel Trail
+Locust Lane
+Luther George Place
+Mc Coy Road
+Mercury Road
+Mill Road
+Mill Square
+Mount Zion Baptist Drive
+Mt Pleasant Drive
+Needs Must Circle
+Ocean Lane
+Old Maul Bay Road
+Oleander Drive
+O. R. Kelsick Crescent
+Orr Road
+Palm Drive
+Palm Lane
+Panoramic View Drive
+Paradise Road
+Paynters Court
+Pear Crescent
+Plum Lane
+Poinsettia Crescent
+Reginald Steven's Boulevard
+Royal Antigua Hotel Drive
+Rue de Stables
+Santa Maria Crescent
+Scotts Hill
+Seafood Road
+Sea View Crescent
+Sherwood Road
+Smith Road
+Steffun Avenue
+Stevens Street
+St James Drive
+Sugarmill Road
+Summer Lane
+Tamarind Drive
+Tanner Street
+Thames Street
+Thomas Road
+Tindall Road
+Tonge Lane
+Tower Road
+Uncle Wally's Road
+Union Road
+Valley View Drive
+Verna Lane
+Vista Drive
+Warri Road
+Wild Orchid Drive
+Alley Drive
+Koot Bush Drive
+White Wood Tree Drive
+Airport Road
+Beazer Street
+Buffalo Road
+Burton Street
+Christian Street
+Desuza Street
+Duck Pond Road
+Francis Street
+Hopkins Street
+James Street
+John Street
+Lagoon Street
+Low Mission Street
+Low Pond Road
+Rockshop Road
+Teague Street
+Thomas Street
+Timbuk Street
+Top Mission Street
+Warbler Drive
+Webber Street
+Well Street
+Flamboyant Drive
+Ixoria Drive
+Calypso Avenue
+Cedar Mill Road
+Cedar Springs Avenue
+Sugarmill Drive
+Sea View Connect
+Hump Ridge
+Mill Lane
+Cashew Drive
+Sting Ray Avenue
+North Road (W)
+Woodwork Alley
+Cops Drive
+Midway (E)
+Midway (W)
+Coal Pot Avenue
+Guava Lane
+Coconut Place
+Strann Lane
+Lemon Lane
+Cotton Lane
+St Mary's Street
+Oleander Drive
+Orchid Hill Road
+Camron Street
+Christina Lane
+Ixora Close
+Hodges Bay Drive
+Croton Drive
+Hibiscus Street
+Bougainvillea Drive
+Cactus Lane
+Tamarind Heights
+Country Club Road
+Matthias Drive
+Ixoria Crescent
+Cedar Mill Road
+Epicurean Drive
+Seaview Court
+Lois Lane
+Palm Treet Lane
+Emancipation Road
+Pappa Sammy Road
+Stony Hill Drive
+Harmony Crescent
+Mahogany Drive
+Grape Drive
+Belle Vue Drive
+Mango Lane
+Dunstans Lane
+Christo Lane
+Barnes Lane
+Rhodes Lane
+Harrigan Road
+Mary Moore Road
+Hilltop Avenue
+George Lane
+Rhodes Avenue
+Simon Road
+Glendina McKay Avenue
+Anesta Richardson Street
+Catherine Brand Drive
+Robert Josiah Street
+Octavia Stevens Avenue
+Sir Howard Hulford Street
+Morris Garden Drive
+Monica Isaac Street
+Acacia Lane
+Wild Fig Lane
+Sunlit Lane
+Dumps Tree Circle
+Pear Tree Lane
+Osprey Close
+Mahogany Drive
+Cedar Place
+Almond Place
+Nelson Mandela Drive
+2nd Avenue
+Poinsetta Street
+Flamboyant Drive
+Croton Lane
+St Georges Close
+Harris Street
+Walker Street
+Askie Street
+Hibiscus Avenue
+Flamboyant Avenue
+Palm Drive
+J. Hadeed Street
+J Athill Street
+Oleander Close
+Orchid Close
+A Goodwin Street
+Chelsea Lane
+Mackinnons Close
+Evanson Road
+Pringle Street
+Second Avenue
+Blackburne
+Alfred Peters Street
+Gray's Crescent Steet
+St. John's Street
+St Georges Street
+Wilkinson Cross
+Wapping Lane
+Christian Street
+Rose Street
+Armstrong Road
+Gin Gin Way
+Richardson Road
+Station Street
+La Blalie Road
+Docuna Bush Alley
+West Rise
+Music Avenue
+Stoneware Road
+West Alley
+Homewood Road
+Renbert Road
+Adventist Lane
+Church Lane
+Yabba Crescent
+Pottery Way
+Nurse Henry Drive
+East Connect
+Park Lane
+East Rise
+Centre Rise
+Scotts Hill Road
+Phillip Isaac Road
+Rochelle Road
+Edith's Drive
+Genip Lane
+Kings Glass Road
+Holly Road
+Goldenapple Drive
+Orange Lane
+Sugarapple Drive
+Cherry Lane
+Fingerrose Hill Lane
+Maliapple Drive
+Warri Lane
+Avocado Lane
+Bachelor Drive
+Beauty Lane
+Date Place
+Tilagro Farm
+Egret Lane
+Mallard Lane
+Tamarind Drive
+Plane View Drive
+Stone Pind Road
+Coconut Drive
+Caribbean Lane
+Cocoplum Road
+North Road (E)
+Almond Lane
+Cedar Crescent
+Park Crescent
+Saucer Lane
+Charcoal Lane
+Wild Pine Drive
+Rollins Lane
+Sunflower Drive
+Palm Crescent Lane
+Campsite
+Montview Lane
+Joshua Street
+Lady Pelle Avenue
+Prison Drive
+Samuel Lewis Close
+Pearson Road
+Newgate Lane
+South Street
+Nellie Robinson Street
+Nelson Street
+Prince Klass Street
+Lionel Hurst Street
+St Johns Street
+Deanery Lane
+Stephen Street
+Upper Church Street
+Agatha E Goodwin Street
+Andy Roberts Street
+Gutter Lane
+Ferris Close
+Stapleton Lane
+St James Drive
+Chapel Hill Road
+Palm Drive
+Humbug Road
+Enid's Gap
+Gilbert Drive
+Thibou-Thomson Road
+LIAT Road
+Windy Crescent
+Whitehead Drive
+Hawksbill Circle
+Tristan's Crescent
+Bowlers Lane
+Preston Road
+Thomas Road
+Kranji Samuel Peters Lane
+Atlantic Avenue
+Crystal Road
+Tan Tan Lane
+Royal Palm Road
+Taylor Way
+Delightful Drive
+Hilltop Crescent
+Neem Drive
+La Serena
+Cotton Lane
+Bryan Lane
+Flamboyant Close
+Surrey Place
+Thibou's Drive
+Tecoma Crescent South
+Arnold William Street
+Rose Lane
+Oleander Drive
+Pomerac Drive
+Sunset Heights
+Evlene Drive
+Tecoma Crescent North
+Laura Lane
+Overlook Drive
+Edith Thomas End
+Nelson Drive
+Admirals Road
+Camp Site
+Nichols Lane
+Boon's Point
+Marion Street
+Lee Avenue
+Stella Maris
+Denise Lane
+Ethan Alley
+Prince Albert Court
+Ocean Lane
+Lord Nelson Drive
+Bougainvillea Avenue
+Cocoplum Drive
+Casmore Lane
+Green Hill Road
+Mt William Road
+Evergreen Tree Road
+Orange Drive
+Nubian Lane
+Pineapple Drive
+Maurice Hope Road
+Sugarmill Road
+Church Lane
+Bella Vista Crescent
+Quarry Hill Road
+Patterson Lane
+Cool Lane
+Church Street
+Horsford Alley
+Tullip Road
+Antigua Avenue
+Jarvis Road
+Edwards Road
+Harvey Street
+Coffee Drive
+Boat Yard Circle
+Starton Avenue
+Walnut Road
+Indigo Street
+Pipe Road
+Corolita Road
+Eucalyptus Street
+Line Track
+Joseph Road
+Noami McKnight Avenue
+Chicken Pond Street
+Pong Ghut
+Bonk Street
+Mahogany Drive
+Mango Wharf Lane
+Halla Garden Drive
+Locas Gate Loop
+Michael Francis Street
+Cockle Bay Street
+Lydia Road
+William James Street
+Humming Bird Lane
+North Hill Road
+Seagull Lane
+Ivor Heath Drive
+1st Avenue
+5th Avenue
+3rd Avenue
+4th Avenue
+Dr. Rosa Lee Drive
+Hibiscus Drive
+Fitches Circle
+Crest Close
+Cinnamon Drive
+drag strip
+Pearla Joseph Street
+Branford Looby Street
+Anthurium Lane
+Mahogany Lane
+Tamarind Lane
+Cora's Lane
+Charles Street
+George Street
+Lewis Street
+Punter Street
+Cephas Street
+Nedd Street
+Deazle Street
+Circle Street
+Short Lane
+Connel Street
+Frank Street
+Joseph Street
+Griffin Street
+Jones Street
+Gore Street
+Dendrobium Drive
+Fountain Hill
+Tamarind Close
+Sunset Close
+Evergreen
+Sunset Lane
+Paradise View Drive
+Marble Suites
+Mongoose Lane
+Estate Alley
+T.N. Kirnon Street
+Third Avenue
+Garden Street
+Diet Street
+Christopher Street
+Rudee Stable
+Fitzroy Pestiana Street
+Pelle Street
+Palm Street
+Cotton Lane
+Penny Lane
+Ivy Lane
+Bell Street
+Hibiscus Road
+Samuel Matthew Lane
+Crystal Lane
+Ryans Avenue
+Fifth Avenue
+Spring Street
+Gordon Street
+Piggott Street
+Sixth Avenue
+Fourth Avenue
+Friendship Circle
+Galley Bay Heights
+Mariners Lane
+Chiddick Road
+Din Din Road
+Galley Bay Road
+King Obstinant Drive
+Hawksbill Road
+Mercy Street
+Luftus Lane
+Tempest S Mason Street
+Henry J Hill Drive
+Church Street
+Cheyenne Thomas Street
+White Road
+Cave Road
+Goat Island Road
+River Road
+Sea View Highway
+DeSouza Road
+Kentish Road
+Powells Main Road
+Hodges Bay Road
+Westcott Avenue
+Lauchland Benjamin Drive
+Swetes Main Road
+Old Road
+Central Avenue
+Rohan Henry Road
+Bumpy Well Road
+Found Out Road
+Horse Pond Road
+Marble Hill Road
+West Indies Oil Road
+Anchorage Road
+Halcyon Road
+K Joseph Street
+McKinnons Way
+Access Road
+All Saints Road
+American Road
+Bay Street
+Bendals Road
+Buckleys Road
+Camacho Avenue
+Fig Tree Drive
+Flemming Street
+Friars Hill Road
+Independance Avenue
+Irene Carlos Highway
+Jonas Road
+Matthews Road
+Old Popeshead Road
+Sheppard Street
+Sir Sidney Walling Highway
+St Philips Main Road
+Valley Road
+Willikies Main Road
+Yepton Road
+Hawkins Drive
+Nellie Robinson Drive
+Queen Elisabeth Highway
+Hospital Drive
+Whenner Road
+Corn Alley
+Market Street
+Popeshead Street
+Sir Vivian Richards Street
+Joseph Lane
+Church Lane
+Cemetery Road
+Collins Road
+English Harbour Road
+Hospitality Drive
+Cedar Valley Road
+Mahico Drive
+Jabberwock Road
+Sir George Walter Highway
+Neem Avenue
+Blue Waters Drive
+Weatherall's Road
+Cedar Valley Road
+Parliament Drive
+Atlantic Avenue
+Freeman's Ville Main Road
+Matthews Road
+Doctor's Drive
+Piggotts Main Road
+Second Avenue
+First Avenue
+Ring Road
+Half Moon Bay Main Road
+Glanvilles Main Road
+Sand Road
+Castle Road
+Spanish Well Road
+Fishing Creek Road
+Two Foot Bay Road
+Marble Drive
+Amy Byer Street
+Eustace Henry Round-A-Bout
+Perry Bay Road
+Federation Road
+Boot Hill Road
+Sandy Lane
+Mount Obama Trail
+South Loop Trail
+Ridge Trail
+Hurricane Alley
+SignPro Boulevard
+Third Avenue
+"Devil""s Bridge Road"
+Devil's Bridge
+Savanna Avenue
+.Nelson's Alley
+Carpenter's Trail
+Dr Deepthinath Rehunathan Way
+Dr Dyal Singh Drive
+Jones Valley Trail
+Mount Obama Road
+Pavilion Drive
+Sea Moss Drive
+Prime Minister's Drive
+Middle Ground Trail
+Ridge to Valley Trail
+Abbotts Lane
+Bank Alley
+Soul Alley
+Lookout Trail
+Cassada Gardens Horse Racetrack
+Dutchman's Bay Drive
+Madiera Drive
+Texaco Dock Road

@@ -1,0 +1,448 @@
+Comboni Brothers' Mission Residence
+House
+Residential area
+IDP camp
+UNHCR compound
+residential area
+Tukul
+Tukul
+Tukul
+fence?
+Residential Area
+Residential Area
+.
+Tukul
+Residential
+yes
+House
+House
+House
+small town - 250 houses
+?
+Landuse Features=Residential Areas
+Landuse Features=Residential Areas
+Landuse Features=Residential Areas
+Residential Area
+Residential Area
+Residential Area
+oo
+Gasmala
+MSF CLINIC
+MSF CLINIC
+Doro Refugee Camp
+Doro Refugee Camp
+Hut
+Hut
+Minkamman
+Residential Area
+Dr's Building
+Building(s)
+Hut
+Lang
+Adior
+Area1
+Ulu
+landuse=residential
+landuse=residential
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tukul
+Tuluk
+Tuluk
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+KuutioCity
+MelkeeKuutioCity
+Neum
+hökkelöskylä
+possible residential area
+Malek Alel
+Residential Area
+Village
+Kykkoskela
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+landuse=residential
+Hamlet
+Médecins Sans Frontières (MSF): Inpat Compound
+Comboni Sisters' Mission Residence
+Tamor
+Gier
+IDP Camp Denthoma 1
+Village
+ROK ROK
+IDP Camp Denthoma 1
+IDP Camp Denthoma 2
+Buopdit Centre
+Chamidi-a
+Rom
+Saint Teresa Fathers Quarters
+Juba University Staff Housing
+Combined Relief Team Agencies
+Juba University Staff Housing
+Nyokuran Cultural Center
+sadham home
+sule home
+dukan hasun
+sabrin home
+laku sid home
+mama martha
+betty home
+Fadallah home
+Rock City Hotel Compound
+sweet home
+UNDP Compund 1 (Residence)
+Presidential Palace (J1)
+USAID
+UNDP Compound 2 (Residence)
+USAID Residences
+USAID Residences
+USAID Residences
+St. Kizito Ch. Complex
+Nimule residential Area
+County Headquarters State Assembly
+Nile Nest Apartments
+Saint Martin Brothers Residence
+Staff Houses
+Saint Teresa Sisters Quarters
+Elite Residence
+Tukul
+Salesians of Don Bosco
+Salesian Sisters
+Firka
+Motot - Lankien Road
+Kabash Road
+Tindoka Road
+Napere Road
+Wuntau-Melut East
+Assossa Road
+Vei
+Suk Gamba Road
+Tingida Street
+Road
+Road
+Rekyuol Road
+Nakpadu Road 
+Ikpiro Road
+Zamoi Road
+Mokonzi Street
+Iningo Street
+Naagori Road
+19th Street
+28th Street
+20th Street
+Red Cross road
+18th Street
+15th Street
+12th Street
+19th Street
+Usratuna Road
+Seria Arubeni
+16th Street
+17th Street
+Annacurra Street
+s
+21st Street
+Lakujo Road
+Jukokurembe Road
+Zamba Road
+Baiparu Road
+Gbudue Street
+Prison Road
+Nabima Road
+residential road
+Malakal-Jamam Road
+Gogrial-Aweil
+Maurintie
+Ehkätie
+Pochalla-Akobo
+Terakeka-Minkamman
+Oviedo's road
+Awerial-Tindalo
+Rokon-Minga Spur
+Nanyangachor_West
+Akot-Adhel
+Rumbek-Cueibet
+Rumbek-Maper
+Rumbek-Tonj
+Rumbek-Akot
+Faraksika-Maridi
+Yei Maridi
+Doruma-Nagasi
+Madebe-Egge
+Kotobi-Gariya
+Kimotong-Bor
+Juba-Kapoeta, Nimule Highway
+Mafi Road
+Stuart King Lane
+River Crossing
+Kapoeta-Chukudum
+River Crossing
+River Crossing
+Torit-Lafon Road
+Torit-Juba
+Lainya-Yei
+Kimotong-Kapoeta
+Juba University Roundabout
+Juba-Terakeka
+Jambo-Lainya
+Juba-Yei New
+Juba Bridge
+Torit-Juba
+Adis Ababa Street
+Juba -KajoKeji Road
+Gudele-Munuki Roundabout
+Kokora Road
+Independence Road
+Happy Street
+Juba University Road
+Addis Ababa Road
+Zain Road
+Sar Vetery
+Adis Ababa Road
+Juba-Mundri
+Juba-Terakeka Road (Khor mobil)
+CPA Road
+Cessna Lane
+alternate route
+Nimule-Gulu;A 104
+Nimule-Gulu A104
+Yei - Koboko Road
+Opari-Farajok
+Minkamman-Yirol
+Kajo-Keji-Moli
+Mosque Road
+Airport Road
+High Mission Road
+Hyjamia Street
+Chukudum-Lotukei
+Akot-Yirol
+Kaya-Yei
+Akot-Mvolo
+Saura-Nakang
+Maruka-Madebe
+Malualkon-Akak
+Road
+Abyei - Diffra
+Akon-Alek
+Gogrial-Abyei
+Rumbek-Tonj
+Thiet-Malau_Pech
+Thiet-Wun Chuei
+Unknown
+Wau-Gogrial
+Bentiu-Gogrial
+Higlig-Bentiu
+Leer-Adok Road
+Leer-Mayendit
+Mayendit-Shambe
+Mayom-Duar
+Airport Drive
+Airport Road
+Bilpam Road
+Congo Road
+Customs Road
+Gudele-MiaSaba Road
+Gudele Road
+Juba-Lainya
+Juba-Mangalla
+Juba Road
+Juba-Sindiru-Karpeto-Moli
+Juba-Terakeka
+Kajo Keji-Yei
+Kaya Road
+Konyokonyo Road
+Kubri Abuba
+Liberty Clock
+Magwi-Sirsiri
+Sirsiri-Moli
+Terakeka-Minkamman
+Terakeka-Tindalo
+Unity Road
+Yei-Juba Road
+Yei Maridi
+Amadi-Kemande
+Amadi-Tali
+Ezo-Nagasi
+Faraksika-Mundri
+Juba-Mundri
+Mundri-Mvolo
+Mvolo-Rumbek
+Rosolo-Maridi
+Tambura-Wau
+Camp 15 - Chukudum
+Juba-Sindiru-karpeto-Moli
+Kapoeta-Chukudum
+Karenga-Torit Road
+Lokichokio-Kapoeta
+Magwi-Sirsiri
+Narus-Boma
+Nimule-Gulu;A 104
+Sirsiri-Moli
+Torit-Pageri
+Malakal-Bentiu
+Boma-Ethiopia
+Camino de tierra
+Duk_Padiet-Waat
+Kassangor-Boma
+Likuangole-Akobo
+Narus-Boma
+Pibor-Pochalla
+Waat-Ayod
+Busserri Street
+Raja-Malualkon
+Wau-Kuajiena
+Rumbek-Tonj
+Minkamman-Yirol
+Minkamman-Yirol
+Akot-Adhel
+Rumbek-Akot
+Awerial-Pakujiak
+Rumbek-Maper
+Ezo-Yubo
+Tambura-Yubo
+Awerial-Pakujiak
+Mvolo-Rumbek
+Aweil-Malualkon
+Dokul bridge
+Malualkon-Sumeih
+sass
+U Davida
+Yargot bridge
+Abyei-Ajackwac
+Akon-Akak
+al startupgrande
+Wathok Bridge
+Kuom Bridge
+Wau-Tonj
+Bentiu-Gogrial
+Wau-Warrab
+Tambura-Wau
+Bisellia-Wau
+Wenyal to Pulturuk
+UN FAO Road
+Unmiss Road
+Lankien to Thol
+Wechakuen Road
+Pulturuk Swamp Track
+Bolbel Track
+Wenyal - Pakum
+kekkoskatu
+Pista de tierra
+Pista Alejandro Poso
+Camino Secundario
+Posible de camino
+Nasser-Ethiopia
+As Track inferred by river crossings
+Leer-Bentiu Road
+Jiath Bridge
+Pulturuk to Tharkuel
+Waat-Malakal
+Leer-Adok Road
+Bentiu-Leer
+Koch-Leer Road
+Wun_Chuei-Boyapak
+Dar es Salam Road (Char Franco)
+Gaar Road (River Road)
+Mvolo-Maridi
+Ezo-Yangiri
+Midland Highway
+Juba-Kapoeta
+Nzara Road
+Malakal-Bentiu
+Jamam-Bunj Road
+Melut - Mabek track
+Abu_Gebiha-Athidway
+Beir Road
+Kaldak-Canal Road
+Unknown
+Kimatong-Camp 15
+Gombura Street
+Customs Roundabout
+Melisia-Libiya Road
+Zugbe Street
+Dr John Garang Road
+Torit-Gilo
+Magwi-Farajok
+Pageri-Nimule
+Kajo-Keji-Moli
+Pageri-Moli
+Ajumani - Kajo Keji Road
+El Salaam
+Malakal-Bentiu
+Malakal-Bentiu
+Turalei-Ajackwac
+Awerial-Pakujiak
+Pulowar Road
+Bor-Mabior
+WFP Compound road
+Yirol-Shambe
+Juba-Terekeka Road (Khor Mobil)
+كافيا كنجي - رادوم / Kafia Kingi-Radom
+Malakal-Bentiu
+Nagdiar-Doleib_Hill
+Ikotos-Uganda
+Ikotos-Chukudum
+Kakelay-Lotukei
+Kapoeta-Kassangor
+Lobira-Ikotos
+Tali-Madbar
+Maridi Road
+Tindalo-Kemande
+Gogrial-Aweil
+Gogrial-Warrab
+Lunyaker-Thiet
+Gogrial-Aweil
+Track Road
+Wau-Tonj
++
+footpath
+rural road
+Sti
+track
+Unknown
+Nyanapol-Wai
+COA Road
+Footpath
+s
+Wau-Aweil
+path
+agrarian feature
+agrarian features
+Public Market
+Public Market
+sendero
+Toilets Males
+Sti
+Sti
+Sti
+Sir
+Sto
+Dirt Path 2
+Dirt Path 1
+Path
+Rumbek Freedom Square
+pp
+Lauru-

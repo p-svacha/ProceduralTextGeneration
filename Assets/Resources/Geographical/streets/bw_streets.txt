@@ -1,0 +1,923 @@
+Government Employee Housing
+Savuti
+Tau Pan Camp
+Staff Village
+D'kar
+Kalahari Plains Camp
+Zutshwa
+Bokspits
+Moralane
+Sehunou
+SOS Children's Village - Francistown
+Mokgware
+Makwa
+Kedia
+Mmatshumo
+Gweta
+Kirkia Camp
+Wilderness Tented Camp
+Marula Tented Camp
+Main Staff Village
+Lipadi Rock Lodge
+Commercial Lodge Site
+Island Lodge
+River Camp Staff Village
+River Camp
+Reserve Office
+Savuti Elephant Camp
+Kachikau
+Old Kazungula
+Panda Rest Camp
+Santawani
+Police Housing
+Discovery Copper Botswana - Toteng Estate
+Boseto Copper Project Camp
+New Stands
+Mukwa Leaf Gardens
+Tsaro Lodge
+Machaba Camp
+Starling Lodge
+Shamushima
+Maun Road Court
+KASAC Court
+Chief's Island Square
+Aha Close
+Kxongxe Crescent
+Mutu Road
+Gxaharau Close
+Dube Close
+Xaudum Close
+Magowo Close
+Gcwudum Street
+Gadikwe Close
+Cakanaca Close
+Mampi Close
+Cijira Close
+Taunyane Close
+Tsara Close
+Tsetsebjwe Crescent
+Chosoraga Road
+Mwanachira Road
+Comoroca Road
+Swaneng Hill Road
+Dinaka Road
+Bopharama Close
+Diphala Close
+Kgasa Lane
+Tati Road
+Mathangwane Road
+Jabavu Close
+Semane Close
+Moeng Road
+Monishioa Road
+Sebele Close
+Buffalo Close
+Mackenzie Road
+Monato Road
+Makololwane Road
+Mmupudu Road
+Mogonono Road
+Mokala Road
+ZK Crescent
+Mookla Close
+Matlhogela Road
+Nakedi Dr
+Sebudu
+Leukukara Dr
+Leya
+Koro Street
+Lehututu
+Ndodi Dr
+Lesogo Street
+Audi St
+Naledi Cl
+Mogalakwe
+Kgotla
+Sanyedi
+Pulane Rd
+Matlapaneng Bridge
+Motshaba Street
+Lentswele Moriti Hill Road
+Maretele Hill Close
+Mathlabanelo Hill Road
+Ditolwane Hill Close
+Dikopanye Close
+Gamosiiwa Road
+Hebron Road
+Kangwe Close
+Botumatau Road
+Litabe Road
+Bonwapitse Street
+Botepetepe Crescent
+Mahurushele Road
+Boratapula Street
+Janke Street
+Jwelejwete Street
+Kaego Street
+Jamataka Road
+Ikula Street
+Inkotsa Street
+Roas
+ROad
+Mogodiri Road
+Tshotho Road
+Motsikiri Road
+Mosagwe Crescent
+Tlatlagobe Road
+Mongana Road
+Mpanda Road
+Dungu Road
+Paraxau Road
+Tilwane Road
+Seronga Road
+Bokwi Road
+Lotsane Road
+Kwahu Road
+Thekwani Road
+Mavange Road
+Moshaoka Road
+Bodiakhudu Road
+Molekangwetsi Crescent
+Boridze Place
+Masokaphala Crescent
+Mothaphutha Road
+Thantabana
+Kwizi Road
+Mokabi Road
+Masokaphala Road
+Motopi Avenue
+Moepo Cres
+Lervo Street
+Mmutla Avenue
+Letsoku Street
+Ditlhabololo Avenue
+Makgabana Avenue
+Diphetyo Street
+Nqwao Street
+Motswere Close
+Mbgweti Cres
+Tilodi Cres
+Letototo Close
+Sabasi Avenue
+Pereetone Close
+Pereetone Clos
+Tsie Close
+Phene Street
+Mpanda Close
+Lesedi Cres
+Kedikilwe Drive
+Kwena Street
+Shololoviya Close
+Grey Street
+Sebaga Drive
+Saakane Drive
+Nare Drive
+Gulubane Street
+Sekerese Avenue
+Moatlhodi Drive
+Relebogile Drive
+Phala Avenue
+Tshabadira Drive
+Phala Ave
+Phutisutlha Road
+Gravel Road
+Residential Road
+Antbear Road
+Bibiri Crescent
+Boki Crescent
+Chawe Place
+Diaka Crescent
+Eretsha Crescent
+Gadikonyane Crescent
+Gamanna Road
+Gambule Crescent
+Gatuma Crescent
+Gedixumo
+Gobojango Crescent
+Hanahai Crescent
+Ikatwe Crescent
+Kandalangodi Road
+Kgotla Road
+Konngwe Square
+Kukathebe Road
+Kwalata Road
+Letoto
+Louie Ville
+Mazeaboroka Way
+Mbalambi Way
+Mhatswe Place
+Mogabaladi Crescent
+Mokolodi
+Molope Road
+Mookana Crescent
+Mosetha Road
+Mosetlha Crescent
+Nare Close
+Ngwaku Road
+Nosop Crescent
+Phalatswe Hill Crescent
+Pudulogo
+Rakabeswa Place
+Salajwe Place
+Sedibelo
+Seimacwa Road
+Sejwara Road
+Selemela Loop
+Taukome Hill Crescent
+Thebe
+Thebe Circle
+Tsantsara Close
+Dinoga Street
+Letlhafula Street
+Ntshe Drive
+Ntsu Street
+Phududu Cres
+Bus Stop
+Maaloso Way
+Saint-Pey-d'Armens
+Principal
+Road
+KASAC Court Road
+Twagqadi Crescent
+Twagqadi Road
+Kanyu Road
+Duo Close
+Boronyane Road
+Gcwihaba Close
+Motlopi Road
+Tlhogobane Way
+Magwatane Road
+Kaore Place
+Selinda Close
+Road
+Katuo Road
+Tsau Road
+Mabelane Road
+Sankuto Road
+Modipane Road
+Gamalaka Close
+Tswaing Road
+Ntswesolo Crescent
+Tshilonyane Crescent
+Nyewele Road
+Mabuasehube rangers camp
+Mabuasehube
+Sekgoma Way
+Matseng Close
+Flamingo Road
+Vukwe Close
+State house drive
+Church
+Kgabo Close
+Takhado close
+Makaba road
+Kwena
+Makaukau
+Basin
+Tshepe Street
+Kgari Street
+Thornhill Street
+Gobuamang Street
+Moemi Street
+Mophane Road
+Gungwe Close
+Nyangabwe Close
+Dombashaba Road
+Dithlakore Way
+Kgatlhano Road
+Matsaakgang Square
+Tawana Road
+Phokoje Road
+Mokgalo Road
+Mokotea Way
+Moshoeshoe Close
+Lumumba Close
+Malema Close
+Gandhi Close
+President's Drive
+Totang
+Boyei
+Kgosing
+Audi
+Palmer Street
+Pitsane Road
+Gobe Road
+Mmammoloke Hill Close
+Maikwane Hill Road
+Masunga Road
+Sebikwane Way
+Segokgwe Road
+Dombo Road
+Kakanaga Road
+Monoga Road
+Marapalalo Hill Road
+Maope Hill Road
+Cwikakamban Road
+Dimotswe Close
+Mmasephanka Hill Road
+Mmashehumana Hill Close
+Changate Place
+Motloutse Road
+Phuthadiboko Way
+Kgwakgwe Crescent
+Okwa Road
+Baratani Road
+Metsemothlaba Road
+Oribi Close
+Leopard Road
+Gubadwe Road
+Phifadu Close
+Tshumo Close
+Rhinoceros Close
+Dassie Place
+Matlala Road
+Giraffe Crescent
+Theko road
+Peolwane road
+Mheelo Road
+Letsholathebe Road
+Lephala Road
+Monyanane Road
+Mokadinyane Road
+Motlhapise Road
+Sethugetsane Crescent
+Kanyu Road
+Taueshele Road
+Ditlime Road
+Matlhwatse Crescent
+Juruutsa Crescent
+Tsootsha Street
+Itsokwane Street
+Kaauxara Street
+Kaisara Street
+Kainagwe Street
+Kgokgwe
+Gau Road
+Gabamutsa
+Ditiro
+Hauxa
+Dindinga
+Sesung Road
+Goshwe Road
+Mogonono Road
+Munjenje Road
+Makate Road
+Moumo Road
+Kalamare Road
+Makri Close
+Mailale
+Depenoa Road
+Boatle Crescent
+Sowa Road
+Mokomoto Road
+Poditsane Road
+Legotlho Road
+Kalakamate Road
+Goya Close
+Tshada road
+Nkakarane Road
+Phuduhudu road
+Letimoga road
+Extension 18
+Mhele road
+Mogorogorwana road
+Tlowane
+Khododo
+Tsita
+Tsape
+Ngoma
+Kotantsho
+Raditsebe Drive
+Tshwaragano Street
+Nkuku Avenue
+Quarry Street
+Shayashe Street
+Phane Street
+Mokoba Street
+Moloto Street
+Phokoje Street
+Legola Street
+Morwalela Street
+Phage Street
+Ntshe Avenue
+Tholo Avenue
+Tati Close
+Modumo Close
+Noko Close
+Mamamasiloanoka Drive
+Kgaga Street
+Thapi Close
+Kgaka Cres
+Thekwani Close
+Shoko Close
+Khubulabopedi Street
+Moruti Close
+Mabitla Drive
+Flamingo Drive
+Kanzungula Road
+Kazungula Bridge
+Loop
+Kirkia Passsage
+LL Road 124
+LL Road 125
+LL Road 122
+LL Road 138
+LL Road 103
+LL Road 104
+Old Pipeline Road
+LL Road 90
+Corner Dam Road
+LL Road 98
+LL Road 100
+Koos' Drive
+LL Road 95
+LL Road 97
+LL Road 123
+LL Road 126
+LL Road 142
+van Niekerk Drive
+Platjanbrug
+Swaartsloot East
+Management House Access Track
+Marula Camp Access Track
+LL Road 76
+LL Road 74
+LL Road 73
+Black Rock Loop
+LL Road 112
+LL Road 133
+LL Road 136
+LL Road 132
+Middle Plains Across 1
+LL Road 107
+LL Road 105
+LL Road 101
+Blacksie's Trail South
+Tholo Dam Hide Access Track
+LL Road 5
+LL Road 2
+LL Road 41
+LL Road 87
+Quarry Cut-Through
+Airstrip Drive
+Road through Zanzibar border crossing
+New Private Lodges Road
+RiverCamp Access Road
+LL Road 140
+LL Road 88
+Staff Access Route
+Private Sites to River Camp Road
+Reserve Office Track
+Southern Plains Bend
+Harry's Camp Access Track
+Weir Access Track
+Dirt road to cattle posts
+Transit Road
+LL Road 134
+Magermans Road
+Pietie's Pan Connection
+Magermans bypass
+Lipadi Hill to Pietie's Pan Road
+Thutwa Track
+CLD Hide Access Track
+Hillfront Drive
+LL Road 34
+LL Road 139
+LL Road 36b
+LL Road 30
+LL Road 89
+LL Road 22
+East Springs Road
+Old Man's Wander South; LL Road 31
+LL Road 141
+LL Road 32
+4x4 to Guma/Nguma
+Bodomatau Track
+Border Road Botswana - Namibia
+Dombo - Khwai
+Mathiba I Street
+Moeti Rd
+Mophane Ave
+Old Ghanzi Road
+old Maun - Toteng road
+seasonal
+Seasonal
+Sekgoma Road
+Sir Seretse Khama Rd
+Tsheko Tsheko Road
+Game Roundabout
+Father Columba
+Mellstrom
+Bishops
+Grant
+Father John
+Lesetlhana Road
+West Avenue
+Bathoen Gaseitsiwe Drive
+Nyambisi
+Mokukumelo Road
+Loop Road
+Bothloko Road
+Rainseason accessroad to Kubu Island
+Monganaokodu Road
+Molapowabojang Road
+Unknown Roads
+Unknown Road
+Polentswa Wilderness 4x4 Trail (booking essential)
+!!! SAND for 2.5km !!!
+!!! SANDY for 6.5km !!!
+!!! SANDY for 8.5km !!!
+Willoughby Way
+Motopi Loop
+Wet season road to Baines Baobab
+Matlola Rd
+Moremi III Rd
+may be flooded
+Sekgoma Rd
+Rainbow Roundabout
+Seasonal
+NO EXIT Track noch Completed !
+access road
+Kasane
+Tshweu road
+Mobuto Drive
+A1 intersection link
+Mica Way
+Hippopotamus Road
+Road to Matopi
+Loop
+Nakedi Road
+Noko Road
+Tshetwa street
+Kgame
+Mokolane road
+Pharatlhe crescent
+Monamori road
+Gamathuba Road
+Mmakwena Way
+Kamawe Road
+Litabe Way
+Old Gabane Road
+Nyere Drive
+Staff back of house road
+West Riverfront Drive
+Unit 6 Drive
+Unit 1 Drive
+Unit 5 Drive
+NO EXIT
+Kgabaganyane Road
+Mokutsomo
+Serotologare Road
+Aresutalane
+Hunter's Road / Cutline Road
+Access road to Hunter's Road / Cutline Road
+Access road to HATAB campsite
+Hunters Road Access
+Cutline road
+Permit Holders only
+Mayondo drive
+Paradies Pools Road
+Old Fourth Bridge
+Dry Road Xakanaxa-3rd Bridge
+Marakanelo road
+Motsaudi alley
+Morangwa river loop
+Ondjovu west
+Old Xakanaxa Airstrip
+Dry years only
+recomended
+4 th Bridge drift
+Seasonal
+Road
+Detour
+Seasonal
+S.Gate - Xakanaxa
+Matshelagabedi Access
+Old Matsiloje Road
+Matshelagabedi Access
+Phoenix to Matsiloje
+Phoenix Mine Access
+Selebi-Phikwe Road
+Tsetsebjwe Road
+Mogoditshane Road
+Moiselele Road
+1st Commercial
+4th Commercial
+Airport Road
+ATR-42
+Bethel Road
+Botshabelo Road
+Broadhurst Dr
+Garamalthose Road
+Hatsalatladi
+independence
+Kaunda Road
+Kgomokasitwa Road
+Kubu
+Lobatse Road
+Lobetse Road
+Makaleng Road
+Marapong Hill Road
+Masabasi Way
+Matshabeng
+Mobutu Drive
+Mogoditshane Road
+Molapowabojang Road
+Molepolole Road
+New Lobatse Road
+North Ring Road
+Nyerere Drive
+Pelotshetlha
+P G Matante Drive
+Polokobatho Road
+queens
+Samora Machel Drive
+Sebone Road
+Sunset Mews
+Willoughby Close
+Crescent Street
+Trans-Kalahari-Highway
+Guy Street
+Matsiloje Police Road
+Matsiloje to Dikgatlhong
+Mosi O A Thunya Drive
+Selolwe Drive
+St Patrick
+Kaa Game Viewing 4x4 Trail
+Kaplyn Foot and Mouth
+Mabuasehube Wilderness 4x4 Trail
+Nossob - Bosobogolo 4x4 Access Route
+Polentswa Wilderness 4x4 Trail
+Road to Mabuasehube
+Baobab Road
+Blacksie's Trail
+Boma Road
+Daley's Drive
+Dead Giraffe Drive
+East-Central Fenceline Road
+East Riverfront Drive
+Elephant Castle Drive
+Fallen Fence Road
+Hunters Road
+Hunter's Way
+Hyena River Walk
+Klopper Trail
+Kudu Alley
+Kudu Alley South
+Kukama Road
+Lephale Lodge Road
+LL Road 1
+LL Road 10
+LL Road 113
+LL Road 137
+LL Road 15
+LL Road 16
+LL Road 17
+LL Road 18
+LL Road 25
+LL Road 26
+LL Road 28
+LL Road 3
+LL Road 31
+LL Road 33
+LL Road 35
+LL Road 36
+LL Road 37
+LL Road 38
+LL Road 4
+LL Road 40
+LL Road 42
+LL Road 43
+LL Road 44
+LL Road 45
+LL Road 46
+LL Road 48
+LL Road 49
+LL Road 50
+LL Road 51
+LL Road 52
+LL Road 54
+LL Road 55
+LL Road 56
+LL Road 57
+LL Road 58
+LL Road 59
+LL Road 62
+LL Road 63
+LL Road 64
+LL Road 65
+LL Road 66
+LL Road 67
+LL Road 7
+LL Road 70
+LL Road 72
+LL Road 75
+LL Road 77
+LL Road 78
+LL Road 80
+LL Road 81
+LL Road 83
+LL Road 85
+LL Road 86
+LL Road 9
+LL Road 91
+LL Road 92
+LL Road 93
+LL Road 94
+Magermans Road
+Malope Wabojang
+Marula Camp Fenceline
+Matopi Road
+Mogorosi Loop
+Moritz
+North-East Fenceline Road
+North-West Fenceline Road
+Old Man's Wander North
+Old Man's Wander South
+Old Windmill Road
+Oppie Koppie Road
+Phofu Drive East
+Phofu Drive West
+Plains Drive
+Pole Road
+Powerline Central
+Powerline East
+Powerline West
+River Camp Access Road
+River Camp Shareholder Access Road
+River Fence Road
+River Hide Access Track
+Saambou Drive
+Sand Road
+South-East Fenceline Road
+South-West Fenceline Road
+Springs Lane
+Stork Lane
+Sundowners Road
+Swaartsloot Extension
+The Swaartsloot
+Tholo Road
+Tshekedi Road
+<unterschiedlich>; Kudu Alley
+West-Central Fenceline Road
+Wilderness Crossing
+Zanzibar Dam Lane
+nelson mandela drive
+Nelson Mandela Drive
+Letsholathebe II Rd
+Airport Rd
+Meno Street
+Mowana Street
+Sir Seretse Khama Highway
+Overgrown
+Water crossing
+seasonal
+Temporarily flooded
+Selinda - Khwai road
+Bridge
+Sir Seretse Khama Road
+Dinoge Way
+Old Ghanzi road
+Border Road Botswana
+Border Road Botswana
+Border Road Botswana - Namibia
+Kaa Game Viewing Trail
+Unit 4 Drive
+Unit 3 Drive
+Unit 2 Drive
+Central Facility Drive
+Mizpah Farm Entrance Road
+Mahuditlhake Road
+Takatokwane Way
+Permit Holders only
+Hunters Road
+Selinda spillway
+Selinda Spillway
+Selinda spillway
+Motsibi drive
+Unyati loop
+Black Pools drive
+Moporota alley
+Tsessebe alley
+Pitsi drive
+Ondjovu east
+Motawana drive
+Ngabe road
+Matshwane drive
+Tau road
+Selkirk and Mupane Mine Access
+Phoenix-Mhatane
+Mokaloba Drive
+Hunters Road Access
+B334
+Unit 7 Drive
+Wilderness Camp Access Track
+Kirkia Passsage
+LL Road 108
+LL Road 111
+LL Road 115
+LL Road 116
+LL Road 117
+LL Road 119
+LL Road 121
+LL Road 118
+LL Road 120
+LL Road 135
+LL Road 130
+LL Road 128
+LL Road 131
+LL Road 127
+Middle Plains Across 2
+Lipadi Hill to Lubbesrust
+LL Road 129
+LL Road 110
+LL Road 109
+LL Road 106
+LL Road 20
+LL Road 96
+Tuli Circle Boundary Road
+LL Road 99
+Bape Campsite Road
+Kikao Access Road
+Not existing
+Leopard Rock Loop
+Water crossing
+Water crossing
+Avoid this road
+Ngoma Bridge
+Overgrown
+Loop
+Kachikau to Chobe Ghoha Gate
+Seasonal Access
+seasonal
+Chobi Cutline
+Water crossing
+Cutline Road
+Road closed
+Sandridge Road
+CLOSED ?
+Road connecting water holes
+President Avenue
+Airport Road
+Connection A33 - Hunter's Road
+FORBIDDEN ROAD
+Cutline road
+A33
+Diratsame Mosielele
+Ditlhako Close
+Dinatshana Road
+Kannaguass - Kaa 4x4 Access Route
+Monamodi
+Kaplyn
+Kaplyn
+Cut line
+Cut line
+Bus Rank
+Botswana Road
+Main Mall
+Moapare Road
+Mmaraka Road
+Malope Way
+Tsaro Street
+Male Hill Trail
+Taxi Rank
+Left turn slip lane
+slip lane
+Botswana Innovation Hub
+Station Road
+4x4 Access to Goha Gate
+Kachikau to Linyanti
+Linyanthi - Savuti
+Mababe - Savuti
+Nogatsaa - Kasane
+Nogatsaa - Pandamatenga
+Nogatsaa - Savuti
+Dombo - Xakanaxa
+Mababe - Savuti
+South Gate - 3rd Bridge
+South Gate / Dombo - Xakanaxa
+South Gate - North Gate / Xakkanaxa
+Xakanaxa - 3rd Bridge
+Xakanaxa - 3rd Bridge (seasonal)
+FORBIDDEN ROAD
+South Gate - Khwai Gate
+Fourth Bridge
+First Bridge
+Third Bridge
+Soute Gate / Dombo - Xakanaxa
+Second Bridge
+Kwai Bridge
+Rhino Trail
+Road
+North Gate - Dombo
+South Gate - Xakkanaxa
+Dombo - Xakanaxa (Dry Road)
+Dry season only
+Kachikau - Ghoha Gate
+Boseto Drive
+Mababe - Savuti (Marsh Road)
+Mababe - Savuti (Magwikhwe Sandridge)
+Linyanthi - Savuti road
+Mababe - Savuti (Marsh Road)
+Kachikau to Savuti / Linyanti
+Ghoha Gate - Savuti

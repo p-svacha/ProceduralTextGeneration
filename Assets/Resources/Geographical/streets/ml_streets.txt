@@ -1,0 +1,1929 @@
+L14
+P04
+Banzana
+Village CAN
+Camp des Gardes
+Residence Sous-Prefet De Kayes
+Sero Diamanou
+Bamakoni
+LE13
+fad
+L01
+P01
+AC01
+ILOT03
+ILOT06
+ILOT07
+AM
+AC
+AA
+Z
+AV
+K
+I
+LF
+LE
+Z01
+Z02
+Z03
+Z04
+Z05
+Z1
+Z07
+Z06
+Z08
+Y01
+Y02
+Y03
+Y04
+M08
+M05
+M04
+M03
+V01
+O07
+N02
+L13
+M15
+M07
+I05
+K02
+K01
+G08
+I03
+I02
+I01
+G06
+K07
+K06
+K05
+K03
+K08
+F12
+F05
+F04
+F03
+F02
+G01
+A04
+A06
+F13
+C07
+C06
+F07
+A07
+E01
+P02
+P05
+P06
+P07
+P08
+R01
+P11
+P09
+P10
+U02
+U05
+AD5
+AD2
+AD6
+AD3
+AD4
+AE04
+AE06
+R08
+T03
+T02
+AE03
+AF01
+AF04
+P03
+AI10
+AC02
+AC05
+AI07
+AI11
+AI12
+AI09
+AI01
+AI02
+AI08
+AS05
+AS09
+AS04
+AS02
+AC04
+AR01
+AO08
+AO05
+AO06
+AO02
+AO01
+AO04
+AL05
+AG03
+AV05
+AU01
+AU02
+AO07
+AL08
+AH?
+AT04
+AV04
+AL02
+AL01
+AT02
+AL06
+AO03
+LE18?
+LE15
+LE01
+LE02
+LE11
+LE04
+LE06
+LE03
+LE07
+LC07
+LC05
+LC08
+LA05
+LA06
+LA03
+LE16
+LC03
+LA01
+LA04
+LF01
+LE03
+LE06
+ILOT02
+ILOT05
+ILOT01
+LE05
+LA02
+LG02
+AH???
+AG07/08/09?
+Camp Militaire de Djicoroni Para
+Lycée Ibrahima Ly
+LE
+LA12
+LF02
+LA10
+LA08
+O09
+O02
+O08
+O01
+O
+M16
+N08
+N04
+N03
+M14
+M06
+F06
+G03
+F11
+G
+F10
+E09
+E08
+LG07
+E04
+E07
+LG06
+E03
+LG05
+LG05
+LG04
+LG03
+A
+LD05
+LD01
+LE05
+LE02
+LE01
+AC03
+AC06
+AV03
+AL10?
+R10
+R06
+L12
+L11
+L04
+L03
+C
+C01
+A08
+LD10
+A03
+LD09
+LD08
+LD04
+LA11
+LD07
+LD03
+LA09
+LD02
+LE08
+LA07
+LE07
+LE04
+B
+ILOT04
+N07
+N06
+N05
+M13
+N01
+N
+M12
+F09
+M11
+F08
+M02
+E06
+F01
+M
+E02
+D06
+E05
+D07
+D04
+L
+LE08
+D02
+LG01
+LG
+LE12
+LC06
+LC02
+LE9
+LE17
+LE14
+M01
+L05
+L07
+L06
+L10
+Y05
+Y07
+Y09
+Y08
+Y06
+T01
+AD1
+U06
+U01
+R07
+U08
+ILOT
+T
+U
+AI
+R
+V
+Y
+Y10
+W03
+W07
+W08
+V02
+V03
+V05
+V04
+V06
+V07
+V08
+V10
+V11
+V09
+W05
+W04
+W02
+W01
+R03
+R02
+R05
+R04
+R12
+R11
+S03
+S04
+S02
+S05
+T04
+T05
+U07
+U04
+U03
+AE01
+AE02
+AA1
+AA2
+AA7
+AE4
+AE3
+AA6
+AA5
+AF02
+AF05
+AF03
+ILOT
+AL03
+AL
+AO
+AT
+AG
+AH
+AU
+AP
+AX
+AE05
+AP05
+AP04
+AP06
+AP01
+AP03
+AP02
+AL04
+AL07
+AL09
+AG05
+AG10
+AG04
+AG01
+AG02
+AH12
+AG06
+AH9
+AH??
+AH?
+AH?
+AT03
+AH3
+AT01
+AW05
+AW04
+AW03
+AW02
+AW01
+AX02
+AX05
+AX03
+AV02
+AV07?
+AS08
+AR03
+AS07
+AS03
+AS06
+AM06
+AM10
+AM09
+AM05
+AS01
+AM08
+AM03
+AM04
+AM07
+AM02
+AM01
+AK7
+AK6
+AK4
+AK5
+AK3
+AK2
+AK1
+AI03
+AK
+L08
+unsure
+Samaya
+Manan
+ليري
+???
+village
+r
+كالينيورو
+Charack
+Debo
+خبو
+Hamlet
+Hamlet
+VIllage
+Ville
+landuse=residential
+landuse=residential
+Settlement A
+Settlement B
+Settlement C
+Settlement D
+Settlement E
+Ville
+Sandama
+Chez Mamadou Keita
+AT
+AE
+AX04
+AV08
+AV06
+S01
+C12
+C09
+C11
+D05
+C10
+C08
+D03
+C05
+C03
+C04
+D01
+C02
+LE10
+LC04
+LC01
+LC
+LA13
+I04
+O10
+M20
+O04
+M19
+O03
+M18
+M10
+M17
+M09
+G07
+F14
+G04
+G05
+G02
+LG09
+LG08
+AX01
+AV01
+AR05
+AR07
+AR04
+AR06
+AR02
+AR
+AM11
+AI13
+AI06
+AI05
+AI04
+L09
+L02
+P
+A02
+A05
+A01
+LD06
+K04
+I06
+O11
+O06
+O05
+MINUSMA
+centre baba diarra
+Médina-coura
+Clinique Pasteur
+landuse=residential
+Cité du Fleuve
+S
+AD
+L
+F
+D
+LD
+W
+AB
+AF
+AW
+AS
+Léré
+نيافونكي
+Cinsina village
+Molobala
+Tiou-tiou Hinalo
+Menamba 1
+بوسين
+Farakou
+Koloni
+Town
+Usine
+Faraoula
+SANGABA
+hamaux
+DIALLE
+إنغيدا أغ هبا
+أنفيث
+تابانكورت
+residential
+residential
+Touroumou
+تمبكتو
+Ida-Hamdallaye
+Résidence préfet
+Goumango
+Souranguédou
+Kaouka
+hameau
+تين زاوتين
+Rue 254
+Rue 407
+Rue 311
+Rue 433
+Rue 416
+Rue 427
+Rue 398
+Rue 418
+Rue 261
+Rue 453
+Rue 419
+Rue 388
+417
+Rue 352
+Rue 386
+Rue 435
+Rue 242
+Rue 244
+Rue 252
+Rue 270
+Rue 274
+Rue 246
+Rue 248
+Rue 402
+Rue 333
+Rue 329
+Rue 342
+Rue 365
+Rue 327
+Rue 446
+rue 394
+rue 388
+rue 403
+rue 390
+rue 384
+rue 376
+rue 306
+rue 395
+rue 303
+Rue 625
+Rue 654
+Rue 619
+Rue 616
+Rue 638
+Rue 644
+Rue 652
+Rue 618
+Rue 107
+650
+Rue 446
+Rue 448
+rue 204
+Rue 433
+Rue 117
+Rue 115
+Rue 106
+Rue 225
+Rue 31
+rue 47
+Rue 210
+rue 49
+Rue 212
+Rue 99
+Rue 97
+Rue 209
+Rue 109
+Rue 168
+Rue162
+Rue151
+Rue164
+Rue 156
+Rue 150
+Rue 44
+Rue 100
+Rue 102
+Rue 42
+Rue 136
+Rue 140
+Rue 108
+Rue 98
+Rue 94
+Rue 126
+Rue 142
+Rue 116
+Rue 120
+Rue 81
+2ème Q Rue 27
+Rue 911
+Rue 106
+Rue 130
+Rue 71
+Rue 15
+Rue 96
+Rue 134
+Rue 95
+Rue 128
+Rue 194
+Rue 146
+Rue De La Paix
+Rue Gorbeygna
+Rue 22
+Rue 247
+Rue 245
+Rue 249
+Rue 216
+Rue 232
+Rue 935
+Rue 610
+Rue 940
+Rue 244
+Rue 937
+Rue 635
+Rue 667
+640
+Rue 125
+Rue 170
+Rue 120
+Rue 127
+Rue 119
+Rue 122
+Rue 134
+Rue 158
+Rue 148
+Rue 142
+Rue 113
+Rue 34
+rue 315
+258
+Rue 136
+Rue 140
+Rue 138
+Rue 140
+Rue 109
+Rue 130
+659
+657
+693
+692
+712
+710
+716
+663
+Rue 128
+686
+649
+651
+Rue 168
+Rue 152
+Rue 52
+Rue 325
+Rue 288
+Rue 305
+Rue 201
+Rue 110
+Rue 130
+Rue 268
+Rue 284
+Rue 215
+Rue 225
+Rue 136
+Rue 222
+Rue 236
+Rue 238
+Rue 220
+Rue 266
+Rue 293
+Rue 267
+Rue 289
+Rue 272
+Rue 311
+Rue 313
+Rue 286
+Rue360
+Rue 293
+Rue 295
+Rue 238
+299
+Rue 364
+Rue 137
+Rue152
+Rue 162
+Rue 160
+Rue 148
+Rue 175
+Rue 165
+Rue 167
+Rue 179
+Rue 29
+Rue 65
+Rue 100
+Rue 81
+Rue 108
+Rue 252
+Rue 223
+Rue 196
+Rue 341
+Rue 372
+Rue 331
+Rue 329
+Rue 368
+Rue 327
+Rue 362
+Rue 378
+Rue 376
+Rue 582
+Rue 231
+Rue 185
+Rue 176
+Rue 382
+Rue 271
+Rue 433
+Rue 343
+Rue 334
+Rue 379
+Rue 578
+Rue 347
+Rue 437
+Rue 209
+Rue 240
+Rue 300
+Rue 241
+Rue 330
+Rue 322
+Rue 320
+Rue 326
+Rue 617
+Rue 615
+Rue 625
+Rue 287
+Rue 558
+Rue 556
+Rue 39
+Rue 37
+Road
+Rue 25
+Rue 33
+Rue 26
+Rue 21
+Rue 18
+Rue 23
+Rue 60
+Rue 63
+Rue 281
+Rue 84
+Rue 85
+Rue 66
+Rue 110
+Rue 116
+Rue 114
+Rue 549
+Rue 267
+Rue 269
+Rue 226
+Rue 604
+Rue 489
+Rue 620
+Rue 592
+Rue 594
+Rue 509
+Rue 463
+Rue 454
+Rue 545
+Rue 461
+Rue 494
+Rue 466
+Rue 567
+Rue 504
+Rue 507
+Rue 505
+Rue 485
+Rue 467
+Rue 649
+Rue 404
+Rue 426
+Rue 442
+Rue 492
+Rue 424
+Rue 465
+Rue 406
+Rue 516
+Rue 57
+Rue 79
+rue 328
+rue 323
+Shorts
+Rue 21
+Rue 20
+Rue 87
+Rue 80
+Rue 94
+Rue 696
+Rue 600
+Rue 591
+Rue 598
+442 bis 1
+Rue 437
+Rue 425
+Rue 429
+Rue 443
+Rue 444 bis 3
+Rue 431
+Rue 426
+Rue 424
+Rue 448 bis 1
+Rue 434
+Rue 445
+Rue 437 bis
+Rue 421
+Rue 422
+Rue 448 bis2
+Rue 427
+Rue 414 bis
+Rue 423
+Rue 419
+Rue 442
+rue 826
+rue 828
+rue 805
+rue 886 C
+822
+rue 902
+Rue 714
+Rue 707
+Rue 716
+rue 851
+rue 838
+rue 889
+rue 887
+rue 809
+rue 932
+rue 905
+rue 934
+rue 873
+rue 165
+rue 162
+rue 937
+rue 166
+rue 815
+rue 817
+rue 231
+rue 835
+rue 927
+rue 935
+rue 858
+rue 872
+rue 832
+rue 812
+rue 868
+rue 857
+Rue 489
+Rue 508
+Rue 512
+Rue 479
+Rue 523
+Rue 463
+Rue 430
+Rue 515
+Rue 531
+Rue 510
+Rue 369
+Rue 217
+Rue 81
+Rue 13
+Rue 17
+Rue 21
+Rue 19
+Rue 3
+Rue 12
+Rue 8
+Rue 15
+Rue 27
+Rue 19
+Avenue Roume
+Rue 16
+Rue 608
+Rue 505
+Rue 481
+Rue 445
+Rue 499
+Rue 483
+Rue 654
+Rue 665
+Rue 451
+Rue 485
+Rue 495
+Rue497
+Rue493
+Rue
+Rue 201
+Avenue Na Na Mossi
+Avenue Aldousseini o Touré
+resitencielle
+Rue 146
+Rue 22
+Rue 24
+Rue 26
+Rue 28
+Rue 32
+Rue 33
+Rue 36
+Rue 38
+Rue 40
+Rue 53
+Rue 55
+Rue 754
+142
+Rue 124
+Rue 174
+Rue 24
+Rue 72
+Rue 12
+Rue 18
+635
+638
+655
+661
+Avenue De L' Artois
+rue 102
+Rue 112
+Rue 114
+Rue 128
+Rue 134
+Rue 144
+Rue 145
+Rue 146
+Rue 156
+Rue 18
+Rue 185
+Rue 190
+Rue 203
+Rue 209
+Rue 212
+Rue 214
+Rue 223
+Rue 228
+Rue 230
+Rue 245
+Rue 258
+Rue 260
+Rue 262
+Rue 267
+Rue 272
+Rue 275
+rue 276
+Rue 278
+Rue 285
+Rue 30
+rue 309
+Rue 332
+Rue 333
+Rue 335
+Rue 338
+rue 339
+Rue 341
+rue 353
+rue 359
+Rue 36
+rue 369
+Rue 372
+rue 380
+Rue 385
+Rue 39
+rue 397
+Rue 40
+Rue 400
+Rue 405
+Rue 412
+Rue 413
+Rue 415
+rue 421
+Rue 422
+Rue 430
+Rue 431
+Rue 432
+Rue 435
+Rue 437
+Rue 439
+Rue 441
+rue 442
+rue 446
+rue 448
+Rue 45
+Rue 451
+Rue 459
+Rue 465
+Rue 475
+Rue 497
+Rue 506
+Rue 536
+Rue 547
+Rue 55
+Rue 550
+Rue 560
+Rue 566
+Rue 569
+Rue 573
+Rue 586
+Rue 589
+Rue 593
+Rue 601
+Rue 603
+Rue 605
+Rue 607
+Rue 609
+Rue 61
+Rue 611
+Rue 613
+Rue 615
+Rue 62
+Rue 623
+Rue 64
+Rue 646
+Rue 650
+Rue 67
+Rue 74
+Rue 754
+rue 800
+rue 816
+rue 834
+Rue 84
+rue 840
+rue 842
+rue 844
+rue 846
+rue 860
+rue 861
+rue 862
+rue 866
+rue 870
+rue 871
+Rue 89
+Rue 90
+Rue 92
+Rue Alidiouna Togo
+Rue Archinard
+rue de Dakar
+Rue du 18 juin
+Rue Famolo Coulibay
+Rue Liautey
+rue Samba Ibrahim Diawara
+Rue 10
+Rue 18
+Gauche
+Rue Soundiata Keita
+Rue 23
+rue 364
+rue 320
+Rue 343
+Rue 368
+rue 381
+rue 366
+rue 387
+rue 351
+rue 383
+rue 322
+rue Famolo Coulibay
+Rue Carron
+rue 363
+Rue 396
+rue Mage
+rue 350
+rue 357
+rue 367
+rue 405
+rue 453
+rue 392
+rue de l'Enseigne
+rue 386
+rue 409
+rue 355
+rue 411
+Rue 401
+rue 361
+rue 352
+Rue 398
+rue 311
+rue 313
+rue 315
+Rue Poincaré
+rue 304
+Rue 204
+Rue Charles Mérieux
+Rue 673
+Rue 620
+Rue 581
+Rue 611
+Rue 110
+Rue 104
+Rue 621
+Rue 614
+Rue 610
+Rue 608
+Rue 726
+Rue 728
+Rue 622
+Rue 111
+Rue 117
+Rue 642
+rue 212
+Rue 736
+Rue 732
+Rue 730
+Rue 734
+Rue 639
+Rue 637
+Rue 641
+Rue 643
+Rue 56
+Rue 54
+Rue 79
+Rue 218
+rue 45
+Rue 41
+Rue 156
+Rue 110
+Rue402
+Rue 170
+Rue 152
+Rue 83
+rue residentielle
+Rue 244
+Rue 28
+Rue 26
+Rue 18
+Rue 32
+Rue 212
+Rue 138
+Rue 82
+2ème Q Rue 25
+Rue 99
+Rue84
+Rue 76
+2ème Q Rue44
+2ème Q Rue40
+Rue 144
+Rue 40
+Rue 105
+Rue 98
+Rue 181
+Rue 95
+Rue 253
+252
+Rue 246
+Rue 218
+Rue 938
+Rue 24
+684
+Rue 657
+Rue 677
+Rue 624
+Rue 116
+Rue 114
+Rue 105
+607
+682
+636
+Rue 132
+Rue 178
+Rue 136
+Rue 150
+Rue 168
+Rue 149
+Rue 153
+Rue 151
+Rue 121
+Rue 140
+Rue 109
+Rue 33
+Rough Road
+517
+Bamako
+730
+Rue 791
+623
+688
+653
+690
+Rue 171
+Rue 453
+Rue 438
+Rue 26
+Rue 151
+Rue 153
+Rue434
+Rue 303
+Rue 281
+Rue 259
+Rue 290
+Rue 292
+Rue 247
+Rue 298
+Rue 297
+Rue 436
+Rue 126
+Rue 35
+Rue 244
+Rue 115
+Rue 277
+Rue 261
+Rue 226
+Rue 282
+Rue 217
+Rue 280
+Rue 234
+Rue 218
+Rue 252
+Rue 248
+Rue 230
+Rue 246
+Rue 227
+Rue 164
+Rue 315
+Rue 101
+Rue 225
+Rue 74
+Rue 147
+Rue 263
+rue 207
+Rue 428
+Rue 285
+Rue 431
+Rue 606
+rue 429
+Rue 604
+Rue 424
+Rue 426
+rue 425
+Rue 333
+Rue 422
+Rue 448
+Rue 446
+Rue 370
+Rue 336
+rue 379
+rue 459
+rue 455
+rue 457
+Rue Mamadou Sall
+rue 449
+rue 436
+Rue 442
+Rue 274
+Rue 32
+Rue 82
+Rue 130
+Rue 257
+Rue 278
+Rue 290
+Rue 30
+Rue 132
+Rue 120
+Rue 91
+Rue 95
+Rue 111
+Rue 272
+Rue293
+Rue 273
+Rue 294
+Rue 266
+Rue 269
+Rue 259
+Rue 232
+Rue 287
+Rue 346
+Kantala
+Rue 17
+Rue 26
+Rue 64
+Rue 47
+Rue 19
+Rue 60
+Rue 54
+Rue 35
+Rue 19A
+Rue 29
+Rue 45
+Rue 28
+Rue 24
+Rue 21
+Rue 15
+Rue 33
+Rue 31
+Rue 36
+Rue 30
+Rue 56
+Rue 27
+Rue 249
+Rue 241
+Rue 235
+Rue 11
+Rue 163
+Rue 209
+Rue 203
+Rue 258
+Rue 580
+Rue 273
+Rue 526
+Rue 483
+Rue 520
+Rue 457
+Rue 522
+Rue 524
+Rue 159
+Rue 237
+Rue 258
+Rue 237
+Rue 283
+Rue 289
+Rue 254
+rue 250
+Rue 303
+Rue 202
+Rue 704
+Rue 443
+Rue 617
+Rue 604
+Rue 640
+Rue 679
+Rue 606
+Rue 719
+Rue 697
+Rue 692
+Rue 698
+Rue 696
+Rue 533
+Rue 535
+Rue 545
+Rue 541
+Rue 560
+Rue 552
+Rue 540
+Rue 905
+Rue 544
+Rue 933
+Rue 548
+Rue 543
+Rue 542
+Rue 557
+Rue 936
+Rue 604
+Rue 413
+Rue 418
+Rue 555
+Rue 781
+Rue 374
+Rue 42
+Rue 417
+Rue 370
+Rue Révérend-Père Bruno Michel
+Rue 461
+Rue 415
+Rue 550
+Rue 31
+Rue 27
+Rue 20
+Rue 16
+Rue 15
+Rue 17
+Rue 13
+Rue 86
+Rue 112
+Rue 94
+Rue 108
+Rue 41
+Rue 43
+Rue 236
+Rue 204
+Rue 575
+Rue 562
+Rue 231
+Rue 275
+Rue 279
+Rue 17
+Rue 188
+Rue 15
+Rue 481
+Rue 561
+Rue 495
+Residentielle
+Road
+res. road 3
+res. road 2
+res road 2
+road 1
+res. road 5
+Rue 68
+Rue 214
+Rue 99
+Rue 88
+Rue 207
+Rue 58
+Rue 82
+Rue 66
+Rue 54
+Rue 74
+Rue 86
+Rue 77
+Rue 216
+Rue 72
+Rue 84
+Rue 78
+Rue 64
+Rue 220
+Rue 221
+Rue 102
+Rue 106
+Rue 105
+220;Rue 111
+Rue 203
+Rue 104
+Rue 89
+Rue 91
+Rue 85
+Rue 109
+Rue 95
+Rue 12
+Rue 65
+Rue 79
+Rue 16
+Rue 31
+Rue 19
+Rue 14
+Rue 77
+Rue 73
+Rue 1
+Rue 34
+Rue 30
+Rue 22
+Rue 32
+Rue 17
+Rue 15
+Rue 171
+Rue 06
+Rue 04
+Rue 10
+Rue 18
+Rue85
+Rue 88
+Rue 49
+Rue 103
+Rue 83
+Rue 08
+Rue 05
+Rue 27
+Rue 170
+Rue 101
+Rue 602
+Rue 596
+Rue 100
+Rue 43
+Rue 418
+Rue 432
+Rue 416
+Rue 414
+Rue 420
+Rue 441
+Rue 444
+Rue 449
+Rue 430
+Rue 447
+439
+Rue 440
+rue 595
+rue 885
+RUE 414, MAGNAMBOUGOU PROJET
+rue 843
+rue 886 B
+rue 876
+rue 841
+rue 802
+rue 818
+rue 804
+rue 824
+rue 820
+rue 847
+rue 930
+Rue 719
+rue 830
+rue 822
+rue 807
+rue 884
+rue 819
+Rue 224
+rue 920
+rue 808
+rue 853
+rue 877
+rue 881
+rue 810
+rue 863
+rue 882
+rue 879
+rue 886
+rue 859
+rue 806
+rue 845
+rue 864
+rue 814
+rue 855
+rue 901
+Rue 504
+Rue 447
+Rue 509
+Rue 527
+Rue 529
+Rue 477
+Rue 481
+Rue 485
+Rue 473
+Rue 505
+Rue 438
+Rue 502
+Rue 519
+Rue 525
+Rue 487
+Rue 331
+Rue 517
+Rue 483
+Rue 511
+Rue 521
+Rue 507
+Rue 491
+Rue 331
+Avenue De La Somme
+Rue 145
+Rue 268
+Avenue De L'Artois
+Rue 562
+Rue 431
+Rue 384
+Rue 280
+Rue 394
+Rue 395
+Rue 426
+Rue 424
+Rue 422
+Rue 420
+Rue 429
+Rue 241
+Rue 425
+Rue 243
+Rue 393
+Rue 391
+Rue 250
+421
+435 A
+Rue 272
+Rue 325
+R 321
+Rue 303
+Rue 216
+Rue 220
+Rue 98
+Rue 214
+Rue 222
+Rue 273
+Rue 334
+Rue 348
+Rue 358
+Rue 350
+Rue 315
+Rue 344
+R 380
+Rue 361
+Rue 250
+Rue 293
+Rue 279
+435 B
+Rue 96
+Rue 94
+Rue 284
+Rue 282
+Rue 343
+Rue 339
+Rue 351
+Rue 345;Rue 349
+Rue 164
+Rue 181
+Rue 170
+Rue 202
+Rue 194
+Rue 26
+Rue 81
+Rue 175
+Rue 200
+Rue 122
+Rue 198
+Rue 196
+Rue 129
+Rue 177
+Rue 166
+Rue 179
+Rue 168
+Rue 183
+Rue 172
+Rue 120
+Rue 176
+Rue 59
+Rue 83
+Rue 93
+Rue 383
+Rue 367
+Rue 219
+Rue 373
+Rue 392
+Rue 381
+Rue 428
+Rue 215
+Rue 213
+Rue 16
+Rue 22
+Rue 20
+Rue 7
+Rue 9
+Rue 5
+Kurbee
+Rue 677
+Rue 673
+Rue 675
+Avenue Kasse Keita
+Rue 31
+Rue 23
+Rue 6
+Rue 39
+Rue 20
+Rue 33
+Rue 29
+Rue 35
+Rue 21
+Rue 25
+Rue 27
+Rue 614
+Rue 616
+Rue 256
+Rue 671
+Rue 663
+Rue 487
+Rue 473
+Rue 477
+Rue 659
+Rue 489
+Rue 469
+Rue 459
+Rue
+Rue 467
+Rue 465
+Rue 471
+Rue 667
+Rue 661
+Rue 652
+Rue 669
+Dogon Round
+route de Gouélé
+Rue Magdeburg
+Pont de Falémé
+rue 345
+Place de l'Indépendance
+Avenue du 5 septembre 1961
+rue 201
+Rue pavée
+Route
+#sbhs
+#shbs
+Road during rainy season (to ferry to cross Bani)
+2
+route incertaine (tracé a priori mauvais)
+Piste pour Teriya Bugu (accessible en saison sèche uniquement)
+piste
+Rue Pasteur
+Route de Sotuba
+track 1
+Unknown road
+Unknown track
+Trans-Sahelian Highway
+rue 30
+rue 88
+rue 340
+Baco Djicoroni Golf Wamy
+254
+Rue 345
+Rue 347
+Place de la liberté
+rue 451
+Rond point Hippopotame
+Village Youga
+Rivière
+Rue Nasser
+Pont de Faso Kanu
+Rue 250
+Barrage hydroélectrique de Markala
+RN5
+RN6
+Tracé incomplet
+tracé incomplet
+Pont sur le Bani
+R. 14
+Rue Du Blabla (Rue 235)
+Rue 597
+Route allant a Sikoroni
+Rue 45
+Route secondaire
+Piste rurale
+Cimetiere de Mansala
+Route Horongo Banfara
+Mansala Kobarount
+Route de Toumoundoto
+Route Seydou bougouda
+route KAYIKORO
+Pont de Bafing
+road or path
+flskngdfln
+d,fs
+Rue 110
+Rue 195
+RN5
+rue 839 route gouverneur
+Alexis Road
+Avenue de l'O.U.A.
+Rue 471
+Rue 513
+Boulevard du peuple
+Avenue De La Marne
+Pont des Martyrs
+Rue 40
+Rue Dioungamadi Sissoko
+Rue 37
+Rue 14
+POnt Richard
+Route du Poisson
+Route d'Acil Adramé
+RN1
+Avenue Al Qoods - Route de Koulikoro
+Avenue Cheik Zayed
+Avenue de La Marne
+Avenue de la Nation
+Avenue De L'Yser
+Avenue Kasse Keita
+Bamako - Abidjan Transafrican Highway
+Bamako - Koulikoro National Road
+Boulevard Ckeik Zayed
+Boulevard de l'Indépendance
+Bvd Abdel Aziz Bouteflika
+Chaussée submersible de Sotuba
+Faso Kanu
+Place de la liberté;Avenue de la liberté
+Pont de l'amitié sino-malienne
+Pont Du Roi Fahd
+Pont Woyonwayanko
+Promenade des Angevins
+Rue 120
+Rue 124
+Rue 218
+Rue 22
+Rue 243
+Rue 300
+rue 310
+Rue 334 Karamoko Diaby
+rue 340 Baba Diarra
+Rue 340 Baba Diarra
+rue 347
+Rue 360
+rue 390
+rue 407
+Rue 445
+Rue 617
+Rue 627
+rue Abdoul Dramani
+Rue Achkhabad
+Rue Titi Niaré
+route d'Hamou
+RN15
+Pont de Tassiga
+N 1
+Nampala-Lere
+Avenue de l'O.U.A.
+بمبرية موندي-تمبكتو
+Route To Kabara
+RN 17
+Avenue des DIA
+Wabaria Bridge
+RN17
+Avenue de l'Aéroport
+RN15
+RN17
+Route Koulikoro-Banamba
+Route de Ségou
+Avenue Kasse Keita
+Bamako - Dakar Transafrican Highway
+Bamako - Kangaba Regional Road
+Barucic Avenue
+Briggs Boulevard
+RN5
+Route de Ségou
+Route Kati - Kita
+Rue 10
+Rue Koné Bourama
+Trans-Sahelian Highway
+Unknown street
+Rue 13
+Trans-Sahelian Highway
+Piste rurale
+Contournement de Kita
+KITA-TANBACOUNDA
+Mansala Kobarount
+Mansala Kobarounto
+Route Kati - Kita
+D
+Dogon Round
+RN15
+RN16
+RN15
+RN6
+Dogon Round
+incomplet
+4
+Avenue de l'An 2000
+Tominian
+Avenue du 22 Septembre
+Route de Sirimoulou
+Route Kayes-Goujoubé
+Sadiola to Saboussire
+Rue 286
+Rue 266. Avenue du Mali
+RN11
+Route de Doumanaba
+Avenue Moussa Traore
+Place Mamadou Konaté
+Route de Baraouili
+RN6
+Rue de Chemnitz
+Rue Des Nations Unies
+دوار
+Rue 939
+rue 942
+rue 105
+Rond point Sogolon
+rue 151
+rue 801
+Route de l'aéroport
+Bamako - Sikkaso National Highway
+Rue 187
+Route de MEROUBA
+Rue 224
+Bamako - Koulikoro National Road
+Rue 932
+Sotuba Causeway
+Rue 22
+Rue 14
+Rue 235
+Rue 525
+route secondaire
+Rue 525
+Route de Ségou
+rue 883 30 m
+route IJA
+rue 29
+Rue 11
+Rue 152
+track 1
+Track 1
+rue du 18 juin
+rue Mohamed V
+rue 335
+Echangeur Marché
+Echangeur
+Le Cactus
+Rue du 18 Julliet
+badala
+Rue 98
+Rue 75
+Rue 108
+Rue 42
+Rue 81
+Rue 71
+La Grande Traverse
+sentier
+track
+Via Corde (climbing trail)
+Possible Road
+chemin
+PFAD
+Walk
+Path 1
+Grande place
+Rue 251
+Sans
+Place publique
+Place publique
+Rue Khadafi

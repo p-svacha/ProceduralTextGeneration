@@ -1,0 +1,3523 @@
+Domaine familial
+Doublé-Alagarno
+Nkhodeuni
+Bafaka
+Big Bekondo
+Mokoko
+Pelican Point
+OIC
+Tole
+Saxoenhof
+Mbo Quarter
+*
+Chefferie Fondjomekwet
+Cité des agents de maitrise
+PAMOL workers housing
+PAMOL workers housing
+EUROIL
+New Town Borombi
+Village
+Résidence du Sous-Préfet
+Kaele
+Blabin
+IRAD
+MAISON Bach'ti
+Mr. Abyia Compound
+Kimisso
+housing area
+#
+landuse=residential
+Résidence SOUMA OH
+Djebale Village
+Ngule
+Ngu
+Sabongari
+Mbirikwa
+Enyandong
+Nking
+Nwa
+Jato
+Ngomkila
+Chefferie Bafou
+Ndung
+Chefferie Bangang
+Chefferie Batcham
+Mansoum
+Mossamfong
+Manya
+Mandatituop
+*
+Kesham
+Numba Batoh
+Moshie
+BOSSAPAL
+Logements ouvriers PALISCO / CIFM
+Logements Municipaux
+CIAP
+Ngongi Block A
+Bro Fopa J.
+$
+Minse
+landuse
+Ancien résidence du Prefet
+Residence Ancien Premier Ministre
+Bavenga Prison
+Cité des cadres EUROIL/SOCAPALM
+Résidence A3 Maire de Dibombari
+Effata Vatican Patit Pays
+Résidence Présidentielle
+Manso
+CSI de Soeur de la Croix
+Odin Oto village
+Residence Sophia
+Cité Belce
+Mini-Cité La Fontaine
+cité universitaire
+Residence universitaire Le Millénium
+La Cité de David
+Complexe Résidentiel Memathy
+Mini-Cité La Mandarine
+Mini-Cité Mely
+Mini-Cité Anne
+Mini-Cité Sonia
+Jacky City
+Hotel Eden Palace
+Camp du capitaine Abessolo
+Mini-Cité Vallée du Savoir
+Mini-Cité Bela
+Camp Minlo Medjo Pierre
+JOS
+Mini-Cité Gosen
+Ebogo
+ECO LODGE
+Yoko Siré
+M
+Place du Marché
+Talangaye
+Lingam
+1
+vina-lah
+Mbidou
+Mbere
+Wassande Barriere
+Mangoli
+Mbakaou
+Galagala
+Bélel
+Mayo Dabi
+Bayara
+Béka Modibo
+Hoséré Lesdi
+Koriong
+Wantounou
+Wakassao
+بيبمي
+SALMAYE
+*
+Résidence du Président
+Camp de garag Haman
+Logements personnels ADC (Aeroport Du Cameroun)
+Residence Walya
+Residence du BIR
+تشيدي
+ماكاري
+قصور
+Sonkolong
+Ayukaba
+Chinda
+Numba Mile 49
+Numba Afu
+Numba Ati
+Chefferie Bamena
+New-Melong
+Ekohok
+Ndombenn
+Ntolo
+Chefferie Bachicheu
+Axe Ancien Pont sur le Noun
+Chefferie
+residence des cadres IUT FV
+Bambe 1
+Manyemen
+Ebanga
+Amchide
+Walassa
+فتكل
+Aumonerie Catholique
+Gaba Binossi
+route gounA
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+adoum
+mboone
+Bang
+Ebangabi
+Rue 1.054
+Rue 1.048
+Rue 1.107
+Rue 1.133
+Rue 1.056
+Rue 1.067
+Rue 1.060
+Rue 1.109
+rue 1.111
+Rue 1.117
+Rue 1.082
+Rue 1.111
+Rue 1.058
+Rue 1.084
+Rue 1.065
+Rue 1.762
+Rue 1.377
+rue 1.411
+Rue 1.304
+Rue 1.306
+Rue 1.311
+Rue 1.354
+Rue 1.409
+Rue 1.315
+Rue 1.300
+Rue 2.036
+Rue 2.365
+Rue 2.063
+Rue 2.046
+Rue 2.043
+Rue 1.127
+Rue 1.155
+Rue 1.129
+Rue 1.115
+Rue 1.113
+Rue 1.383
+rue 1.350
+Rue 1.357
+Rue 1.344
+Rue 1.336
+Rue 1.338
+Rue 1.342
+rue 1.352
+Rue 5.560
+Rue 5.559
+Rue 5.571
+Rue 5.561
+Rue 6.335
+Rue 5.781
+Rue 5.829
+Rue 5.819
+Rue 5.821
+Rue 5.817
+Rue 5.813
+Rue 5.815
+Rue 5.790
+Rue 5.792
+Rue 5.841
+Rue 5.837
+Rue 5.843
+Rue 5.833
+Rue 5.812
+Rue 5.825
+Rue 5.845
+Rue 5.800
+Rue 5.802
+Rue 5.811
+Rue 5.762
+Rue 5.766
+Rue église presby
+Rue école matern japoma
+Rue Commissariat 16
+Rue mission catholique nyalla
+Rue église japoma
+rue école laic Babah
+Rue église nyalla
+rue institus la grâce
+rue quartier nkolmbong
+rue G.S.B. Quebecios
+rue Climagel boutique Yassa
+rue Kevazingo Snack Bar
+rue Groupe S Universal
+rue Canton B.V.M. Chefferie
+Rue 1.237(Alias Rue Vasnitex)
+Rue 1.235 (Alias Rue Bati-Bois)
+Rue 1.231 (Alias Rue du Service Social)
+Rue 1.239(Alias Rue Toyota)
+Rue Tokoto (N°1.030)
+Rue Koloko (N°1.032)
+Rue 1.120
+Rue Bertaut(N°1.132)
+Rue 2.756
+Rue Gallieni(N°1.147)
+Rue 1.048
+Rue 2.760
+Rue 2.766
+Rue 3.445
+Rue 3.367
+Rue 2.007
+rue 2.056
+Rue 2.379
+Rue 1.802
+Rue 1.761
+Rue 6.258
+Rue 6.261
+Rue 1.839
+Rue 2.395
+Rue 2.378
+Rue 6.011
+Rue 6.004
+Rue 6.005
+Rue 6.009
+Rue 6.007
+Rue 2.038
+Rue 2.368
+Rue 2.401
+Rue 6.047
+Rue 6.045
+Rue 2.393
+Rue 4.921
+Rue 4.917
+Rue 4.888
+Rue 4.898
+Rue 4.836
+Rue 4.839
+Rue 4.877
+Rue 4.860
+Rue 4.827
+Rue 4.931
+Rue 4.895
+Rue 4.828
+Rue 4.915
+Rue 4.875
+Rue 4.923
+Rue 4.884
+Rue 4.890
+Rue 4.862
+Rue 4.864
+rue 4.565
+Rue 4.831
+Rue 4.814
+Rue 4.846
+Rue 4.850
+Rue 4.852
+Rue 4.801
+Rue 4.796
+Rue 4.788
+Rue 4.792
+Rue 4.794
+Rue 5.034
+Rue 5.032
+Rue 5.029
+Rue 5.015
+Rue 5.012
+Rue 5.014
+Rue 5.055
+Rue 5.063
+Rue 5.065
+Rue 1.423
+5N 413
+bloc D
+1.846
+1.826
+Rue 4.705
+rue 4.751
+Rue 4.727
+Rue 4.750
+Rue 4.185
+Rue 4.175
+Rue 4.191
+Rue 4.189
+Rue 4.187
+Rue 4.193
+Rue 4.143
+Rue 4.141
+Rue 4.126
+Rue 1.145
+Rue 1.033
+Rue 1.004
+Rue 1.259
+Rue Toulou Ngono
+rue 1.259
+Rue 1.083
+Rue 4.147
+Rue 4.125
+Rue 4.123
+Rue 4.127
+Rue 4.121
+Rue 4.117
+Rue 5.006
+Rue 5.011
+Rue 5.009
+Rue 5.005
+Rue 5.004
+Rue 5.003
+Rue 5.007
+Rue 5.002
+5N.425
+5N.470
+5N.429
+5N.442
+5N.420
+5N.439
+5N.437
+5N.440
+Prolongement du boulevard de la République
+Rue 6.270
+Rue 6.381
+Rue 6.263
+Rue 6.267
+Rue 2.722
+Rue 6.257
+Rue 6.270
+Rue 6.259
+Rue 6.323
+Rue 6.331
+Rue 6.349
+Rue 6.351
+Rue 6.290
+Rue 6.327
+Rue 6.333
+Rue 6.337
+Rue 6.304
+Rue 6.325
+Rue 6.300
+Rue 6.321
+Rue 6.329
+Rue 6.341
+Rue 6.319
+Rue 6.345
+Rue 6.353
+Rue 6.375
+Rue 6.312
+Rue 6.310
+Rue 6.363
+Rue 6.355
+Rue 6.359
+Rue 6.750
+Rue 6.357
+Rue 6.753
+Vieux pont d'Akono
+Rue de Boneyoum (N°1.784)
+Rue 1.801
+Rue Abo (N°1.719)
+Rue Moungo(N°1.814)
+Rue Bruix (N° 1.395)
+Rue 1.803
+Rue Bonamoudourou(N°1.776)
+Rue 1.805
+2eme ENTREE
+Rue 1.757
+Rue 1.808
+Rue 1.764
+Rue 1.811
+Rue 1.787
+Rue 1.762
+Rue 1.798
+route EPMB MAKÉPÉ MATURITÉ
+route Eglise Presbyterinne Ngobati
+street jehova witness church
+Rue 1.441
+Rue 1.437
+Rue 1.430
+Rue 1.465
+Rue 1.704
+Rue 1.439
+Rue 1.362
+Rue 1.436
+Rue 1.434
+Rue du Commandant Füller (N° 1.420)
+Rue 1.435
+Rue 1.443
+Rue 1.455
+Rue 1.207
+Rue 1.368
+1.453
+Rue 1.457
+Rue 2.727
+Rue 5.535
+Rue 5.539
+Rue 1.522
+Rue 1.592
+Rue 1.594
+Rue 1.621
+Rue 1.599
+Rue 1.586
+Rue 1.600
+Rue 1.613
+Rue 7.381
+Impasse de l'Acacia 2
+Rue de l'Avocatier
+Rue de l'Azobe
+Impasse de l'Ako
+Rue des Amandiers
+Rue de l'Ako
+Rue de l'Avelinier
+Rue de l'Avodire
+Rue 7.369
+Rue 7.289
+Rue 7.342
+Rue 7.022
+Rue 7.043
+Rue 7.045
+Rue 7.020
+Rue 3.433
+Rue 6.383
+Rue 7.039
+Rue 6.535
+Rue 6.531
+Rue 6.533
+Rue 6.509
+Rue 6.555
+Rue 6.551
+Rue 6.512
+Rue 6.514
+Rue 6.559
+Rue 6.520
+Rue 6.547
+Rue 6.504
+Rue 6.532
+Rue 6.502
+Rue 6.536
+Rue 6.522
+Rue 6.537
+Rue 6.534
+Rue 6.541
+Rue 6.530
+Rue 6.539
+Rue 6.510
+Rue 2.024
+Rue 3.008
+Rue 2.005
+Rue 2.012
+Rue 6.506
+Rue 6.505
+Rue 6.528
+Rue 6.513
+Rue 2.729
+Rue 6.317
+Rue 6.365
+Rue 6.306
+Rue 6.277
+Rue 6.307
+Rue 6.271
+Rue 6.285
+Rue 6.276
+Rue 1.829
+Rue 5.818
+Rue 1.567
+Rue 1.555
+Rue 1.565
+Rue 1.578
+Rue 1.553
+Rue 1.561
+Rue 1.563
+Rue 1.544
+Rue 1.539
+Rue 1.546
+Rue 1.550
+rue 1.554
+Rue 1.542
+rue 1.548
+Rue 1.572
+Rue 1.665
+Rue 1.574
+Rue 1.556
+rue 1.543
+Rue 1.558
+Rue 1.549
+Rue 1.547
+Rue 1.551
+rue 1.552
+Rue 1.537
+rue 1.535
+Rue 1.818
+Rue 1.507
+Rue 1.531
+Rue 1.529
+Rue 1.532
+Rue 1.536
+Rue 1.534
+Rue 1.538
+Rue 1.533
+Rue 1.523
+Rue 1.121
+Rue 1.509
+Rue 1.511
+Rue 1.513
+Rue 1.525
+Rue 1.540
+Rue 1.527
+Rue 1.530
+Rue 1.515
+Rue 5.787
+Rue 5.784
+Rue 5.809
+Rue 1.582
+Rue 5.785
+Rue 5.827
+Rue capitaine Zogo Lucien
+Rue Noah Aloys
+Rue Bindzi Tang Sylvestre
+Chief Street
+Biaka street
+Bonduma Gate-Bukwae Road
+Dr. Kawah Street
+Street 5
+Street 3
+Street 1
+Street 4
+Former Sonel Street (Eneo)
+Bobga Street
+Jango
+Chief Street
+Throwe Park
+Telepodium Street
+Rue 4.581
+Rue 4.585
+Rue 4.583
+Rue 4.571
+Rue 4.557
+Rue 4.532
+Rue 4.559
+Rue 4.569
+Rue 4.526
+Rue 4.530
+Rue 4.261
+Rue 4.111
+Rue 4.096
+Rue 4.151
+Rue 4.091
+Rue 4.083
+Rue 4.089
+Rue 4.093
+Rue 4.099
+Rue 4.080
+Rue 4.065
+Rue 4.078
+Rue 8.750
+Rue 4.064
+Rue 4.058
+rue 8.764
+Rue 8.768
+Rue 4.031
+Rue 4.056
+Rue 4.057
+Rue 4.055
+Rue 8.764
+Rue 8.765
+Rue 8.766
+Rue 4.068
+Rue 4.063
+rue 4.073
+Rue 4.069
+Rue 4.076
+Rue 4.082
+Rue 4.085
+Rue 4.087
+Rue 4.070
+Rue 8.761
+Rue 4.050
+Rue 4.502
+Rue 4.053
+Rue 4.054
+Rue 4.048
+Rue 4.505
+rue 8.009
+Rue 8.753
+Rue 8.756
+Rue 8.021
+Rue 8.023
+rue 8.762
+Rue 4.044
+Rue 4.051
+Rue 4.195
+Rue 4.042
+Rue 8.752
+Rue 8.758
+Rue 8.020
+Rue 8.763
+Rue 8.044
+Rue 4.059
+Rue 1.163
+Rue 4.019
+Rue 4.075
+Rue 4.021
+Rue 4.023
+Rue 4.038
+Rue 4.066
+Rue 4.032
+Rue 4.039
+Rue 4.033
+Rue 4.035
+Rue 4.045
+Rue 8.003
+Rue 4.551
+rue 4.567
+Rue 4.528
+Rue 4.543
+Rue 8.773
+Rue 4.520
+Rue 4.537
+rue 4.543
+Rue 8.778
+Rue 8.772
+Rue 4.533
+Rue 4.547
+Rue 4.531
+Rue 4.510
+Rue 4.525
+Rue 4.549
+Rue 4.517
+Rue Marcel Jezouin
+Rue 3.014
+Rue 4.016
+Rue 4.514
+Rue 4.504
+Rue 8.769
+Rue 4.516
+rue 8.006
+Rue 8.051
+Rue 4.020
+Rue 1.669
+Rue 1.606
+Rue 1.581
+Rue 1.583
+Rue 1.585
+Rue 1.587
+Rue 1.671
+Rue 1.639
+Rue 1.637
+Rue 1.596
+Rue 1.665
+Rue 1.615
+Rue 1.653
+Rue 1.649
+Rue H
+Rue F
+Rue D
+Rue 4.157
+Rue 4.204
+Rue 4.125 Mambanda
+Rue 4.052
+Rue 4.163
+Rue 4.165 Mambanda
+Rue 4.121
+Rue 4.030
+rue 4.157
+Rue 4.054
+Rue 4.125
+1ère rue
+rue 1.095
+Rue Bonanjo Joss (N°1.093)
+Rue Douala Manga (N°1.138)
+Avenue des Cocotiers
+Rue de la Pérouse
+Rue Brazza
+Rue de Bonapriso (N°1.041)
+Rue 1.221
+Rue 1.179
+Rue 1.185
+Rue 1.038
+Rue Pasteur
+Rue 1.122
+Rue Joffre (N°1.387)
+Rue de l'Hôtel de Ville
+Rue Alfred Saker (N° 1.383)
+Rue 1.074
+Rue Dinde(N°1.076)
+Rue 1.195
+Rue 1.130
+Rue Richard Bell(N°1.139)
+Rue Castelnau (N°1.378)
+Rue Mandessi Bell(N°1.135)
+Rue des Manguiers
+Rue Quillien (N° 1.391)
+Rue Pasteur
+Rue 1.205
+rue 4.511 Conception T.P
+rue 4.513
+Rue 4.620
+rue 4.615
+Rue 4.223
+Rue 4.040
+Rue 4.038
+Rue 4.643
+rue 4.530
+Rue 4.616
+rue 4.714
+Rue 4.170
+Rue 4.674
+Rue 4.172
+rue 4.549
+Rue 4.652
+Rue 4.624
+Rue 4.653
+rue 4.546
+Rue 4.676
+rue 4.507
+rue 4.543
+Rue 4.220 Grand hangar
+rue Emmanuel baptist Church Mambanda
+Rue 4.623
+rue 4.547
+rue 4.518
+Rue 4.219
+Rue 4.922
+Rue 4.658
+Rue 4.177 grand hangar bonaberi
+Rue 4.168
+rue 4.209
+Rue 4.655
+rue 4.565
+route quatier Chef de ter
+Rue 4.239
+Rue 4.614
+Rue 4.608
+Rue 4.628
+Rue 4.602
+rue 4.537
+Rue 4.046
+Rue 4.958
+rue 4.235
+Rue 4.618
+Rue 4.664
+Rue 4.654
+Rue 4.201
+rue 4.502
+Rue 4.702
+Rue 4.544
+Rue 4.920
+rue 4.857 bojongo
+rue 4.161
+rue 4.264
+Rue 4.650
+Rue 4.626
+Rue 4.610
+Rue 4.656
+rue 4.577
+rue 4.575
+rue 4.571
+rue 4.553
+rue 4.522
+rue 4.541
+rue 4.535
+rue 4.515 bonaberi
+rue 4.525
+Rue 3.029
+Rue 3.729
+Rue 3.720
+Rue 3.713
+rue 3.713
+Rue 3.703
+Rue 3.040
+Rue 7.634
+Rue 7.255
+Rue 7.287
+Rue 7.269
+Rue 7.285
+Rue 7.296
+Rue 7.277
+Rue 7.279
+Rue 7.335
+Rue 3.386
+rue 3.740
+Rue 3.402
+Rue 3.721
+Rue 1.022
+Rue 1.024
+Rue 1.028
+Rue 1.090
+Rue 5.284
+Route du Mont-Fébé
+Rue 5.311
+Rue 5.295
+Rue 5.306
+Rue 5.305
+Rue 5.327
+Rue 5.303
+Rue 5.324
+Rue 5.509
+Rue 5.511
+Rue 5.513
+Rue 5.516
+Rue 5.540
+Rue 5.542
+Rue 4.169
+Rue 4.136
+Rue Edjoa Mbede
+Boulevard Edjoa Mbede
+Rue 1.260
+Rue 1.296
+Rue 1.295
+Rue 1.294
+Rue 1.297
+Rue 1.339
+Rue 1.363
+Rue 1.272
+Rue 1.277
+Rue 1.258
+Rue 1.326
+Rue 1.265
+Rue 1.314
+Rue 1.286
+Rue 1.334
+Rue 1.288
+Rue 1.274
+Rue 1.284
+Rue 1.340
+Rue 1.329
+Rue 1.331
+Rue 1.335
+Rue 1.345
+Rue 1.337
+Rue 1.328
+Rue 1.376
+Rue 1.351
+Rue 1.291
+Rue 1.353
+Rue 1.361
+Rue 1.276
+Rue 1.267
+Rue 1.281
+Rue 1.279
+Rue 1.289
+rue 1.288
+Rue 1.318
+Rue 1.325
+Rue 1.310
+Rue 1.316
+Rue 1.320
+Rue 1.321
+Rue 1.322
+Rue 1.364
+Rue 1.399
+Rue 1.266
+Rue 1.269
+Rue 4.355
+rue 4.493
+rue 4.069
+rue 4.489
+Rue 4.118
+rue 4.041
+rue 4.497
+Rue 4.368
+Rue 4.119
+Rue 4.200
+Rue 4.394
+rue 4.071
+rue 4.487
+Rue 4.499
+rue 4.092
+rue 4.078
+4.114 Mambanda
+Rue 4.162 bonaberie
+Rue 4.378
+Rue 4.379
+Rue 4.391
+Rue 4.445
+rue 4.080
+rue 4.495
+Rue 4.220 grand hangar
+Rue 4.384
+rue 4.432
+Rue 4.088
+Rue 4.135
+rue 4.019 Garage
+Rue 4.101
+Rue 4.427
+rue 4.493 M.G.E
+Rue 4.097
+Rue 4.395
+Rue 4.085
+Rue 4.117
+rue 4.079
+Rue 4.451
+rue 4.043
+Rue 4.443
+Rue 4.077 quartier bilingue
+Rue 4.174
+Rue 4.381
+Rue 4.401
+rue 4.465
+Rue 4.429
+rue 4.094
+Rue 4.433
+Rue 4.137
+rue 4.045
+Rue 4.139 Grand hangar
+rue 4.428 Sodiko
+Rue 4.127
+Rue 4.164 bonaberie
+Rue 4.096
+Rue 4.076
+Rue 4.079
+rue 4.114 Mambanda
+Rue 4.179
+Rue 4.279
+Rue 4.155
+Rue 4.128
+Rue 4.130
+rue 4.192
+rue 4.086
+rue 4.424 bonaberi
+rue 4.463
+Place des fêtes
+Gadd Mayo - Salmaye
+Kofidé-Salmaye
+Falekaral-Salmaye
+Kofidé- Salmaye
+Falékaral-Salmaye
+Local Road
+Rue Réunification
+Rue Hamayadji Madagali
+Rue Hadja Barkindo
+Rue Babale Kila
+Rue Lamido Bouba
+Rue Alkali Hamadou
+Rue Tchiroma Bakary
+Rue Yelwa
+Waïba-Gadd Mayo
+Salmaye-Timana
+Pont KOTBAWO
+Rue Mamadi Kota
+Rue Lamido Mansourou
+Rue Ribadou
+Rue Roy
+Rue Wakili Yadji
+Rue Djaouro Souley
+Rue Lawan Goni
+ROUTE
+Rue 5.764
+Rue 5.772
+Rue 5.774
+Rue 5.780
+Rue 5.783
+Rue 5.791
+Rue 5.797
+Rue 5.799
+Rue 5.801
+Rue 5.835
+Rue 2.719
+Rue 2.359
+Rue 2.362
+Rue 2.364
+Rue 2.370
+Rue 2.385
+Rue 2.003
+Rue 2.010
+Rue 2.033
+Rue Lamido Hayadou Hammoa
+Rue 2.045
+Rue 2.051
+Rue 2.058
+Rue 2.369
+Rue 6.037
+Rue 6.264
+Rue 6.269
+Rue 6.269
+Rue 6.283
+Rue 6.289
+Rue 6.293
+Rue 6.309
+1.832
+Avenue King Akwa( N° 1.401)
+Rue 1.089
+Rue 1.166
+Rue 1.173
+Rue 1.215
+Rue 1.376(Alias Nouvelle rue Ngodi)
+Rue 1.447
+Rue 1.467
+Rue 1.769
+Rue 1.812
+Rue Bonamole
+Rue Bonatéki(N°1.810)
+Rue Bonatene(N°1.790)
+Rue Christian Tobie Kuoh (N°1.077)
+Rue des Hydrocarbures
+Rue Dibombe(N°1.796)
+Rue Epee Ekwalla(N°1.703)
+Rue Ernest Betote Akwa (N° 1.358)
+Rue French (N°1.082)
+Rue Mermoz(N° 1.382)
+Rue Moudourou(N°1.816)
+Rue Sylvani
+Rue Victoria(N°1.047)
+5N.435
+5N.504
+9ème Rue
+Rue 5.043
+Rue 5.056
+Rue 5.111
+Rue 3.352
+Rue 3.353
+Rue 3.357
+Rue 3.364
+Rue 3.375
+Rue 3.406
+Rue 3.412
+Rue 3.437
+Rue 3.439
+Rue 7.297
+Rue 7.008
+Rue 7.013
+Rue 7.017
+Rue 7.019
+Rue 7.025
+Rue 7.035
+Rue 7.041
+Rue 3.393
+Rue 6.296
+Rue 6.523
+Rue 6.526
+Rue 6.527
+Impasse de l'Acacia 3
+Rue 7.254
+Rue 7.267
+Rue 7.291
+Rue 7.314
+Rue 7.326
+Rue 7.327
+Rue 7.329
+Rue 7.330
+Rue 7.353
+Rue Devant Usine CLADEL
+rue 4.005
+Rue 8.038
+Rue 4.256
+Rue 8.775
+Rue 4.257
+Rue 4.260
+Rue 4.262
+Rue 8.004
+Rue 8.008
+Rue 8.016;Rue 8.018
+Rue 8.019
+Rue 8.022;Rue 8.024
+Rue 8.025
+Rue 8.026
+Rue 8.030
+Rue 8.755
+Rue 4.264
+Rue 4.265
+Rue 4.268
+Rue 4.269
+Rue 4.271
+Rue 4.272
+Rue 4.275
+Rue 4.041
+Rue 4.046
+Rue 4.061
+Rue 4.062
+Rue 4.067
+Rue 4.159
+Rue 4.507
+Rue 4.511
+Rue 4.515
+Rue 4.540
+Rue 4.545
+Rue 4.040
+Rue 4.092
+Rue 4.100
+Rue 4.112
+Rue 4.553
+Rue 4.577
+Rue 4.587
+Rue 4.753
+Rue 4.755
+Rue 4.756
+Rue 4.758
+Rue 4.761
+Rue 4.764
+Rue 4.769
+Rue 4.770
+Rue 4.773
+Rue 4.779
+Rue 4.780
+Rue 4.783
+Rue 4.784
+Rue 4.785
+Rue 4.800
+Rue 4.808
+Rue 4.813
+Rue 4.816
+Rue 4.817
+Rue 4.819
+Rue 4.823
+Rue 4.826
+Rue 4.840
+Rue 4.843
+Rue 4.845
+Rue 4.847
+Rue 4.848
+Rue 4.854
+Rue 4.857
+Rue 4.867
+Rue 4.874
+Rue 4.879
+Rue 4.880
+Rue 4.886
+Rue 4.896
+Rue 4.900
+Rue 4.905
+Rue 4.927
+Rue 3.017
+Rue 3.018
+Rue 3.019
+Rue 3.033
+Rue 3.046
+Rue 3.053
+Rue 3.057
+Rue 3.067
+Rue 3.073
+Rue 3.081
+Rue 3.706
+Rue 3.727
+Rue 3.731
+Rue 3.732
+Rue 3.736
+Rue 1.312
+Rue 1.324
+Rue 1.333
+Rue 5.053
+Rue 5.258
+Avenue du Président El Hadj Ahmadou Ahidjo
+Rue 1.301
+Rue 1.368
+Rue 1.419
+Rue 1.512
+Rue 1.573
+Rue 1.589
+Rue 1.590
+Rue 1.617
+Rue 1.673
+Rue 1.518
+Rue 1.590
+Rue 1.597
+Rue 1.603
+Rue 1.611
+Rue 1.651
+Rue 5.025
+Rue 5.037
+Rue 5.251
+Rue 5.254
+Rue 5.255
+Rue 5.257
+Rue 5.262
+Rue 5.265
+Rue 5.266
+Rue 5.268
+Rue 5.269;Rue 5.262
+Rue 5.502
+Rue 5.507
+Rue 5.512
+Rue 5.517
+Rue 5.530
+Rue 5.541
+Rue 5.545
+Rue 5.552
+Rue 5.555
+Rue 5.569
+Rue 5.577
+Rue 5.271
+Rue 5.275
+Rue 5.276
+Rue 5.287
+Rue 5.301
+Rue 5.302
+Rue 5.322
+Rue 5.326
+Rue 1.543
+Rue 1.568
+Rue 1.840
+Rue 1.040
+Rue 1.103
+Rue 1.121
+Rue 1.149
+Rue 1.161
+Rue 1.055
+Rue 1.093
+Rue 1.139
+Rue 1.143;Rue 1.141
+Rue 1.661
+Rue 1.756
+Rue 1.806
+Rue 1.825
+Rue 1.840
+Rue 1.763
+Rue 1.764
+Rue 1.765
+Rue 1.767
+Rue 1.770
+Rue 1.773
+Rue 1.790
+Rue 1.793
+Rue 1.797
+Rue 1.800
+Rue 1.801
+Rue 1.820
+Rue 1.824
+Rue 1.826
+Rue 1.828
+Rue 1.845
+Rue 1.851
+Rue 1.876
+Rue du Rotary Club
+Avenue Rosa Parks
+Rue Bigawla Toumi
+Road
+ngoro
+Rue Enobo Kosso Martin
+Rue Etoundi Emini Dieudonné
+Rue G
+4ème rue
+rue 4.065
+Rue 4.081
+rue 4.084
+Rue 4.144
+Rue 4,158 Bonabérie
+Rue 4.215
+Rue 4.217
+Rue 4.275
+Rue 4.277
+Rue 4.376
+Rue 4.380
+Rue 4.383
+rue 4.420
+rue 4.424
+rue 4.457
+rue 4.485
+rue 4.504
+rue 4.520
+rue 4.532
+rue 4.561
+rue 4.563
+Rue 4.612
+Rue 4.709
+Rue 4.774
+rue Ecole Publique Bilingue de Bonaberi
+Mayor Street
+Street 8
+Mafo Street
+Mamcho Street
+Descente Camp ZOUA
+Entree Collége de Volontaires
+Rue Carr ZOUA
+Rue Derriere Ecole les Bourgéons
+Rue Maison des Sœurs de Marie Auxiliaire
+Rue Martin Luther King
+Pont sur la rivière MAWAK
+Rue Marc Vivien Foé
+Rue Nakouna Essama Pierre
+Rue Minkoumou Jean-Marie
+Rue Mbelé
+Rue Mbida Mfougou François
+Rue Alima Ndongo Oscar
+Rue Anguissa Christophe
+Rue Ebede Metou Bernard
+Rue du Cinquantenaire de l'Indépendance et de la Réunification
+Rue Ndigui Félix
+Rue Mbega Nanga Dominique
+Rue Nna Zo'o Laurent
+Rue Eloumdene Prosper
+Rue Messi Manga Paul
+Rue Atangana Ntsama Charles
+Rue Ndzana Tsimi Thomas
+Rue ENIET Privée les Fermions
+2eme Rue Ecole Primaire Groupe A1/A2/B
+Rue Bingo Baptist Hospital
+Rue Devant Bingo Baptist Hospital
+Rue derriere Ancient Depot Brasserie
+Entree Hôtel le Cafeier
+Rue derriere Eveché de Bafoussam
+Rue Ecole maternelle Mambou
+Rue Devant Ancient Depot Brasserie
+Entree Hotel le Confident
+Rue derriere Maison des Sœurs de Marie Auxiliaire
+Rue Charles et Julliette
+Entrer Centre de Santé de Bamendzi III
+Rue Centre Linguistique Régional
+1er Rue Ecole Primaire Groupe A1/A2/B
+Rue Ecole Bilingue ODILIAS
+Rue Hopital Famla
+Rue Paroisse St Jean Bosco de l'Aumonerie
+Rue Résidence Gouverneur
+RueBiligual School CBC
+Rue Charles et Jukiette
+Rue Ecole Maternelle de Bamendzi III
+Rue Ecole Primaire de Bamendzi III
+Rue Hôtel le Cafeier
+Rue derriere Centre de Sante Islamique
+Rue Centre de Sante Islamique
+rueRue domicil kemmoe
+Rue derriere le royaume des temoins de jehovah
+Entree Stade Lycée Bilingue de Ndiengdam
+2eme Entree Paroisse Mont Carmel
+Rue derriere Lycee Classique de Bafoussam
+Entree (CO.BIE.BAF)
+Entree domicil kemmoe
+Rue Domicile Kenmoe
+Rue Hotel le Confident
+3eme Rue Derriere Auberge
+8eme Rue Derriere l'Auberge
+7eme Rue Derriere Auberge
+5eme Rue Derriere Auberge
+Rue du Foyer Bandjoun
+Rue marche Oinion
+Treasury Street
+Ngwafang Street
+Church Center
+Akondeng Street
+Ndeh Street
+Mbomboh Street
+Fosung Street
+Pa Alang Street
+Pezoh Street
+Fo'omba'a Street
+Apeh Street
+Church Street
+Ngebong Street
+TDU Street
+Menefeume Street
+Rue des Grandes Endemies
+Entree Carr Printemps
+1er Rue Derriere Auberge
+2e Rue Derriere Auberge
+4eme Rue Derriere Auberge
+Entree Ecole St Therese de baleng
+Entree Ecole Normale
+Italie-Ngaîkada
+Buea Bamenda Street
+Route derriere Hopital de district
+Chief street
+Rue 4.173
+Rue 1.766
+Rue 1.864
+Rue 1.872
+Rue 1.866
+Rue 1.374
+Rue 1.604
+Rue 1.417
+Rue 1.012
+Rue 1.141
+Rue 3.056
+Rue 2.383
+Rue 2.018
+Rue 2.038
+Rue 1.123
+Rue 1.062
+Rue 1.092
+Rue 1.862
+Rue 1.868
+Rue 1.860
+Rue 1.769
+Rue 1.870
+Rue 1.758
+rue 1.131
+Rue 1.853
+Rue 1.775
+Rue 1.299
+Rue 1.308
+Rue 1.309
+Rue 1.313
+Rue 1.415
+rue 1.332
+Rue 1.332
+Rue 1.141
+Rue 1.405
+Rue 1.081
+Rue 2.353
+Rue 2.047
+Rue 2.030
+Rue 2.057
+Rue 2.055
+Rue 2.054
+Rue 2.044
+Rue 2.050
+Rue 2.053
+Rue 2.371
+Rue 2.350
+Rue 1.299
+Rue 1.078
+Rue 1.348
+Rue 1.346
+rue 1.373
+rue 1.371
+rue 1.367
+Rue 5.575
+Rue 5.558
+Rue 5.562
+Rue 5.556
+Rue 5.564
+Rue 5.568
+Rue 5.573
+Rue 6.343
+Rue 5.570
+Rue 5.798
+Rue 5.804
+Rue 5.786
+Rue 5.810
+Rue 5.823
+Rue 5.816
+Rue 5.814
+Rue 5.771
+Rue 5.773
+rue Hotel Porte M
+route de Banga Pongo
+Rue fiesta bar nyalla
+Rue college le zenith
+Rue 1.233(Alias Rue Monoprix)
+Rue 1.118
+Rue 1.241(Alias Rue Paul Monthe)
+Rue 2.774
+Rue 1.203
+Rue 2.770
+Rue 5.551
+rue 1.082
+Rue 1.502
+Rue 1.792
+Rue 1.873
+Rue 1.789
+Rue 1.791
+Rue 1.783
+Rue 1.781
+Rue 1.784
+Rue 1.798
+Rue 1.788
+Rue 1.813
+Rue 1.811
+Rue 1.786
+Rue 1.812
+Rue 1.822
+Rue 1.803
+Rue 1.842
+Rue 1.869
+Rue 1.809
+Rue 1.815
+Rue 1.816
+Rue 1.805
+Rue 1.795
+Rue 1.878
+Allée 1815/190
+Rue 1.857
+Rue 1.760
+Rue 1.882
+Rue 1.832
+Rue 1.838
+Rue 1.844
+Rue 5.750
+Rue 5.755
+Rue 5.753
+Rue 3.059
+Rue 3.061
+Rue 3.042
+Rue 3.044
+Rue 3.063
+Rue 3.055
+Rue 3.431
+Rue 3.435
+Rue 3.380
+Rue 3.378
+Rue 3.429
+Rue 3.376
+Rue 3.425
+Rue 3.374
+Rue 3.372
+Rue 3.366
+Rue 3.370
+Rue 3.362
+Allée 3.351/825
+Rue 3.369
+Rue 3.371
+Rue 3.377
+Rue 3.355
+Rue 3.373
+Rue 3.356
+Rue 3.359
+Rue 3.361
+Rue 3.358
+Rue 6.013
+Rue 6.010
+Rue 6.035
+Rue 1.837
+Rue 1.839
+Rue 1.835
+Rue 1.841
+Rue 1.778
+Rue 1.833
+Rue 6.015
+Rue Tunsie
+Rue 6.049
+Rue 6.003
+Rue 2.380
+Rue 2.376
+Rue 2.375
+Rue 6.039
+Rue 6.043
+Rue 6.041
+Rue 2.372
+Rue 2.373
+Rue 2.360
+Rue 2.358
+Rue 2.389
+Rue 2.720
+Rue 2.391
+Rue 2.363
+Rue 2.370
+Rue 2.352
+Rue 2.727
+Rue 4.901
+Rue 4.909
+Rue 4.856
+Rue 4.853
+Rue 4.939
+Rue 4.937
+Rue 4.832
+Rue 4.834
+Rue 4.897
+Rue 4.859
+Rue 4.858
+Rue 4.912
+Rue 4.906
+Rue 4.861
+Rue 4.849
+Rue 4.913
+Rue 4.902
+Rue 4.908
+Rue 4.894
+Rue 4.935
+Rue 4.907
+Rue 4.891
+Rue 4.830
+Rue 4.876
+Rue 4.889
+Rue 4.871
+Rue 4.903
+Rue 4.872
+Rue 4.878
+Rue 4.868
+Rue 4.870
+Rue 4.881
+Rue 4.899
+Rue 4.822
+Rue 4.820
+Rue 4.833
+Rue 4.809
+Rue 4.805
+Rue 4.829
+Rue 4.818
+Rue 4.787
+Rue 4.782
+Rue 4.869
+Rue 4.786
+Rue 4.789
+Rue 4.791
+Rue 4.795
+Rue 4.797
+Rue 4.799
+Rue 4.793
+Rue 4.772
+Rue 4.781
+Rue 4.774
+Rue 4.771
+Rue 4.777
+Rue 4.807
+Rue 1.593
+rue 1.510
+Rue 1.595
+Rue 1.395
+Rue 1.510
+Rue 5.027
+Rue 5.035
+Rue 5.040
+Rue 5.039
+Rue 5.041
+Rue 5.250
+Rue 5.033
+Rue 5.016
+Rue 5.013
+Rue 5.061
+Rue 5.057
+Rue 4.941
+Rue Ecole Publique de Bonamoussadi (Rue 5.111)
+Rue 5.137
+Rue 5.021
+Rue 5.036
+Rue 5.038
+Rue 5.064
+Rue 5N.086
+Rue 5.101
+Rue 5.085
+5N.339
+1.872
+rue 4.881
+rue 4.880
+Rue 4.717
+Rue 4.721
+rue 4.711
+Rue 4.725
+rue 4.717
+rue 4.754
+rue 4.860
+rue 4.790 sodiko
+route de chapelle mission international
+route Cite d'espoir pour L'humanite
+route pour école primaire coco
+street Mosquee Pk 10
+route colombre primary school
+Rue Dubois de Saligny (N°1.396)
+rue 1.388
+Rue Drouot (N° 1.412)
+Rue Foch (N° 1.414)
+Rue Foucauld ( rue 1.399)
+Rue M. Bebey Eyidi (Franqueville)
+Rue Dika Mpondo(N°1151)
+Rue Lottin Samè (N° 1.394)
+rue 4.120
+Rue 4.130
+Rue 4.122
+Rue 4.181
+Rue 4.183
+Rue 4.128
+Rue 4.124
+Rue 4.563
+Rue 4.567
+Rue 1.008
+Rue 1.041
+Rue 1.037
+Rue de Mfoundi
+Rue 1.010
+Rue 1.255
+impasse 4.098/1041
+Rue 4.114
+Rue 4.118
+Rue 4.145
+Rue 4.094
+Rue 4.157
+Rue 4.110
+Rue Martin Abega
+Rue 4.763
+Rue 4.775
+Rue 4.802
+Rue 4.765
+Rue 4.768
+Rue 4.757
+Rue 4.767
+Rue 4.803
+Rue 4.752
+Rue 4.759
+Rue 4.754
+Rue 4.750
+5N.472
+5N.423
+5N.422
+5N.480
+5N.488
+5N.452
+5N.444
+5N.419
+5N.424
+5N.427
+5N.454
+5N.438
+Rue 2.726
+Rue 2.730
+Rue 6.260
+Rue 6.256
+Rue 6.339
+Rue 6.347
+Rue 6.308
+Rue 6.302
+Rue 6.294
+Rue 6.298
+Rue 6.282
+Rue 6.361
+8eme ENTREE
+4eme ENTREE
+3eme ENTREE
+Rue 1.751
+Rue charley eyoumN°1.719)
+Rue 1.797
+Rue Djebale (N° 1.808)
+Rue 1.768
+Rue 1.778
+9eme ENTREE
+1eme ENTREE
+Rue Musoko(N°1.796)
+Rue 1.755
+Rue 1.800
+Rue 1.723
+RUE 1.790
+7eme ENTREE
+6eme ENTREE
+rue 1.426
+Rue 1.754
+Rue 1.765
+rue 1.393
+Rue 1.782
+rue Jebale (rue 1.462)
+5eme ENTREE
+Rue 1.856
+Rue 1.821
+Rue Bonatone (rue 1.456)
+Rue 1.804
+Route Motel Ronalo
+Rue stade cicam
+route Borome College
+route Cimitière ndokoti
+Rue 1.366
+Rue 1.767
+Boulevard de l'unité
+Rue 1.374
+Rue Dobell ( N° 1.416)
+Rue 1.449
+Rue 1.445
+Rue Leman (N° 1.403)
+Rue 1.457
+Rue 1.364
+Rue 1.489
+Rue 1.451
+Rue 1.493
+Rue 1.491
+rue 1.360
+Rue 2.741
+Rue 1.635
+Rue 1.516
+Rue 1.514
+Rue 1.518
+Rue 1.591
+rue 1.648
+Rue 1.612
+Rue 1.619
+Rue 1.614
+Rue 1.602
+Rue 1.647
+Rue 1.503
+Rue 1.610
+Rue 5.536
+Rue 5.543
+Rue 5.043
+Rue 5.503
+Rue 5.045
+Rue 5.537
+Rue 5.534
+Rue 5.533
+Rue 5.532
+Rue 1.607
+Rue 1.524
+Rue 1.601
+Rue 1.588
+Rue 5.047
+Rue 7.295
+La rue des Cannes
+Rue de Acacias
+Rue 7.282
+Rue 7.290
+Rue 7.258
+Rue 7.357
+Rue de l'Avoine
+Rue 7.379
+Rue 7.310
+Rue 7.377
+Rue 7.348
+Rue de l'Abale
+Rue 7.344
+Impasse des Ananas
+Impasse de l'Avelinier
+Rue 7.334
+Rue 7.047
+Rue 7.021
+Rue 7.049
+Rue 7.051
+Rue 7.029
+Rue 7.023
+Rue 7.027
+Rue 7.327
+Rue 7.083
+Rue 3.393
+Rue 6.545
+Rue 2.732
+Rue 2.723
+Rue 6.543
+Rue 6.529
+Rue 6.517
+Rue 6.557
+Rue 6.511
+Rue 6.507
+Rue 6.553
+Rue 2.059
+Rue 2.043
+Rue 2.026
+Rue 2.025
+Rue 2.030
+Rue 2.017
+Rue 2.035
+Rue 3.004
+Rue 2.006
+Rue 2.013
+Rue 2.009
+Rue 2.061
+Rue 2.022
+Rue 2.023
+Rue 2.021
+Rue 2.017
+Rue 4.009
+Rue 4.018
+Rue 3.707
+Rue 3.705
+Rue 7.037
+Rue 7.048
+Rue 4.509
+Rue 6.519
+Rue 6.549
+Rue 6.508
+Rue 6.500
+Rue 6.274
+Rue 6.253
+Rue 6.272
+Rue 6.383
+Rue 2.703
+Rue 2.705
+Rue 2.701
+Rue 2.718
+Rue 2.715
+Rue 2.712
+Rue 2.713
+Rue 2.731
+Rue 5.753
+Rue 6.252
+Rue 2.711
+Rue 6.369
+Rue 6.373
+Rue 4.796
+Rue 6.371
+Rue 6.315
+Rue 6.538
+Rue 6.286
+Rue 6.299
+Rue 6.291
+Rue 6.295
+Rue 6.287
+Rue 6.278
+Rue 6.313
+Rue 6.297
+Rue 6.279
+Rue 6.273
+Rue 6.281
+Rue 6.275
+rue 1.618
+Rue 1.620
+Rue 1.865
+Rue 1.867
+Rue 1.827
+Rue 1.559
+Rue 1.545
+Rue 1.535
+Rue 1.528
+Rue 1.526
+Rue 1.663
+Rue 1.517
+Rue 1.521
+Rue 1.519
+Rue 1.506
+Rue 1.759
+Rue 1.575
+Rue 5.805
+Rue 5.847
+Rue 5.778
+Rue 5.793
+Rue 1.616
+Rue 1.667
+Rue 5.818
+Rue 5.803
+Rue 5.806
+Rue 5.782
+Rue 5.795
+Rue 5.807
+Rue 5.776
+Boucle de Dallas
+westcoast park
+Pont expoir
+Pont du marché
+sappa road
+Sand-pit Road
+Bonaberi Street
+Mission Road
+Street 7
+Kingdom Hall Road
+St Luke Street
+Bakweri Town Road
+United Pentacostal church street
+Mount Zion Bar
+Atlanta Street
+Catholic School Street
+Gvt School Street
+Dental Clinic Street
+Nana׳s street
+Rangers Street
+Bwenga Road
+Rue 4.573
+Rue 4.579
+Rue 4.575
+Rue 4.530
+Rue 4.555
+Rue 4.599
+Rue 4.534
+Rue 4.263
+Rue 4.259
+Rue 4.270
+Rue 4.851
+Rue 4.844
+Rue 4.885
+Rue 4.863
+Rue 4.933
+Rue 4.887
+Rue 4.910
+Rue 4.835
+Rue 4.811
+Rue 4.806
+Rue 4.810
+Rue 4.812
+Rue 4.107
+Rue 4.137
+Rue 4.108
+Rue 4.131
+Rue 4.133
+Rue 4.135
+Rue 4.115
+Rue 4.090
+Rue 4.105
+Rue 4.109
+Rue 4.139
+Rue 4.153
+Rue 4.155
+Rue 4.161
+Rue 4.079
+Rue 4.084
+Rue 4.074
+Rue 8.771
+Rue 4.167
+Rue 4.506
+Rue 4.503
+Rue 4.508
+Rue 4.500
+Rue 4.073
+Rue 8.760
+Rue 1.031
+rue 4.026
+rue 4.045
+Rue 4.022
+Rue 4.524
+Rue 4.541
+Rue 4.539
+Rue 4.512
+Rue 4.519
+Rue 4.523
+Rue 4.521
+Rue 4.529
+Rue 4.527
+Rue Daniel Essomba
+Rue 3.704
+Rue 3.709
+Rue 4.012
+Rue 4.011
+Rue 4.502
+Rue 4.542
+Rue 4.522
+Rue 4.518
+Rue 4.513
+Rue 8.010
+Rue 8.028
+rue 8.027
+Rue 8.011
+Rue 8.015
+Rue 8.027
+Rue 8.070
+Rue 8.017
+Rue 8.757
+Rue André Amougou
+rue 8.059
+Rue 8.780
+Rue 4.254
+Rue 8.782
+Rue 8.777
+Rue 8.784
+Rue 8.759
+Rue 8.786
+Rue 4.028
+Rue 1.171
+Rue 1.002
+Rue 1.643
+Rue 1.627
+rue 1.629
+Rue 1.608
+Rue 1.641
+Rue B
+Rue I
+Rue A
+Rue C
+Rue E
+route pour wisdom bilingual college
+route pour scolaire bilingue celine newton
+5ème rue
+2eme rue
+Rue 4.026
+Rue 4.049
+Rue French(N°1.082)
+Rue Flatters(N°1.072)
+Rue Lugard(N°1.059)
+Rue Pierre Loti (N°1.078)
+Rue Ngosso Din (N°1.144)
+Rue 1.042
+Rue Bell
+Rue de l'hôpital (N°1.043)
+Rue 1.040
+Rue Prince Bell(N°1.129)
+Rue de l'Union Francaise(N°1.133)
+Rue Bonamandone (N°1.127)
+Rue Clemenceau (N°1.066)
+Rue Prince Bell (N°1.129)
+Rue C. Tobie Kuoh (N°1.077)
+Rue Dikoumè Bell (N°1.131)
+Rue Prince des Galles
+Rue Dominique Savio(N°1.225)
+Avenue Douala Manga
+Rue Chambre de Commmerce (N°1.069)
+Rue de la Motte Piquet (N°1.073)
+Rue M. Brunet (N°1.140)
+Rue du Gouverneur Carras
+Rue du Larminat(N°1.102)
+Rue 1.229(Alias Rue SNEC)
+Rue 1.193
+Rue 1.405
+rue 1.398
+Rue du Général Cournarie
+Rue 1.137
+Rue 1.114
+Rue Koufrah(N°1.126)
+Rue 4.604
+rue 4.555
+Rue 4.672
+rue 4.527
+Rue 4.028
+rue 4.064
+Rue 4.606
+rue 4.559
+Rue 4.651
+Rue 4.689
+Rue 4.685
+Rue 4.632
+Rue 4.687
+Rue 4.213
+rue Catholic Church Mambanda
+Rue 4.912
+rue 4.906
+Rue 4.855
+rue 4.908
+rue 4.894
+rue 4.853
+rue 4.545
+Rue 4.264
+Rue 4.034
+Rue 4.048
+Rue 4.032
+rue 4.536
+2eme rue
+Rue 3.028
+Rue 3.738
+Rue 3.027
+Rue 3.024
+rue 3.013
+Rue 3.020
+Rue 3.730
+Rue 3.026
+Rue 3.030
+Rue 3.034
+Rue 3.039
+Rue 3.051
+Rue 3.049
+Rue 3.723
+Rue 3.031
+Rue 3.722
+Rue 3.032
+Rue 3.003
+Rue 3.710
+rue 3.705
+Rue 3.021
+Rue 3.077
+Rue 7.584
+Rue 7.582
+Rue 7.586
+Rue 7.637
+Rue 7.641
+Rue 7.663
+Rue 7.300
+Rue 7.275
+Rue 3.387
+Rue 7.263
+Rue 7.265
+Rue 7.257
+Servitude des résidences
+Impasse Leng Tombo
+rue 1.048
+Rue 1.014
+Rue 1.088
+Rue 1.020
+Rue 1.030
+Rue 1.051
+Rue 1.018
+Rue 1.079
+Rue 1.073
+Rue 1.151
+Rue du Cercle
+Rue Menge Sogo
+Rue 1.086
+Rue 1.050
+Rue 1.046
+rue 1.046
+Rue 1.101
+Rue 1.097
+Rue Edjoa Mbede
+Rue 5.273
+Rue 5.280
+Rue 5.279
+Rue 5.281
+Rue 5.282
+Rue 5.283
+Rue 5.329
+Rue 5.297
+Rue 5.308
+Rue 5.312
+Rue 5.310
+Rue 5.299
+Rue 5.300
+Rue 5.309
+Rue 5.290
+Rue 5.288
+Rue 8.292
+Rue 5.289
+Rue 5.320
+Rue 5.313
+Rue 5.501
+Rue 5.260
+Rue 5.579
+Rue 5.548
+Rue 5.547
+Rue 5.505
+Rue 5.546
+Rue 5.521
+Rue 5.504
+Rue 5.515
+Rue 5.514
+Rue 5.518
+Rue 5.524
+Rue 5.538
+Rue 5.549
+Rue 5.544
+Rue 5.259
+Rue 5.031
+Rue 5.269
+Rue 5.270
+Rue 5.261
+Rue 5.264
+Rue 5.263
+Rue 5.267
+Rue 5.254
+Rue 5.031
+Rue 5.252
+Rue 5.315
+Rue 4.134
+Rue 4.132
+Rue 4.171
+Rue 1.292
+Rue 1.330
+Rue 1.341
+Rue 1.287
+Rue 1.359
+Rue 1.349
+Rue 1.323
+rue 1.314
+Rue 1.327
+rue 1.264
+Rue 1.270
+Rue 1.275
+Rue 4.367
+Rue 4.357
+rue 4.363
+Rue 4.351
+Rue 4.356
+Rue 4.463
+Rue 4.382
+Rue 4.103
+rue 4.26
+Rue 4.114
+Rue 4.065
+rue 4.436
+Rue 4.437
+Rue 4.441
+Rue 4.196
+rue 4.182
+rue 4.483
+Rue 4.067
+rue 4.499
+rue 4.428
+rue 4.4501
+Place Grand Baobab
+rue 4.129
+rue 4.087 Marche Mambanda
+rue 4.072 G.S.N.C
+rue 4.135
+Rue 4.131
+Rue Mpondo Akwa
+Rue 3.045
+Rue Ondigui Christophe
+Rue Emini Ndzinga Jean
+Rue Nga Ndzana Honoré
+rue EMAH MBIDA André
+Rue Messi Jean
+Rue Minkoumou Jean Marie
+Rue Atangana Lucien
+Rue L'Arche des Photons
+Rue SOS Sante
+Entree Ecole Primaire
+Rue Derriere Cami toyota
+Rue derriere L'Arche des Photons
+2eme Rue Derriere Cami toyota
+Rue Derriere Hôtel CAMPIA
+Entree Oasis Hotel (1er carrefour Evéché)
+Entree Martin Luther King
+Entree Pagecam
+Rue Biligual School CBC
+Rue des Impots
+Rue Derriere Oasis Hotel (1er carrefour Evéché)
+Rue Derriere Ecole Primaire St Jean Baptiste
+Entree CEPROJET
+Montee AKWA Bafoussam
+1ere Rue TALOTEL
+2eme Rue TALOTEL
+3eme Rue TALOTEL
+Rue Entree CEPROJET
+Rue Derriere le Lycée Bilingue de Ndiengdam
+Entree Lycée Bilingue de Ndiengdam
+Entree Claire Fontaine
+Entree College la Noblesse
+1er Entree Paroisse Mont Carmel
+6eme Rue Derriere Auberge
+Rue France Volotaire
+Takobatam Street
+Musang Street
+Wangla Street
+Mekwebu Street
+New Layout Mbinfibieh
+Unification Street
+Angwafo Street
+Fomukong Street
+Vicky Street
+Mallam Baba Street
+Awanwu Street
+Fundzon Street
+Azire Street
+Cantre Street
+Akofo'o Street
+Kwate Street
+GS Tanjang Street
+Mofor Tawoh Street
+Konwufene Street
+Vers l'église catholique
+entrée domicile djiongo
+2e rue Makoumba
+1er rue Makoumba
+Route ENIEG Bafoussam
+Alaska Street
+Nyandong track
+mbokambo road
+Tobin Roundabout
+Jakiri-Foumban
+Rue Rose croix
+Nouvelle Route Eveche
+Descente Petite Mosquée ( College Mifi)
+CAMI TOYOTA (Bafoussam-Foumban)
+Rue Entree stade
+Rue Tennis Club Bafoussam
+Carr TPO(Bafoussam-Foumban)
+CAMI TOYOTA (Boulevard Evêché)
+Monter Ecole Primaire
+SOTUOCAM (Bafoussam-Foumba)
+Axe Ancien Pont sur le Noun
+Axe coptchou (Bafoussam-Foumban)
+Axe OILIBYA
+Entree group 3
+Axe TOTAL (Bafoussam-Foumban)
+Expresse Union (Nouvelle Route Eveche)
+Montee derriere le stade
+Descente NBEOTEL Hôtel
+Monter Bouquie
+Descente Cabinet de Soins les Beatitudes
+Rue Ecole publique maternel
+Entree Nouvelle Brigade de Bamendzi
+Entree Ecole publique maternel
+Rue Espace pour Sante
+Rue Maison religieuse Bethanie
+Axe COCIBAF
+Axe Martin Luther King
+Axe King Place
+Rue Ecole publique bilingue Le Laboureur
+Rue Ecole Maternelle Alpha Bilingual
+Axe Binan Voyage
+Axe Gare Routiere
+Rue Paroisse Sacré-Coeur Ndiengdam
+Rue Ecole de Formation LAFOFANI
+Entree Marché SOCADA allant vers Omnisport
+Douala-Bafoussam
+Rural Roads
+Tracks
+Rural Roads
+Bridge at Murfor 1
+route de Ndop
+Tracks
+Rural Roads
+Kake bridge
+Rural Roads
+Nkwen Street
+Bridge Bekoh
+New Access Road
+Grandstand Road
+Mr. Godfriend Road
+Munwitingoro Street
+Nyiamgoh Street
+Council Street
+Nurses Quarter
+Nacho Street
+Ntaturu Street
+Bali Park Street
+Nchoubu Street
+Ngomgham Street
+Che Street
+Airport Street
+Meta Quarter
+Chinde Street
+Nangah Street
+Akohkikang Street
+Ndamukong Street
+Savannah Street
+City Chemist Roundabout
+St Pauls Road
+Foncha Street
+sonac Street
+Mulang
+Finance Junction
+New Lay Road
+Up Station Road
+Ghana Street
+Cow Street
+Mobile Nkwen Street
+Treasury Street
+Awing Lake Road
+Kings Highway East
+Kong Fo'o Street
+Cooperative Street
+High School Street
+Aziandzere Road
+Kings Highway West
+Palace Road
+pathway
+Provinciale 19
+Marché vers le centre administratif
+Départementale 65
+Départementale 63
+Provinciale 31
+Départementale 70
+Provinciale 19
+Départementale 70
+Provinciale 15
+RDPC Carrefour
+Road
+Vers la Chefferie
+Viaduc
+Douala-Bafoussam (N5)
+Entree Pharmacie Salvia
+Troncon Entrée école normale
+Entree ENIEG(Lycee Bilingue de GOUACHE)
+Route Devant Hôpital régional de Bafoussam
+Entree Marchee Casa(Hotel Unite)
+Axe Centre de Visite Technique
+Douala-Bafoussam (N5)
+D64
+Départementale 64
+Carr Bamougoum (Axe Carr Bamougoum-Dschang 'Provinciale 17')
+Entree Marchee Casa
+Route mineure
+Rue Entree Palace Kamkop
+Carrefour Marie Rurale(Entree College Binlingue la Reussite Maak Paulo)
+Entree Marchee Casa(Hotel Altitel)
+Route Lycee Bilingue de Gouache
+Route College Binlingue la Reussite Maak Paulo
+Bafoussam-Bamougoum
+Rue de la Gare
+Rue du Petit Marche
+Ngaoundéré-Garoua-Boulai
+Bertoua-Garoua-Boulai
+Pont du Lom
+Dja
+Ngaoundéré - Bélel
+Distributor Road to Ngaoubela
+Tibati-Ngaoundéré
+Bélel - Mbang Rey (Lim NO)
+cdc road
+Bakole track
+Piste Forestière
+Piste forestière
+Provinciale 19
+Bamenda-Mamfe
+mbokambo road
+Kumba-Mamfe
+Kumba-Mundemba
+P26
+Eyumojock-Ekok
+Batouri-Kentzou
+Bertoua-Batouri
+ndockmbang-behack
+place du camp
+La Residance
+1ere rue
+rue de la carriere
+Départementale 62
+bafia-nditam
+Bakole track
+Mbakwa Supe viaduct
+Douala-Bafoussam
+Bokova Road
+Douala-Bafoussam (N5)
+Piste_forestière
+Douala-Bafoussam
+log 1
+Rue 1.847
+rue 1.125
+Rue 1.500
+rue 1.413
+Rue 1.393
+Rue 3.036
+Rue 3.025
+Rue 3.083
+Rue 1.273
+Rue Sébastien Essomba
+Rue 2.037
+Rue Sime Koa
+rue 1.123
+Rue Onambele Nkou
+Rue 1.034
+Rue 2.037
+Rue Zogo Fouda Ngono
+Rue Lamido Hayabou Hammoa
+Rue 2.354
+Rue 2.065
+Rue 1.571
+N3 AXE LOURD
+Route de Japoma axe nyalla 3c.660
+Rue College la Vallee
+route de Japoma
+Axe Lourd Douala-Edea
+Rue de New Bell
+Rue 1.074
+Rue 1.504
+voirie Mengang
+D 45
+Rue 1.891
+Rue 1.810
+Rue Marcus Etoundi
+Rue 5.751
+Rue Charles Bindzi
+Rue 3.391
+Rue Omgba Bissogo
+Boulevard Rudolf Manga Bell
+Rue 2.707
+Rue 2.397
+Rue 6.001
+Route du Mont-Fébé
+Route du Golf
+Rue 6.017
+Route du Mont-Fébé
+Avenue John Ngu Foncha
+Rue 6.001
+Rue 2.381
+piste vers complexe agropastoral de mekok
+contournement Nord d'Ayos
+Rey Bouba
+Esseng Efoulan
+Rue 5.051
+5N.015
+Rue 5.053
+bloc E
+5N.578
+rue 4.733 phs
+route collège saint louis
+Route Sandaga
+Boulevard du Président Ahmadou Ahidjo (N° 1352)
+Rue 4.762
+Place John F. Kennedy
+Avenue Monseigneur Vogt
+Rue Rodolphe Abessolo
+Rue Manfred Otto Fouda
+Rue Antoine Essomba Many
+Rue Martin Tabi Essomba
+Rue 4.766
+Rue 4.760
+RN 10
+Douala-Edea
+Douala - Yaoundé (Nationale Numéro 3)
+L'ancien pont Allemand
+Lolodorf - Kribi
+route Yaoundé-Kribi
+ancien ponde
+route Yaoundé-Kribi
+Rue du Vatican
+Carrefour Messamendongo
+Rue 1.818(Alias Axe Lourd Bépanda)
+2eme rue
+Rue 5.080
+Boulevard de la Réunification(rue 1.464)
+DeviationRondPoint
+Rue 1.818(Alias Axe Lourd Bépanda)
+Feu Rouge Bessengué
+Autoroute de l'aviation
+Rue du Roi Njoya
+route Stade Mario Ecole Public
+La Route du Campus 2 ESSEC
+Autoroute de l'aviation
+Place des Lions Indomptables
+Boulevard de la Réunification
+Rue 2.756
+Avenue du Docteur Jamot (N° 1.407)
+Rue 1.520
+Rue 5.561
+entrée du sapin
+Nouvelle route tam-tam
+Avenue de Mvolye
+bekoko-oekocenter
+Accacia
+Rue 7.260
+Montée des soeurs
+Route de Kribi
+Rue 6.515
+Rue de la Briqueterie
+Rue 2.011
+Rue 4.007
+Rue 3.012
+Rue 2.710
+Montée du Lycée
+Ancienne Route de Douala
+Rue 1.897
+Rue 1.677
+Rue 1.677
+Yaoundé-Bertoua
+Evian
+Rural Roads
+Voa I-Evain
+Route-Mevak
+Nkolpoblo-Nkoldasse
+Fehminghang-Nkolzibi
+Kombag-Nkonzok
+Song Onana-Evian
+Pont du zoo de Limbé
+pont dès zoo
+botanic garden chez milly to down beach
+Bank Avenue
+Tea Road
+Tole Malingo Road
+Kumba-Buea
+Market Road
+Bokova Road
+Guiness Street
+Bulu Blind Street
+Razel Street
+BUKWAI ROAD
+Great Soppo-Bukwae Road
+Bank Avenue
+Manga bridge
+Pont sur le Chari
+Maroua-Kousséri
+Rue 4.929
+Maroua-Kousséri
+Pont
+L'ancien pont Allemand
+Rue 4.501
+Rue 4.029
+Rue 4.030
+Rue André Amougou
+Rue 8.751
+rue 8.068
+Rue 8.751
+Tropicana Carrefour
+Rue 4.255
+Boulevard du 20 Mai 1972
+Axe lourd Douala-Edea
+Avenue du Géneral de Gaulle (N°1.051)
+Avenue du Géneral de Gaulle(N°1.051)
+Rue Surcouf (N° 1.094)
+Avenue du Géneral de Gaulle(N°1.051)
+Rue de Koumassi
+rue 4.611
+Rue 4.621
+Boulevard du 20 Mai 1972
+Autoroute Yaoundé-Nsimalen
+rue 3.025
+Rue de l'Université
+Rue Joseph Atemengue (Rue 3.715)
+Rue 4.014
+Rue 3.728
+Rue Joseph Tchoungui Akoa
+Rue 3.728
+Boulevard de l'OUA
+Cité des cadres
+Rue Zogo Fouda Ngono
+Rue 1.007
+Rue 1.053
+Rue 1.061
+Place Elig-Essono
+Rue 2.001
+Carrefour Warda
+Rue 5.500
+Rue 5.294
+Rue 5.328
+Avenue Marcel Marigoh Mboua
+Rue 1.280
+Pont sur le Wouri
+nouvelle route
+Route Complexe industriel du littoral
+Pont routier du Wouri
+Boulevard de la réunification
+Rue 3.010
+Kribi-Ebolowa
+Carrefour Tame Zou
+Kribi-Ebolowa
+Kribi-Ebolowa
+route Yaoundé-Kribi
+Nationale 4
+Avenue de l'indépendance(N°2.351)
+Maroua-Kousséri
+Maroua-Kousséri
+Maroua-Kousséri
+Maroua-Kousséri
+Garoua-Mokolo
+Maroua-Mokolo
+Garoua-Mokolo
+Maroua-Kousséri
+Maroua-Kousséri
+Danmiguiry-Waïba
+Magada-Kaélé-Yagoua
+Garoua-Kaélé-Yagoua
+Magada - Kaélé - Yagoua
+Moutourwa-Midjiving
+Garoua-Maroua
+Garoua-Maroua
+Ngaoundéré-Garoua
+Garoua-Maroua
+Rural Roads
+Streets
+Boulevard Lamido Hayatou
+Carrefour CICAM
+Rue Dominik
+Rue Lamouche
+Rue May Boukar
+Avenue Ahmadou Ahidjo
+Garoua-Maroua
+Ngaoundal-Garoua-Boulai
+Ngaoundéré-Garoua-Boulai
+Foumban-Banyo
+Tibati-Ngaoundal
+Banyo-Tibati
+Tibati-Ngaoundal
+Bertoua-Garoua-Boulai
+Bertoua-Garoua-Boulai
+Banyo-Tibati
+Foumban-Banyo
+Bertoua-Batouri
+Foumban-Banyo
+Batouri-Kentzou
+Batouri-Yokadouma
+nditam-gambetikar-2
+baffia-nditam
+voirie Mengang
+Boulevard du Président Paul Biya
+Rue 4.258
+Yaoundé-Mbalmayo
+Mbalmayo - Ebolowa
+Yaoundé-Mbalmayo
+Mbalmayo - Ebolowa
+route Yaoundé-Kribi
+Rural Roads
+Voua II-Fehmingang
+Yaounde - Obala
+Nationale 4
+route Yaoundé-Kribi
+Sangmélima-Mbalmayo
+Mbalmayo - Ebolowa
+Kribi-Lolodorf
+Edea-Kribi
+Kribi-Lolodorf
+Edea-Kribi
+Avenue Japoma
+Boulevard de l'unité
+Douala-Edea
+ROAD TO PK 12
+Route de Japoma
+Rue 4.649
+Piste_forestière
+Douala-Bafoussam (N5)
+Douala-Bafoussam
+Piste forestière
+Piste_forestière
+Piste Forestière
+Piste forestière
+Douala-Bafoussam
+Douala-Bafoussam (N5)
+Provinciale 17a
+church street
+Douala-Limbé
+manga williams avenue
+BOKOVA ROAD
+Iya Avenue
+Malingo Street
+Tea Road
+botanic garden chez milly to down beach
+Douala-Limbé
+Kumba-Mamfe
+Kumba-Mamfe
+Kumba-Mundemba
+Kumba-Mundemba
+Bamenda-Mamfe
+Bamenda-Mamfe
+Kumba-Mamfe
+Départementale 62
+Départementale 62
+Nationale 4
+Départementale 62
+Main Road
+Main Road-Hopital de district
+Nationale 4
+P15
+P 15
+Bafoussam-Foumban
+Bafoussam-Foumban
+P 15
+Bafoussam-Mbouda
+Carr Bamougoum(Bafoussam-Mbouda 'N6')
+D63
+Provinciale 15
+Provinciale 15
+D64
+Départementale 63
+Départementale 64
+Provinciale 31
+Douala-Bafoussam (N5)
+Provinciale 15
+Douala-Bafoussam (N5)
+Sia-sia
+Douala-Bafoussam (N5)
+Route Derriere Hôpital régional de Bafoussam
+Route Devant Brigade de Lafe (Entree Ancien depot Guinness)
+Rue Ecole de Tchitchap
+Provinciale 31
+Départementale 70
+Provinciale 17
+Départementale 70
+Mbouda-Bamenda
+Départementale 71
+Provinciale 17
+Provinciale 31
+Bamunka
+Rural Roads
+Streets
+Provinciale 17
+Provinciale 19
+Provinciale 17
+Bafoussam Road
+Commercial Avenue
+Food Market Road
+Longla Street
+Mulang Street
+Muna Street
+Nkwen Street
+Sonac Street
+Bafoussam-Mbouda
+Mbouda-Bamenda
+Bamenda-Mamfe
+Alabukam Street
+Bamenda-Mamfe
+Food Market Road
+Wum Road
+Rural Roads
+Kings Highway
+Main Avenue
+Western Parkway
+Bamenda-Mamfe
+Mbengwi Road
+Mbon Market Road
+P26
+Rue Sain charle
+Boboyo-Kaélé
+Rue Etongo Ndzengue Célestin
+Route Engola Robert
+Rue Minlo Medjo Pierre
+Bafoussam-Foumban
+Jakiri-Foumban
+Départementale 62
+Bafoussam-Foumban-Pharmacie La Grace
+Rond point total
+AXE SACTA (Bafoussam-Foumban)
+Entree Ecole privée laïc les Bourgéons
+Rue Hôtel CAMPIA
+Entrer Ecole Primaire
+Rue Mission Plein Evangile
+Entrer Famleng
+Axe Makambou (Boulevard Evêché)
+Rond point BIAO
+Ancien Pont sur le Noun
+Axe College Mifi (Bafoussam-Foumba)
+SPC (Bafoussam-Foumban)
+Axe Famleng(Bafoussam-Foumba)
+Axe SACTA (Bafoussam-Foumban)
+Rond point palais de justice
+Rond Point Hotel de Ville
+Rue Complexe Multisport Bafoussam
+Axe Hotel Sekem (Nouvelle Route Eveche)
+1er carrefour Evéché
+Rue Pharmacie Noubissi
+Tournant Derriere Stade
+Descente Famla
+Montee Famla
+Entree Lycee de Batoucop
+Axe Encient Depot Brasserie (Bafoussam-Foumban)
+Laborex (Bafoussam-Foumban)
+Dépot Guinesse (Bafoussam-Foumba)
+Axe Famleng (Bafoussam-Foumba)
+AXE Banefo (Bafoussam-Foumban)
+Axe Tomdjo (Bafoussam-Foumban)
+AXE Pont sur le Noun (Bafoussam-Foumban)
+Axe Bienveillance (Boulevard Evêché)
+Axe Qtier Haoussa (Bafoussam-Foumban)
+Monter 2e Carr Eveche
+Boulevard Evêché
+Axe Hotel Sekem (Boulevard Evêché)
+Axe sekem (Boulevard Evêché)
+Route 1er-2e Carr Eveche
+Ecole Catholique St Paul (Nouvelle Route Eveche)
+Rue Complexe Scolaire Bilengue Charles et Jukiette
+Rue Ecole Primaire Groupe A1/A2/B
+Rue Motel des Tuileries
+Axe Ecole publique de Ndiendam I
+RueTresor Voyage
+Manoir Hotel-Montee Monument Wanko
+Boulevard Pachong Adolphe
+Axe Bansoa Voyage
+Rue Ecole primaire de bafoussam 1
+Rue Cabinet de Soins Agapé
+Rue Express Union Ndiengdam
+Rue Hôpital de la Police
+Nouveau Pont sur le Noun
+AXE Pont sur le Noun (Bafoussam-Foumban)
+Rue du depot
+Carr TPO(Bafoussam-Foumban)
+Rue TPO
+Eglise Evangelique (Entree TPO)
+Rue St charle (Entre TPO)
+Rue Tougang Village
+Rue Magnetoscope Hotel
+Rue Further Market
+Bafoussam-Mbouda
+Montée Marché C
+Axe Centre climatique de Bandjoun
+Babungo-Oku
+Rural Roads
+Bafanji- Bambalang
+Nationale 4
+Banja-Bambili-Babanki
+Bridge bw Ntukweh and Mbebah
+Mbouda-Bamenda
+Mbengwi Road
+Hospital Roundabout
+Ayaba Street
+Awing Road
+Mbouda-Bamenda
+Mekemtikong Road
+Eastern Parkway
+Kings Highway SE
+Coffee Estate Road
+Kings Highway SW
+Main Avenue West
+GS Akying-Melung Street
+Eastern Parkway (Unavailable)
+Market Street
+Akefinghalum (Coffee Estate) Road
+Central Avenue
+Départementale 63
+Départementale 65
+Route stade Omnisport de Bafoussam
+Carrefour auberge
+Boulevard du Renouveau
+Entree Marche B
+Route Entree Hôpital régional de Bafoussam
+Troncon Cathedrale St Joseph de Baleng
+Route Entree Ancien Depot Guinness
+Dortoir et Garage Militaire (Route Ancien Depot Guinness)
+Route Devant Mairie de Bafoussam II (Entree Ancien depot Guinness)
+Troncon Ecole Saint Pierre Damien
+Route Devant Hotel le Grand Lac (Entree Ancien depot Guinness)
+Carrefour Marie Rurale (Route Entree Ancien Depot Guinness)
+Carrefour Marie Rurale
+Axe Tradex
+Yaounde-Bandjoun
+D 64
+Bafoussam-Bamegoum
+Entree College St Thomas
+Yaoundé-Bertoua
+Bertoua-Garoua-Boulai
+Enia-Ngaîkada
+Yaoundé-Bertoua
+Batouri-Kette
+Avenue Mbartoua
+Avenue Haye Ndiba
+Avenue Paul Biya
+Rue Goliké Fabien
+Ngaoundéré-Garoua
+Kumba-Mundemba
+Kumba-Mamfe
+Douala-Bafoussam
+Provinciale 19
+bafia-deak
+P26
+N6 Bamenda-Mamfe
+Mamfe-Eyumojock
+Rue 5.767
+Rue 5.769
+Rue 5.770
+Rue 6.017
+Rue du Vatican
+Autoroute Yaoundé-Nsimalen
+Rue 2.717
+Rue Nana Tchakounte
+Boulevard Rodolphe Manga Bell
+Avenue du 20 Mai
+Avenu Wanko
+Axe Bingo Baptist Hospital (Nouvelle Route Eveche)
+Axe (CO.BIE.BAF)
+Axe Eveché de Bafoussam (Route 1er Carr Eveche)
+AXE Stade Municipal (Bafoussam-Foumban)
+Entree Stade
+Montee Services du Gouverneur
+Piste derriere Stade Omnisport
+Rue Mairie de Bafoussam 1
+Rue Paroisse Mont Carmel
+Boulevard de la Besséké(N°1.255)
+Boulevard de la République
+Boulevard de la République (1.729)
+Boulevard de la République(N° 1.729)
+Boulevard de la République(rue 1.729)
+Boulevard du Général Leclerc 27 Août 1940
+Route de Douala Nord
+rue 1.466
+Rue Bonajinje(N°1.809)
+Rue de Deido Bassa(N°1.878)
+Avenue de l'indépendance(N°2.351)
+Avenue du Géneral de Gaulle (N°1.051)
+Axe lourd Douala-Edea
+Boulevard de l'unité
+Douala-Edea
+Ebolowa-Campo
+Route de Douala Nord
+Rue 5.078
+Rue 5.080
+Rue 5.121
+Rue de Deido Bassa(N°1.878)
+Rue de Melen
+Rue de Ngueule Mendouga
+Route de Kribi
+Rue 3.398
+Rue 7.009
+Rue 7.015
+Boulevard de la réunification
+Rue de Melen
+Ancienne Route de Douala
+Autoroute Yaoundé-Nsimalen
+Autoroute Yaoundé-Nsimalen
+Yaoundé-Mbalmayo
+Rue 4.014
+Rue 4.509
+Rue 4.086
+Rue 4.098
+Rue 1.365
+rue 4.753
+Rue 4.804
+Rue 1.001
+Rue Antonie Essomba Many
+Rue Many Ewondo
+Rue Martin Tabi Essomba
+Boulevard de la réunification
+Boulevard du 20 Mai 1972
+Boulevard Rodolphe Manga Bell
+Place Ahmadou Ahidjo
+Rue 3.006
+rue 3.010
+Rue 3.011
+Rue 3.013
+Rue 3.043
+Rue 3.725
+Rue Samba Paul Martin
+Rue 1.271
+Rue Jean Abanda
+Rue 5.008
+Rue 1.372
+Rue 1.564
+Rue 5.294
+Rue Albert Ateba Ebe
+Rue Joseph Omgba Nsi
+Avenue Charles de Gaulle
+Avenue de l'indépendance
+Avenue John Fitzgerald Kennedy
+Avenue Winston Churchill
+Rue 1.034
+Rue 3.006
+Rue de Nachtigal
+Rue Monseigneur Graffin
+Rue 1.064
+Rue Noah Tsogo
+Rue 1.070
+Rue 1.859
+Rue Albert Ateba Ebe
+Rue Bounoung Mbono
+Rue Joseph Mballa Eloumden
+Boulevard de l'URSS
+Boulevard de Sa Sainteté le Pape Jean-Paul II
+Rue 1.771
+Rue Joseph Mballa Eloumden
+Avenue de l'Université
+Avenue Chantal Biya
+Autoroute Yaoundé - Douala
+Rue 5.760
+route Logbaba-cité des palmiers
+route im BKSS japoma
+route de Yassa
+Avenue Douala Manga Bell
+Rue Njo-Njo
+Rue 5.572
+Bafang-Bangangté
+Nshi Ma Ni
+Falekaral-Salmaye
+Kofidé-Siguéorè-Touloum
+Garoua-Kaélé-Yagoua
+Timana-Djerniguè-TsaoTchaï
+Salmaye-Timana-Djerniguè
+Guidiguis- Danmiguiry-Waïba
+Maroua-Kousséri
+Route de la Prison
+Garoua-Kaélé-Yagoua
+Pont Boboyo
+Kaélé-Doumrou
+Rond Point Gendarmerie
+Garoua-Yagoua
+Pont Kaélé
+Garoua-Kaélé-Yagoua
+Boboyo-Kaélé
+Garoua-Yagoua
+Midjiving-Boboyo
+Moroua-Pouss
+Maroua-Pouss
+N1
+Garoua-Maroua
+Pont DOMAYO
+Garoua-Maroua
+Maroua-Kousséri
+Nvelle Route
+Douala-Bafoussam (N5)
+Départementale 63
+Ngaoundéré-Garoua
+Carrefour 8
+Rue de la Grande Mosquée
+Boulevard Modibo Haman Djoundi
+Carrefour Artisanal
+Avenue Paul Biya
+Rue Braking
+Carrefour Sodecoton
+Rue Vokou
+Rue Docteur Bbaral
+Rue du Jardin
+Rue Cne Rousseau
+Rue Markopoulos
+Rue Djaouro Ganama
+Rue Gauchet
+Boulevard Modibo Haman Djoundi
+Rue Wassif
+Rue D. Diri
+Rue Gros
+Rural Roads
+Rural Roads
+Rural Roads
+Rural Roads
+Rural Roads
+Rural Roads
+Nationale 4
+N4
+Douala-Bafoussam (N5)
+Bamenda-Mamfe
+Douala-Bafoussam (N5)
+Provinciale 15
+Rue du Vatican
+Rue Jean Tsanga Manga
+Rue Max Kamwa
+Rue 6.001
+Avenue John Ngu Foncha
+Rue 2.377
+Ngaoundéré-Garoua
+Douala-Bafoussam (N5)
+Trans-Sahelian Highway
+Rue Tchoungui Olda
+Rue 4.766
+Voie Makepe Est
+Route Akwa Nord
+Pont sur le Moungo
+Douala-Bafoussam
+Douala-Limbé
+rue 4.784
+rue 4.796
+Route sodiko-bonamatoumbe
+Rue Martin Tabi Essomba
+Place Ahmadou Ahidjo
+Rue Monseigneur Graffin
+Rue 1.250
+rue 4.104
+Rue 5.001
+THE ROAD TO SODICOMBO
+Road to PK 14
+Rue 6.264
+Rue 6.284
+Pont allemand
+Provinciale 9
+Place de l'indépendance
+Lolodorf - Éséka
+Nationale 3
+Provinciale 9
+Provinciale 9
+Rond Point Deido
+Place de Dakar
+Route Deido Bonanjo (N°1.705)
+Boulevard des Nations Unies
+Rue de Kassalafam
+La Route de BP Cité
+Avenue de Bepanda
+logbaba Route de Japoma 3c.660
+Route de Japoma
+Carrefour CCC
+Route Camp Yabassi
+Rue 1.625
+Avenue d'Etoug-Ebé
+Rue 7.015
+Provinciale 9
+Rue 6.515
+Rue 7.007
+Rue 6.251
+Rue 6.250
+Rue 1.560
+Rue 1.580
+Rue Noah Tsogo
+Rue 4.129
+Rue 4.077
+Rue 4.060
+Rue 4.165
+Rue 4.049
+Rue de Kondengui
+Rue 4.029
+Rue 4.101
+Rue 4.102
+Angosso
+Rue Etoundi Ekono Damien
+Rue Ntonga Pie
+route de Ntoutmevom
+Eligndoum-Fermongong
+Evian-Ayos
+Lendom-Konabeng
+sokolo new road
+Isokolo Old Road
+Sokolo New Road
+Bokwango Road
+Babuti Street
+Tea Road (Long Street)
+Road to Bulu Blind
+Rue Ze Mendouga
+Tea Road(Long Street)
+Kumba-Buea
+Rue 4.036
+Rue 4.037
+Rue 4.024
+Rue Joseph Ayissi
+Rue 3.085
+Rue André Amougou
+Rue 8.007
+Rue 8.032
+Rue 4.273
+Ekié Carrefour Six Morts
+Rue 8.005
+Boulevard de l'OCAM
+Rue 4.258
+Magada-Kaélé-Yagoua
+Waïba- Kofidé
+Salmaye - Siguéorè (Saomaïpaadye)
+Timana-Boutou-Touloum
+Fadéré-Touloum
+Siguéorè-Fadéré
+Kofidé - Nguirling-Doumga
+Moroua-Pouss
+Garoua-Yagoua
+Maroua-Mokolo
+Avenue du 20 Mai
+Route de Maga
+Avenue Kakatare
+Boulevard Diarenga
+Pont vert
+Garoua-Maroua
+Garoua-Mokolo
+Garoua-Mokolo
+Boulevard Indépendance
+Rue Monseigneur Yves Plumey
+Ngaoundéré-Garoua
+Avenue Monseigneur Yves Plumey
+Rue Malam Yaya
+Boulevard Indépendance
+Rue Baba Kassoua
+Rue Bakari Mayha
+Rue Marchand
+Rue Titant
+Carrefour Yelwa
+Avenue du Géneral de Gaulle (N°1.051)
+Rue de New Bell
+rue 4.014
+Rue 4.218
+Rue 3.054
+Rue 3.700
+Rue Martin Abega
+Rue Tobi Atangana
+Avenue de Mvolyé
+Rue Henri Vieter
+Carrefour Trois Statues
+Rue 3.748
+Rue 1.016
+Rue du Maréchal Foch
+Rue 1.026
+Place de l'Indépendance
+Rue 1.009
+Avenue Mvog Fouda Ada
+Rue Frédéric Foe
+Rue 1.319
+Rue 1.317
+Rue Joseph Omgba Nsi
+rue 1.271
+Avenue Germaine Ahidjo
+Rue 1.282
+rue 1.466
+Route du Lycée (Rue 4.352)
+route 4.070
+Rue 4.037
+Rue Samba Paul Martin
+Avenue du Président El Hadj Ahmadou Ahidjo
+Avenue du 27 Août 1940
+Nouvelle Route Bastos
+Kribi-Lolodorf
+Kribi-Lolodorf
+Yaoundé-Sangmélima
+Mbalmayo - Ebolowa
+Rue 1.023
+Rue 1.307
+Boulevard Sultan Njoya
+Route de Ngousso
+Rue Joseph Essono Balla
+Rue de Djoungolo
+Rue 1.367
+Shortcut path to the road towards Doualayel
+Hammock bridge
+Bitieku Track
+Timber road
+Pont suspendu de Mana
+limit(tree) baro-bajo road
+limit(tree) baro-bajo road
+nditam-side-right
+nditam-round-village
+Accès de la usine BAT
+Rue 1.776
+Rue 5.755
+Rue 1.754
+Rue 1.755
+Rue 4.536
+servitude gouverrneur
+Imp. 1142
+Imp.1080
+1.828
+rue 1.139
+passerelle
+Rue 1.430(Alias Rue Cité Chardie)
+Rue 1.771
+Avenue Douala Manga Bell
+Rue 2.778
+Rue 2.772
+Entrée TKC
+face chapelle damas
+Sentier botanique
+rue 8.036
+Rue 6.316
+*
+mbokambo road
+mbokambo road
+mbokambo road
+mbokambo road
+rue 1.066
+Rue Congo Paraiso(N°2.517)
+Forest Walk
+Rue 4.097
+Vers cameroon airforce
+Etat major de l'armée de l'air
+rue 8.063
+rue 8.067
+main road to etody
+osuke road
+road to tabakwa mm mmamam
+roed
+osuke road
+limit(tree) baro-bajo road
+Tafu-Amebisu
+Montée du Mt Ngoya
+mbokambo road
+bouamir
+mbassako
+fruit walk
+T4S
+Serpent
+Pangolin
+S8
+rue 4.010
+rue 4.002
+rue 1.153
+Rue 1.165
+Rue 1.076
+rue 1.052
+rue 1.076
+Rue 1.052
+Pont de service pour le chantier
+Oveng Lodge
+Ayukaba-Mantah
+Rue Mondial
+sentier
+rue 4.001
+rue 4.003
+rue 8.065
+Route Dans Hopital Regional
+mbokambo road
+mbokambo road
+to Lake Oku
+Bridge boundary between Bamunka and Babalang
+Ndefru Street
+Fulani Compound
+main road to etody
+nkungnkwa road
+main road
+le'nkoh maxi
+Pont du plaisir
+Place des fêtes
+mbokambo road
+rue denver
+Rue 4.916
+Rue 4.918
+Rue 4.205
+Jello
+blowdown
+campement du conseiller
+nest 6
+elephant
+RDA
+mosafelli
+T4N
+Batalulu
+K5
+entrance trail
+Allée 3715/734
+rue 1.375
+Market
+main road to etody
+Rue 6.018
+Rue 4.538
+Monument de la Réunification
+Esplanade de l'Hôtel de Ville
+Place de l'Indépendance
+Rue 6.292
+Rue Bonatéki (N°1.810)
+Rue 1.794
+route Immeuble Dozass
+rue 4.095
+rue 4.047
+Iya Drive
+New Quarter Street
+Market
+Rue 3.009
+rue 8.014
+rue 8.057
+rue 8.061
+rue André Amougou

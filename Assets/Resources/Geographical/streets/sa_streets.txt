@@ -1,0 +1,9388 @@
+Thadiq City
+Uhud Battle Site
+65
+66
+68
+70
+71
+73
+67
+83
+74
+75
+118
+116
+97
+98
+99
+102
+103
+104
+105
+101
+108
+106
+111
+113
+112
+115
+100
+114
+149
+119
+120
+124
+127
+137
+123
+172
+161
+135
+327
+241
+340
+338
+345
+347
+348
+346
+336
+Prince Sultan Palace
+King Fahed District
+Compund
+Jubeyla Compound
+Jzala Compound No. 3
+Village for Construction
+Tuwaiq Palace
+old village
+Compound
+Compound
+Conference Palace
+Royal Guard Compound
+K3 Compound
+K1 Compound
+SANG Camp
+National Guard Housing
+Medical City Compound
+MCX Compound
+3
+6
+2
+96
+109
+94
+110
+95
+350
+343
+342
+339
+349
+341
+337
+0
+Royal Reem Residential Compound
+323
+132
+92
+89
+91
+90
+88
+87
+86
+81
+80
+79
+78
+77
+72
+76
+12
+13
+16
+14
+18
+15
+21
+22
+25
+24
+23
+30
+28
+29
+33
+34
+37
+38
+38
+39
+40
+42
+43
+45
+44
+46
+48
+47
+8
+50
+51
+52
+56
+55
+20
+31
+35
+117
+107
+125
+126
+128
+129
+130
+131
+133
+136
+140
+139
+142
+141
+143
+145
+146
+147
+148
+163
+164
+165
+163
+167
+166
+168
+169
+173
+175
+174
+176
+144
+177
+178
+121
+179
+180
+122
+134
+138
+158
+159
+160
+162
+164
+170
+171
+234
+236
+235
+239
+240
+242
+238
+317
+320
+322
+321
+237
+325
+328
+329
+330
+326
+319
+318
+324
+335
+332
+331
+334
+49
+82
+84
+85
+333
+10
+11
+53
+54
+57
+9
+19
+26
+17
+32
+36
+41
+60
+58
+59
+61
+62
+63
+64
+Al Mareh
+111
+67
+216
+Ryan's House
+132
+129
+145
+62
+128
+Camp Vinnell
+حسن الشاجري
+223
+217
+224
+226
+225
+227
+228
+229
+232
+231
+230
+219
+221
+220
+150
+151
+191
+193
+194
+195
+196
+184
+185
+218
+222
+259
+199
+202
+205
+204
+208
+210
+211
+209
+212
+213
+244
+243
+245
+246
+247
+250
+248
+252
+249
+251
+255
+257
+253
+254
+258
+279
+280
+281
+282
+283
+284
+285
+285
+286
+292
+293
+296
+295
+298
+297
+301
+303
+304
+306
+307
+309
+308
+310
+313
+314
+315
+316
+317
+256
+266
+291
+311
+262
+267
+268
+278
+299
+289
+261
+214
+305
+201
+206
+200
+203
+207
+260
+263
+264
+265
+270
+271
+272
+273
+275
+276
+277
+290
+294
+269
+274
+287
+288
+300
+302
+312
+Al Khalidiyah
+93
+5
+7
+8
+4
+1
+79
+91
+92
+94
+95
+96
+97
+101
+100
+90
+93
+104
+106
+107
+109
+108
+110
+102
+127
+125
+78
+123
+126
+81
+124
+73
+83
+119
+116
+117
+113
+84
+85
+133
+140
+153
+141
+151
+36
+Saudi Aramco Contractor Camp
+MIC Village
+Nairyah
+Qaryah al Ulya
+الشرطة
+Rezayat
+Al Zuhour
+Al Rashid I
+Al Rashid II
+Seaview Compound
+Housing Dammam
+عين نجم
+Al Kharma ash Shamaliyah
+51
+Al Amar
+Rawdat al Hisu
+130
+Mazari al Haqba
+Al Qurayn
+Ath Thamiriyah
+Ash Shubaykiyah
+Ash Shinanah
+Qasr Ibn Uqayyil
+Al Badai al Ulya
+Al Abdaliyah
+الحربيات
+Old Al-Khabra
+Ash Shabibiya
+Ad Dahlah
+An Nabhaniyah
+Rawdat Qiradan
+An Naayim
+Dukhnah
+الروضتين
+مفرق شبيكي
+Al Batra
+Duhayma
+Rubayq
+Abu Nakhlah
+Buqaya al Janubiyah
+النقرة
+Al Basiri
+Al Baja
+مخطط النورس
+المحرقه العليا
+Al Khadra ash Shamaliyah
+Al Khadra al Janubiyah
+King Abdullah Housing
+المحرقه السفلى
+As Sulaymi
+152
+153
+154
+157
+155
+156
+183
+181
+182
+187
+186
+188
+189
+190
+192
+197
+198
+215
+Safaa Gardens
+Sierra Compound
+Saabaar
+Compound
+Compound
+Slums
+6
+5
+3
+1
+2
+4
+مخطط أراضي درة البساتين - Dorrat AlBasateen(Jeddah)
+Mura Bustan Compound
+Haifa Compound
+Al Khalidiyah Compound
+السكن الخيري لمسجد الرحمة
+6
+4
+98
+61
+60
+99
+65
+103
+38
+54
+56
+59
+58
+63
+64
+66
+68
+70
+71
+72
+Panorama Almaseya Furnished Unit
+29
+25
+10
+11
+17
+21
+27
+7
+20
+16
+5
+Labor Housing Project
+155
+147
+105
+34
+31
+46
+48
+50
+52
+53
+55
+57
+80
+82
+131
+Al Khozama Compound
+Compound
+New Malham
+Prince Ahmed Bin AbdulAziz Palace
+Kingdom Resort Palace
+Al Wadi Compund
+Al Wadi Compound 2 Villas Rosas
+Almukhatat Alamni
+Star Compound
+Al Khozama Palace
+Prince Nawwaf Palace
+Kingdom
+Al Rafiah Compound
+Cordoba Compound
+Arizona Golf Resort Compound
+FAL Compound
+Al Reem compound
+Almabani Construction Village
+Riyadh Village Camp
+Dywidag Camp
+Sedar Compound
+Ishbilya Compound
+Ishbilia Compound
+J&P Overseas Residential Camp
+KSAU Villas
+Nofa Village
+BEMCO Camp
+old village
+old village
+Compound
+Compound
+Al Yamama Compound 2
+Al Yamama Compound 1
+Al Yamama Compound 3
+ROC Compound
+Rayan Compound
+J&P Engineers Camp
+السكن الامريكي
+Al Manar
+Ar Rayyan
+Najd Compound
+Eid Compound
+Al Nakheel Compound
+Al Hamra Compound
+الصناعية
+Al Watah
+Al Isam
+Masawi
+الدوادمي
+Old village
+old town
+مركز الوقف
+Umm Sulaym
+old village
+مركز غسله
+As Sinnariyah
+Al Baqrah
+Al Kharma
+Ahmad Al Termethi
+Alzhoor
+almashaf
+المهاب
+aljamiha
+almasrap
+almasroh
+Albashaer
+Abdulbagi Al Henaie
+Adrais Al Shama
+Hassan Al Madni
+Abi Al Ma'ali Al Mundi St.
+Asheiqer
+Yahiya Al Shar St.
+Al Riyah St.
+Wadi Al Mabade' St.
+Abi Al Qasem Al Azadi St.
+Abdul Ghani Bin Abi Saeed St.
+Jabal Adeema St.
+Salamah Al Baghdady St.
+Moawi Bin Al Harith St.
+Al Malki St.
+Al Saco St.
+«bu «l Nafees «l Romaili [ath
+Al Maramia St.
+Abi Bakr Al Bukheri St.
+Al Mutawakel Al Abbasi St.
+Ibn Mu'min St.
+No. 24
+Ahmad Al Sade St.
+Ibn Khaldoun St.
+Marwan Bin Saeed St.
+Ibn Nassar »t.
+Al Sadafah St.
+Al Gharsah St.
+Al Hashiah St.
+Qais Bin Ubaid St.
+Sanmak Bin Harb St.
+Uthman Bin Abdul Kareem Al Baidah St.
+Abdullah Al Anbary St.
+Mohammad Al Hamoudi St.
+Wadi Khaibar St.
+Ibn Ghunaim St.
+Al Qadi Al Ishbili st.
+Tathlith
+Al Wedian
+No. 7
+No. 18
+Al Wajh
+No. 25
+Al Ward
+No. 12
+Mohammed Al Seheibani
+Abdulrahman Al Odwan
+Al Mahateel
+Wadi Al Hisen
+No. 40
+No. 17
+Ka'ab Bin Al Harith St.
+Tala Bin Rashied St.
+Salah Islam St.
+Al Thabat St.
+Ibn Al Meski
+Abdulaziz Bin Rabiea
+Al Naqish
+Khab Rodhan
+Bab Al Jinan
+Al Mathal
+Abi Al Qassem Al Harani
+Abi Shojaa Ibn Mahassen
+Qartha
+Riman Al Janubi
+شارع الأقطار
+ممر أبي علي الصيرفي
+Al Manjim
+Al Merad
+Al Monji
+Al Midani
+Al Montasher
+Al Manjour
+Al Manqala
+Al Manzel
+Al Mandar
+Al Mawasama
+Al Rima
+Al Khafs
+Al Habsha
+Al Soni
+Al Jaar
+Al Sharqaat
+Al-Dakhera
+Al Dayer
+Al Dakhn
+Al Dars
+Al Rayha
+Al Naseeq
+Al Saqeb
+Dhahrat Al Rohana Path
+Ibn Al Qassab
+Ma'ath bin Jabal Street
+Al Khabara
+Nahr Al Oja
+Hadli Valley
+Al Amer
+Al Aqeeq
+No. 10
+No. 11
+No. 9
+No. 13
+No. 12
+Al Mohadithoon
+Al Hafeir
+Mohammed Bin Hebeish
+Mohammed Bin Bastam
+ممر ابن زهر
+شارع علي الألوسي
+ممر غياث الأنطاكي
+شارع بن عبدان
+شارع أبي فالح الأنصاري
+شارع ابن قاضي
+شارع ابن الفاخوري
+شارع شرف الدين بن بدر
+شارع كعب بن زهير
+شارع الشباب
+شارع الصفاء
+شارع يحي بن عبد العزيز
+شارع السيل
+شارع الشرائع
+شارع الصفرات
+شارع الدعيسة
+شارع الصلاح
+قطر بن خليفة
+Al Walidiya
+Dasman
+Om Salam
+Ibn Abr Badi
+Yahya Al Adawani
+Abi Al Faraj Ibn Al Jozi
+Abdulghani Bin Ali
+Abi Mohammed Abdullah Al Tajer
+Abi Al Maali Al Hussein
+Ibn Al Hadad
+Asma Bint Mohammed
+Abi Ahmad Al Lekhmi
+Abi Alfotuh Al Khatib
+Haman Bin Abdullah
+Al Khalsa
+Al Naqra
+Al Shebeikiya
+Al Mokhtara
+Al-Khansa
+شارع عمارة
+شارع ابن قاضي
+شارع أبي فالح الأنصاري
+ممر الجرير
+شارع الخبة
+شارع يثرب
+شارع خزام
+شارع بكر بن محمد
+Ibn Jarir Al Tanookhi
+Al Nabegha
+Al Naqoura
+Al Nasseriya
+Al Nasehi
+Al Nashet
+Abdullah Al Qortobi
+Rabiea Bin Saad
+Al Thawabiyah
+Ibn Raslan
+Al Sanbatee
+Youssaf Al Jabarti
+Abi Al Hasan Al Dinari St.
+Ibn Abi Kutama St.
+Al Kudaid St.
+Al Tamam St.
+Al Khalem St.
+Al Barqa
+Al Kheta
+Ibn Faidal Al Nasikh St.
+Gharah St.
+Dayali St.
+Ibn Abi Zarah St.
+Ibn Kathir Al Makhzumi St.
+Abi Mohammed Bin Malik St.
+Jadaah St.
+AL Rashad St.
+Al Hadabah St.
+Abdulwahad Allaghawi St.
+Al Ashaab
+No. 16
+Al Ashbal
+Al Imam
+No. 15
+Al Azad
+Al Adham
+Al Artaweya
+Al Bayaa
+Al Bustan
+Ibn Al Bunduq St.
+Rajad Sufara St.
+Ibrahim Bin Hussien St.
+Al Mutamin Al Saji St.
+Al Akbar St.
+Al Safar St.
+Kalthoum Al Otaibi St.
+شارع أبي النجيب عبد القاهر
+Abd Allah Al Masari Street
+No. 4
+Al-Barq St.
+Al-Barq
+Abi Al Hassan Al Razi Street
+No. 35
+No. 110
+No. 55
+No. 411
+No. 148
+No. 265
+No. 299
+No. 48
+Prince Fahad Ibn Saad Ibn Abdulrahman
+Al Dargutni
+Ibn AL Rumi St.
+Al Uqbah
+Ibn Al Muhanna St.
+Ibn Al Runi St.
+Abdullah Bin Wahab
+Thumamah Bin Athal St.
+Abi Al Safa
+Al Thuqba Path
+Ja'afar Bin Abi Talib St.
+Al Oyouniya
+Ali Al Radif
+Abi Hadeed Path
+Amro Bin Shas St.
+عاصم بن خليفة
+عبداللطيف الخيمي
+9
+8
+Asmaa Bint Malik st.
+وادي جرة
+Nasr Ibn Sayyar
+Al Barra Ibn Aziz
+Safwan Ibn Ummyyah
+أبي عبد الله المازني
+كافور
+ابن طاهر
+القلتين
+حماد بن هبة الله
+البارز
+الإمام الشوكاني
+Raghadan
+Ahmad Al Hawwari
+ابي حفص الحنفي
+اسماعيل صبري
+Mustafa Jawad
+Maim Ibn Hammad
+Asad Ibn Ubaid
+القيرواني
+Al Tufika Path
+Al Gafiki
+المقرن المرزقي
+يحيى الكوفي
+Al Bariz
+عبد الواحد الموفق
+عصمة الاسدي
+انس بن أوس
+ظهران الجنوب
+Hamly
+Ibn An Nadim
+الموية الجديد
+المعمورة
+يعقوب الكندي
+عبد الغني الثقفي
+كثير بن عمرو
+البويب
+بلقيس بنت سليمان
+الموج بن ابي سهم
+الواعظ العسكري
+ابي بن عمرو الهمذاني
+شيبة بن عثمان
+3
+Al Mutamid Ibn Ibaq
+7
+Rawd Al Uyuw
+Huhaifah Ibn Jabal
+1
+Al Labban
+Arwi Bint Kanz
+Jabr Ibn Rashid
+Al Jarirah
+Hamisah Ibn Jandal
+Abdullah Ibn Salamah
+Abi Al Majd Ath Thaqafi
+Abi Muhammad Ar Rafi
+Al Jabiri
+Adh Dhafir
+الأمير منصور بن عبدالعزيز
+Al Sadarah
+Mojasha Bin Masood St.
+Omar Al Bikini St.
+Sahel Bin Al Attar
+Abdulrahman Al Naseri Path
+Al Siudi Street
+Radia Street
+Zien Al Umana Path
+Ibn Husim Street
+Al Khala Street
+Zurara Bin Aufa Path
+Abdullah Al Faqeh
+Al Marsad
+Hisn Al Kamel
+Al Qasim Bin Umar
+No. 11
+Zied Bin Thabit Street
+Baqiq Street
+Al Hajjaj Ibn Yusuf
+Al Mahd
+Ibn Minjib Street
+Ahmad At Tamimi Street
+Abt Hudhaifah,Abt Hudhaifah
+Al Amirah Al Jawharah Bint Imam Faisal Ibn Turli
+Al Nabahaniyah,Al Nabahaniyah
+RA Tunarah
+Wadi Ash Shuhada
+Baqiq Street
+Jabal Nubair
+Al Jabal Al Abyad St.
+Asma'a Bint Yazid St.
+Al Madar Mountain
+Al Mashayekh Mountain
+Al Oweinat Mountain
+Al Khadar Valley
+Al Sh'Af
+Ibn Al Azraq
+Ibn Yunos Al Sadafi
+Abu Al Fatah Al Khazni Street
+Said Al Ansari Street
+Ibn Zahar Street
+Ibn Al Mgdy Street
+Al Balkhi Street
+Al Idrisi Street
+Al Awas
+Al Ata
+Al Asiliah
+Al Modawara
+Al Ataa
+Rahma Valley
+Thi Al Ramath Valley
+Al Khashaba Valley
+Al Tasrir Valley
+Al Asward Ibn Al Maharebi
+Abdelrahman Bin Abdullah Alsaleh
+Saud Bin Abdullah Al Shamri
+Alsheikh Hassan Albaroqy
+Ali Ghazi Al Harbi
+Garallah Ali Gar Allah
+Al Farawaniya
+Al Qabel
+Nasr Allah Al Kindi
+Afifa Bint Ahmad
+Al Hayathem
+Abi Hasain Al Hanbali
+Salih Bin Umran
+Al Fadhila
+Basira
+Al Fasila
+Badeaa
+Abu Thabit
+Bilsamar
+Baijan
+4
+6
+5
+Al Thomeiriya
+Al Qairwan
+Saraqab
+Al Rania
+Mohammed Al Mubarak
+Al Rahi
+Al Thuraya
+Najd
+Nabra
+Qataan
+Al Baida
+Al Baqi'A
+Al Jadi
+'Abdumelk Bin Abi Rafie
+Al Baraiq
+'Al Biqa
+Al Bakrat
+'Al Bina
+Qanatar Al Noaman
+Kayad
+Al Hayer
+Alrazoq
+Al Dariya
+Al Damor
+66th Street
+67th Street
+65th Street
+60th Street
+69th Street
+77th Street
+No. 47
+62nd Street
+58th Street
+59th Street
+57th Street
+76th Street
+72nd Street
+73rd Street
+75th Street
+74th Street
+78th Street
+No. 50
+No. 36
+No. 37
+No. 35
+No. 41
+No. 44
+شارع 178
+Al Zarqa
+Hidaa Valley
+Al Mamrah
+'Al Manafe
+Al Maiqa
+شارع العباس بن غالب
+شارع الثويبت
+شارع أبي مروان بن سراج
+شارع محمد بن مطروح
+Al Ria
+Al Rayahin
+'Al Maytha
+Al Mowafaq
+Al Roq
+ابي زيدالقرطبي
+ابن قزمان
+أبي الحسن
+طارق بن علقمة
+عبد العزيز الخياط
+عطاء بن أبي رباح
+حارس بن سويد
+ابو الوفاء الاصبهاني
+الشيخ عبد الرحمن القحطاني
+أبي بن عبداللة الدمياطي
+فالح بن صغير
+ابي الفتوح السمرقندي
+عين الصوينع
+Mohammed Bin Nashwan
+Mustafa Abdulaal
+Abi Bakar As-Sudiq Road
+Al-Andalus 7
+Al-Andalus 8
+Ibn Majed Street
+Al-Andalus 9
+Al Wajeha Rd
+1st Street
+Mint Circle Access Road
+Mango Court Access Road
+Mango Circle
+Mint Circle
+Division Street
+Redwood Street
+1st Street
+18th Street
+2nd Street
+Cypress Street
+Holly Street
+Jabal Avenue
+Jasmine Lane
+King's Court
+Quartz Avenue
+Terra Avenue
+Rock Court
+Summit Avenue
+Uranium Avenue
+Ash Street
+Birch Street
+12th Street
+13th Street
+17th Loop
+20th Street
+16th Street
+19th Street
+Cedar Street
+Chestnut Street
+Elm Court
+Elm Lane
+Elm Street
+Gazelle Avenue
+Geode Court
+Juniper Street
+Nasim Avenue
+Pine Street
+Ravine Court
+Ravine Avenue
+Sandrose Court
+Terra Court
+3rd Place Street
+Valley Avenue
+Walnut Street
+Valley Court
+Jawan Court
+Nariya Lane
+Fazran Court
+Lemon Lane
+Nariya Court
+Agate Lane
+Lava Circle
+Marble Lane
+Granite Avenue
+2nd Street
+'D' Street
+3rd Street
+11th Street
+Mocha Court
+Jurayd Court
+Al Qaranifil Street
+Sahil Qarshi Street
+Al-Ganadriyah Street
+Said Bin Al-Naeman Street
+شارع المروءة
+Ali Street
+Qatif Street
+Hail Street
+Othman Street
+Hamza Street
+Abha Street
+1st Street
+Suwaikat Street
+A Street
+20th Street
+18th Street
+21th Street
+11th Street
+13th Street
+19th Street
+2nd strret
+2nd Street
+17th Street
+ali street
+ali street
+22 Street
+Alawali road
+14th Street
+15th Street
+12th Street
+Street 3
+Yazim Ibn Al Jarrah
+Prairie View Circle
+Prairie View Court
+Quirsh Court
+Raja Lane
+Dahna Avenue
+Penninsula Boulevard
+Jeddah
+Tamrah Lane
+Al-Kharj Street
+Tuwayq Lane
+Aflaj Lane
+Nasiriyah Street
+Salamiyah Avenue
+Hanifa Lane
+Abu Jifan Avenue
+Nisah Lane
+Rabigh
+Tehamah
+Al Shafa
+Al Hada
+Al Yamamah Blvd
+02-18-05
+00-30-07
+01-18-40
+Abu Ali Lane
+Jinnah Lane
+Darin Lane
+Tarut Drive
+Rahima Drive
+Khursaniyah Court
+Qurayyah Court
+Pipeline Facility Street
+شارع مازن بن شيبان 4529
+8c Street
+13 A
+Sulaiman Ibn Al Athir Street
+7a Street
+Jabir Ibn Yassin Street
+Ali Al Qattan Street
+14a Street
+10b Street
+10a Street
+Al Hufuf
+Abu Jehad Alansari
+02-18-19
+02-18-20
+Al Zwawi Street
+15 Street
+Abu Mansur As Sam'ani
+Al Wurood Court
+Al-Zuhoor Court
+Al-Wadi Street
+Al-Yasmeen Court
+شارع أبو ريالين
+طريق أبوبكر الصديق رضي الله عنه
+No. 125
+No. 98
+No. 68
+No. 99
+No. 86
+No. 133
+No. 135
+No. 53
+No. 48
+No. 70
+No. 134
+No. 192
+No. 157
+No. 196
+No. 163
+No. 198
+No. 151
+Prince Yazid Bin Abdullah Bin Abdulrahman
+As Safa
+Zamra
+Raida
+Riane
+Rawaq
+Zaina
+Ajman
+Yahya Bin Bakeer
+Alla
+Enabla
+Diba
+Dida
+Saydoun
+Rabna
+Zahla
+Rowegheb
+Samira
+شارع الحارث بن يزيد
+شارع شكيب أرسلان
+Al Ghazawat Street
+Al Fatha Street
+Jalaluddin Al Seyouti Street
+Ramallah Street
+Al Makhzoumi
+Al Toula Al Olya Street
+Ahmad Faqih Street
+No. 16
+No. 18
+Al Sous Valley
+No. 20
+شارع جبل المكبر
+شارع جبل تمر
+Al Hejel
+Al Henakia
+No. 204
+No. 184
+No. 224
+No. 218
+No. 226
+No. 167
+No. 220
+No. 180
+No. 169
+No. 208
+No. 212
+No. 175
+No. 210
+No. 222
+No. 206
+No. 214
+No. 228
+No. 177
+Ibn Mothfer
+شارع السواني
+شارع الميز
+اليطاني
+النهر
+بارق
+الوسيف
+Ali Al Bonian
+Abdulrahmen Al Johari
+Hamza Al Aslami
+Abdullah Bin Zam'ah Street
+شارع أبي الحسن المأموني
+شارع علي الصائغ
+شارع العلا
+شارع السندي
+Jawda Path
+شارع عيسى بن فيروز
+شارع ابن الأزرق
+شارع أبي عبدالله الحربي
+شارع أبي جعفر الأديب
+شارع ابن الخراساني
+Faisal Bin Saad Bin Abdulrahman Street
+شارع الشهاب الطائفي
+شارع الدبدبة
+شارع ضوء المصباح
+شارع البلقاء
+شارع الشيماء
+شارع الرهط
+شارع المسدي
+شارع السهام
+شارع مالك بن الريب
+شارع الحضراوي
+شارع الديوان
+شارع المعيذر
+شارع المقدام
+شارع أبي منصور الكوفي
+شارع الحر التميمي
+شارع السهيل
+شارع أبي سلمة
+شارع البساتين
+شارع البريمي
+Abu Al Mudhaffar Al Wasty
+Abi Al Futuh Al Waith Path
+Jamil Bin Ishak Path
+Umm Al Hair Path
+Al Qatadah
+Hasan Al Qaseer
+Hamad Bin Zaid
+Bilal Bin Saad
+Al-Qaitain
+Al Qatin
+Al Qateel
+No. 13
+No. 12
+No. 8
+Al Hasan Al'Anzi
+Ali Al Basri
+Al-Ghanamiya
+Waqada
+Al Barqa
+Al Shalal
+Ali Ben Abdulghafar
+Nesma
+'Al Foqaha
+Yanbu
+Ibn Nasr
+Ibn Om Qassem
+Wahran
+Waala
+Ibn Al Hamzi
+Yalamlam
+A Ramha
+A Shohada Valley
+'Al Shoara
+Al Salwa
+Ali Bin Joday Bin Haruole
+Al Bawardi
+Ibn Medaa
+Ibn Khaldoum
+Al Saqr
+Nabra
+Abi Omran Al Rashid
+Bakr Bin Wael
+Waalan
+Yosr
+Al Shara
+Naq'A
+Abhar Mountain
+No. 17
+No. 26
+No. 5
+No. 9
+No. 22
+No. 21
+No. 30
+No. 23
+No. 19
+No. 24
+No. 39
+No. 55
+No. 53
+No. 49
+No. 43
+No. 45
+No. 46
+No. 16
+No. 14
+No. 1
+No. 27
+No. 37
+No. 51
+No. 47
+No. 64
+Dar Al Islam
+Al Aman
+Al Khlafaa
+Al Dhiyaa
+Al Rayhan
+Al Dawa
+Al Amn
+Al Mawaj
+Alafow
+Al Hwqaf
+Hamid Al Tawil St.
+Ahmad Al Sheb
+Al Muwakiti
+Sufian Bin Oyaynah St.
+Abdul Qader Al Jessehery
+Dawood Bin Urwa St.
+شارع حمزة الصيدلاني
+شارع جبل الريث
+شارع الزنبق
+شارع ابن أبانة الإشبيلي
+شارع حاتم بن ظافر
+35th Street
+Al Huhwah
+Al Nimer
+شارع جبل أثال
+Said Bin Khalid Street
+Ain Jalut
+Salah Bin Hanif Street
+Uyoun Al Jawa Path
+شارع مصعب الزبيري
+Fathla Al Shefaee
+Al Bustan Street
+Thabit Al Lowawi
+Al Badia
+Aman
+Al Katib
+Sad Bin Hothayma Al Ousi Street
+Kulaib Bin Mohammad Bin Abdul Rahman
+Abdulrahim Al Maghrabi
+Al Khalifah Al Ameen
+Mu'awiah Al Aqeel
+Al Rasheediah
+شارع زيد بن أسامة
+شارع عبدالمجيد العسقلاني
+شارع الكرامة
+شارع الرخاء
+Al Sahqour
+Amer Bin Umayah Street
+Yahya Al Bakri St.
+Al Tounsi
+Wadi Al Manaqeb Street
+شارع القاسم بن وهب
+شارع أسعد الكاتب
+شارع ابن ميمون
+شارع الحليفة
+Khalil Al Jandi Street
+شارع عقبة بن مكرم
+شارع اليسع بن عيسى
+شارع وادي شحرور
+شارع وادي نيرا
+شارع رشيد الشهاب
+شارع محمد بن أبي جعفر
+Al Ridhaa Street
+Salma Bin Abi Alqasim St.
+Saliman Shuayb Al Qahari St.
+Al Taqwa St.
+Ibrahim Alrushudi St.
+Al Tanzim Street
+Hartha Bin Nauman St.
+Bahra St.
+Talal Bin Jabr St.
+Al Abtan Valley
+Al Ahmar Valley
+Al Boseitin Valley
+Al Batah Valley
+Maran St.
+Mohammed Al Husseini St.
+Al Tarf St.
+Saad Al Mubarak St.
+Al Basham St.
+Yahya Al Sukuni St.
+Al Tamar
+Al Waeed St.
+Ahmad Bin Al Hasan Al Ansari St.
+Abdul Malik Bin Sakinah St.
+أبي الفرج الكاتب
+الأمين البدراني
+Al Jabal Al Abiadh
+Al Skaina
+Al Mas
+Mohammed Bin Al Qowea
+Al Radoan
+Al Qanah
+Amir Bin Owf
+شارع المطره
+Black Mountain St.
+شارع كعب بن عبيد
+شارع حمود العنسي
+شارع ابن العماد الحنبلي
+شارع إبراهيم الخطيب
+شارع الحارث بن الربيع
+شارع أبي بكر البغدادي
+أبي الفضل الحربي
+شارع الداهن
+Shangit
+Mahsou Bin Sahbit St
+Al Yassa St
+Al Amir Al Tanoohe St
+Aj Shoala Street
+Nakhlean Street
+Kouam Al sunah St.
+Al Bartin St.
+Um Safan St.
+Salet Al Tamimi St
+شارع الصياد
+شارع يافا
+شارع عبدالعزيز بن رباح
+شارع الأمير حمود بن عبدالعزيز
+شارع حسين بن علي
+شارع المدار
+شارع ممر القطين
+شارع أبي بكر الجلال
+شارع عبدالله بن أنس
+شارع مبارك بن سلمان
+شارع عبدالواحد بن أحمد
+شارع اللصاف
+Bni Mezar Street
+شارع أحمد القرشي
+شارع الرجم
+Bahra Street
+'Al Thana
+Alhassan
+Al Shoala
+Al Tarfa
+Fahad Bin Raheem
+Taymour
+Al Jouda
+Al Sarha
+Al Manwar
+Al Roweiss
+Al Henna
+Al Zubair Bin Al Awam Street
+Lazmah
+Ali Ibn Muslim
+Hamza Bin Al Qassem
+Hauran
+Shihab Bin Abi Bakar
+Tareq Mountain
+Neama
+Al Jazirah Mountain
+Ghazi Bin Abdulrahman Al-Qusalbi
+Al Qari Valley
+Al Kadissi Road
+شارع وادي الزرقاء
+شارع وادي السرح
+شارع وادي النظارة
+شارع وادي رخام
+شارع وادي الركبة
+شارع الأوسي
+شارع عيسى بن عبدالكريم
+شارع عثمان بن عوف
+شارع مروان بن سليمان
+شارع حكيم بن الحارث
+شارع المنصور المريني
+شارع آل سعيد
+شارع الحوافظ
+Al Zaarqaa Street
+شارع وادي مأرب
+شارع الوليد بن مسلم
+شارع بير سلمان
+شارع الشفاء
+شارع ابن الجوزي
+شارع عبدالصمد بن يحي
+شارع مبارك بن سكينة
+شارع يحي بن مساعد
+شارع عيسى الثقفي
+شارع عبدالله بن المبارك
+Al Adaim
+Al Akheyar
+شارع الطفيل بن عمرو
+Al Mashareq
+شارع السماوة
+شارع حمزة بن إبراهيم
+شارع بيدة
+شارع صخر
+شارع شهاب الدين الغزي
+شارع اللدايد
+شارع أم الصابح
+شارع العياشي
+شارع الحسن المصري
+شارع ثابت بن عبيد
+شارع غنيمة
+شارع حسن الشوري
+شارع أبي العباس الشافعي
+شارع عبدالرحمن بن شامة
+شارع عبدالصمد بن قادر
+Loqman
+شارع عباس الغنوي
+Mohammed Bin Meehayzi'E Street
+Al Azad
+شارع محمد شمس الدين الأمبالي
+شارع البسطة
+شارع السلطاني
+شارع أحمد التمبكتي
+شارع القطيم
+شارع إسماعيل الخشاب
+شارع التاج
+شارع وادي المعيدن
+شارع التنسيق
+شارع وادي المياه
+شارع الحجر
+شارع علي بن هارون
+شارع أبي الحسن الصلاح
+شارع الصالحية الجديدة
+شارع أبي العودة
+شارع المعتضد بالله بن أبي القاسم
+شارع وادي الصمان
+شارع وادي العميرة
+شارع القرن
+شارع وادي الشرف
+شارع وادي الغرارة
+شارع وادي الحمامة
+شارع الخضر
+شارع وادي الدواسر
+شارع وادي المغمس
+شارع وادي العيص
+شارع وادي أبراد
+شارع عبدالهادي الأبياري
+شارع أبي كمال شجاع المصري
+شارع شفيق المؤيد
+شارع وادي الصحن
+شارع وادي حدلي
+شارع عبدالكريم سلمان
+شارع عبدالرحمن الرافعي
+شارع وادي حقيل
+شارع وادي الشعبة
+شارع أبن فضل الله العمري
+شارع حيدر الحلي
+شارع الشريقي
+شارع العويدة
+شارع الروحة
+شارع عبدالحق حامد
+شارع محمد الفاروقي
+شارع وادي الحاد
+شارع محمد الجيلي
+شارع أبي محمود الخضر
+شارع وادي الأحمر
+شارع وادي أبو كبير
+شارع حسن سعيد العمري
+شارع وادي أبو علي
+شارع أم قرو
+شارع عمرو بن عبيد
+شارع وادي الفليج
+شارع نعمة
+شارع الأبيض بن معاوية
+شارع أحمد المطاع
+شارع عمر بن يوسف المقرىء
+شارع عبدالرحمن أبي الفضل
+شارع الحباب
+شارع جبل المكبر
+شارع وادي حرضة
+شارع جبل طرفة
+شارع وادي زمير
+شارع جبل تدوم
+شارع جبل الذهيمي
+شارع جبل طوالة
+شارع جبل السوداء
+شارع جبل المحاصير
+شارع جبل الطير
+شارع أحمد البغدادي
+شارع إبراهيم رضوان
+Khalf Bin Sahal Street
+شارع جبل الأشعر
+Missan
+Ibn Jezlah Street
+Al Hamadhani
+Abu Al Wahfah Al Boozahjani Street
+Ibn Al Tufail Street
+Al Tawaza
+Al Ashjar
+Al Balda
+Al Saeb Ibn Othman
+Samak Bin Aos
+Abdullah Bin Yasir
+Pelican Lane
+Najel Street
+Hammour Street
+Seagull Street
+Alrayyan Street
+Sukkarah Street
+Entrance 20
+Alyagoot
+Ibn Wafid Street
+Al Balkhi
+Saad Al Ansari
+AL Mereeikheya
+Al Masawer
+Al Hossnein
+Al Afrah
+Abu Arab Valley
+Ash Shara Valley
+Al Ramma Valley
+Al Khazraj
+Mohammed Asad
+Al Hera
+طريق البطين
+Al Bustan
+Al Badae
+Al-Basala
+Al Toweir
+Al Nebaa
+Al Namra
+Al Difa
+Al Khizemy
+Arak
+Al Howeira
+Barqah St.
+Abdullah Bin Hussien St.
+Jaber Bin Morah St.
+Ibn Musafir St.
+Abi Al Hasan Bin Makki
+Abi Madi St.
+Jurl Bin Saad St.
+Najm Al Deen Al Shaybany St.
+Alim Al Shatbi St
+Bilal Ibn Harme St.
+Ibn Abi Al Azhar St.
+Al Mougre Al Sukali St.
+Athlam Bin Rabia St.
+Abu Ainan St.
+Wadi Al Karn St.
+Al Basry St.
+Mahmoudi St.
+Al Hammat St.
+Masood Al Nader St.
+Atee St.
+Abdul Malek Al Buradi St.
+Ibn Masara St.
+Al Mulaida St.
+Ali Mufeedi St.
+Al Shara'ah St.
+Harun Al Wathaq St.
+Ibn Swaidan St.
+Al Shafaq At.
+Bait AL Faqeeh St.
+Al Hunaizel St.
+Azam St.
+Ibn Sahar St.
+Ibn Shaban St.
+Abdulmalik Bin Abi Salamah St.
+Al Masib Al Fazari St.
+Ibn Afaliq St.
+Hussien Miraz St.
+Al Mathlan Bin Huthaifa St.
+Al Karous Bin Saleem St.
+Halal Bint Al Mashhadi Street
+Al Ghareeb Street
+Al Sheikh Abdullah Bin Hamid Street
+Al Ain Al Jadidah St.
+Al Melhah St.
+Jabal Asas St.
+Hussien Al Malki St.
+Al Ashraf St.
+Ibn Abi AL Azhar St.
+Abdullah Bin Badeel Street
+Aktham Bin Safai Street
+Abas Al Dawry Path
+Al Jauwed St.
+Zuhair Rustom Path
+Abdulaziz Al Radhee Path
+Aan Reem St.
+Ibn Abi AL Azhar Street
+Al Malaji St.
+Duraid Bin Harmalah St.
+Al Arafi St.
+Yazed Bin Abdullah St.
+Al Mawaya Al Jadid St.
+Abdullah Bin Basalah St.
+Jabal Al Akhazar Street
+Wasel
+Aghadir
+Mahayel
+Yanbu
+Al Adahem
+Yafa
+Yosr
+Bahja
+Al Masil
+Al Baten
+Al Frat
+Al Mashad
+No. 147
+Annajmah Street
+شارع الزخرف
+شارع الزريقات
+شارع الساحة
+شارع السفانية
+شارع الراشدية
+شارع السدرة
+شارع الرس
+شارع الزهرة
+شارع الربقية
+شارع الزهراء
+No. 88
+No. 29
+No. 154
+No. 148
+No. 113
+No. 234
+No. 117
+شارع الهشيمة
+شارع الهدية
+شارع الهياثم
+شارع الواديان
+شارع المخواة
+شارع الهضبة
+Al Houfouf Road
+Annakl Street
+Wadi Asleaf Street
+شارع النصايف
+شارع وادي الشهابية
+شارع وادي الصحن
+An Na'aam Street
+Annajmah Street
+An nafal Street
+An Nashrah Street
+شارع الندوة
+شارع وادي الحمامة
+Bark Street
+شارع وادي الثمامة
+شارع وادي الحمض
+شارع تربة
+شارع ثرمدا
+شارع وادي الحشة
+No. 66
+No. 68
+No. 82
+No. 25
+No. 37
+No. 72
+No. 11
+No. 27
+No. 86
+No. 5
+No. 35
+Abdulmohsin Al Salman
+Mohammed Al Shawi
+Al Barjan
+No. 92
+Al Barak
+Al Themala
+Al-Jilab
+Al Bakir
+Al Jamea
+Al Janabia
+Al Ashqar
+No. 47
+Abdulghani Bin Abdulhameed Badwi
+Aja Mountain
+Al Naeem Valley
+Haban Valley
+Al Mabadi Valley
+Bani Khaled Valley
+Al Qasr Valley
+Al Kordi Valley
+As Sman Valley
+Al Rith Mountain
+Al Sabeh Mountain
+Jitzan Valley
+Al Gheel Valley
+Khafiya Valley
+Hardah Valley
+Deraa Valley
+Al Malas Valley
+Al Maqrah Valley
+Horan Valley
+Arak
+Wadi Soda
+Ubhur
+Nahar An Nail
+Abdullah Al Jasir
+Mohammed Bin Omar Al Tunsi
+Al Qaisuma
+Al Sheheyah
+Al Sahrawi
+Al Sofwan
+شارع نهاوند
+شارع ينبع
+Zahra Al Sahra
+Ibn Khaizama Al Ansari
+Yousef Bin Abdulsamad
+Abdulrahman Bin Taher
+Youssef Bin Abdulsamad
+Huqali Valley
+Safages
+Nasr Bin Fotian
+Fahad Abdullah Wzna
+Mohammed Ali Mhid AL Mreea Al Qahtani
+Ghadir Mohhammed Abdullah Al Uatfi Al Qhtani
+Ali Ghazi Al Harbi
+Mouns Aqeel Al Harbi
+Turba
+Marid Street
+Namran Street
+Madhaf Street
+Prince Saud lbn Mohammad lbn Moqran
+Ahideb Road
+No. 50
+No. 64
+No. 21
+No. 7
+No. 48
+شارع القراء
+Afar
+Al Markaz
+Shorfa
+Shoaba
+Al Marj
+Shalhoub
+Shamael
+Atia
+Zahoa
+Andal
+Orelara
+Salaiah
+Afif
+Aseila
+Azba
+Al Khaboub Street
+Al Radhia Street
+Al Taqwa Street
+Al Theel Street
+jabal Baisan Street
+jabal Qatan Street
+jabal Mari Street
+Al Haweya Street
+Al Khasera Street
+Al Jebani Street
+Al Thoweaat
+jabal Farqan Street
+jabal Markha Street
+jabal Hilal Street
+jabal Morra Street
+jabal Markouz Street
+Al Jaheth Street
+No. 248
+No. 244
+No. 246
+No. 187
+Rabwan
+Al Jabalah Street
+Jubail Street
+Al Jibail Street
+Al Reqaq Street
+Al Jabarah Street
+No. 188
+No. 232
+No. 230
+No. 240
+No. 189
+No. 236
+No. 242
+No. 185
+Al Sabalah Street
+شارع الرداح
+شارع الردهة
+شارع الزباد
+No. 34
+Mohammed Hassan Faqi Street
+Khalij Al Soweiss Street
+Al Henka Street
+Al Rasifa Street
+Al Hera Street
+Wadi Bish Street
+No. 46
+Al Hashaya St
+Al Hawara Street
+Al Hamidat Street
+Al-Ghanamiya
+Al Harja Street
+Abdullah Bin Ali Street
+No. 300
+Lahor
+Al Nathr
+Ibrahim Bin Thakwan
+Tarfaa
+Ibn Abi Zahir
+Qada
+Tanja
+Afif
+Sedra
+Tanta
+Saydoun
+Ramada
+Doma
+Al Sadaf
+Alsaleh
+Mohammed Bin Sabq Al Amawy
+Al Shoqan
+Al Ghobeirat Mountain
+Fatimah Valley
+Al Ghamar Valley
+Al Moalaq Mountain
+Baten Mountain
+Abi Raja Al Ataredi
+Batran Mountain
+Ahmad Ibn Omar Al Tanbakti
+Mabrak Mountain
+Mohammed Bin Abi Al Barkat
+الترمذي
+شارع أوس بن حارثة
+شارع البكرية
+شارع اللوز
+شارع إسماعيل بن أحمد بن الحسن
+شارع أسعد داغر
+شارع علي بن عيسى الإسطرلابي
+شارع معان
+شارع الحسن المالقي
+شارع زيد الصنعاني
+شارع عبدالكريم مطهر
+شارع الزهيرات
+Amra
+Gharsa
+Amad ibn Abdul Samad
+Soliman Bin Khalaf
+No. 48
+Living street
+House street
+Aafeef uldin Al Qatan
+Al Mawardi
+Alamal
+Al Khadhariyat
+Al Kharadela
+Rabi'ah Ibn Asram St.
+Salim Al Sharqawi St.
+Al Roumi St.
+Ahmed Anadi St.
+Al Hasan Bin Sabah St.
+Eagle Lane
+Vine
+Ibis Street
+Almond Lane
+Pebble Avenue
+Seashell Lane
+Jasmine Street
+Coral Avenue
+Falcon Drive
+Anchor Drive
+Linden Street
+Swan Lane
+Nariyah Court
+5A st. شارع 5أ
+10th st الشارع العاشر
+الحزام
+Prince Metab Ben Abdulaziz Road
+شارع المستشفى
+طريق الحبيل 
+حي عرقين
+Mount Khashir Road
+طريق نيد مجبا
+Tanaska Rajica (Танаска Рајића )
+Vojvode Putnika ( Војводе Путника )
+Doktora Hadzica (Доктора Хаџића)
+Vidovdanska ( Видовданска )
+Doktora Savica ( Доктора Савића )
+Pearl Street
+Safi Street
+Al Hasnan St.
+Ibn Qassem
+Ali Al Daifaa
+Hisham Bin Bishr
+Rmaizan Bin Rasham Street
+Al Namrin Path
+Yunes Bin Mohammad St.
+Al Qadhi St.
+Abi Al Hasan Al Nazani St.
+Abi Al Qassem Al Amawi
+Al Zeidan
+Muhammed Bin Muaqum
+Omer Bin Abdul Qazi
+Al Malik Al Nasser
+Yunos Bin Yahya
+Ibrahim Al Noamani
+Al Uraja
+Al Hassan Al Hanbali
+Omran Al Salawi
+Ibn Al Shater Al Anbari
+Ahmad Al Maqdesi
+Abi Yanya Al Razi
+Muhammed Al Wastai
+Al Najd
+Al Ra'ad Street
+Al Samargh St.
+Al Khaleef St.
+Amro Bin Mohammad St.
+Agolah St.
+Yaman Path
+Abdulraheem Bin Al Faris St.
+Abi Al Hasan Al Kutbi St.
+Abdulrahman Al Najib
+Saeed Al Asdi
+Yahya AL Rahouni
+Ahmad Ibn Omar Al Hadhrami
+Ras AL Badeea
+Ahmad AL Khadrawi
+Obalda Bin Rabiea
+Afif
+Abi Al Nasr Al Boghdadi
+Ibn Taher
+'Abi Al Fadhi Al Moqre
+Abdulsamie Al Wasti
+Al Bab Valley
+Al Najd Path
+Abi Al Fadhi Al Qassem Ibn Issa
+Al Naseeha
+Al Bait Al Haram
+Al Balad Al Amin
+Moaweya Bin Salih
+Youssef Al Qadi
+Abdulrahman Bin Hibatallah
+Al Rumh
+Al Khawarezmi
+Mohammed Bin Soweyed
+Abi Al Faraj Ibn Najm
+Al Borud
+No. 51
+No. 5
+No. 7
+No. 3
+No. 2
+No. 8
+No. 14
+No. 15
+No. 17
+No. 18
+No. 16
+Ibn Salman
+Al Rafaha
+Al Boweibiya
+Al Boeiriya
+Al Bawaten
+Al Bawardi
+Al Boweir
+Al Khlesat
+Al-Rudat
+Al Jalah
+Fatema Al Baghdadya
+Ar Rabi
+Al Khayat
+Saeed Al Nabisi
+Al Aghlab Ibn Amr
+Al Montada
+Dharia
+Ibrahim Al Roqay
+Al Zomorod
+Al Sedar
+Al Awasim
+Bni Bakr
+Al Frat
+Abu Sakina Sea
+Ahmad Bin Khakan
+Al Mahiah Al Kubra
+Ibrahim Al Taal
+Salasil
+Al Lo'Lo'A
+Al Rifa
+Al Zalal
+Ibn Sediq
+Hussein Bin Hamad
+Rodhat Ashairan
+Afif
+Issa Bin Adan
+Abdulqader Bin Mohammed
+Al Maghawir
+Al Tanib
+Saad Bin Shal
+Amir Bin Al Tofeil
+Abu Rakah
+Jarab
+Al Remal
+No. 21
+No. 33
+No. 31
+No. 29
+No. 19
+No. 38
+No. 64
+No. 35
+No. 97
+No. 22
+No. 24
+No. 73
+No. 49
+No. 74
+No. 48
+No. 56
+No. 37
+No. 66
+No. 105
+No. 80
+No. 23
+No. 77
+No. 33
+No. 85
+No. 15
+No. 131
+No. 167
+No. 154
+No. 181
+}
+Tal Asmar
+Bait Ul'Ateeq
+Hisn Al Hala
+Hesn Barka
+Qantara Al Lahon
+Al Jajija
+Naqla Al Shaikh
+Altobi
+Qoweian
+Qamaran
+Al Rajm
+Al Salif Valley
+Al Batah Valley
+Al Sibaa Valley
+Manfouha
+Al Shoki
+Nakhal
+Al Saheya Valley
+Al Jarir Valley
+Zoubeid Valley
+Ibn Manather
+Seil Valley
+Az Raqa Valley
+Abu Arab Valley
+Shahrour Valley
+Al Qarn Valley
+Al Baqar Valley
+Al Fara Valley
+Wadi Al Taliha
+Al Jalil Valley
+Ash Shara Valley
+Abi Al Faraj Al Adi
+Al Ahmad Valley
+Al Tasrir Valley
+Al Qassab
+Abi Ayass Al Kinani
+Al Hasha Valley
+Al Jazi Valley
+Al Jih Valley
+Al Jarira Valley
+Monia
+Abi Raja Al Ataredi
+Yahya Al Waseti
+Basira
+As-Safah
+Shaathan
+Dalej
+Al Hazem
+Al Zaweya
+Al Musem
+Khaled Bin Abi Umran
+Al Masloum
+Fadil Bin Ghzwan
+Ahmad Al Ghazi
+Mohammed Al Maydoumi
+Al Mutheb
+Sadwan
+Al Nefesiya
+Al Thamid
+Yalamlam
+Al Shemalia
+Oshira
+Yathreb
+Mahbouba
+Al Najil
+Lazmah
+Al Mathnat
+Naq'A
+Watar
+Wahran
+Qolwa
+Nesma
+Noweima
+Al Arida
+An Naba
+Adrar
+Ibraheem Al Harwe
+Harmala Bin Hotha
+Afif Al Dien Zahirah
+Ali Ai Yamani
+Mahfoz Al Tirmasi
+Al Zaheraan
+Saad Bin Daighaser
+Soliman Bin Thmama
+Abdulkhaleq Bin Obaidallah
+Al Ajdad Mountain
+Abi Al-Hussain Al-Ansari
+Malha
+Al Hathan
+Saeed Bin Hajji
+Koubab
+Nahawand
+Abad Bin Shaiban
+Mahayel
+Al-Frousia
+Saud Bin Mohammed Bin Roshoud
+Khidah
+Meqdam
+Nakhal
+Abi Qarqas
+Wathilan
+Abu Naqara
+Malija
+Mrr Al Safr
+Maan
+Al Hamdoun
+Abdullah Bin Rasheed
+Abi Mohammed Al Bhagdadi
+Fahad Bin Mahmas
+Ali Al Farisi
+Abi Alfadhi Ibn Taher
+Shabarq
+Ahmad AL Telmesani
+Matawi
+Amr Bin Ishaq
+Abdulrahman Al Daham
+Ibn Al Arab
+Hassan Bin Hussein
+Al Jasar
+Meshref
+Yahya Bin Abi Kathir
+Ahmed Bin Ali Al Bekadni
+Abdulaziz Ben nashwan
+Nabuls
+Al Abtan Valley
+Al Atheel
+Al Hayat Valley
+Al Khadar Valley
+Al Hamama Valley
+ابن شرف النووي
+شارع السكاكي
+عائذ بن سعيد
+مصطفي السباعي
+معد بن عدنان
+ميمون الاقرن
+ابي شبل التميمي
+بير سفيان
+الجندب
+معافي السديس
+Matiul Haq
+Dhalam
+Borsa
+No. 38
+No. 30
+No. 309
+No. 283
+No. 277
+No. 403
+No. 7
+Al Gharara Valley
+Abi Al Fadhal Warraq
+Jalilia
+Sajer
+Dasman
+Sabta
+Kinana
+Qartajena
+Ghazi
+Faifa
+Afif
+Andal
+Al Eiss Valley
+Safages
+Ali Bin Abi Musa Al Ashari
+Dar Al Khalil
+Fakhruddin
+Ahmad Ibn Abdul Samad
+Mohammed Bin Gshian
+Mohammed Bin Mndwr
+Oshira
+Afar
+Atia
+Shrowra
+Abdullah Ben Saheem
+Ghazala
+Az Raqa Valley
+Al Magharabi
+Bin Mana Road
+Jo
+Jouda
+Khuraisa
+Jiba
+Zahoa
+Dinar
+Zamar
+Khadeira
+Ghanima
+Fayad
+Aka
+Ahmad Bin Basam
+Raida
+Aseila
+Sinan
+Sakar
+Tanja
+Shelal
+Taiba
+Safwan
+Safsaf
+Abu Saif
+Dhalam
+Sanabil
+Toweir
+Sabia
+Sabikha
+Al Zonboq2
+Al Sharaf Valley
+Ibn Taghri St.
+Ibn Harb St.
+Ibn Basam St.
+Al Qaryah Al Sharqyah St.
+Al Maqrazi St.
+Shihab Addin Al Amadi St.
+Al-Frousia
+Al Khaweya
+Al Khosh
+Abi Ubaida Bin Masood
+Need Al Dhalea
+Bashar Bin Al Sari
+Hijra Al Tawali
+Qalaat AL Roghan
+Al Othoud Al Olya
+Adhnah
+Al Abitir
+Al Zaytouna Mosque
+Al Askandarona
+Al Abardan
+Qalaat Al Hisn
+Al Hatemi
+Asas Bin Nasar
+Maqmour
+Nasifa
+Mohammed Bin Al Jzri
+Mohammed Al Tayeb
+Ath-Toufeeq
+Al Joweihem
+Ibn Khaishala
+Al Teif
+No. 19
+No. 31
+Saeed Bin Jodat
+Al Hwqaf
+Al Khameis
+Al Balour
+Ibn Al Qayem
+Al Hejel
+Al Khatwa
+Al Bilagha
+Al Azdhar
+Al Ahwaam
+Al Adab
+Al Harira
+Al Harmalia
+Al Hasnah
+Al Hasima
+Al Hessami
+Al Hazm
+Al Hareeq
+Al Hossoun
+Al Jawania
+Al Hazem
+Al Hasanah
+Al Zouriya
+Al Talhla
+Al Hawaitah
+Al Samda
+Al Salhaniya
+Al Zaqazeeq
+Al Dahasiya
+Al Dalnaj
+Al Jeleibat
+Al Salatin
+Al Jamajem
+Al Dama
+Al Kheim
+Al Doboul
+Al Halqi
+Al Joum
+Al Hemia
+Al Khanqa
+Al Jamash
+Aaban Bin Saleh
+Althobiah
+Al Jabrieah
+Al Dahamin
+Al Khadra' Al Janoubiya
+Al Bakhta
+Al Jallah
+Al Jarifa
+Al Balaziya
+Al-Ismailiya
+Al Daama
+Al Aqiba
+Al Asran
+Al Hawi
+Al Dahimiya
+Al Khefeiq
+Al Khariba
+Al Abasea
+Al Hijaziya
+Al Dahil
+Al Hot
+Ibn Huzeefa
+Al-Hameed
+Al Khowar
+Al Atfan
+Alaqdam
+Hajar
+Al Awali
+Abi Al Abas Ahmed Alnasaj
+Abdullah Al Whebi
+Abdullah Bin Yaknsa
+Ahmad Al Arini
+Waqada
+Nawan
+Al Farisha
+Al Farein
+Al Ghamasia
+Al Ghasaq
+Al Madra
+Al Alamein
+AL Ghor
+Street-211
+Street-227
+Street-219
+Street-225
+Omar Abduljabber Road
+As Sanadid
+Shafi Ibn Umar
+Mawakib An Nasr
+Ibn Abi Al Wafa
+Thabet bin Alnomaan
+Adbal Rathman Bin Khamees
+Altayf Albasem
+Onshoudat Al Salam
+Alramli Street
+Sabil Al llm
+Sayf Ad Din
+Ibn Abdulrazzaq
+abn albokhare
+Al Malek Al Ashraf
+Al Farh
+Al Amir Sultan
+الزهري
+ثقيف
+مرة بن كعب
+ابو عاصم النبيل
+زهرة الريحان
+زهرة البشنين
+قصر خزام
+دار الرجاء
+مدرسة الثغر
+نور العلم
+شارع الكيمياء
+حمادة الاسلام
+محمود شلتوت
+نافع التميمي
+Eldawy
+Mashail Street
+Fazilat Street
+Al Wasam Street
+Al Barkat Street
+Taiba Street
+Al Sananeer
+St-108
+جبل مراغه
+ابن غزلون
+مصعب بن الزبير
+الحميدي
+ابو الطاهر الزهري
+تقي الدين الفاسي
+محمد بن حامد
+المسبحي
+Al-Laws Street
+Tadhiha Street
+وادي الحرمليه
+وادي عشيرات
+ابو عبيده بن الجراح
+وادي يصمد
+وادي مشيط
+وادي المسيلة
+وادي الصدارة
+ابو حفص الكتاني
+وادي العمارية
+Fruit and Vegetable Souq
+محمد الوزان
+ابن البصري
+الواحة
+الطرف
+تاروت
+تربة
+عبدالله بن عبيد
+وادي نيمار
+اهل البركة
+وادي ذهب
+وادي الغزوان
+وادي بن جهيم
+وادي العادلية
+السراج الثقفي
+عبدالله بالخير
+alfaisal
+Musaab Bin Umair
+Taher Zamakhshari
+Aqeel Bin Abi Taleb
+Hajib Ibn Zararah
+Hassan Bin Malek
+Sameer Bin Kaab
+خميس مشيط
+سبهات
+القريات
+المزاحمية
+ابقيق
+بذور القناعة 44
+اسماعيل العظم 17
+السفراء 15
+راية الاتحاد 19
+نجم المدينه 40
+Fayd as Samaa
+ابن ايوب الشافعى 9
+اريحاء
+al Basatin Basatin
+الاقصر
+المغرب العربي
+القدس
+الاندلس الفرعي
+وادي النيل
+المنصورة
+غزة
+العطاء
+محمود فارسي
+At Tarabut Street
+Nur Al Qamar
+Ar Rabi
+الناصرة
+خان يونس
+al Rawabi Al Khudr
+al Rubu Al Arabiyyah
+Nasif
+ابو داؤود الابادي
+قباء
+ابن حبيب الفارسي
+ابو حفص
+الحسن الكيسائي
+ابو الفضل البكري
+السيرافي
+الفراء
+ابن الخزاز
+اهل الشفاعة
+ناصر الفرحان
+الروضة الذهبية
+جابر بن سليم
+فيصل الطبري
+المهاجر بن سهل
+ايمن بن عبيد
+زيد بن وديعه
+النعمان بن ثابت
+ماثر العرب
+ادم بن عبدالله
+نافع بن الاسود
+Hera St.
+شارع التفاح
+شارع الأناناس
+Al-Tut
+Taqadam Street
+شارع الحفاوة
+ابو سهل الحلواني
+ذا النون البصري
+شارع ابها
+ابن الاوزاعي
+القضاعي
+عبد القادر الجزيري
+احمد المعبدي
+مصطفى امين يوسف
+محمد ابن المنذر
+ابن السراج
+النبهانية
+الشرفه
+اهل الشكر
+Al Salasil
+Maan Bin Ows
+Al Qarn Valley
+Bardi
+Najmuddin Al Qorashi
+Assem Al Hilali
+Ahmed Bin Khalid Al Kondi
+Jabier Bin Abi Saleh
+Bahra
+Al Wedian
+Al Felwa
+'Al Foqaha
+Al Qaem
+Al Fayadhah
+Al Feidh
+Mohammed Bin Abdullah Al Bakri
+Balhamar
+Al Fawarh
+Jabliya
+Ib Fotouh Al Hammidi
+Abdulrahman Bin Manea
+Al Amlah Mountain
+Uthman Al Mudufi St.
+Al Shihab Al Robi St.
+Al Jalal Al Yameni St.
+Abdul Aziz Bin Marshad St.
+Ibn Abi Al Afiah St.
+Al Diyar St.
+Janab All Marwa St.
+Umm Rajoum St.
+Al Radeef St.
+Mohammad Al Hashemi St.
+Ibn Rehan St.
+Omar Al Salami St.
+Abi Al Faat Al Dahia St.
+Forat Ibn Al Hayan St.
+Mansour Al Najib St.
+Abi Al Ma'ali Bin Mouad St.
+Ibn Zuhair Path
+Abdullah Bin Mohammad St.
+Rushdy Bin Malhas St.
+Tamim Bin Abi Al Futuh St.
+Yahiya Bin Marwan St.
+Umm Talha St.
+Al Yanboua
+Khalil Al Jabarty St.
+Ka'ab Al Isa St.
+Abu Al Faat Al Kenani St.
+Dar Al Safa St.
+Qutub Al Din Al Shafi St.
+Amer Bin Salamah St.
+Dherab Bin Isa St.
+Yusuf Bin Ahmadat St.
+شارع داود الأصبهاني
+شارع عبدالملك القشوري
+Al Harbee Street
+شارع ابن حميد
+شارع أم الكرم الزهاوية
+Saeed Bin Shoael
+Al Safayan
+Mohamed Bin Hazaa
+Nasser Bin Shaman
+Saeed Bin Bishan
+Al Dakhil
+Ibn Ateeq
+Alderees
+Bilal Bin Rabah
+u
+الترمذي
+3
+3
+3
+الاسكافي
+ابن حزم
+almonji
+tbrajal
+Al Rashed
+Al Buraikah St.
+Al Shabramiah St.
+Abdullah Bin Qatada St.
+hali Al Bigami St.
+Sulaiman Bin Wahab St.
+Hisham Bin Mowah St.
+Ibn Al Kamah St.
+Saeed AL Majid St.
+Rashid Bin Salih St.
+Al Safwan St.
+Jawad Hamza St.
+Abdulrahman Al Sulen St.
+Ibn Abi Afeef St.
+Al Subewy St.
+Ali Bin Al Sa'adat St.
+Mansour Bin Abi Al Ma'ali St.
+Ibn Al Arabi St.
+Ibn Fayyadh St.
+Al Munther Bin Hassan Path
+Saleh Al Ansari St.
+Al Ajmouri St.
+Ibn Bahad St.
+Amro Bin Malik Al Numairi St.
+Ibn Al Muwafaq St.
+Al Zahra St.
+Al Baidhah St.
+Shafa Bin Naser St.
+Taghlaby St.
+Mayasir St.
+Um Qawalan St.
+Hatrash Al Ajrani St.
+Al Munaizilah St.
+Al Qurdrah St.
+Ali Bin Ahmad Al Azraji St.
+Binban
+Al-Waqar
+No. 30
+No. 29
+No. 54
+No. 27
+No. 46
+Nafjan
+Al Maqrah
+Ibn Jarir AL Tabari
+شارع الفقرة
+شارع المجاشعة
+عبد العزيز بن خيرة
+شارع التفاح
+شارع جبل المضابيع
+شارع البشايرة
+شارع الفضل بن أحمد
+شارع الشهاب الطيب
+شارع خطيب مشكان
+Ibn Al Shater Al Anbari
+Abi Abdullah Al Waraq
+Al Bahra
+Al Rodha
+Al Reyama
+Al Montada
+Al Manara
+Al Melida
+Al Manfaloti
+Al Montanad
+Al-Mansoorah
+Al Musem
+Al Shajan
+Abi Al Abass Al Sharqi
+Rodh Al Jawa
+Abu Al Asrar
+شارع البراري
+شارع المعادي
+شارع جميل العلي
+شارع جبل الريث
+ممر أبي الفتح الحصري
+شارع الهيثم بن عبيد
+شارع البسطة
+شارع البرية
+Hamd Bin Faris
+Al Ghadaq
+Al Adeem Street
+Al-Darb
+Qoz Al Sherif
+Ghazwat Bawat
+Al Madar Mountain
+Al Shawath
+Qotaiban
+Ali Al Ansari
+Majid Bin Mareed
+Al Qasran
+Al Sedriya
+Madin
+Al Yamaniya
+Buldan Street
+Naseeb St.
+Lemon Street
+Athrar St.
+Saitan Al Atawi Street
+Ibn e Yousaf Al Kandi
+Al Najoom
+Al Akhwa
+Al Shaqra Valley
+Al Hussein Ibn Al Qassem
+Al Khayat
+Al Sawal
+Al Homoud
+Ibrahim Ibn Ghoneim
+Sala Mountain
+Al Zaara
+Al Adwa
+Ali Al Ansari
+Ibn Al Sharaf
+Oqba Bin Amer
+Al Hassan Ibn Al Omar
+Asil Eldin Ahmad Ibn Mohammed
+Ibn Al Mamoun
+Amr Bin Khaled
+Ein Shams Al Thaqafiya
+شارع جلال آباد
+شارع الشيخ البشير الإبراهيمي
+شارع جبل دغنان
+ممر الشمسين
+شارع شرف الدين بن بدر
+ممر علي بن عبد الرحيم
+شارع علي القرشي
+شارع عبد الملك بن هشام
+ممر الربيع الجيزي
+ممر المحدثة بنت أبي غالب
+شارع ميناء عبد الله
+شارع لسان الدين الخطيب
+Yusef Al Hamad St.
+Abi Al Mudafah ST.
+Burhan Adeen Al Mansouri St.
+Sayed Al Subay St.
+Mohammed Bin Yasir St.
+Sulaiman Al Masani St.
+Duraed Bin AL samah St.
+Muslim Bin Abdulrahman St.
+Al MAthna St.
+Shabib Al Lathy St.
+Abdullah Al Sudais St.
+Issa Bin Ouss ST.
+Abulhaq Al Azdi St.
+Yusuf Ahmad St.
+Al Hardah St.
+Abi Abdullah Bin Tamimah St.
+Abdulwahab Al Anmati St.
+Al Mugaitha St.
+Tufail Bin Al Kual St.
+Abdulmalik Al Qurashi st.
+Ibn Abi Khalid St.
+Um Al Salam St.
+Al Hajaji St.
+Al Athkar
+Al Abiar
+Al Okhdoud
+Al Athal
+Al Ahqab
+Al Boweibiya
+Al Ashqar
+Al Atawalah
+No. 124
+No. 64
+No. 90
+No. 126
+No. 53
+No. 144
+No. 347
+No. 116
+No. 351
+No. 395
+No. 92
+No. 397
+No. 399
+No. 134
+No. 405
+No. 407
+No. 47
+No. 106
+No. 69
+No. 159
+No. 45
+No. 43
+No. 88
+No. 39
+No. 54
+No. 49
+No. 185
+No. 65
+No. 100
+No. 409
+No. 359
+No. 114
+No. 401
+No. 66
+No. 393
+No. 317
+No. 349
+عثمان الضبي
+Ash Shaikh Abdul Rahman Ibn Hasan
+1
+Al Muadhin
+ابي عامر بن الاصيل
+الأحمر بن مازن
+اللبان
+أبي زرعة
+اسيد بن الأخنس
+شجاع المدلجي
+يحيى الوزان
+هذيل بن زفر
+ام السباع
+ابي طالب بن عبد الجبار
+المخواة
+الحسيني
+الاحوص بن ثعلبية
+صبح بن غالب
+ابي زكريا المؤدب
+غالب بن صالح
+6
+Asayed Ibn Abi Iyas
+Ghalib Al Muharabi
+Ibn Az Zaytuni
+Ar Ruwaiti
+Abi Al Walid Ibn Al Fardi
+Al Ossa Mopuntain
+Al Hakeem Habs Al Maroozy Street
+Ibn Shamil
+Ibn Al Betar Al Malqy Street
+Othman Bin Affan Road
+Al Farish
+Burkhan
+Al Fostoq
+Bagi Bin Mohammed
+Al Sarha
+Al Khodeira
+Al Qarn Al Sharqi
+Daoud Al Robeib
+Abi Thamer Village
+Raghdan
+Abdullah Bin Yahya
+Bait Al Nad
+Al Nakhila
+Ras Al Galeea
+Abi Hafs Al Saffar
+Esmail Bin Sabih
+Esmail Al Mamouni
+Yazid Bin Al Aswad
+Ak Sharqa
+Shabwa
+Al Balda
+Mahbouba Bint Abi Al Mothfer
+Khairuddin Al Ramli
+Al Balkhi
+Al-Bakaria
+Mohammed Sorour Al Sabban
+Al Shabaan
+Qanat Al Soeiss
+Al Sultania
+Al Safria
+Al Safi
+Kayfan
+Al Saja
+Al Rafiah
+Al Dabija
+Qanater Al Noaman
+Kahil
+Qasr Orwa
+Qalita
+Laess
+Labakh
+Mathan
+Kahailah
+Kaila Ibn Obaid
+Qataan
+Qasisa
+Qaysouma Fihan
+70th Street
+61st Street
+56th Street
+71st Street
+64th Street
+No. 40
+No. 42
+No. 43
+No. 34
+نصر الزواوي
+العناب
+نهر أم حبيب
+21st Street
+4th Street
+7th Street
+7th South Court
+3rd Street
+9th Street
+Acorn Lane
+Bamboo Court
+Banyan Court
+Boulder Court
+Bluff Court
+Cactus Court
+Gazelle Circle
+Karl Avenue
+Lilac Avenue
+Maple Lane
+Maple Circle
+Lime Drive
+Abqaiq Court
+Abu Hadriya Avenue
+Berri Lane
+Harmaliyah Court
+Lemonwood Circle
+Safwa Lane
+Safaniyah Drive
+Shedgum Avenue
+Qatif Lane
+Radhwa Lane
+Najmah Drive
+Ju'aymah Lane
+Saihat Lane
+Saihat Drive
+Ain Dar Lane
+Hofuf Lane
+AlQara Lane
+Ayn Nakhl Lane
+Ghawar Lane
+Hofuf Drive
+Jubail Lane
+Lemon Circle
+Lime Tree Circle
+Marjan Circle
+Mubarraz Avenue
+Al Qilaa Street
+No. 100
+No. 132
+No. 130
+No. 123
+No. 101
+شارع ظافر الغساني
+شارع أبي الفضائل الخطيب
+شارع عبدالعزيز القروي
+Ghaf Al Joy Street
+شارع الحبالية
+Abdullah Bin Ali Street
+Ahmad Bin Mohammed Al Raini Street
+Ibn Nbhan Al Katb Street
+Khalij Al Soweiss Street
+شارع جبل سلمى
+شارع جبل بتران
+شارع جبل رضوى
+شارع جبل المحاصير
+No. 24
+Al Hadida Street
+Al Hikma
+Al Hossnein
+Al Hassi Street
+No. 194
+No. 186
+No. 190
+No. 155
+No. 159
+Soweld bin Geis
+Abi Al Abbas Ibn Al Haddad
+Mohammed Bin Al Hareth
+Abdulrahmen Bin Mohammed
+Bashir Bin Sufian
+Ahmad Al Showeier
+Abi Isaaq Al Maari
+Yahya Al Antaki
+Saeed Bin Abi Bakr
+Anan
+Al Fajr Road
+Musa bin oakba path
+Al Kadi Al Mari Path
+شارع الدمنهوري
+شارع ابن العطار
+شارع الصفوي
+شارع الكاملي
+Disman Path
+شارع هلال بن أمية
+28th Street
+شارع جبل نعام
+شارع أبي الثريا
+شارع مظفر السوادي
+شارع الحسامي
+شارع الرابية
+شارع ابن إياس الكناني
+شارع أبي المفاخر الحموي
+Al Baha Street
+شارع منفلوط
+شارع الجلال المحلي
+شارع محمد بن الذهبي
+شارع إبراهيم الباهلي
+شارع البديعات
+شارع الثاملة
+شارع الوليد التميمي
+شارع رأس العين
+شارع الخيزران
+شارع فخر الدين بن سلامة
+شارع جرول بن عباس
+شارع ابن الدمينة
+شارع تطوان
+شارع كعب بن حذيفة
+شارع ابن عباد الكاتب
+شارع العصفر
+شارع أبي المناقب الأكمل
+شارع عبدالرحيم السمعاني
+شارع البرقات
+شارع دقلة
+شارع ثقيف
+|Ibn Al Athir Street
+شارع القرارة
+شارع محمود بن أبي الفتح
+شارع خالد بن سنان العبسي
+شارع الصلت بن النعمان
+شارع البقاع
+شارع عثمان النحوي
+شارع ابن المقرب العيوني
+شارع الغزال البغدادي
+شارع عبدالمطلب الحنفي
+شارع مفضل بن خزرج
+شارع جنفاء
+شارع عبدالعزيز القبيطي
+شارع وادي غليل
+شارع ابن عامر
+شارع محمود السبتي
+Al Amalee Street
+شارع أحمد بن دراج
+Al Bakarat Street
+شارع صالح الكرافي
+شارع عيسى الثعالبي
+شارع أبي حنيفة الدينوري
+شارع ابن الأبار
+شارع أبي موسى الجمال
+شارع عبدالجبار بن أبي ذر
+شارع فضل الله الهمذاني
+شارع الشعيبة
+شارع علاء الدين ثابت
+شارع أمين واصف
+شارع المحازيم
+شارع ابن جلجل
+شارع حصن بن وبرة الطائي
+شارع عبدالرحمن بن عامر
+شارع خالد بن عمير العدوي البصري
+شارع علي بن الحسن الخزرجي
+شارع عمر بن سعيد بن مالك
+شارع البردية
+شارع صفاقس
+شارع البراق
+شارع البراك
+Al Rashidi Street
+شارع القمراء
+شارع القلاع
+شارع أحمد الواعظ
+شارع البشارة
+شارع مرات
+Tammam Al Habashi
+Al Ghazaleh Path
+Shuriah Ibn Murra Street
+Shuraih Ibn Murrah Street
+Salmah Ibn Asim Path
+Al Saraab
+Jabal Al Ahdab
+Al Muhareb
+Al Maamoura
+Al Hasad
+Al Tof
+Abdulrahman Al Siraj
+Al Hussein Ibn Ateeq
+Zainab Bint Al Fhari
+Abi Al Abbas Al Bhoughdadi
+Najran
+Fahad Bin Fraj AL Sebeeal
+Al Baz
+Abdulrahman Bin Mahdi
+Al Alaya
+Nakhal
+Jalaluddin Al Mahali
+Abi Ali Al Khayat
+Al Jaheth
+Orjowan
+Al Jawad
+Al Asamer
+Al Sabour
+Al Fakheri
+Al Baraqeya
+Nemran
+Noweima
+Hajr
+Wasel
+Wabra
+Wathilan
+Wabir
+Al Amaer
+Al-Kheef
+Manara
+Al Mashaher
+Al Dohan
+Emro'O Al Qeiss
+Abdullah Al Doouk
+Ahmad Al Abbasi
+No. 25
+No. 40
+No. 33
+No. 34
+No. 36
+No. 10
+No. 8
+No. 4
+No. 6
+No. 29
+No. 28
+No. 32
+No. 41
+No. 38
+No. 35
+No. 57
+No. 12
+No. 44
+No. 20
+No. 7
+No. 37
+No. 44
+No. 68
+No. 60
+No. 58
+No. 56
+No. 30
+No. 48
+No. 70
+No. 35
+No. 46
+No. 54
+No. 31
+No. 42
+No. 29
+No. 27
+No. 62
+No. 50
+No. 52
+No. 16
+No. 21
+No. 19
+No. 14
+No. 17
+No. 12
+No. 33
+No. 23
+No. 66
+Ibn Al Benaa Street
+Al Dinwri Street
+Ibn Al Rima Path
+Habab Path
+Al Zahur Street
+شارع عبدالله الرميسي
+شارع ابن عبدالرزاق الجزولي
+شارع ابن سفير
+شارع أبي بكر بن نعمة
+شارع البدائع
+شارع أم عبدالله التنوخية
+شارع فياض بن موسى
+شارع ابن شهمان
+شارع منصور البهوتي
+شارع ابن علوان
+شارع حلب
+شارع التويم
+شارع ابن طاهر
+Ibn Ashek Street
+Al Khutama
+شارع ابن إدريس
+شارع عارف حكمت
+شارع نبعة
+شارع المرقش الأكبر
+شارع ابن الخطيب الدمشقي
+شارع ابن المنتخب
+شارع شمائل
+شارع أريمة
+شارع العباسي
+شارع محيي الدين النيسابوري
+شارع أبي بكر الصفي
+شارع جناح
+Al Gusab
+Al Zuhur Street
+Abdullah Bin Ali Al Nafisah
+Pr. Abdullah Bin Saud Bin Faisal Street
+Al Haditha
+Al Burkan Path
+Uyoun Al Jawa Path
+Abdulla Al Miselli
+Al Rasheediah
+Al Aamedi
+58th Street
+شارع جمال الدين الجزائري
+Prida Bin Al Hasib
+Azhir
+شارع جعفر السلمي
+شارع رزق الله التميمي
+شارع عتاب الأموي
+شارع سليم الليثي
+شارع الرماحي
+شارع وادي التسرير
+شارع وادي البطاح
+شارع بير الخيام
+شارع الحوراء
+شارع يوسف البزاز
+شارع الجنادل
+Sahil Bin Ateeq Street
+Jarab Path
+Abi Is'haq Al Khayat
+Uthman Adani Street
+Jabal Aja
+Ibn Ammar Al Asadi st.
+Dubairah Street
+Ibn Abi Zaib Street
+شارع الحموي
+شارع صيفي بن ساعدة
+شارع عباس بن علي
+شارع أبي الأشعث الصنعاني
+شارع وادي حلي
+شارع وادي عتبة
+شارع معاوية الكندي
+شارع النفيس
+شارع الصنعاني
+شارع ابن يزيد المهلبي
+شارع الوعير
+شارع سميسمة
+شارع وادي شيهان
+شارع راشد الحبراني
+شارع عبدالرحمن العقيل
+شارع المضاهي
+شارع الفارعة
+شارع الرستاق
+شارع يوسف القرشي
+شارع إسماعيل بن المعلم
+شارع ابن جميل
+شارع ظافر الأزدي
+شارع بطحان
+شارع نويب بن حبيب
+شارع ريان بن عمار
+شارع يزيد بن مالك
+شارع فرج التغلبي
+شارع فالح بن مهدي
+شارع تميم بن المعز
+Fateh Valley Street
+Sharih Al Hijazi
+شارع صلاصل
+شارع عبدالملك بن سكينة
+شارع ابن أبي المختار
+شارع عثمان القاضي
+شارع حراد
+شارع الدليمة
+Al Arfash St.
+Shabib Bin Shaiba St.
+Abi Al Husain Al Maratbi St.
+Shayb Al Darah St.
+Al Hamodi St.
+Nuyuna St.
+Ali Yusef Al Ghasani St.
+Al Batraa St.
+AL Abyar St.
+Al Hassa Atowsi St.
+Mohammed Al Hosseini St.
+Duwaa St.
+Ghamin Al Zinad St.
+Abi Al Murhaf Al Qasi
+Wadi Mabayad St.
+Al Aqala St.
+Wadi Haifa St
+Al Atta St
+Al Karna Path
+Abi Outema Path
+Abi Itsaq Al Harabi St
+Al Sayer Path
+Kanater Noman St
+Abi Mahsa Hal St
+Safeh St
+Hemas St
+Abdulla Bin Barn St
+Al Amf Mishari Bin Saud Bin Moogann St
+Ibn Kay Serani Path
+Jamal Al layil St.
+Ibn Al Labban St.
+Al Selimi St.
+Sager At Rafdi St.
+Ibn Al Nassar Path
+Al Amir Hazlow Bin Abdul Aziz St
+Al Rayhemeyah St.
+Barraq Bin Gahreer St.
+Remah St.
+شارع الحصن
+شارع زمرد بنت عبدالله
+شارع علقان
+شارع صبران
+شارع الرميحي
+شارع المضمار
+شارع طلحة بن المظفر
+شارع المليحاء
+شارع بشير الحبشي
+شارع المشاية
+شارع ابن عبدالنور
+شارع عدي بن عمرو
+شارع إسماعيل بن يوسف
+شارع أشهب العامري
+شارع الضحاك بن قيس
+شارع وادي سهول
+شارع الرعشاء
+شارع وادي سورة
+شارع المنس
+شارع رضي الدين الطبري
+شارع رأس الأرض
+شارع قلعة صنعاء
+شارع وادي بني عمرو
+شارع محمد بن عبدالجليل
+Qalaat Al Sabra Street
+Wadi Marfoud Street
+Barqah
+Rodhat
+Al Adeeb
+Al Fostat
+Al Sondos
+Al Omq
+Al Naher
+'Al Biqa
+Al-Falaj
+Al-Tawaref
+Jalajil Street
+شارع المشرفي
+شارع وادي الرمة
+شارع خليل الصالحي
+شارع دخنة
+شارع عمرو بن نصر
+شارع ذهبان
+شارع شعيرة
+Hamad Bin Abdulziz Street
+شارع عبدالوهاب المصري
+شارع ابن مشرف
+شارع المثناة
+شارع يثرب
+شارع أبحر
+شارع الأوضاح
+شارع أبي محمد المهذب
+شارع وادي مدني
+شارع وادي فاطمة
+Wadi Melha Street
+Sour Al Ghezian Street
+شارع وادي قطان
+شارع وادي سمائل
+شارع وادي قران
+شارع الشاظي
+شارع الشهاب الكناني
+شارع أبو شوك
+شارع الحسان
+شارع زهير بن محمد
+شارع يحي العمروني
+شارع علي بن سعيد
+شارع الفرج بن الصباح
+شارع الجدعاء
+شارع إبراهيم الزواوي
+شارع إبراهيم الجيلي
+Abdul Al Malik Al Muzaeini Street
+Nouan
+شارع كتيفة
+شارع المدية
+شارع الحسن بن بشر الأموي
+شارع ربيعة الأسدي
+شارع يحي بن المقداد
+شارع محمود عبدالباقي
+شارع عبدالرحمن الطبيش
+شارع الخوج
+شارع القريعة
+شارع وادي الصخيرة
+شارع وادي الشقرة
+شارع سليمان المنيف
+شارع التمام
+شارع التيل
+شارع التين
+شارع التوت
+شارع الثبات
+شارع المجد
+شارع مصلى العيد
+شارع الخطيب التبريزي
+شارع الجوفي
+شارع مصطفى العروسي
+شارع التنعيم
+شارع وادي الخفر
+شارع وادي النير
+شارع عبدالقادر القباني
+شارع عبدالعزيز بن حسين المعشوق
+شارع الحلقاء
+شارع الممراح
+شارع محمد شلتوت
+شارع وادي الرملة
+شارع علي التنوخي
+شارع الراغب الأصفهاني
+شارع وادي الحمض
+شارع عيسى بن الكحال
+شارع وادي السباع
+شارع عبدالحميد الزهراوي
+شارع محمد الصنهاجي
+شارع وادي الحرجلة
+شارع عبدالله بن محرز
+شارع محمد الصولي
+شارع عبدالرحيم بن علي
+شارع الجريف
+شارع وادي الأبطن
+شارع أحمد المرزوقي
+شارع خبيب الأنصاري
+شارع سليمان بن أبي القاسم
+شارع وادي الرشاء
+شارع وادي ترج
+شارع وادي زبيد
+شارع سراج الدين العسقلاني
+شارع حمزة السلحدار
+شارع وادي المقراة
+شارع حسون الحلبي
+شارع عبدالرزاق السنهوري
+شارع وادي خيبر
+شارع وادي الدويمة
+شارع علي بن القطاع
+شارع أحمد عارف حكمت
+شارع عبدالقادر الجرجاني
+شارع الحرائري
+شارع أبي رواش
+شارع الشيخ سعد بن محمد آل حسين
+شارع زياد بن أبيه
+شارع وادي بيدة
+شارع الحارث الثقفي
+شارع وادي الحدادي
+شارع يحي بن إسماعيل
+شارع تقي الدين بن نجم
+شارع وادي أزيمة
+شارع ابن زولاق
+شارع وادي الرباح
+شارع إبراهيم بن سلوم
+شارع الوادي الأعلى
+شارع علي العدوي
+شارع الفضل التميمي
+شارع وادي زيمر
+شارع وادي المسيلة
+شارع وادي الجرير
+شارع وادي الملاص
+شارع ابن محمد العافري
+شارع وادي السليف
+شارع نقعة
+شارع وادي الحشة
+شارع الأعشاب
+شارع ابن القصيرة
+شارع وادي الميادي
+شارع القطارة
+شارع أحمد اليزيدي
+شارع وادي الملصة
+شارع وادي الطلحية
+شارع وادي الشهباء
+شارع وادي الريحان
+شارع حسن الإسكندراني
+شارع وادي حبان
+شارع سعدي الشيرازي
+شارع وادي السوس
+شارع صالح بن عذل
+شارع جبل الغبيرات
+شارع جبل خزاز
+شارع جبل الصقوربة
+شارع جبل المشايخ
+شارع جبل الغمر
+شارع جبل براك
+شارع جبل سنجار
+شارع جبل اليمامة
+شارع جبل المعلق
+شارع جبل العمور
+شارع جبل عازب
+شارع جبل الكرمل
+شارع جبل رضوي
+شارع جبل القاو
+شارع جبل باطن
+شارع جبل الحورة
+شارع جبل الحواطب
+شارع جبل الخال
+شارع عبدالعزيز محمد المبارك
+شارع جبل الجزيرة
+شارع وادي رقوان
+شارع جبل أروم
+شارع جبل عسعس
+شارع جبل حسناء
+شارع جبل الصقورية
+شارع جبل العرمة
+شارع وادي النعيم
+شارع جبل المدار
+شارع جبل الصابح
+شارع جبل تمرة
+شارع جبل طويق
+شارع وادي زمرتين
+شارع جبل شمام
+شارع جبل العوينات
+شارع جبل الظنة
+شارع جبل الدخان
+شارع جبل بتران
+شارع وادي حراء
+شارع أحمد بن سلطان
+Al Joud Street
+Wadi Liha Street
+Al Jund Street
+Om Sidra Street
+شارع المثناة
+Loqman Street
+شارع جبل أبلي
+شارع جبل أخزم
+Al Jumoom Street
+Al Jabal Al Abiadh Street
+Al Jomouh Street
+Wadi Andam Street
+Qasir Valley Street
+Motaam Valley Street
+Wadi Markha Street
+Wadi Mawan Street
+Al Rith Mountain Street
+Al Jawabera Street
+Al Jawz Street
+Al Jamiyah Street
+Wadi Nawar Street
+Ahmad Al Boghdadi Street
+Otba Valley Street
+Qays Ben Rifaah Street
+شارع عبدالعزيز السباك
+شارع السنانية
+شارع خفاف التميمي
+شارع الرحية
+شارع محمد البشير
+شارع حكيم بن معاوية
+شارع الجديدة
+شارع جبل البويب
+شارع الأبرادي
+شارع جبل أشاقر
+شارع جبل الأجداد
+شارع جبل الأبره
+شارع وادي جليل
+شارع جبل أسالم
+شارع وادي الأثريات
+شارع المنفه
+شارع جبل الرحى
+شارع جبل الأرام
+شارع أبي بكر بن محفوظ
+شارع وادي الجام
+شارع كلاب بن حمزة
+شارع الغماسية
+شارع خضيراء
+شارع السمر
+شارع سعد بن أيوب
+شارع نافع الأنصاري
+Jabal Al Sawadi Street
+شارع جبل أبهر
+شارع جبل الحسي
+شارع جبل القرين
+Nabra
+'Al Ahya
+Nathira
+Naq'A
+Al Qalsawi
+Ibn A'Bwad
+Al Mahamel
+Al Mahamid
+Al-Mahraq
+Ahmad AlWahaibi
+Al Raba'h
+Al Mosir
+Al Masour
+Al Mosama
+Al Masil
+Al Efeihed
+Al Mazhar
+Al Marwah
+Al Mazar
+Al Mofasser
+Al Mazari
+Al Hareeq
+Al Hadrah
+Al Wasam
+Al Nazalal
+Al Ashbal
+Al Aiania
+Al Basar
+Al Rasha Valley
+Al Shoki
+Al Khaboub
+Al Hanfa
+Al Khasera
+Al Horiya
+Al Hifa
+Ayesa Al Jarshi
+Gasan Bin Al Fazal
+Nasir uldin Alabani
+Al Yasr
+Al Bonhour
+Al-Jandalh
+Hisham Bin Al As
+Al-Qawaid
+Ahmad Al Ansari St.
+Al Bastah St.
+Al Hejel St.
+Ibn Mat St.
+Yusef Al Dawoodi St.
+Al Bashar St.
+Al Ataa St.
+Badees Al Sinhaji St.
+Naseeb Arslan Street
+Mohammad Al Khashab Street
+Abdulaziz Bin Moamar St.
+Al Ain St.
+Riyadh Al Khobara'a
+Amro Bin Amro Al Qais St.
+Bani Hilal St.
+Mahmoud Al Baroudi St.
+Faidhah Noman St.
+Al Ashaj St.
+Mareed St.
+Ibn Al Samah St.
+Abulaziz Al Ulayan St.
+Abi Hayan Al Ghirnali St.
+Adeeb Is'haq St.
+Al Hamidiah St.
+Al Biqa'a St.
+Ahmed Bin Ma'moun St.
+Al Jabalah St.
+Wajdah St.
+Bint Al Azwar St.
+Abi Al Qasem Abdulghafar St.
+Ismael Bin Salem St.
+Bader Al Din Al Hosny St.
+Al Buwaitan St.
+Atbarah St.
+Al Ghurbah St.
+Amro Bin Jenadah St.
+Al Hussien Bin Mahran St.
+Al Shuqah Al Ulya St.
+Hijrat Al Zaheed St.
+Hunaider St.
+Ibn ABi Al Shukur Al Falaki St.
+Al Saeen St.
+Al Tareef Al Asiah St.
+Abu Saer St.
+Ibn Al Muhalab St.
+Mansoor Al Farawe St.
+Al Farq St.
+Ali Yenbo St.
+Ibn Abi Al Asway St.
+AL Jizawi St.
+Al Tall St.
+Al Najed Al Maqdesi St.
+Al Iskandarani St.
+Al Jamrah St.
+Al Watereyah Street
+Ibn Arqam St.
+Al Qabel St.
+Ali Al Radini St.
+Moheb Aldin Al Saudi St.
+Al Hakim Be'amr Allah St.
+Samour St.
+Shabah St.
+Ibn Ajilah St.
+Abi Yahya Al Khayat St.
+Abi Al Fadel Al Jeelee St.
+Al Shams St.
+Al Ramedah St.
+Al Tajibi St.
+Al Hareth Al Tamimi St.
+Al Wasiyah St.
+Abi Bakr Al Katib St.
+Abdulaziz Al Haqbani St.
+Athebah St.
+Abi Ahmad Al Qaisee St.
+Ard Al Jazirah Street
+Al Mahameed Street
+Al Rasafah St.
+Uthman Bin Amer St.
+Abi Al Fath Al Ansari St.
+Deem St.
+Al Khateeb Al Senjee St.
+Ibn Makanis St.
+Al Harah St.
+Al Tuwairani St.
+Sheik Abdullah Bin Hamid St.
+Al Qazen Al Zyani St.
+Abi AL Khair Al Kal'ee
+Yahya Al Thaqafi St.
+Yusef Bin Hussien St.
+Al Matrafi St.
+Al Deyar St.
+Al Jethmiah St.
+Omar Al Husni St.
+Al Sarar St.
+Yusur St.
+Al Naqeel St.
+Al Dahen St.
+Al Hamadah St.
+Ukhaiserat St.
+Taqee Al Din Bin Mu'min St.
+Azerbijan St.
+Al Ladaied St.
+Um Barqah St.
+Al Maseel Street
+Dather St.
+Abi Al Ajaj St.
+Al Shahba'a St.
+Al Madid St.
+Assam Bin Omar St.
+Hajar Bin Yazid St.
+Zaki Mubarak St.
+Al Shnafi St.
+Omar Bin Rabayan St.
+Hamad Bin Maqrin St.
+Quray Al Daar St.
+Yusuf Al Ghassani St.
+Al Sakaki St.
+Wadi Bayajan St.
+Al Zumore St.
+Al Keel Al Banase St.
+Abi Al Manaqib St.
+Abdullah Araif St.
+Abdulrahman Al Nasakh St.
+Al Amro AL Hamadani St.
+Al Zinabi St.
+Abu Salik St.
+Isa Bin Abdulkarim St.
+Yazid Bin Abdullah St.
+Rahman St.
+Ahbab St.
+Al Mahwali St.
+Abi Baker AL Jalal St.
+Simayra St.
+Mahmoud Al Matri St.
+Ghamid Al Zinad St.
+Ahmad Bin Hafs St.
+Saeed Bin Qais St.
+Abdul Hameed Al Tarabulsi St.
+Jabal Aban Street
+Yathreb
+Al Janah
+Al Qamar Street
+Al Noblaa Street
+Al Majd
+Al Jazeera Al Khuzra Street
+No. 267
+No. 48
+No. 30
+No. 163
+No. 139
+No. 199
+No. 142
+No. 151
+No. 180
+No. 77
+No. 134
+No. 98
+شارع الرصافة
+شارع الرواكب
+شارع الرمال
+شارع الرابية
+شارع الرقي
+شارع الزلفي
+شارع الزكية
+شارع الرذاذ
+An nafal Street
+شارع الرمحية
+شارع الرديف
+شارع السر
+شارع الربيعة
+شارع الرحيمية
+شارع الزمرد
+شارع الندوة
+شارع السرور
+شارع الساعة
+شارع الرفايع
+شارع السبهانية
+شارع الساعي
+شارع الرقعي
+شارع الرخام
+شارع الرميم
+شارع الروضة
+شارع السمرة
+شارع الرشاد
+Al Hejrah Street
+شارع النشرة
+Al Houfouf Road
+شارع الراية
+No. 174
+No. 82
+No. 23
+No. 229
+شارع تيماء
+شارع رماح
+شارع وادي الدواسر
+شارع وادي الرمة
+شارع تهامة
+شارع وادي الرشاء
+No. 26
+Arkan
+Wadi Laha
+No. 39
+Alqadih
+Alqudaiba
+Fehad Al-gahtani
+Al Safah Mountain
+Oleib Avlley
+Al Majrada Valley
+Al Manaqeb Valley
+Jasa Valley
+Hadli Valley
+Al Arma Mountain
+Al Sawadi Mountain
+Ajdad
+Arwa
+Adrar
+Arbel
+Eram
+Turki Mohammed Graf Al Otaibi
+Alabas Bin Hatem
+Al Sodoud
+Al Damer Street
+Abi Abdullah Al Tajr
+Mohammed Al Aqili
+Jalaluddin Al Mahali
+Amr Bin Qodama
+Zainab Bint Al Awam
+Abdul Abrahman Bin Taher
+Al-Der'E
+Al Hera
+Ahmad Salah Al Zabayani
+Mohammed Trisan Al Shatri Al Mtari
+Jaber Hussein Wahaish
+Abdullah Snat Brak Al Mrshdi
+Ahmed Saleh Al Marie
+Yasir Hasb Allah Al Molwd
+Ibrahim Mubarak Sayeed Al Dosari
+Nayef Lfa Mater Al Mtairi
+Shayeqa
+Shrowra
+Doss
+Rawaq
+Kholouf
+Taymour
+Hafiz
+Baiqees
+Tima
+Horan
+Al Yamaniya
+Thariba
+Jenin
+Jabla
+Daqla
+Ranla
+Al Waqf
+Al Sawan
+Al Wafa
+Benana
+Daqla
+المراشده Al Mrashdah
+Shagra
+Al Marfa
+jabal Al Thamad Street
+No. 238
+No. 191
+No. 183
+Al Zabadani Street
+Turki Bin Oteishan Street
+Al Maghmas Street
+No. 28
+No. 30
+Wadi Hajar Street
+Wadi Tarj Street
+No. 42
+Wadi Hidaa Street
+No. 36
+Al Hossam Street
+Abi Bakr Al Khaqarezmi Street
+Al Doma Street
+Al Dafina Street
+Al Dor Street
+Al Hasi Street
+Al Harira Street
+Al Horiya Street
+Al Hifna
+Al Hifa Street
+Al Holwa Street
+No. 17
+Al Samaha
+Sna
+Al Daen
+Doa
+Samiha
+Salasel
+Riane
+Raman
+Maliha
+Al Karmal Mountain
+Al Madhabi Mountain
+شارع تدول بن الحارث
+شارع السوالمة
+شارع أسماء بنت النعمان
+شارع أمية بن يزيد
+شارع فرج الحديدي
+شارع عثمان بن عمر
+شارع عبدالكريم بن إبراهيم الأمير
+شارع الحويطة
+شارع العجلي
+شارع عبدالله الشرقاوي
+شارع عبدالوهاب الوريث
+شارع أحمد الحفظي
+شارع وهران
+شارع ابن يعيش
+شارع أبي العباس اليماني
+شارع أذين بن عوف
+شارع صالح الصليمي
+شارع محمد رمزي
+شارع إلياس بن مضر
+شارع أبي القاسم الزياني
+شارع علي بن الخصيب
+شارع أبومنجل
+شارع إبراهيم العمري
+Al Fida
+Al Khizemy
+Pelican Drive
+Flamingo Street
+Oleander Street
+Plover Street
+Avocet Street
+Periwinkle Avenue
+Mallard Drive
+Kingfisher Avenue
+Widgeon Court
+Dhahran Lane
+Reef Road
+Seashore Drive
+Pelican Street
+Sandpiper Avenue
+Egret Street
+Heron Street
+Gannet Street
+Sunfish Lane
+Sand Dollar Lane
+Hawk Lane
+Laurel Lane
+Surfboard Lane
+Breezy Place
+Sunset Drive
+Saihat Lane
+طريق عثوان القرن ضمد
+طريق جبل عثوان
+طريق حي مضايا
+طريق العزة عين الحاره
+طريق ال قطيـل
+اهل المنزلة
+زهرة الفل
+شجرة الصنوبر
+وادي غريري
+وادي فيصل
+جبل اراط
+الدمام
+Sakar
+Salih Bin Mousa St.
+Laith Al Hammami
+Al Qashaf St.
+Al Hassan Al Waseti
+Ali Al Khazen
+Abi Rabe'a Al Sa'edi St.
+Abdullah Bin Sufian
+Thamdaan St.
+Al Sadr Path
+Abdullah Bin Mohammed Al Harbi
+'Abi Al Fadhi AlL Moqre
+Ma'ath bin Jabal St.
+Abdulaziz Bin Shabanah
+Al Mufadhal Bin Fadhalah St.
+Abdulaziz Bin Shabanah St.
+Al Rujam St.
+Uthman Bin Abi Al Hasan St.
+Sa'ad Sbaih Street
+Saad Al Mashat
+Al Mazar St.
+Al Dahsiah St.
+Abi Al 'Awali Al Kinani Street
+Amro Bin Al Jeed St.
+Ibrahim Al Talhi St.
+Al Hussien Al Sukkari St.
+Al Hudaidah Street
+Al Abbas Al Rashidi St.
+Ibn Al Mothfer Al Hatemi
+Jazim Street
+Assad Bin Idriss
+Mohammed Bin Abi Al Sharaf
+Al Ghareeb
+Ibn Al Khatib
+2
+Souq AL Shoyoukh
+Abi Al Najh Ismail
+Abdullah Al Baghdadi
+Jamal Ud Din Al Damiri
+Al Fasher
+Hassan Bin Ali Al Tabri
+Abi Mohammed Ibn Neama
+Al Tibeaa
+Ibn Maiser
+Al Khalil
+Ahmad Al Aarwai
+Al Baqai
+Aysa Al Ieithi
+Al Sabhaa
+Al Rafaih
+Alsohil
+Al Raha
+Esmail Al Basri
+Jarir Al Tabri
+Taj Al Din Al Kandi
+Abdullah Al Remeisi
+Al Jazeera Al Khuzra
+Afif Street
+Al Shaban
+AL Fasil
+Al Lozia
+Haritha Bin Al Bukhari
+Aliuddin Al Hanafi
+Al Saoub
+Al Boweiten
+Al Jofa
+Al Rokham
+Al Zahabi
+Abi Abdullah Ibn Al Qandi
+Farha
+Abdul Aziz Aba Hussein
+Al Hassan Al Hammam
+Ibn Awana
+Ali Bin Salih
+Taqiuddin Al Sinjari
+Issa Al Maqdesi
+Al Sail
+Al Zayed
+Al Riyadi
+Abi Al Qasim Bin Makki
+Al Rihab
+Al Zaher
+Othman Bin Manthour
+Gaafer Al Andalwsi
+Al Rashid
+Ahmad Al Moradi
+Al Sedra
+Ateek Bin Qais
+Esmail Bin Hammad
+Al Naghiq
+Shihab Ibn Abi Bakar
+Al Khafji
+Ibn Ziada
+Abdualsamad Al-Ansari
+Al Naqra
+Al Faraj
+Yahya Bin Adi
+Al Monther Ibn Abdullah
+Al Madawi
+Al Oweiqelea
+Azba
+Abi Al Fathou Bin Al Hasan
+Abi Al Nasr Al Boghdadi
+Ein Jedi
+Al Qantara
+Razam
+Burhanuddin Bin Sarwar
+Al Qartalbi
+Al Naseeq
+Al Ahbash
+Al Qasim Al Damashqi
+Al Qanan
+Abdulaziz Al-Ehsaee
+Al Nosour
+Rashad
+Al-Mahraq
+Ismail Al Jalil
+Al-Haras Bin zohra
+K'Aab BinZaid Al Ansari
+Al-Khail
+Al Rabi'A
+Al Hafiz Bin Al Mamar
+Qais Bin Thaalaba
+Al Hadaar Valley
+Ad Doha
+Al Sarh
+Al Shaqiq
+Ibn Al Ban
+Abi Al Fadhi Al Hamathani
+Soliman Al Selmi
+Amer Bin Nabi
+Mansour Ibn Mohammed ibn Hamza
+No. 30
+No. 24
+No. 26
+No. 25
+No. 23
+No. 27
+No. 39
+Karawan Al Soweidi
+Ashour
+Al Qirawani
+Qlaaat Jarfan
+Al Amawi Mosque
+Ibn Tolon Mosque
+Al Omayra Valley
+Al Qatara Valley
+Waqada
+Al Shoaba Valley
+Al Sahn Valley
+Al Gharara Valley
+Al Ein Valley
+Wasel
+Al Falij Valley
+Al Sahel Valley
+Al Raiha Valley
+Al Harjalah Valley
+Al Ahmar Valley
+Al Sakhira Valley
+Monifa
+Al Ashba
+Al Bateha Valley
+Kahlaa
+Abin
+Al Najma
+Al nafoura
+Al Naema
+Anbab
+Fas
+Al Nassefa
+Al Nofouz
+Al Nayfa
+Al Nazla
+Abdulrahman Bin Qassem
+Abdullah Bin Touk
+Abi Al Azaem
+Morsi Alam
+Saad Bin Louai
+Yahya AL Dameghani
+Al Qorea
+Abi Al Hassan Al Jozi
+Abdulhaq Bin Ghaleb
+Ibn Al Mira'l
+Ali Bin Abdulkareem
+Mashraq
+Mastoura
+Mo'Ta
+Al-Mahbooba
+Abi Mohammed Al Khayat
+Qossour Al Moqbel
+Ibn Abi Al Fateh Al Kharfi
+Abdulrazaq Bin Abdulsamie
+Al Hamlan
+Abdulwahab Al Jalili
+Ibrahim Bin Klaifiq
+Abdulrahman Ben Mahfoz
+Al Qadesiya
+Manara
+Nasifa
+Al-Yaqout Road
+Baraq
+Mirad
+Malham
+Monjed
+Nabuls
+Marat
+Lina
+Nawan
+Nathira
+Nakhla
+Halah Ammar
+Al Abardan
+Seerien
+Al Mahalaani
+Al Massaif
+Al Ahzam
+Khawarizm
+Tanomah
+Al Hawaimah
+Hassan Al Fakhri
+Darnah
+Saddierah
+AL Lassifa
+Ain Salah
+Zaat Al Haaj
+Al Falah
+Watar
+Maqboula
+Malha
+Maizela
+Moghira
+Malwa
+Mirad
+Hajr
+Nathira
+Wabir
+Waqada
+Nawan
+Nesma
+Shamam Mountain
+Yafa
+Abi Alhmad Al Hamathani
+Bark Mountain
+Ali Mohammed Bin Abdular
+Kaab Bin Amr
+Al Qariat Valley
+Ein Valley
+Ibrahim Al Asadi
+Mubarak Well
+Al Hadad
+Al Malaq Valley
+Abbas Bin Mohammed
+Al Atafa
+Al Dlaimi
+Kafr Anan
+Dmiath Lake
+Mohammed Bin Warqa
+Abu O'beidah A'mir Ibn Al Jaraah
+Al Ahmad Valley
+Al Hasha Valley
+Al Boseitin Valley
+Abdulaziz Al Fereh
+زمرد بنت عبدالله
+عتيق أبي الفضل
+ابن كامل
+عبد الخالق البعلبكى
+عمرو بن العاص
+No. 86
+No. 62
+No. 387
+No. 50
+No. 98
+No. 385
+No. 375
+No. 46
+No. 333
+Ahad Bani Zeid
+Al Adhat
+Al Efeihed
+Al Aharqa
+Al Bashna
+Wathith
+Mathla Valley
+Ibrahim Al Lozi
+Abu Jafar Al Salmi
+Wardaat
+Qoba Al Rubi
+Al Asamlah
+Jolaa
+Hrob
+Waqessah
+Namar
+Hait
+Howeishla
+Al Badieh Al Qadeem
+Al Arwaq
+Jbr Bin Sayyar
+Jabla Bin Hareitha
+Rashed Bin Kaneeni
+Ibrahim Bin Arfaj
+Abdullah Al Jutaili
+No. 9
+No. 1
+No. 18
+Al Aredh
+No. 27
+Malkan
+Ibn Al Naqal
+Al Mena
+Diba
+Rasheed
+Al Hajeb
+Al Qassemi
+Al Mafraq
+Al Manara
+Al Hasi
+Al Hasaya
+Al Halama
+Al Khafisa
+Al Jabalin
+Al Boteiniya
+Altaghlib
+Albairyah
+Al Bakrah
+Khrubah Mosque
+Al Baher
+Al Bada
+Al Baddah
+Althumayah
+Qalaat Salahuddin
+Al Khamissa
+Al Sultan Hassan Mosque
+'Al Balha
+Qalaat Al Madaq
+Al Jendiya
+Al Dahadh
+Al Boweirek
+Al Bajour
+Al Badi' Al Shemail
+Al Bishama
+Al Hawamediya
+Al Dafif
+Hadia
+Al Jawadi
+Al Douri
+Melk Al Nile
+Haneefa
+Al Sadfa
+Al Makhfa
+Al Khazen
+Aql
+المشرق العربي
+دار العروبة
+Bir Ar Rawha
+Al Najm Al Saqeb
+Al Orwat Al Wusqa
+Nahdat Al Marifah
+Turath Al Fikr
+Bariq Al Amal
+Lahn Al Amani
+An Nahdah Al Islamiyah
+Yaqdhat Al Fikr
+Abdullah Ibn Galawi
+Nahdat Al Ghad
+Nahdat Al Fikr
+Nahdat Alelm
+Ali Al Harithi
+Abdul Rahman Ibn Khamis
+Osman Al Bakrey
+Al Rawdah
+Az Zarqawi
+Ash Sharif Al Umari
+Altofail Bin Zaid Street
+حمزة بن ابي بكر
+Naseem St.
+Nahr Al Mubarak
+Mohammed Bin Zahr
+Abian
+Mohammed Bin Al Moali
+Abdulaziz Al Anabi
+No. 260
+No. 250
+No. 288
+No. 279
+No. 281
+No. 477
+No. 338
+الشارع التجاري
+عبدالله سالم
+عمر عقيل
+بيت المقدس
+هلال العمري
+مسلمة بن عبدالملك
+احمد بن جابر
+يحيى النويري
+Saud Bin Abdullah Al Shamri
+Mohammed Saleh Al Maqbil Street
+شارع المركز
+شارع الحديقة العامة
+شارع الجامع
+الشارع الثاني
+الشارع الرابع
+الشارع الخامس
+No. 154
+Farsan Street
+No. 239
+No. 238
+No. 244
+No. 243
+No. 255
+Mohammed Alawi
+Qayas Ibn Zayd Road
+Al Imam Abdulaziz
+Yusuf ibn Nasr
+ابن الحسن الحنفي
+سرابايا
+فرات بن ثعلبه
+حسن فدعق
+ابو السلط الاندلسي
+روضة الشهلاء
+اسلم الاشلهي
+Abi Hedryah
+سليمان بن مهران
+ظافر حماد
+يعقوب بن عطاء
+عبدالحي كمال
+ابراهيم البقاعي
+حسن باحفظ الله
+شكيب الأموي
+Altawbah
+Albaqai
+Abi Msailmah Almkzomt
+Saleh Jawdat
+ALroze
+Abo Eshag Alaskry
+Abi Uawah
+Ali Alnhary
+Hamir Badr Street
+اهل الحرية
+خولة بنت مالك
+المغيرة المخزومي
+عاتق البلادي
+حمزة بوقري
+النعمان بن مقرن
+نجم الدين ابو حامد
+ابن شجاع
+شمس الدين الخوارزمي
+السائب بن عمر
+احمد المدرس
+عبدالقادر عثمان
+شارع أحمد السندوبي
+يزيد اليمامي
+Taj-ud-Deen Al-Makki Road
+Taj-ud-Deen Al Makki Road 
+Ahmad Al-Hisai
+Al-Maqrizi
+Al-Muarikheen
+Ahmad Al-Madni
+Al-Sakhawi
+الصاحب بن العباد
+بهاء العاملي
+ابراهيم الصعابي
+عبدالرزاق الصنعاني
+وهب الجمحي
+سعيد بن مرجانه
+محمد بن علي العباسي
+Ripari Lane
+Owl Lane
+Rasberry Lane
+Rose Lane
+Sagger Lane
+Bougainvillea Lane
+Henna Lane2
+Henna Lane
+Saffron Lane
+Henna Lane1
+Carnation Lane
+Juniper Lane 2
+Juniper Lane 1
+Flamingo Lane
+Quatta Lane
+Vinca Rose Street
+Shaheen Lane 2
+Shaheen Lane 1
+Dhab Lane
+Tamar Lane
+Parakeet Lane
+Caracal Lane
+Cherry Lane
+Lime Lane
+Mishmish Lane 1
+Mishmish Lane 2
+Reem Street
+Ahmad Ibn Tarif
+Al Tayash
+Ali Bin Mohab
+Arbad
+An Bal
+Al Saffaniya
+Al Montada
+Ishaq Bin Hilal
+Al Janeeon
+طريق الملك عبد العزيز
+طريق مخيم جامعة القصيم
+فلسطين
+الامير سلطان بن عبدالعزيز
+No. 241
+No. 336
+No. 367
+No. 293
+No. 254
+No. 326
+No. 355
+No. 269
+No. 259
+No. 256
+No. 283
+Talhah Ibn Ubaydallah Street
+Abdurrahman Bin Awf Street
+Abi Thar Al Ghefari Road
+Zaid Bin Harithah Street
+Abdulla Bin Rawaha Street
+Saad Bin Ubadah Street
+Amar Bin Al Jamuh Street
+Jafar Ibn Abi Thalib Street
+Muslim Ibn Hani Street
+Zayd Bin Thabit Street
+As Zubir Bin Al Awam Street
+No. 243
+No. 491
+No. 499
+No. 346
+No. 507
+Jiyad Street
+No. 480
+No. 468
+No. 511
+No. 472
+No. 488
+No. 473
+No. 446
+No. 469
+Al Bilagha
+Malik Al Khudri
+Mohammed Iqbal
+Al Farawi
+Sadaqa Al Herani
+Prince Sultan Bin Abdul Aziz
+Abdulghani Al Thaqafi
+Abi Amr Ar Hamathani
+Al-Bouyoub
+شار مستوصف سلامات
+الأفق
+شارع
+شارع السوق التجاري
+الفجر المنير
+نجم الدين
+نور اليقين
+البدر الطالع
+هداية العباد
+هدية العارفين
+المقدام بن عمرو
+محمد ناظرين
+علي ميرمياه
+شمس الدين
+الامام المرشدي
+دار العلوم
+Assem Bin Khalifa
+Abiad Al Bareqi
+Abi Zakaria Al Moadab
+Abdullah Al Khazaz St.
+Al Dihak Bin Amro St.
+Al Narjas
+Abi Al Fadhi Al Boghdadi
+Al Daboul
+Yaqub Al Baghdadi
+No. 302
+No. 296
+No. 361
+Jouda Street
+No. 442
+Hera Street
+Jiyad Street
+no.703
+no.101
+شارع سليمان بن وهبة
+Jabal Hasan
+Al Tibeaa
+Al Adab
+Al Baniya
+Marwa Bin Amr
+Al Hamea
+Meskan
+Al Sayyad
+No. 236
+Al Atheriya
+Al Saoub
+Abdulsalam Abu Hudayma
+Ibn Zamraq
+Mohammed Bin Sultan
+Mohammed Bin Moslem
+Mohammed Bin Shlhob
+Haothi Mountain
+Raia Al Daraiba
+Abdullah Al Nafees
+Soukh Thi Al Mjaz
+Mohammed Al-Asbahi
+As Salmiyah
+Mansur Al Ghazzal
+شارع العليا
+شارع المجد
+شارع خالد بن الوليد
+الشارع الاول
+الشارع الثالث
+Street 1
+Nahdat Ash Shir
+Onshoudat Al Majd
+Nahdat At Talim
+Turath Al Hadarah
+Nahdat Al Jil
+Nahdat Ath Thaqafah
+Rawdat Al Khalij
+Khaled Ali
+Al Abbasi Street
+El Semant El Taibah Street
+Alzarqah
+Muhammad Ibn Majah
+Nahdat Al Fan
+Thabit Bin An Numan
+Al Mustaqbal Azzahir
+Souq Jiddah
+Al Mustaqbal Al Mudi
+Husayn Abdul Wahab
+Nahdat Aladab
+Nahdat Al Qalam
+Aly Al Khazin
+Al Wahhabi
+Nahdat Al Jazirah
+Al Abud
+Obaydallah Bin Omar
+Rawh Al-Hayah
+Nahdat Alruqi
+Nahdat At Talif
+Nahdat Ash Shabab
+Nahdat Al Islah
+Hail
+Shawat Al Mustaqbal
+Nahdat Al Asr
+Nahdat At Tarikh
+Nahdat An Nashr
+Nahdat Al Wai
+Nahdat Al Umma
+Fahad Alroshodi
+Nahdat Al Khalij
+Mohammed Shalhoub
+Ahmed Lari Street
+Bridge of Diversity
+Bridge of Inspiration
+Bridge of Integrity
+10th Street
+11th Street
+22nd Street
+5th Street
+8th Street
+Acacia Court
+Apple Avenue
+Dolphin Court
+Eucalyptus Court
+Falcon Court
+Fursan Avenue
+Golden Court
+Hibiscus Court
+Jana Court
+Jasmine Court
+Kenworth Court
+Khurais Drive
+Manifa Circle
+Nafud Drive
+Nomad Trail
+Oak Street
+Plateau Avenue
+Rainbow Circle
+Rainbow Road
+Remaal Lane
+Riyah
+Safaniyah Court
+Sharar Circle
+Tanajib Circle
+00-30-02
+00-30-05
+02-30-06
+3
+5th Street
+9th Street
+Ahmad Bin Hanbal Street
+Al Aqiq Street
+Alnawawi street
+'B' Street in Al-Munira Camp
+Hamad Al Qusaybil Street
+Imam Malik Street
+Musa Ibn An Nusayr
+North PW
+Sibawih Street
+طريق سلمان بن عبدالعزيز
+1
+7
+8
+Abdullah Al Huthali St.
+Abdullah Bin Erdees
+Abdullah Bin Friane
+Abdullah Bin Zaid
+Abdulqader Al Damaire
+Abi Al Ma'Ali Al Thari
+Abi Amer Al Asili
+Abi Mohammed Bin Abdul Ghafour
+Abi Zaraa
+Ad Diwan
+Al-Aadaab
+AL Ahwass Ibn Thaalaba
+Al Ardeya
+Al Areen
+Al Askan
+Al Ataya
+Al Balda
+Al Fairouz
+Al Fayum
+Al Frawi St.
+Al Hadaeq
+Al Hanka St.
+Al Henka
+Al Husseini
+Al Maen St.
+Al-Mouwia Al Jadeed
+Al Naqra
+Al Remahi
+Al Slaibqat
+Al Suffarah St.
+Al Turath
+Ar Rabi Street
+As-Sahabh Road
+Ath-Toufeeq
+Ein Bin Fhaid
+Esmail Sabri
+Fahd Almark
+Harsa Bin Al Adbat
+Hassan Abdullah
+Hassan Bin Abdulwahab
+Ibn Al Tabani St.
+Ibn Shakir
+Ibrahim Al Khazarji
+Issa bIn Jaffar
+Jafran Bin Saad Aal
+Jarrah Valley
+Missan
+Mohamed Ibn Hamd Ibn Faris
+Mohammed Bin Al Qeiss
+Muhammed Al Jabali
+Nathira
+No. 14
+No. 16
+No. 18
+No. 20
+No. 26
+No. 28
+No. 94
+Othman Bin Otba
+Qais Bin Masoud
+Rakhi Al Amberi
+Saad Bin Rabih St.
+Shaikh Omar Bin Hassan
+Taher Al Dabagh Street
+Yehya Ibn Masoud
+النخيل
+شارع الابحار
+طريق الملك خالد
+الفايزية
+طريق الحبيل
+طريق الحصيمة
+طريق الرجافه
+طريق بدوة
+1
+Abdul Hamid al Kahtib
+Akhlaq Street
+Al Angham
+Al Hamra st. شارع الحمرا
+Al Mahad as Sinai
+Al Miqdad
+Al Nidd
+al Qahirah
+Al-Ulama
+Aly Ibn Kanal
+Beacon Avenue
+Coral Garden Route
+Discovery Boulevard
+Hareed Street
+Ibn-e-Nabatah
+Island Street
+Jeddah International Market
+Mangrove Street
+Nasir Ad Din
+Peace Avenue
+Rayhanat al Jazirah
+sa3ad ben hashabool
+Salmani Street
+Tijani Bashir
+Transformation Boulevard
+Yanbu
+ابن زيدون
+ابن قتيبة
+ابن مهرويه
+ابو العيناء
+ابو طالب المأموني
+ابو عبيدة عامر بن الجراح
+احمد البنغالي
+احمد النخلي
+الجحفة
+الحارث المخزومي
+الحجاج بن يوسف
+الحديبية
+الرياشي
+السخاء
+السدر
+الشميسي
+الصفاوي
+العامري
+العباس ابن الاحنف
+المدارس
+الهلال الخصيب
+ام المؤمنين زين الهلالية
+ايمن بن عبيد
+جميله بن حريد
+حبيب بن زيد
+خالد الجفري
+خدمة زيد بن عمرو
+رضى الدين الطبري
+زينب بنت ابي سلمة
+سباعي عثمان
+سليمان النانية
+شارع الظهران
+طليطلة
+طيبة
+عبدالله النمري
+عمر نصيف
+عمروابن العاص
+عمرو بن الجموح
+فرحان السعود
+محمد أقبال
+محمد الانباري
+محمد علي ابو داؤود
+محي الدين ناظر
+موازي طريق الحرمين
+نافع بن الحارث
+نجران
+شارع البدر
+3
+King Fahd Bin Abdul Aziz Road
+اسامة بن زید
+North Arabiyah Street
+Crane Court
+Manifah Court
+Quail Drive
+Spinnaker Court
+Surf Avenue
+Al Qunfadh St.
+Al Salim St.
+Edrees Al Sanousi St.
+Hajeelan Bin Mohammad St.
+Ibn Al Nafees St.
+Mansour Bin Mohammad Bin Hamza St.
+Qandhar St.
+Shurahbil Bin Hasna St.
+Wadi Al Rabah St.
+Yazed Bin Mohammed St.
+Yusuf Bin Meshkhass St.
+Wadi Al Rumah St.
+Batoul Lane
+Butterfly Lane
+Cactus Lane
+Canary Lane
+Cassia Lane
+Gardena Lane
+Gazelle Lane
+Hoopoe Lane
+Ibex Lane
+Jamal Lane
+Jasmine Lane
+Jouri Lane
+Juniper Lane
+Kadi Lane
+Khail Lane
+Lemon Lane
+Maha Lane
+Mishmish Lane
+Nakhil Lane
+Nargis Lane
+Nawras Lane
+Oasis Lane
+Pelican Lane
+Reem Lane
+Rihan Lane
+Rumman Lane
+Sawsan Lane
+Shaheen Lane
+Tein Lane
+Tulip Lane
+Yamamah Lane
+Zaytoun Lane
+شارع وادي الريحان
+Al Laymoun
+Ad Diwan Street
+Al Jira Street
+Al Qana Street
+Al Salama Street
+Al Sanad
+Al Seham Street
+Ar Rabi Street
+Ar Rafeda Street
+Asfan Street
+As Sunbulah Street
+Horan
+No. 115
+No. 120
+No. 205
+No. 375
+No. 417
+No. 448
+Ajman
+Aka
+Rama
+Sultana
+Hussein Mahha Faqahi
+Al Bateha Valley Street
+Al Athkhar
+Al Jasar
+Al Majd Street
+Al Marwa
+Al Moshtari
+Al Qoweiya
+Hanif Bin Saeedan Street
+Kada
+Karachi
+Karkouk
+Kinana
+Kinda
+Koukab
+Lazmah
+Mahbouba
+Mahda
+Maraqash
+Marat
+Mashraq
+Masiama
+Mastoura
+Meshref
+Qaha
+Ibn Al Taraefi
+Al Ahjar Street
+Al Amthal Street
+Al Asfa
+Al Khaboub
+Al Kifah
+Al Majd
+Al Ramha Street
+Al Ramss Street
+Al Rasifa
+Al Romat Street
+Al Thamam Street
+Al Thamilah Street
+Al Thaqafiya Street
+Al Thawabiyah Street
+Al Wafa
+Al Zaher
+jabal Al Thamia Street
+jabal Asib Street
+No. 127
+No. 131
+No. 148
+No. 165
+No. 179
+No. 193
+شارع أبو عرب
+شارع أبي العباس القيسي
+شارع أحمد التميمي
+شارع الثريا
+شارع الناعمة
+شارع جبل الزيتون
+شارع مرة الطيب
+شارع وادي الكردي
+شارع وادي نعام
+Abi Zama
+Masoud Al Harthi
+Al Zohour
+Al Salila
+Al Gharara Valley
+Al Lijam Valley
+Al Raha Mountain
+Al Sogoria Mountain
+Al Thanna Mountain
+Al Thibani Mountain
+Naam Mountain
+Wadi Wejj
+Al Dom
+Al Ne'Ami
+Alsenaeah
+Sanabil
+Abdulaziz Al Numrawi St.
+Abi Bakr Bin Mahfoud St.
+Al Shrafah St.
+Assam Bin Omar Street
+Salah Al Zaji St.
+Al Azraq Valley
+Al Frat
+Al Mashad
+Al Thumama Valley
+Al Foonoon
+Al Asad
+Al-Barq
+Al-Jazaan
+Al Akheyar
+Al Baha
+No. 1
+No. 5
+Abdulrahman Al Fadli
+Al Afrah
+Al Jabala
+Al Jabarti
+Al Jabhah
+Al Jabour
+Al Jabra
+Al Jabrah
+Al Jabran
+Al Jamea
+Al Jobeir
+Al Kuwait Gulf
+Al Loz
+Al Martafat
+Lebnon Mountain
+Shoaba
+Tabarjal
+Ras Tannura Street
+63rd Street
+68th Street
+No. 1
+No. 20
+No. 22
+No. 38
+No. 4
+No. 45
+No. 46
+No. 52
+No. 53
+No. 6
+Nabuls
+Al Aadhid
+Al Asilah
+Al Dafra
+Al Daghma
+Al Dahmah
+Al Damlaj
+Al Dar Al Baida
+Algaria
+Al Jafah
+Al Khalef
+Al Khansa
+Al Qodima
+Al Samawa
+Althaithia
+Al Zaloum
+Ar Rayan
+Kanza
+Qoz Al Sherif
+Alsahab
+Abdulkareem Al Rafayee
+Abdullah Al Attar
+Abi Al Hasan Al Waji Street
+Abi Taher Ibn Al Salam
+Ali Al Mawazini
+Al Mohal
+Al Safeh
+Al Soweira
+Hajar Al Tor
+Ibn Qotaiba
+Khadra
+Al Adib Ahmad
+Al Ahwaz
+Ibn Shakir
+شارع البرج
+شارع الوسيطي
+شارع مسامح
+Ahmed Bin Ibrahim Al Ghazawi Street
+Halab Street
+Ibrahim Ala Nafisi Street
+Obhor Street
+Abdullah Bin Nafe'a
+Abi Al Nada
+Abi Umamah All Ansari St.
+Al Amariyah
+Al Barudi
+Binban St.
+Hota Sedair St.
+Ibn Abi Al Sarh St.
+Ibn Al Qaim St.
+Ibn Zaid St.
+Taher Al Noweri Path
+2
+4
+As Sa Adah
+Zarqa Al Yamamah
+الازاهرة
+البلسم
+الحسناء
+الذهلي
+الفراوي
+المأموني
+النخيلة
+شارع الدلم
+صدقة الحراني
+عبد الله بن عمير
+قيس بن مسعود
+27th Street
+Al Bier
+Al Mughirah Bin Ayesh Path
+An Nawr
+Ar Rabi Ibn Anas
+Atikah Bint Zaid St.
+Binban St.
+Hauta Bin Tamim Street
+Ibrahim Ibn Jabir
+Luluwa St.
+Muhammad Ibn Abi Safrah
+Shiekh Mubarak Al Subah St.
+Abu Bukker Al Korkhy Street
+Ibn Mossa Street
+Al Qadesiya
+Al Qana
+Al Qasr Valley
+Waalan
+Ahmad Ibn Roshd
+'Al Shahba
+Al Mia'Bdah
+Al Nafisan
+No. 166
+Rnia
+Sultana
+شارع الحارث بن عمرو
+شارع الخبة
+شارع راجح بن مزروع
+No. 240
+No. 253
+No. 269
+No. 298
+No. 282
+No. 241
+Al Shaikh Ibrahim Ibin Mohammed Aal Al Shaikh Street
+3
+شارع الشارقة
+شارع الوتر
+شارع النعائم
+No. 140
+شارع الزيماء
+Al Jefeir
+Al Mia'Bdah
+Al Ghamar Valley
+Halab Valley
+Khaybar Valley
+Omul Qura
+Al Khadar Valley
+Ali Al Khazen
+Zurara Bin Ahmad
+Amar Bin Kulsom
+Gasan Al Selaity
+Awn Al Kozahy
+Abdulaziz Bin Omar Al Sailum
+Ahmed Bin Al Hussain Al Marwazi
+Al Frah
+Al Fadhael
+Al Faydhiya
+Al Fay
+شارع بسرة
+Ein Al Ramma
+Mohammed Al Shafel
+Al Taher
+Al Saaedi
+Soliman Bin Aqil
+Owf Al Aimi
+Omar Al Hajeb
+Abbas Gatan
+Al Fao Mountain
+Shamam Mountain
+Al Naaem
+Al Naqeel
+Al Nisa'l
+Al Nosour
+Al Nebea
+Al Lathma
+Al Nafl
+No. 279
+No. 255
+No. 338
+No. 336
+No. 307
+No. 348
+Al Fao Mountain
+No. 58
+No. 332
+No. 328
+No. 334
+No. 6
+No. 164
+No. 57
+No. 81
+No. 379
+No. 383
+No. 140
+No. 367
+Ibrahim Al Khazraji St.
+Al Wakil St.
+No. 1
+Al Mashadi Street
+No. 132
+No. 3
+No. 196
+No. 214
+No. 148
+Issa Al Thaqafi Street
+Salim Bin Thabet
+Abdulrahman Bin Kherayef
+Al Jazirah Mountain
+10
+9
+Al Baqar Valley
+Al Jenah Valley
+Al Doma Street
+شارع ظاهر المقدسي
+شارع أبي نزار الجمال
+شارع جبل اللهيب
+Sad Bin Subya Path
+شارع الدمشقي
+شارع أويس الزاهد
+شارع علي بن وهب
+Al Majd
+Zahaban
+Talal Abdulrahman Mohammed Al Maneh
+Ahmed Rageh Alasafy
+Al Tirmizi
+Ibn Kaseer
+Al Abdelwahed
+Al Fesam
+Alshalan
+Al Zafairy
+Ibn Khozeimah
+Aal Dawad
+شارع التين
+شارع الراجحي
+شارع ابن حركان
+شارع ظفر الطرقي
+King Faisal
+Mohammes Bin Rees
+Abdulmunim Al Waeth
+Mubarak Al Sanikh
+Abdullah Al Haqbani
+Muath Al Ansari
+Al Nafi
+No. 186
+No. 272
+No. 319
+No. 178
+No. 285
+No. 184
+No. 176
+No. 249
+No. 175
+No. 280
+No. 295
+شارع الامام البخاري
+Al Rabi'e Ansari street
+Jublh Ibn Thur Street
+No. 227
+No. 262
+No. 197
+No. 207
+No. 25
+King Faisal Road
+King Abdulaziz
+Maddinah Street
+Bakeer Al Ashaj
+Abu Al Qasim Al Tabranee
+Ahmed Abn Alkashab
+Abu Abdullah Al Mahale
+Abi Yahia Al Saqafee
+Abdullah Bin Nameer
+Dahood Al Aattar
+Aobaid ullah Bin Yazeed
+Abu Jatar Al Musalee
+Rabah Bin Abi Maroof
+Western Ring Rd
+Armarat Arqa
+Al A'Ghwat
+Akeela
+Hassan Maliki
+Al Abbas Bin Abdullah
+Ali Alrayee Al Damascue
+Abu Muhammad Al Kabree
+Jadida
+Jarash
+Jalwa
+Jalajel
+Jiba
+Baqaiq
+Issaq Ibn Yehya
+Western Ring Rd
+Al Rabeya
+Jeddah Road
+Al Amir Fawaz Ibn Abdulaziz
+شارع الأمير فواز بن عبدالعزير
+Al-Fajar
+Al Mahala Al Jadida
+Abi Abdullah Al Andalusi
+Al-Mouraq Bin Basher
+Al Raed
+Al Mashash
+Al Issami
+Tarfa Mountain
+Al Jalil Valley
+Sinjar Mountain
+Ibn Meshref Al Tamimi
+Al Hamama Valley
+Al Karmal Mountain
+Sulthan Al Homoud
+Ibn Raja
+Oibrahim Ibn Obeida
+Thaqeef
+Asir
+An Namas
+Al Ne'Ami
+No. 261
+No. 344
+No. 95
+Asir
+Al Namas
+No. 45
+No. 43
+Riyadh - Makkah
+Al Dokhan Mountain
+Boweib Mountain
+Boweib Mountain
+No. 33
+No. 35
+No. 37
+No. 39
+No. 41
+Namorah St.
+7th Square
+Olaya Road
+King Fahd road
+No. 193
+Abi Bakr As Siddiq
+Othman Bin Affan Road
+Al Ajila
+Amr Bin Mohsin
+Al Sarqasti
+'Al Dahna
+'Al Sharae
+No. 38
+Al Narjas
+Al Abbas Bin Zaid
+Al-Frousia
+Al Zonboq
+Al-Budoor
+Al Jarira Valley
+Al Jalil Valley
+Al Jund
+شارع سالم بن معقل
+Ghadir Mohammed Abdullah Al Uatfi Al Qhtani
+الطريق الدائري الشمالي
+Al Halat
+Al Qartalbi
+Al Shaikh Salah Bin Ghswan
+Al Shaikh Abdulrahman Ibn Hassan
+Ibn Majah
+Al Behqi
+Abdelatif Alboughdady
+Thabet Bin Qais
+Al Hafez Almonzari
+Saeed Al Mutaee Street
+Al Salmiah Street
+Zahra Al Sahra
+Prince Turki Ibn Abdulaziz-Senior Road
+Abdelaziz Bin Saad Bin Madoag
+Hail
+Al Khafji
+Hafer Albaten
+Islamabad
+Tabuk
+Gezan
+Oneiza
+Mohamed Bin Abdelrahman Bin Mosinad
+Alsheikh Abdelrahman Bin Mobarak
+Ad Dawa Dami
+Prince Abdelrahman Bin Nasser
+Ibrahem Bin Abdullah Altaweel
+Sekaka
+Al Baha
+Koalalampour
+Mosad Bin Nasser Bin Salem
+AlHasa Road
+East Perimeter Road
+ESD Connector Road
+Golf Course Boulevard
+Holmes Avenue
+Ibis Avenue
+King's Road
+Miller Avenue
+Oasis Avenue
+Peninsula Boulevard
+Riyadh Boulevard
+Rolling Hills Boulevard
+16th Street
+خط نجران شرورة
+00-40-01
+00-60-01
+10th Street
+11th
+130
+18th Street
+20th Street
+28th Street
+Abdullah bin Al-Abbas Street
+Abu Baker Al Siddiq Street
+Abu Hasan Bin Al Jawzi street
+adahran
+Ain Najm Street
+Al Batha-Riyadh Highway
+Ali Ibn Abi Taleb Street
+Al-Imam Al-Shawkani Street
+Al Imam Al Termathei St.
+Al Kaurnish Road
+Al-Kharj Street
+Al-Quds Street
+Ammar Ibn Yassir
+Anas bin Malik Street
+Aws Ibn Sa'idah
+Bin Al-Haithan Street
+Core Area Perimeter Road
+Dallah Road
+Desert road
+Desertsand road
+Dhahran Jubail ExpWay
+Eastern Avenue
+Feras Al-Nadher Street
+Halima Al-Sadiyah Street
+Highway 121
+Highway 218
+Hofuf road
+Hofuf Road
+Ibn Al-Ameed Street
+Ibn Batota Street
+Ibn Jubair Street
+Ibn Sina St
+jeddah Street
+Khaled ibn Alwaleed Street
+King Abdul Aziz Street
+King Abdullah bin Abdulaziz Street
+King Fahad Ibn Abdul Aziz Road
+King Fahd bin Abdelaziz Road
+King Fahd bin Abdelaziz Street
+King Fahd Causeway
+King Faisal bin Abdulaziz Street
+king Faisal northern street
+King Faisal Northern Street
+King Faisal Rd
+King Faisal Road
+King Faisal street
+King Saud bin Abdulaziz Street
+King Saud road
+King Saud Road
+LIP Connector Road
+LIP Road #1
+LIP Road #2
+Madeena Street
+Makkah Al Mukarramah Road
+Marl Road
+Omar Bin Abdul Aziz Street
+Othman Bin Affan Street
+Palm Drive
+Prince Abdulaziz bin Hzlol Street
+Prince Faisal bin Fahed Road
+Prince Humud Street
+Prince Naif Road
+Prince Nayef bin Abdulaziz Street
+Prince Salman Ibn Abdul Aziz Road
+ٌRiyadh Street
+Road 143
+Road 162
+Road 163
+Road 183
+Road 195
+Road 204
+Road 218
+Road 230
+Road 241
+Road 251
+Road 263
+Road 272
+Saad Ibn Abi Waqqas St.
+Salahuddin Al-Ayoubi Street
+Surf Avenue
+Tariq Bin Ziad Street
+Umar Ibn Abdul Aziz Street
+University Street
+West Park Road
+ابو بكر الصديق
+الفاخرية
+شارع أحد
+شارع الأمير طلال بن عبدالعزيز
+شارع ربيعة بن خويلد
+طريق أبو بكر الصديق
+طريق الأمير سعود بن جلوي
+طريق الأمير محمد بن عبدالعزيز
+طريق الصمان
+طريق العابة
+طريق القاعدة
+طريق الملك عبدالعزيز
+طريق الملك عبدالله
+طريق سلطان بن عبدالعزيز
+طريق مشعل بن عبدالعزيز
+طريق مطار ارامكو
+طريق مطار الملك فهد الدولي
+طريق مقرن بن عبدالعزيز
+Arar-Karbala (Iraq) road
+Dalma Road
+Prince Sultan bin Abdulaziz Street
+طريق الملك فهد
+65 طريق القصيم حائل القديم
+5043
+509
+Abdul Azziz road
+Abdullah Al Mouyas
+Abdullah Al Qaraawee St.
+Abdullah Al Tamami Street
+Abdullah Bin Abi Habeeb
+Abdullah Bin Al Aass Street
+Abdullah Bin Al Abbas St
+Abdullah Bin Rasheed Street
+Abdullah Bin Umair
+Abdullah Bin Umair Street
+Abdulrahman Ad Dakhel
+Abdul Rahman al Ghafiqi Street
+Abdulrahman Al Naser St.
+Abdul Rahman Bin Homod Al Somet Street
+Abdulrahman Bin Ibrahim
+Abi Al Darda'a St.
+Abi Al-Khasin Al-Ansari
+Abi Al Ma'Alai Al Maidani
+Abi Bakr As Siddiq Rd
+Abi Ghafar Al Mansoor Street
+Abi Muhammed Al-Muqaddasi
+Abi Obaidah BinAl Jarah Road
+Abi Saeed Al Khidri Street
+Abu Bakr
+Abu Bakr asSiddiq
+Abu Waqad Al leesi
+Ad Diwan Road
+Ahmad Bin Al-Khattab
+Ahmad Bin Shabana Street
+Al Aala Alatar
+Al'Adal Street
+Al Ameer S'oud Ibn Abudallah Ibn Jelewi Road
+Al Amir Mashal Ibn Abdul Aziz
+Al Aqrbiyah
+Al Arjoun
+Al Ataa Street
+Al Athar
+Al-'Aziziyah Road
+Al-Bahar
+Al Bahar Al Ahmar Street
+Al Basatain;Al basatain
+Al Fairouz Street
+Al Fawanis
+Alfazaree
+Al Ghat
+Al Hadaar Valley
+Al Hafouf
+Al Hair Road
+AL Hair Road
+Al Hakam bin Marra
+Al Hakam bin Umair
+Al Haris Bin tabih Alraeini Street
+Al Hasan Al Qurashi
+Al Hasan Bin Ali St.
+Al Haweya
+Al Hifna
+Al-Hussain Al Hashmi
+Ali Al Baghdadi
+Ali Bin Al Naqeeb
+Al Imam Abdul Aziz Bin Muhammed Bin S'aud Street
+Al-Imam Abdur Rahaman Bin Faisal
+Al-Imam Al Bukharl
+Al-Immam Al-Shafi‘i Street
+Al Iqlas Road
+Ali Zahabi
+Al Janadiriyah Road
+Al Jandul
+Al Kahf Street
+Al Kawthar Street
+Al Ketab St.
+Al Khal Mountain
+Al Kharj
+All'letidal Street
+Al Lo'Lo'A Street
+Al Maya Valley
+Al Montaser
+Al Naaem
+Al Najah Street
+Al Nasser
+Al Noaman Ibn Bashir
+Al Oad
+Al Olaya
+Al Omari St.
+Al Omra
+Al Ossa Mountain
+Al Oweinat Mountain
+Al Qalib
+Al Qasr Street
+Al Rabeah Aljarmi
+Al Rafiah
+Al Rakb
+Al Remal
+Al Rwaya
+Al Salama
+Alsebaq
+Al Seham Street
+Al-Shaikh Hasan Bin Hussain Bin 'Ali Street
+Al Shaikh Jabir Al Ahmed Al Shaba Road
+Al Shaikh Khalifa Bin Hamad Aal li
+Al Shaikh Mohammed Ibn Ibrahim
+Alsheikh Mohamed Bin Abdelrahman Albahly
+Al Skeikh Abdullah Bin Gabreen Street
+Al Sonbol
+Al Taief
+Al Takhassusi Road
+Al Tawhed
+Al Termithi
+Al Thumama
+Al Turfah
+Al Waha
+Al Zahabi
+Al Zaher
+Al Zahrani
+Al Zubair Bin Al Awam St.
+Amr Bin Janawa
+An Naba
+An-Nasar Road
+Arfat
+Assaf bin Hussin bin Mansour Al Assaf
+as sahaba Street
+As Salah
+As Samah Bin Malik
+Ath-Tasnae
+Azeb Mountain
+Bashawr
+Dahia Bin Khalifa
+Dertour
+Desert road
+East
+Eastern Ring Road
+Emam Ahmed Bin Hanbal Street
+Eng. Musa'id Al Angari Street
+Faleh Mahdi Al Mahdi
+Fayrouz Al Abdulaziz
+Hafsah Bint Omar Street
+Hamza Bin Abdulmuttabllib
+Hamza Bin Abdulmuttallib
+Hatim Al Ta'e St.
+Hawareeyah
+Ibn Al Jaziri
+Ibn Al Salam
+Ibn Hasan
+Ibn Huzeefa
+Ibn Majah St.
+Ibn Shaheen St.
+Ibrahim Bin Naem
+Imam Abdullah Ibn Saud Ibn Abdulaziz
+Imam Malik Road
+Imam Muslim Road
+Irqah
+Jeathin Al Yazidi
+Jzr Al Qamar Road
+Khalid Bin Al Ahas Street
+Khalid Bin Al Walid Street
+Khalid Bin Ibida
+Khalid Bin Mahbad
+Khalid Bin Yazid Bin Mu'awiah Street
+Khalifa Al Otabi Street
+Khaybar Street
+Khozain Bin Lhayan
+King Abdulaziz
+King Fahad road
+King Fahd Road
+Laban Valley
+Majzah Bin Thor Al Sadosi
+Makkah Al Mukarramah Branch Rd
+Makkah Al Mukarramah Road
+Malik Bin Al Dakhsham Al Khazragi
+Manea Al Mreidi
+Mohamad Bin Rouaf
+Mohammed Bin Abdulaziz Alagagy Street
+Mohammed Bin 'Awajan
+Mohammed Bin Mahmud Al Hamed
+Mohammed Bin Nasser Al Mubarak
+Mohammed Bin Salm
+Mohammed Bin Salum Street
+Naam Valley
+Nasr Bin Abdulaziz St.
+Nasr Bin Abdulaziz Street
+Njamuddin Al Ayubi
+No. 11
+no.12
+No. 183
+No. 30
+No. 31
+no.44
+No. 59
+No. 81
+Olaya Road
+Old Khurais Road
+Omar Bin Abdullatif
+Othman Bin Affan Road
+Othman Bin Sadqa
+Prince Abdullah Bin Abdelrahman
+Prince Abdullah Ibn Faisal Ibn Farhan Al Saud Street
+Prince Abdulrahman Bin Saud Bin Abdulaziz Road
+Prince Faisal Bin Jalawi St.
+Prince Mansoor Ibn Abdulaziz
+Prince Mishal Bin Abdulaziz Road
+Prince Mohammed Bin Abdulaziz
+Prince Mutaib Bin Abdallah Bin Abdul Aziz Street
+Prince Salman Bin Abdulaziz Road
+Prince Satam Bin Abdul Aziz Road
+Prince Saud Al Kabeer Ibn Abdulaziz Al Saud Street
+Prince Saud lbn Muhammad lbn Muqrin Road
+Prince Sultan Bin Abdul Aziz Street
+Pr. Met'eb Bin Abdulaziz St.
+Qasim Road
+Qassim road
+Rahban
+Rihanna Bin Zaid Street
+Riyadh - Al Qara'in
+Riyadh - Makkah
+Rodhat Daami
+Saad Bin Mutah
+Saad Bin Obadah St.
+Sadir
+Saeed Bin Al Harith Al Sahmi
+Salah Al Deen Al Aubi Street
+Salbouk Road
+Salih Bin Mohammed Street
+service road
+Shebh Al Jazeerah St.
+Shiba Bin Othman
+Soliman Al Adwani
+Suliman Bin Abdulmalek Bin Marvan
+Tanaten Valley
+Tareq Bin Zaid Road
+Thabet Ibn Al Noaman Street
+thowair
+Turki Bin Abdelaziz (The First)
+Unaiza St.
+Waseel Road
+Yahla Bin Shabeb
+Yaqoob Bin Safyan
+Yazeed Bin Mohammed
+Yazid Alyamami
+Yehya Al Qurashi
+Younis Bin Al Haris Al taifi
+Yousaf Bin amr Al taife
+Zaid Bin Khattab
+Zamel Bon Sultan Al Khateeb
+المليسان
+شارع
+شارع الأفلاج
+شارع الأمير عبدالعزيز بن ثنيان
+شارع الشيخ محمد بن عبد اللطيف بن عبد الرحمن
+شارع عبدالله غازي
+شارع يدمة
+طريق الخرج
+طريق الملك فيصل
+طريق الهدار
+طريق ترابي
+الرياض
+طريق الملك خالد
+طريق الحضن السويدي
+طريق الفرعة
+419
+Alfahd St
+al naomanyah road
+al osheal
+Aloshziah St
+King Abdulaziz Road
+King Abdulaziz St
+King Abdulaziz Street
+King Abdullah St
+King Abulaziz Road
+King Khalid Road
+King Saud Road
+Maddinah Street
+Qasim Road
+Sinaaiah St
+Zulfi St
+الدائري الداخلي الجنوبي
+الدائري الداخلي الشرقي
+الدائري الداخلي الغربي
+الشارع الأخضر
+الطريق الدائري
+الغماس
+شارع
+شارع الثمانين
+شارع الضاحي الغربي
+شارع العدل
+شارع القناة
+شارع الوحدة
+صلاح الدين الايوبي
+طريق أبو بكر الصديق
+طريق الأسياح -خصيبة
+طريق الأمام محمد بن سعود
+طريق الأمير سلطان بن عبد العزيز
+طريق الأمير عبد الأله
+طريق البطين
+طريق الجامعة
+طريق الربيعية - الأسياح
+طريق الشماسية
+طريق الطرفية
+طريق العليا
+طريق العمودة الشمالية
+طريق القصيم حائل السرسع
+طريق المطار
+طريق الملك خالد
+طريق الملك عبدالله
+طريق الملك عبد الله
+طريق النقع
+طريق النهضة
+طريق النهضة Nahdah Road
+طريق النومانية
+طريق الهدية
+طريق بدون اسم
+طريق خصيبة - أبا الورود
+طريق خضيراء
+طريق عبدالرحمن العواد
+طريق عمر بن عبد العزيز
+طريق كحلة - مشاش جرود
+عنيزة المطار
+Al Azizia Street
+Almesfah Street
+Almusfah
+Alshati Street
+Jeddah Street
+Khaled Ibn Al Waleed Street
+King Abdullah
+King Abdullah Street
+King Fahd Road
+King Faisal
+King Faisal Street
+King Khaled Street
+Madina Qasim Expressway
+Omar Ibn Abdelaziz Road
+Omar Ibn Elkhattab Street
+Petroline Street
+Prince Sultan Bin Abdulazis Street
+Umlujj - Jeddah Highway
+Umlujj Road
+Yanbu Diversion Road
+Airport St
+Al Murjan
+alSalaf Road
+Cornish
+Dar Annasr St
+King Abdulaziz Rd
+King Abdulaziz St
+King Abdullah Road
+King Fahd Rd.
+King Faisal Street
+King Khalid St
+Oman St
+Prince Mohammed bin Nasser Rd
+طرق جبل حبس دفاء
+طريق الجوة جبل فيفا
+طريق الحشر وادي الحياه عسير
+طريق الحشر وادي عمودعسير
+طريق الريث وادي عمود
+طريق العام الداير بني مالك
+طريق المحنية صدر جورا
+طريق المضايا - الجروب- الدغارير
+طريقالمضايا - الجروب- صامطة
+طريق الملك عبدالعزيز
+طريق جبل طلان
+طريق عيبان نيد الضالع فيفاء
+طريق غرب فيفاء
+طريق هروب
+طريق الملك عبد العزيز
+Abdulla al faisal st. شارع عبدالله الفيصل
+Abdullah al Sharbatli st. شارع عبد الله الشربتلي
+Abdullah Arif Street
+Abdullah Ibn al-Abbas Street
+Abdul Majeed Road طريق عبد المجيد
+Ajyad Street
+Al Ajwad st. شارع الاجواد
+Al Amir Meteb street شارع الامير متعب
+Al Andalus Street
+al Corniche Road
+Al Farsi
+Al-Hajj Road
+Ali Al-Murtada St.
+Ali Murtada st. شارع علي مرتضى
+Al jameah شارع الجامعة
+Al Kayyal Street
+Al Maadi
+Al Masjed Al Haram Street
+Al Muhandis Umar Qadi
+Al Nahdah Alhadeethah
+Al Nahda st. شارع النهضة
+Al Nuzha Street
+Al salam st. شارع السلام
+Al Souq Al Saghreer Tunnel
+Al Tadamun Al Arabi st. شارع التضامن العربي
+Al Yamamah
+Amana st. شارع الامانة
+Arafat Ring Road
+Baladya st. شارع البلدية
+Bani Malik Street شارع بني مالك
+Bayt Al Hikma Boulevard
+Corniche Road
+Dallah st. شارع دلة
+Faisaliyah tunnel
+Falasteen Street
+Falasteen Street شارع فلسطين
+Hadiqat Rami
+Hail Street
+Hail st. شارع حائل
+Hera'a Street
+Hidaya Street
+Hussein Arab Street
+Ibrahim Al Khalil Road
+Jabal Al Kaabah Street
+Jisr al Malik Abd al Aziz
+Khalid bin Al Walid St.
+King Abdul Aziz 25
+King Abdul-Aziz 25
+King-Abdul-Aziz-Road 38
+King Abdulaziz Street
+King Faisal Bridge 35
+King Faisal Road
+King Khalid Bridge 15
+King Khalid Tunnel
+Kudai Ajyad Tunnel
+Madina Road
+Main Street
+Makarunah st. شارع المكرونة
+Medina Road
+Medina Road طريق المدينة
+Mohammad nasif st. شارع محمد نصيف
+Mozdalifah
+Muawya al sulami st. شارع معاوية السلمي
+M-UC
+M-UK
+M-UN
+Muzdalifah Road
+North Kurnaysh Road
+Obhur Road
+Prince Ahmed bin Abdulaziz
+Prince Majid Ibn Abdulaziz
+Prince Mansour Bin Abdulaziz Street
+Prince Naif Road
+Prince Naif Streetشارع الأمير نايف
+Prince Sultan Street
+Quasr Ad Diyafa Street
+Reconciliation Avenue
+Saqr Quraish
+Sari Street
+She'ab Amer St
+Sheikh Abdullah Khayat
+Shujaa Ibn Wahb
+South Corniche
+Sultan Bin Abdulaziz
+Sultan bin Salman st. شارع سلطان بن سلمان
+Tahlia Street
+Taif Road Al Hada
+Third Ring Road
+Udaba Street
+Um Al Qura st. شارع ام القرى
+Unity Boulevard
+الاستاد الرياضي
+البشير
+الشارع العام
+الشاكرين
+المحجر
+النعيم
+زيد بن عمرو
+شارع احمد العطاس Ahmad Al Attas st.
+شارع اسامة بن زيد
+شارع الاسكان
+شارع الامير ماجد
+شارع الأمير نايف Prince Naif st.
+شارع البترجي
+شارع البحر الاحمر
+شارع التوبة Al Tawba st.
+شارع الزهد
+شارع العزيزية الجنوبي
+شارع الملك خالد
+شارع الملك فهد King Fahed road
+شارع الملك فيصل
+شارع النزهة Al Nuzha Street
+شارع حراء
+شارع ذي النورين
+شارع صاري
+شارع عبد الرحمن السديري
+شارع عكرمة بن ابي جهل
+شارع فلسطين
+شارع فيصل بن فهد Faisal Bin Fahed st.
+شارع محمد فدا
+شارع ولي العهد
+صعبر
+طريق ابراهيم الخليل
+طريق الامير سلطان بن عبدالعزيز
+طريق الجعرانة
+طريق الشعيبة ـ القطان
+طريق الكورنيش الشمالي
+طريق الليث ـ مكة
+طريق المدينة
+طريق المدينة Al Madina road
+طريق الملك عبدالله
+طريق الملك عبدالله بن عبدالعزيز
+طريق مكة القديم
+عبد العزيز بن ابراهيم
+نمره-محايل عسير-جيزان
+وصله صعبر
+392
+شارع ابوبكر الصديق
+شارع الامير عبدالمجيد
+شارع الامير فهد بن سلطان
+شارع الملك عبدالله
+شارع الملك فهد
+طريق الدقم
+طريق المدينه المنوره
+طريق الملك خالد
+طريق الملك سعود
+طريق الملك عبد العزيز
+طريق الملك عبد الله
+طريق الملك فهد
+طريق الملك فيصل
+Imam Saud Ibn Faisal Road
+Mohammed Bin Abdulaziz Al Dhghaithir Street
+Olaya Road
+Olaya Street
+Prince Nasar Bin Saud Bin Farhan Aal Saud
+Prince Salman Bin Mohammed Bin S'Aud Street
+شارع الأمير عبدالله بن سعود بن صنيتان آل سعود
+Al Qalm Street
+Al Qashasheya
+Al Qurayat Street
+Az Raqa Valley Street
+Al Qalah
+Al Qalm Street
+Al-Yatani
+Obai Ibin Mo'aad Al Ansari Street
+Prince Saud lbn Muhammad lbn Muqrin Road
+Thumamah Road
+Mohammed Al-Maqdami Street
+Al Fajar Street
+Al Qurayat Street
+Anas Ibin Malek Street
+Dhalam Street
+No. 175
+No. 177
+No. 21
+No. 374
+Turaif Street
+Abdulaziz Al Twegri Street
+Al Fajar Street
+Al Far'ah Street
+Al Khayalah Street
+Al Kifah Street
+Al Qadesiya Street
+Al Qalah
+Al Qana Street
+Al Rihab Street
+Anas Bin Malek Street
+No. 294
+Prince Abdulaziz Bin Ayaaf Street
+Prince Nasar Bin Saud Bin Farhan Aal Saud
+Thumamah Road
+شارع الأمير عبدالله بن سعود بن صنيتان آل سعود
+Al Shaek Abdullah Al Makhdub
+Wadi Al Tarj
+Abdullah Bin Markhan
+Al-Qalm
+Al Saban
+Al Shawka Valley
+Bait Ul´Ateeq
+Damnahour
+Fazera
+Hlab
+Prince Saud lbn Muhammad lbn Muqrin Road
+Raba
+Radwa
+Raya
+Saeed Bin Zaid Street
+Sayda
+Shadeeq
+Taiba
+Abdulrahman Bin Azaz
+Abi Al Hasan Bin Al Anther
+Abi Ghafar Al Mansoor Street
+Ali Mountain
+Al Sadra
+Al Shaalaniya
+Balabak Road
+Ibn Khaizma Al Ansari
+Mahd Street
+No. 1
+Qaysouma Fihan
+Al Imam Saud Ibn Abdulaziz Ibn Mohammad Road
+Al Ladhqiyyah
+Al Mughirah Ibn Shubah Street
+Ibn Sina
+Olaya Road
+Orwa Ibn Alward
+Prince Turki Ibn Abdulaziz Ath Thani Street
+Tameer Road
+شارع ابن عامر
+شارع شهداء بدر
+شارع ضرار بن الخطاب
+شارع فهد بن معمر
+Mohammed Al-Maqdami Street
+Abdullah Al Kharji Street
+Al Maali Street
+Al Wedian
+Aous Ibn Of Street
+As Sulaymaniah Street
+Ath Thaliah Street
+Ibrahim Ibn Noghemeish
+Madinat Zayed
+Mohammed Bin Dakheel Street
+Prince Saud lbn Muhammad lbn Muqrin Road
+Sabratah Street
+Hail
+Dhabiyat Bint Al Barra Street
+Abi Dawoud
+Aka
+Al Ein Valley
+Al Emara Valley
+Ali Ben Nashwan
+Al Kifaah Street
+Al Mahalah
+Al Marabie
+Al-W'Aaz Street
+Ash Shara Valley
+Asia
+As Sman Valley
+Ath Thaliah Street
+Lahor Street
+Mahayeda
+Najran
+Prince Saud lbn Muhammad lbn Muqrin Road
+Saeed Al Mutaee Street
+Safwan Bin Abdullah Street
+Soweid Bin Harsa Street
+Al Abbas Bin Abdul Mutallib
+Al-Hussain Bin Ali
+Al-Makla
+Malham
+Musallma Al An Sari
+Salwi
+Sharee
+Tabuk
+Taraif
+شارع الصياد
+شارع الكوادر
+Abdullah Al Kharji Street
+Abdullah Bin Shouyen Street
+Abha Street
+Abhr Street
+Al Afadelah Street
+Al Afdaly Street
+Alamir Mohamed Ibn Saad Ibn Abdelaziz Road
+Al Anbar
+Al Ashaab
+Al Ashqar
+Al Barjan
+Al Bateha Valley Street
+Al Dakhela Street
+Al Dhana Street
+Al Hamasa Street
+Al Hasir Street
+Al Hasou Street
+Al Hawta Street
+All'letidal Street
+Al Omra Street
+Anas Bin Malek Street
+Imam Saud Ibn Faisal Road
+Mohammed Bin Abdulaziz Al Dhghaithir Street
+No. 73
+No. 77
+No. 79
+No. 80
+No. 81
+No. 83
+No. 85
+No. 89
+Prince Yazid Bin Abdullah Bin Abdulrahman Street
+Wadi Hajar Street
+شارع أرجوان
+شارع الأقطار
+شارع الأماسي
+Abi Al As Ibn Al Rabi Street
+Al Salama Street
+Fahad Al Baheli Street
+Prince Turki Ibn Abdulaziz Ath Thani Street
+Shaikh Ali Al Hamad Al Salehi Street
+شارع الأمير عبدالعزيز بن ثنيان
+شارع الثغر
+شارع الشيخ محمد بن عبدالمحسن الخيال
+شارع جامع ابن طولون
+شارع جبل الأسودة
+شارع جبل الصغير
+شارع جبل حليت
+شارع جلاجل
+شارع جويرية بنت الحارث
+شارع سالم بن معقل
+شارع سعيد بن عامر
+شارع فاس
+Abi Sofian Ibn Harb
+Al Asaker
+Hail
+Prince Moqran Ibn Abdulaziz
+Shaikh Hussein Ibn Hassan
+Turki Bin Ahmad Al Sadairi
+Hesham Ibin Abdul Malek St
+Prince Moqran Ibn Abdulaziz
+Abi Sofian Ibn Harb
+Ad Dawa Dami
+Al Mena
+Al Qadesiya
+Ghazwat Badr
+Mohammed Bin Bashir Ar Ansari
+Prince Moqran Ibn Abdulaziz
+Al-Bareed
+Al-Burah
+Al Maamoura
+Al-Toot
+Al Urubah Road
+Rafha Street
+Turki Bin Ahmad Al Sadairi
+Abdulrahman Bin Hassan Al-Qusaibi
+Rafha Street
+Al Bayan Street
+Al Fanoos Street
+Al Matr Street
+Istanboul
+Talah Bin Obaidullah St.
+Abdullah Bin Khais Street
+Al Ahmadi Port
+Al-Bahar Al Mait
+Al Hassan Bin Ibrahim
+Al Najah Street
+Al Sharaf
+Al Sir
+Al Sqeef
+as sahaba Street
+As-Sahabh Road
+Bahr Al Arab Street
+Ibrahim Al Asadi
+Al Basala Street
+Al Hayat Valley
+Abda Bin amr Al Ansari
+Abi Ghafar Al Mansoor Street
+Al Basala Street
+Al Dawaser Valley
+Al Dho
+Al Emara Valley
+Al Haris Bin Asim
+Al Hayat Valley
+Ali Al Bjdadi
+Al Maya Valley
+Al Ramma Valley
+Al Sahel Valley
+Al Sharaf Valley
+Al Shati Valley
+Al Thumama
+Bihan Valley
+Dammam Road
+Khalid Bin Zaid
+Marj Al Qalaa
+Prince Saud lbn Muhammad lbn Muqrin Road
+Rabiha Bin Al Haris
+Saeed Al Hajeb
+Saeed Bin Nafeel
+Salma Bin Omer
+Yehia Valley
+Zaeid Al Kaeel
+Aby Mousa AlAshari Street
+Bay'at Al Aqaba St.
+Talah Bin Obaidullah St.
+Al Imam Mohammed Ismail Al San'Aani Street
+Al Shaikh Abdulaziz Bin Abdulrahman Bin Besher Street
+Ash Shaikh Sulaiman Bin Abdullah Bin Muhammed Street
+Bahr Al Arab Street
+Hail
+Ibnul-Haitham
+Ibnul Haitham Road
+Khaled Bin Ahamd Al Sadairi Street
+Abdullah Bin Masoud St
+Abdullah Bin Omar Street
+Osama Bin Zayed Street
+Saad Bin Abi Waqqas St.
+Al Basala Street
+Al Shaik Esa Bin Salmam Aal Khalifa Street
+Al Shaikh Khalifa Bin Hamad Aal li
+Prince Bandar Ibn Abdulaziz
+Sultan Qabus Ibn Saeed Street
+Abdullah Bin Ibrahim Bin Saif
+Abdullah Bin Saleem
+Abdulrahman Bin Salim St.
+Abi Al Aswad Al Do'aly Street
+Abi Huraira Street
+Abi Mahjan Al Thaqafi
+Ahmad Bin Shabana
+Al Dawaser Valley
+Al Hafouf
+Ali Mountain
+Al Karama Street
+Al Thuraya
+Ar Rabi Street
+Esmail Bin Kathir
+Faisal Bin Mubarak
+Ibn Khalkan
+Ibn Mujahed
+Jubayr Bin Al Hwayreth Street
+Jzr Al Khaleej
+Mohammed Al Maghidi
+Mohammed Bin Hadi St.
+Mohammed Bin Hindi
+Prince Ahmad Bin Salman Bin Abdul Aziz Street
+Ramallah Street
+Saad Bin Soweid
+Saba'e Street
+Salma Bin Al Akwaa
+Salma Bin Sakar
+Second Ring Road
+Shaikh Ali Ibn Hussein Ibn Mohammed
+Thaniyat Al Wadaa Street
+Zinjibar St.
+Abi Zaid Al Ansari Street
+Al-Hukam Al Mustansar Billah
+Al Jubail Street
+Al Khubar Street
+Ibnul Haitham Road
+Mohammed Bin Ahmed Al Sudairi Street
+Salman Al Farisi Street
+As Samah Bin Malik
+Abdullah Al Khaldi
+Alsafa
+Khalij Adan
+Najran Valley
+Al Badi
+Al Barq
+Al Harith Ibn Abdullah
+Al Marmar
+Al Nadwah
+Al Nahr
+Al Raya
+Alsahab
+Al Turath
+Darulhakim
+Mohammed Bin Al Ahmar
+Refaah Bin Aous
+Abi Obaidah BinAl Jarah Road
+Al Bahira
+Al Khamis
+Al Raba'H
+No. 10
+No. 14
+No. 2
+Second
+Abdulrahmam Bin Esmail
+Ar R'Ad St
+East Ring Road
+South Ring Road
+'Al Baijaa
+Al-Fatha
+Al Rahmah Mountain Road
+Al Shaba'Niah
+Baida Valley
+Dajla
+Darain
+Ghazwa That Araqa
+Ibn Al Ameed St
+Ibn Majah Street
+Khaybar
+Mohammed Bin Al Bashir
+Rakham Valley
+South Ring Road
+Al Nahdha road
+Al Tal St.
+East Ring Road
+Haifa
+Makkah Al Mukarramah Road
+Pr. Bandar Bin Abdulaziz St.
+Pr. Met'eb Bin Abdulaziz St.
+Rabigh
+Al-Abbas Al Ghanwal
+As Samah Bin Malik
+A Street
+E Street
+Ibn-'Amir
+Khafaja Bin Sufian
+Pr. Met'eb Bin Abdulaziz St.
+Abi Obaidah BinAl Jarah Road
+East Ring Road
+Amr Bin Al Jamouth
+Bin Hashil Valley
+Mohammed Bin Makhlad Al Ansari
+Najran
+Fatima Az Zahra Street
+Fatima Az Zahra Street
+Al Abbassia
+Al Fairouz
+e80
+Al Kawthar
+E Street
+شارع البرادي
+Al Lo'Lo'A
+Al Marwah Street
+Al Qasr
+Al Qurayat
+Al Rumh
+Al Rwaya
+Alsafa
+Al Salama
+Al Sorour
+Dajla
+Dertour
+Hera
+Ibn Majah Street
+Istanboul
+Maatib
+Second Ring Road
+Al Farzdaq Street
+Al Ihsa Street
+Jarir Street
+Salah Al Deen Al Aubi Street
+شارع الأمير عبد المحسن بن عبد العزيز
+شارع الظهران
+Al Dakhela
+Al Hajjar
+Ali Bin Haroun
+Al Kharj Road
+Al-Mahad
+Al Malailih
+Al Mena
+Ibn-Hajar
+Koukab
+Marwan Bin Soliman
+Mohammed Al Qadi
+Port Saed Road
+Rodh Al Jawa
+Tima
+Hassan AlShawri St.
+Al-'Aziziah Road
+Al-Basala
+Al-Der'E
+Al Namas Street
+Al Shabab Street
+An-Nasar Road
+Asa'ad Bin Salamah Al Ansary St.
+Ibn-Hajar Al-'Asqhalani
+Nahawand
+South Ring Road
+Abha
+Al Anbari
+Prince Mashare Bin S'Aud Bin Abdul Aziz
+South Ring Road
+Al Alam
+Al Azhar
+Al Ghazala
+Al Jawal
+Al Wadaa
+شارع المصباح
+Al Hair Road
+شارع الظهيرة
+Abdul Aziz Bin Musaed Bin Julowi St.
+King Fahd Road
+King Abdullah Road
+Prince Sultan Ibn Salman Ibn Abdulaziz Street
+Turki Al Awal Ibin Abdelaziz Road
+King Fahd Road
+Sultanah Street
+Al Farabi
+Nawaf Bin Abdulaziz St.
+Salah Bin Mohammad Bin Al Othaimeen Street
+Abi Dawood Street
+Al Amir Naif Bin Abdul Aziz Street
+Al Imam Saud Ibn Abdulaziz Ibn Mohammad Road
+Al Takhassusi Road
+King Abdullah Road
+شارع جويرية بنت الحارث
+King Abdullah Road
+Al Takhassusi Road
+Mousa Bin Nusair Street
+Prince Sultan Bin Abdulaziz St.
+Umm Al Hamam Street
+Abdullah Bin Rawabah St.
+Abi Al Arab
+Abu Bakr Alrazi
+Al Urubah Road
+King Mohammad the 5th St.
+Makkah Al Mukarramah Road
+Pr. Mishari Bin Abdulaziz St.
+Saifuddin St.
+King Khalid Road
+Makkah Al Mukarramah Road
+Al Bayruni
+Al Washam Street
+Prince Fahd Bin Salman Street
+Prince Saad Ibn Abdul Aziz
+Al Zahrani
+Abdul Aziz Bin Musaed Bin Julowi St.
+Al Amir Abdul
+Al Amir Abdul Aziz Ibn Musaid Ibn Jalawi
+Al Amir Mansur Ibn Abdul Aziz
+Al Washm Al Washm Al Washm Al Washm
+Zucaidah Bint ja Far
+الامير منصور بن عبد العزيز
+شارع الامير عبدالله بن جلوي بن تركي
+شارع الوشم
+Abdulaziz Bin Musaed Bin Jalawi
+Al Amir Sultan Ibn Abdul Aziz
+Al Shiek Hammad Al Thani Street
+Khalid Bin Yazid Bin Mu'awiah Street
+King Fahd Road
+Makkah Al Mukarramah Road
+Mousa Bin Nusair Street
+Olaya Road
+Sultan bin Abdulaziz
+Tahliya Street
+Al Tirmizi
+'Al Balqa
+Al Qiyas
+Anas Ibin Malek Street
+طريق الصحابة الفرعي
+الحسن بن حسين بن علي
+alhasan bn hosen bn ali
+Al Shayma
+Al-Farsan
+Al Qodwa
+Al Rasafa
+Al Sahra
+Al Tayash
+Ibn Taymeeyah Road
+Al Oraija
+Royal Terminal Street
+Prince Naif Bin Abdulaziz Road
+Al Amir Naif Ibn Abdulaziz Road
+King Fahd Road
+Al Dho
+Abdullah Bin Hazafa As-Shami Road
+Halal Bin Hanab
+Halil Bin Hanab
+Mohamed Al Barqi
+No. 368
+Amr Bin Umaia Azzamri Road
+Amu Ibn Omayah Al Dhamri Street
+no.136
+no.218
+no,311
+no.34
+no. 21
+no.103
+no.100
+No. 380
+no.1
+no.123
+Al Fadhael
+no.599
+No. 374
+No. 322
+No. 463
+No. 422
+No. 416
+No. 306
+No. 353
+No. 341
+Al Qassim Al Juhari Street
+E Street
+Haneefa Valley
+Prince Mishal Bin Abdulaziz Road
+Al-Khaleefa Al Mamoun
+Al l'Ietidal
+Arfat
+Imam Malik Road
+Imam Muslim Road
+Um'Amara
+Um'Ara
+Yanbu
+Al Termithi
+Ash Shaikh Muhammed Ibn Abdul Lateef Bin Abdur Rahman
+Dirab Road
+South Ring Road
+طريق كرنيش الرياض
+Al Zahabi
+Bilal Bin Rabah
+Khadija Bint Kholoud
+Abdullah Bin Al Zubyar
+Al Meqdad Ibn Amr
+Al-Q'Aqa'A Bin Umroo
+Ibn Al-Makhfa
+Ibn Hazan
+Maria Al Khabtia
+Shaib Bin Sinan
+South Ring Road
+Western Ring Road
+Al-Fajar
+Ash Shaikh Abdur Rahaman Bin Faryan
+Ash Shaikh Bin Abdul Aziz Bin Abdur Rahaman
+Ash Shaikh Muhammed Ibn Abdul Lateef Bin Abdrur Rahman
+Hamad Ibn Ibrahim Aal Dawood
+Hamza Bin Abdulmuttallib
+Shaikh Isaq Ibn Abdul Rahman Ibn Hassan
+Western Ring Road
+Prince Ahmed Bin Abdulaziz
+Al Ajdad Mountain
+Al Aram Mountain
+Al Ashar Mountain
+Al Aswad Mountain
+Al Athariat Mountain
+Al Hafouf
+Al Hassi Mountain
+Al Hawateb Mountain
+Al Jamil
+Al Janadriyah
+Al Jawabera
+Al Jawz
+Al Jazirah Mountain
+Al Jira
+Al Joud
+Al Jund
+Al Maamoura
+Al Madaya
+Al Mahad
+Al Majd
+Al Mandaq
+Al-Mansouriyah
+Al Markab
+Al Mashraq
+Al Nadwah
+Al Nashra
+Al Nasseriya
+Al Neairia
+Al Nibras
+Al Qoz
+Al Shafa
+Al Taief
+Al Thibiani Mountain
+Al-Wafaq
+Al Watan
+An Bal
+An-Nasar Road
+Ashaqer Mountain
+Baqaiq
+Buraida
+Dhoroma
+Diba
+Enaba
+Fas
+Hagel
+Hail
+Halban
+Hlab
+Jarir
+Karachi
+Khaybar
+Khazam
+Koalalampour
+Lahor
+Marat
+Masafi
+Mirad
+Nabuls
+Nahawand
+Najran
+No. 208
+No. 293
+Oneiza
+Qandaher
+Al-Azahari Square
+Qartajena
+Qiba
+Rabigh
+no.80
+No. 362
+No. 318
+No. 171
+No. 376
+No. 117
+No. 306
+No. 143
+No. 81
+Mohammed Bin Salamah Al Karkhi Street
+Al Fadhil Ibn Abdullah Street
+Ashoor Street
+Sadir
+Salam
+Samta
+Sayda
+Sekaka
+Shagra
+Tabuk
+Taiba
+Thaqeef
+Waala
+Watar
+Yanbu
+Abi Jahfar Al Tahawi
+Fourth Ring Road
+Ibrahim al Juaffali Street
+Taif Road Al Hada
+شارع الشيخ محمد
+Alfadl Ibn Alabbas
+Dhat An Nitaqain Street
+Fourth Ring Road
+Ad Diwan
+Ak-Khbar
+Al-Khansa
+Al Raed
+Al Kisa'l
+Badiuzaman Al Hamdhani
+Lobeid Bin Rabiea
+Mohammed Bin Fahad
+Shaikh Isaq Ibn Abdul Rahman Ibn Hassan
+Ash Shaikh Abdul Aziz Bin Muhammed Bin Ali
+شارع معاوية بن أبي سفيان
+Al Suwaidy Al-Am St
+Al Suwaidy tunnel
+شارع عبد الرحمن بن خير
+شارع عبد الملك بن هشام
+الامير ماجد - السبعين
+طريق الفوارة - سميراء - حائل
+شارع الاندلس
+شارع الامام ابن تيمية
+طريق العمودة الجنوبية
+طريق الفوارة - سميراء - حائل
+al nemryah - al mahalany road
+الشارع العام
+طريق الخرشاء - المطيوي الشمالي
+طريق الثابتية
+طريق الأرطاوي الشمالي - الفيضة
+طريق كحلة - الفيضة
+طريق الأرطاوي الشمالي
+طريق المطيوي الشمالي - العظيم
+طريق
+طريق الركية
+طريق الملك عبد الله
+شارع المشاغل
+طريق جبارة
+شارع غرب البشر
+شارع حي البشر
+طريق الملك خالد
+طريق اللسيب
+طريق قصيعة
+عنيزة المطار
+التشاليح
+طريق الشماس القديم
+طريق مزارع الراجحي
+شارع الصباخ
+شارع التعليم
+طريق خب القبر
+طريق الغدير
+2nd Ring Road
+Abdullah Ibn Jubair Street
+Abdul Muhsin Ibn Abdulaziz
+King Abulaziz Road
+طريق الملك عبد العزيز
+البريكة
+شارع المستودعات
+طريق حويلان
+الجوزات
+No. 233
+No. 320
+Abdul Rehman Bin Ouf
+Abi Zar Al Ghafari Road
+Abu Ayoub Al Ansari Street
+Al-Ameer Mohsin (Qurban Stret)
+Al Amir Abdul Majid Road
+Al Amir Mohammed Bin Abdul Aziz Street
+Ali Ibn Abi Talib Road
+Al Madinah Madh Ath Tahab Road
+Al Salam Road
+Al-Seeh Street
+Amir Abdul Majeed Ibn Abdul Aziz Road
+Bachir Bin Abi Zaid
+Hajj Pavillion Road
+Hassan Ibn Thabit Street
+Road for Construction
+King Abdul Aziz Road
+Al Iqtesad
+King Fahad Street
+No. 486
+No. 462
+No. 501
+King Salman Road
+No. 476
+Manakah Tunnel
+No. 525
+Othman Bin Affan (Al-Ayoon.)
+No. 439
+Othman Ibn Affan Road
+No. 490
+No. 512
+No. 443
+No. 453
+Halban Street
+No. 513
+Prince Abdul Majeed Ibn Abdul Aziz Road
+Prince Naif Bin Abdul Aziz Road
+No. 516
+No. 263
+Prince Sultan Bin Abdulaziz
+Saad Bin Khaytama
+Salahedin Al Ayubi Road
+Sekkah Al Hadeed Street
+Sultana
+Syed Al-Shuda Road
+Tabuk Road
+Umm Mani Asma Bin Amr Road
+القعقاع بن عمرو
+Sultanah Road West
+Al Numan Bin Malik Street
+Al Amedah Street
+Al Muhajir Bin Abi Umayyah Street
+Ali Bin Abi Talib (Awali Nazil)
+Ali Bin Abi Talib (Awali Talih)
+Asma Bint E Zayed Street
+طريق ابا الورود - ضيدة
+No. 285
+No. 258
+No. 265
+No. 332
+No. 316
+No. 310
+No. 314
+No. 357
+No. 232
+No. 379
+No. 360
+No. 377
+No. 334
+No. 365
+No. 324
+No. 318
+No. 280
+No. 231
+5044
+Riyadh - Shaqra
+Riyadh - Shaqra
+شارع السوق
+طريق دريميحة ز المصك
+gatan road
+Brgaa
+al bakrah road
+al tawal - al wasg road
+al fawarah - al naomanyah - gatan track
+طريق الفوارة - سميراء - حائل
+الشارع العام
+Maddinah Street
+ردمية الطوقي
+طريق المستوصف
+Track to Heyaz Railroad
+Mabrak Mountain
+Dam River
+Nahr Morra
+Umm Al Rabie River
+Nahar An Nali
+Al Mahdi
+Al Noufoud
+Mohammed Al Akhal
+Omar Bin Abi Bakr
+Abdulrahman Abdullatif Abdulrahman St.
+Abdulrahman Ishaq Abdulrahman St.
+Al Bayar St.
+Kuala Lumpur St.
+Mansur Bin Faraj St.
+Al Zaeakah St.
+Buraidah St.
+Pr. Abdulmajeed Bin Abdulaziz St.
+Prince Majed Bin Abdulaziz St.
+Sheikh Abdullah Babteen St.
+Unaiza St.
+Al Amir Ahmed Bin Abdul Aziz St.
+Al Amir Naif Bin Abdul Aziz Street
+Al Mughirah Ibn Shubah Street
+Hesham Ibin Abdul Malek St
+Prince Sultan Ibn Salman Ibn Abdulaziz
+Riyadh - Al Qara'in
+الصفوة
+العابد
+المؤلفين
+Zayd Bn Amro
+Bani Malik Street
+Sahafah Street
+Alfihaa
+Alfaihaa
+شارع الملقا
+Al Jalamid
+Al Sobh
+Al Sonobar
+Hadhabat Al Zhaba
+Al Zomorod
+Ad Diwan
+Zyad Bin Ismael
+Al Rihab
+Al Omra
+Ali Bin Hassan
+Abi Sherif Al Thaqafi
+Salih Bin Musa
+Al Hayathem
+Al Zohour
+Al Kawthar
+Al Maroor Bin Sawald
+Al Alaya
+Al Alaa Bin Zyadh
+Abi Muamar Al Qutalei
+شارع المطلع
+شارع الطلع
+طريق الملك فهد
+Abdulla al faisal st. شارع عبدالله الفيصل
+Bayt Al Hikma Boulevard
+Hail st. شارع حائل
+King Fahd Causeway
+Ring Road
+Unity Boulevard
+جسر الأئمة
+King Fahd Road 68
+طريق السعدية ـ يلملم
+Onshudat AlNida
+Abdul Malik Bin Marwan
+Wadey Al Nakhel
+Medina Roadطريق المدينة
+كوبري المربع
+شارع الروضة
+Alrawda
+Makarunah st. شارع المكرونةMakarunah st. شارع المكرونة
+شارع الملك فهد
+شارع الامير متعب
+طريق الدماعين
+طريق المزارع
+Tanajib Main Road
+Qasim Road
+Qassim road
+535
+New road to Qassim
+Dertour
+Dertour
+شارع ال فريان
+Amir Muhammad Ibn Abdulrahman St
+شارع غبيرة العام
+Ibuni-Yasmeen
+Al Kharj Road
+Ali Al Radini
+Ibn Sulaiman Street
+Al Hadida
+Rimar Valley
+Al Wajeed
+Abdulrahman Bin Moweya
+Salem Bin Abdullah
+Ibn-Hazam
+Yahya Bin Khaldoun
+Al Mathnat
+Abi Bakr Al Jalal
+Samira
+Issa Bin Abdulkareem
+Baswa
+Hakim Bin Al Hareith
+Ibn Nasar Al Zraid
+Al Qatin
+Omar Bin Al Adim
+Rahjan Valley
+Yaqub Bin Sharafuddin
+Abdulrahman Bin Faris
+Hasaan Bin Al Nouman
+Hassan Bin Al Nouman
+Dertour
+Hasaan Bin Al Nouman
+Hayathem Road
+King Abdullah Bin Abdul Aziz Road
+No. 12
+No. 101
+N. 12
+5952
+طريق الحصاة الغربي
+خط شرورة - وادي الدواسر
+Al-Farabi
+Al-Sorour
+Al Kahf
+HCP
+Al Jof Valley
+Qortaja
+Ibn Taymeeyah Road
+Al Sakha
+Aal Rais
+Al-Hasawenah Valley
+Abdulaziz Bin Mohammed Bin Shelwan
+Al Faqiriya
+Damnahour
+Al Watirah
+Ardah
+Al Fakhra
+Dhahran Jubail ExpWay 613
+Abdullah Street
+225
+Road 265
+613 Exit to Residential Area
+Road 113
+Road 274 to Jeddah Street
+Mina port round about
+Al Madinah street round about
+port road
+ExpWay 613
+old road
+old road - inaccessible
+Road 261
+Road 184
+jeddah Street (Road 274)
+120
+100
+Ras Al Khair - Jubail
+السريع 1
+Ras Al Khair - Jubail Highway
+MIC Village Road
+AlMunirah Gym Street
+Spruce Street
+Steineke Street
+South Road
+Academic Circle Road
+West Park Connector Road
+Dhahran Helipad Road
+Crane Court
+Helipad Access Road
+Mack Drive
+Access Road Around Pipeline Tank Farm
+Firdous ring Road
+Dhahran Road
+King Fahd Street
+Bashar bin Bard Street
+4th Street
+7th Street
+Prince Naif Street
+King Khalid Street
+22nd Street
+16th Street
+Granada St
+10th St
+16th Street
+Khalid Bin Alwaleed Street
+Hisyan Avenue
+Dariyah Avenue
+Tabrak Lane
+Summan Circle
+Khaldiya Road
+South40M
+Al Rub' Al Khali Road
+Yanbu Street
+Riyadh - Dammam
+طريق المطار
+West Park Access Road
+Core Area E/W Road
+rea N/S Road
+Moda Access Road
+SCECO Road
+Al Ashriah roundabout دوار الاشرعة
+32 Street
+fatma alzahra street
+West Flank Road
+King Khalid Road
+Ahmed Al Barri
+Al Ein Mountain
+Ibraheem Bin Zaid
+Yousaf Al Sanbalwani
+Umer Bin Habib
+Ibraheem Bin Abdulsalam
+Abdullah Al Sharif
+Tarwat
+Al Lo'Lo'A
+Abi Dawoud
+Al-Imam Ash Shoukani
+Hisham Bin Abdulmelk
+Al-Imam Al Bukhari
+Aleman Alnesaei
+Musa Bin Nasser
+Abdulmalik Ibn Murwan
+Ibn-Hazam
+Alteiry
+Ibn Firas Al Hamadani
+Khalifa Bin Badae
+Al Shahoob
+No. 166
+No. 192
+No. 219
+No. 225
+No. 164
+No. 103
+No. 141
+No. 256
+No. 242
+No. 119
+No. 146
+No. 305
+No. 194
+No. 182
+No. 275
+No. 297
+No. 317
+No. 188
+No. 79
+No. 197
+No. 234
+No. 308
+No. 217
+No. 232
+No. 196
+No. 237
+No. 242
+No. 251
+No. 245
+No. 257
+No. 220
+No. 225
+No. 228
+Khurais Road
+King Abdullah Bin Abdulaziz Road
+South Ring Road
+شارع الأمير محمد بن عبد الرحمن
+طريق الدائري الجنوبي
+طريق الدائري الشرقي
+شارع غبيرة العام
+Abdul Aziz Bin Musaed Bin Julowi St.
+Al-oazir street
+Abdul Aziz Bin Musaed Bin Julowi St.
+King Fahd Road
+شارع الوزير
+King Fahd Road
+Yanbu
+No. 27
+AL Iqlas Road
+Yanbu
+No. 11
+No. 15
+No. 13
+No. 17
+No. 19
+No. 9
+Tamria
+Alkotieb
+Al Bahjah
+Al Bakhera
+Abi Obaidah BinAl Jarah Road
+Mohammed Bin Al bashir
+Ibn Majah
+Saqelah Mountain Street
+Harun Ar Rashid Road
+شارع خلاس الهاجري
+شارع بكر بن سوادة
+Jakarta St.
+Al Firosiyah St.
+Ibn Majah Street
+Ibn Majah Street
+Sa'ad Bin Abdulrahman Al Awal St.
+Saqelah Mountain
+Al Matr
+Saqelah Mountain Street
+Abdul Rahman Bin Owf St
+Istanboul
+Sa'ad Bin Abdulrahman Al Awal St.
+Saqelah Mountain Street
+Jakarta St.
+Al-Khail
+Dertour
+Ibrahim Ibn Baz
+Al-Farabi
+Al Hojra
+Al Jadfiah
+5
+Ath-Tal
+Al Hassi
+Al Tanoukhi
+Al Hatemiya
+Al Nadwah
+Malija
+Mashraq
+Al Hasseb
+Al Haja
+Mohammed Bin Ahmad Al Madni
+No. 21
+No. 32
+No. 7
+Al Orjwan
+Second Ring Road
+Prince Talal Ibn Abdulaziz
+Al Jaminia
+Laban Valley
+Abi Bakr Al Azji
+Ibn Wadeh
+Ahmad Ibn Al Mohdeth
+Batn Anan
+Haneefa Valley
+Al Ammar
+Ad Dawa Dami
+Al Kharma
+Harun Ar Rashid
+Atta
+Al Basra
+Al Aiania
+Hofuf road
+tasliya road
+Abqaiq to Al.Uqair
+شارع أبو بكر الصديق
+طريق الصمان
+jarsh
+alhala
+tabok
+Abdulaziz Al Nashmi
+Abi Al Fazari
+Al Shahareen
+Abi Al Futooh Al Khabaz
+Bahr Al Arab Street
+المنتصر
+Mohammed Ali Jinnah
+Al Noweiba
+almlesan
+almoroj
+alkhafji
+Abi Ghafar Al Mansoor
+Ibn Shuaib Al Fasi
+Rashed Al Habrdi
+Al Badi' Al Janoubi
+Ibn Al Taqi
+Al Roqban
+Um Al Shabram
+Kalthoum Bin Ofi
+Al Shamass
+Saeed Bin Al Aas
+Al Alaei
+Al Thaghr
+No. 36
+No. 32
+Al Nahr
+Ibn Waraqah St.
+Barqah
+Tabarak
+Bahra
+Tima
+Thadeq
+Tabala
+No. 22
+No. 20
+No. 16
+No. 14
+No. 28
+No. 10
+No. 8
+No. 2
+No. 1
+No. 6
+No. 15
+No. 19
+No. 5
+No. 62
+No. 37
+No. 23
+Ibrahim Ibn Hamad Ibn Issa
+Al Athra
+Zahaban
+Al Aisan
+Al Bohran Ibn Ziada
+Al Nasayef
+Al Shafia
+Al Ramss
+Aal Jouda
+Al Thahera
+No. 34
+No. 38
+Khais Bin S'Aada
+Sihat
+طريق الملك عبدالله
+Zayed Alkhair Street
+Oyoun Al Otour
+Al Khamasin
+Al Dor
+Al-Kheef
+Abi Al Hassan Al Mohdathi
+'Al Dawa
+Al-Hous Al Ansari
+شارع الشيخ البشير الإبراهيمي
+شارع الإمام إبي حنيفة
+Janada Bin Malik
+Al Suwaidy Al-Am St
+شارع عائشة بنت أبي بكر
+Janada Bin Malik
+Madina Munwarah Road
+Qais Bin Mohsan
+Alsa Bin Adi Al Balwi
+Zainab Al Thaqafiyah
+Al Suwaidy Al-Am St
+شارع ابن عساكر
+شارع جبل طويق
+Oaf Bin Afrra
+Ziad Al Bahli
+Al Markaba
+Al Marfaq
+Shaab Al Maeen
+Al Markab
+Shaafan
+Al Marsafi
+Al Waqit
+Al Noamaniya
+Salim Bin Malhan
+Al Mela
+AL Zahabi
+Ibn Sanhon
+Al tayyeb Al Yousaf
+Altajee
+Al Ameen Sharf Aldin Al Maliki
+Sharaf
+Ibn Abdul Al Sahtir
+Ibn Yaqqob Al jamal
+Alhakeem Al Samar Qandi
+Al Shaik Ahmed Bin Ameen Batulimal
+Al Qadi Abu Altaeb
+Abu Al Fadal Bin Al Marjani
+طريق الملك عبدالله
+طريق عمر بن عبدالعزيز
+طريق عبدالله بن عبدالعزيز
+Prince Bandar Ibn Abdulaziz
+Ash Sheikh Hassan bin Hussein bin Ali
+Al Hawashia
+Youssef Bin Swailum
+Ali Al Yamami St.
+Ibn Al Aftas St.
+Namariah St.
+No. 7
+Al l'Ietidal
+Al Aqtar
+Al Oqhowan
+Al Beea
+Ath Thaliah
+Al Thaleth
+Al Dohkan Mountain
+No. 83
+Prince Musa'ed Bin Abdulaziz St.
+Abdulaziz Bin Musaed Bin Jalawi
+Pr. Turki Bin Abdullah Street
+الأمير عبد الرحمن بن مساعد بن عبد العزيز
+Al Taban
+Al Imam Abdul Lah Ibn Faisal Ibn Turki
+King Faisal
+Tihamah Street
+Al Madhar
+شارع المعذر
+Nasseriyah Street
+Abdulaziz Bin Musaed Bin Jalawi
+Al Takhassusi Road
+Al Ma'ather Street
+Takhassusi Street
+Nakhia Al Shamla
+No. 3
+Umar Ibn Abdul Aziz Road
+Ali Ibn Talib Road
+Salah Al Deen Al Aubi Street
+Al Muarrakh Ibn Bishr
+Bairut Square
+Mecca Road
+Al Ihsa Street
+Abu Dhabi Place
+Al Neer Mountain
+Al Bab Valley
+Umar Ibn Abdul Aziz Road
+Ad Diwan Road
+Al Naeem
+Umm Al Hamam
+Ad Diwan
+G Street
+G Street
+N Street
+King Khalid Road
+O Street
+Riyadh - Makkah
+5th Roundabout
+6th Roundabout
+Q Street
+9th Roundabout
+Haneefa Valley
+Riyadh - Makkah
+Al Batah Valley
+Mohamed Al Abaderi
+Qatan Valley
+Ahmad Salah Al Zabayani
+Satam Gzai Al Mutairi
+Mohammed Ali Alqahtany
+Salim Bin Rashed Almosa
+Nayef Al Hamidi Al Otibi
+Amir Al Badri
+دوار الكتاب - جامعة الملك سعود
+Bathan
+Ali Ibn Abdullah Al Qudai
+Ibn Um Maktum
+Eqrma Ben Abe Jahl
+Bashar
+As Salah
+Mahmud Al Hussni
+Wadi al-Harjam
+Health Street
+Zbeh Street
+Asha Bakr
+شارع ال فريان
+شارع آل أبو عبيد
+Sufian Bin Thabet
+Salem Bin Qais
+طريق طراق قبة
+الملك سعود
+No. 84
+No. 59
+No. 57
+No. 62
+No. 94
+No. 92
+No. 118
+No. 102
+No. 105
+No. 103
+No. 109
+No. 117
+No. 106
+No. 119
+No. 108
+No. 122
+No. 121
+No. 74
+No. 55
+No. 64
+No. 54
+No. 96
+No. 88
+No. 82
+No. 76
+No. 78
+No. 72
+No. 91
+No. 75
+No. 95
+No. 97
+No. 90
+No. 93
+Al Amsaar
+No. 124
+No. 69
+No. 56
+Al Itimad
+No. 65
+No. 60
+No. 71
+No. 58
+No. 52
+No. 61
+No. 63
+Sayda
+Abi Al Hussein Al Mokhtar Street
+Bin Jawad Street
+Ahmad Ibn Issa Al Ghammari Street
+Al Arba Street
+Wabra Street
+Ali Bin Abdulrahim Street
+Al Asheriya Street
+Ali Mahmud Taha Street
+Malham Street
+Al Shihan
+Al Balqa Street
+Al Robian Street
+Al Atf Street
+Mathniya Street
+Al Manara Street
+Al Shit Street
+Toweir Street
+Al Mesheirfa Street
+Ibrahim Al Tunisi Street
+Thabet Ibin Ahmad Street
+Al Ein Street
+No. 22
+Al Harfein
+Al Hasham
+Al Hessami
+Al Hasseb
+Al Jira Street
+Al Jeeb Street
+Al Hodaybiya Street
+Al Fadhi Ibn Bashar
+Shamsan
+'Al Far
+Tarbajal
+Asfan
+Al Shaqran
+Inrahim Al Sharwani
+Darb Al Nahr
+Taba
+Al Raheya
+Zenjebar
+Sihat
+Al Zaher
+Fakhr Al Nessa
+Al Qodayba
+Al Khayat
+Ataf Bin Nasha
+العباس بن عبد المطلب
+Aja Mountain
+الكوكبة
+Al Shati Valley
+Al Takhassusi Road
+Makkah Al Mukarramah Road
+Al Ma'ather Street
+شارع البحترية
+Al Urubah Road
+Umm Al Hamam Street
+Turki Al Awal Ibin Abdelaziz Road
+Umm Al Hamam Street
+Al Rabana
+Al-Qamri
+Al-Qamairi
+Al-Qanade
+Ahmad Bin Mnae
+Al-Hikma
+Al Najma
+Ismail Al Andulus
+Rodhat Al Khshm
+No. 9
+Ibn Hoqal;Ibn Hoyal
+Jadaar Alaslami
+Al Bairraq
+Al Thana
+Al Rihab
+Ibn Hoqal
+H Street
+I Street
+Al Waqedi Street
+Flags Roundabout
+Al Waqedi
+10th Roundabout
+11th Roundabout
+Al Omda
+D Street
+Al Jamuh Al Ansarii Street
+Ibrahim Al Nafisi St.
+Prince Bandar Ibn Abdulaziz
+Al Bab Valley
+Ibn Al Jayan St.
+Dayadah Street
+Wadi Hamar St.
+Hazarmoth
+Saad Al Safqi
+Farsan
+Al Riyadi
+Al Madi
+Al Imam Mohammed Ismail Al San'Ani
+At-Tabri
+Al Tahera
+Al Tahaniya
+Al Taheri
+Al Tabarani
+Q'Ala Al Fastat
+Al Awsi
+Al Khazraj
+Roewaydaj Sadir Street
+Al Amir Naif Bin Abdul Aziz St.
+Al Amir Saud Bin Mohd Bin Saud
+مدخل طريق الملك عبدالله
+Al Samar
+Al Fadhila
+Al Sahlan
+Al Tamr
+Al Aashab Valley
+Al Raqb
+Al Ataf
+Al Nabhaniya
+Al Sad
+Al Rahba
+Hassan Bin Thabet ST.
+Al Zahwo
+Al Anan
+Al Tof
+Turba
+Al Naema
+Al Bardia
+Al Shojoun
+Hassan Bin Thabet ST.
+Sa'ad Bin Abdulrahman Al Awal Road
+Pr. Mamdouh Bin Abdulaziz St.
+Pr. Mamdouh Bin Abdulaziz
+Al Razaz
+Al Mathnat
+Al Khaizarana
+Al-Rumtheath
+Al-Der'E
+Al-Anwar
+Al Atayef
+Al Adahem
+Al Nada
+All Amthal
+Al-Rudaf
+Al-Darb
+Al-Jumoom
+Al-Khansa
+Al-Suman
+Al Jawad
+Al l'letidal
+Al Atass
+Al-Nada
+Al Nibras
+Al Amthal
+Al Jadwal
+طريق عثمان بن عفان
+Hajr Valley
+Khaybar Valley
+Zamzam Valley
+Halab Valley
+Al Naeem Valley
+Turki Al Awal Ibin Abdelaziz Road
+Al Tareq
+Lina
+Mo'Ta
+Al Aned
+King Khalid Road
+7th Roundabout
+Abdulla Bin Huthafah Al Sahmy Road
+D Street
+Abu Bukker Arrahzy
+B Street
+G Street
+J Street
+R Street
+Ali Ibn Abdullah Al Qudai
+Dertour
+Dertour
+5992
+Boxenstopp
+Al Sakra
+Al Zahabi
+Al-Hanaf Bin Khais
+Fatimah Valley
+Beasha Valley
+Al Ramma Valley
+505
+Al Sanya al Baida
+طريق القرارة
+Street-221
+Street-56-Al-Jawharah
+Street-217
+Street-202
+طريق المدينة;Medina Road
+طريق المدينة Al Madina road
+Medina Road
+Medina Road
+طريق المدينةAL Madina road
+طريق المدينة
+Ibrahim Sheaker Street
+شارع الكيال
+Ahmad Al Attas
+Zumrat Al Saleheen
+Mohammed Al-Gazzawi
+Al Jubaylah
+Qalb Al Jazirah
+بشير بن معاذ
+علي بن ابي المظفر
+ابن الميداني
+فديك بو بشير
+الأمير ماجد - السبعين
+طريق ميمونى
+Abula's Ibn Alrabee'
+Abula's Ibn Arabee'
+King Abdullah Hospital Road
+King Adullah Medical city Road
+Medina Road
+شارع النزهة Al Nuzha Street
+طريق الكورنيش الشمالي
+شقق
+Sultan Bin Abdul Aziz
+عبد العزيز الربيع
+ابن حمدون
+شارع عبدالله عريف
+Al-Liblab Street
+شارع اللبلاب
+شارع الفواكه
+الطريق الدائري الثالث
+شار الذهب Zahab Street
+Zahab Street
+Dhahab St.
+شارع ولي العهد
+طريق الملك عبدالله
+شارع خالد بن الوليد khalid bin al waleed
+غرناطة Ghernata st.
+Rabigh Dam
+Roundabout
+service track for HV line
+Omar Ibn Elkhattab Steet
+Fish in a Basket - Roundabout
+Alwadi Street
+Roundabout
+Roundabout
+Hamza Ibn Abdulmutalib Street
+2nd Roundabout
+Al Masudi
+Takhassusi St.
+Al Jamuh Al Ansarii St.
+Al Madini
+Idris Bin Othman
+Shamsuddin Bin Moslem
+Al Marashida
+Amir Bin Amr
+Al Mahalah
+Al Madrah
+Al Madar
+Al Madarat
+Al Azhar Mosque
+Al Maraziq
+Al Marj
+Al Mersad
+Al Nedal
+Abu Madi
+Al-Mashtal
+Al Makhwa
+Al Marid
+Al Namira
+Al Hussien Al Rabie
+Al Mostawa
+Al Mostajeda
+Al Robeiq
+Al Rabwan
+Al Habqa
+Al Radeef
+Al Atawalah
+Al Hassama
+Al Wajih
+Al Wadi Al Akhdhar
+Al Helia
+Al Hadida
+Al Hasir
+Al Bejadiya
+Al Henna
+Al Khamadin
+Al Jawafa2
+Al Feidh
+Alaqdam
+Al Ramha
+Rian
+Al Talha
+Abu Aursh
+Al Zahaid
+Al Kanar
+Al Qarneyn
+Al Taher
+Wadi Samran
+Al Qadesi
+Al Nahir
+Salih Bin Abbas
+Al Arar
+Al Mosbeth
+Dar Al Salam
+Awad
+Al Mahraz
+Abi Safwon
+Al Aned
+Rahban
+Al Naseeq
+Al Hijazi
+Al Hamid
+Al Sheab
+Al Qarna
+Al Ghamas
+Al Qaimia
+Al Wahrud St.
+Haidar Shihab Aldin Street
+Harid St.
+Ismail Al Janzoury St.
+Raqe'a Al Asdi St.
+Ibn Abdeldaem St.
+Sulaiman Bin Hashim St.
+Wadi Wejj Street
+Al Thibiani Mountain
+Hajr
+Al Adeeb
+'Al Abwa
+Al Akhayel
+Noweima
+Waqada
+Al Ablaq
+Al Asena
+Al Abiar
+Al Akhdar
+Al Akhasheb
+Al-Bader
+Al-Firdous
+Al-Abrar
+Ziad Bin Saad
+Al Khaldia Street
+Al Shaqiqa
+Al Qadesi
+Alt. Route
+4044
+No. 307
+No. 315
+No. 100
+No. 281
+No. 115
+No. 138
+No. 130
+No. 165
+No. 18
+No. 20
+No. 313
+No. 136
+No. 223
+No. 102
+No. 62
+No. 85
+No. 98
+No. 36
+No. 116
+No. 118
+No. 112
+No. 107
+No. 231
+No, 111
+No. 208
+No. 109
+Abi Bakr As Siddiq Road
+Al Kisa'l
+Wadi Al Shawka Street
+Al Atraf
+Al Askan
+Al Aslami
+Al Anadhol
+Al Intessar
+Al Thameria
+Al Jarshi
+Al Bakrat
+Al-Anwar
+Al-Jafil
+Al Jabrah
+Al Mena
+Al Ahwaz
+Al Datiat
+Al Dhoha
+Al Dahi
+Al Taref
+Al Dabi'A
+Al Soweidera
+Al Dabiya
+Al Dharib
+Al Sour
+Al Soura
+Al Sayyad
+Al Soweifi
+Al Dhalea
+Al Nathara Valley
+Al Masila Valley
+Al Monhana Valley
+Al Malsa Valley
+Huqail Valley
+Dubli Valley
+Kheim Valley
+Ibrahim Al Helali
+Arkan
+Orjowan
+Ashraf
+Zamzam Valley
+Ariha
+Umm Al Rabie River
+Rabigh
+Al Fay
+Al Taief
+'Al Sabe
+Al Najer
+Al Shati
+Abdullah Al Aseli
+Al Moathen
+Al Rodha
+'Al Foqaha
+Al Riqa
+Al Ghazala
+Al Sharafiya
+Al Showeimess
+Al-Shoyokh
+Al Shenana
+Al Shihan
+Al Harf
+Al Siha
+طريق عثمان بن عفان
+Matlaq Hasin Al Alyani
+Halab Valley
+Al Zalal
+´Al Shalfa
+Al Badi´Ya
+Al-Shaikh Hasan Bin Hussain Bin 'Ali Street
+Ahmed Hamid Al khazaie
+Barraq Ali Al Harthi
+No. 7
+Hassan Al Tahir
+Marou
+Salih Ibn Ahmad Al Halabi
+Abi Al Qassem Al Rob´l
+Burhanuddin Bin Sarwar
+Mathla Valley
+Al-'Anul Baiza
+Al Hareth
+Omar Bin Ibrahim
+Abu Rakah
+Al-Ghaioum
+Hassan Khawairan Al Arjani
+Al Manaqeb Valley
+No. 14
+Turki Salim Al Qahtani
+Naser Mohammed Al Osman
+No. 4
+No. 3
+No.6
+No. 15
+No. 31
+Saier Bin Farhan AL Nomsi
+No. 34
+Sarwar Mohammed Al Rashiedi
+Hassan Masfer Al Qahtani
+No. 25
+No. 21
+Hamoud Ali Al Sawailem
+No. 33
+Samah
+Hazwa
+Khaybar
+Sabikha
+Al Soh
+Oweida
+Damad
+Harmela
+Al-Yaqout Road
+Hajaila
+Randa;Radwa
+Baijan
+Prince Saud Bin Hathlool Aal Saud;Radwa
+Haradh
+AzaRaqa Valley Road
+No. 1
+Al Homeeyah Street
+Al Hessiyah
+Al Jawza Street
+Al Hadaqa Street
+Al Hadira
+Al Hayaniya
+Al Hojra Street
+Al Hosayat Street
+Al Rahia
+Al Hamedia Street
+Al Oweinat
+Ahmad Al Ansari Street
+Al Delem Street
+Al Rahalah Street
+Soliman Bin Hassan Street
+Al Sonbol Street
+Mohammed Bin Ahmad Al Qorashi Street
+Al Sa'Adah Street
+Arisala Street
+Al Imam Ibrahim Bin Sba'A Street
+Al Nabawah
+Wadi Huqail Street
+No. 38
+Wadi Jesa Street
+شارع الحجا
+Al Habari Street
+Al Hadaeq Street
+No. 40
+Al Hareeq Street
+Al Harmalia Street
+Al Haditha
+Al-Halah
+Al Hasnan
+Al Hanwa
+Al Hayazin
+Al Hamawi
+Nawar Valley
+Ar Rashid Street
+Al Jarfia Street
+No. 244
+No. 222
+No. 260
+No. 378
+No. 228
+No. 276
+No. 13
+No. 23
+No. 292
+No. 19
+No. 308
+Arema
+Al Sandal
+Kinda
+Al Dahi
+Amena Bint Ataiba
+Hisn Kzam
+Al Dhalea
+Al Sawia
+Mohammed Bin Abi Taher
+Al Iklayi
+Oshira
+Soweiga
+Al Sayada
+Al Soweifi
+Al Showeiki
+Al Sabbagh
+Shamael
+Rnia
+Refa
+Khozaah
+Samta
+Rizqa
+Hilwan
+Sajer
+Deheim
+Hajoul
+Al Safhi
+Al Soweidera
+Al Showeika
+Al Shola
+Al Showeiref
+Al Showeikh
+Al Sobh
+Al Toweirani
+Al Shibani
+Al Sadara
+Al Sahhaf
+Al Sobeihani
+Al Saen
+Al Salhi
+Prince Abdulmajeed Bin Abdulaziz Road
+Imam Abdulrahman Al Faisal
+Desertsand road
+المنقلة
+المنزلة
+Al Hamla
+المستجدة
+Prince Muhammed Bin S'Aud Bin Abdul Aziz
+Al Nibras
+Baida
+No. 13
+No. 3
+Saeed Al Amawi
+Al Khazaf
+Al-Fajar
+Al Shafa
+Al Rif
+Al Balsam
+Al teif
+Al Oqhowan
+Al Omra
+No. 9
+No. 4
+Abdullah Al Ashgar
+No. 56
+No. 48
+No. 26
+Abdullah Al Haris
+Otheir
+Al Joud
+Ibrahim Bin Abi Bakar
+Saeed Al Jamel
+شارع ساري
+Al Doroub
+Al Dafina
+Al Tamimya
+Al Imam
+Al Ghadir
+Arfat
+Al-Khaima
+Al Adwa
+Deraa Valley
+Al Issaweya
+Al-Khansa
+Al Khatwa
+Al-Khayalah
+Al Khalissa
+Al Khokh
+Al Braida
+Al Teleitli
+Al Safan
+Ibn Al Muhtaseb Street
+Sufian Bin Owf
+Ali Bin Uthman Street
+Thamud Street
+Soliman Al Dakeel
+Al.Rasis
+'Khaled Bin Rafie
+Ibn Hajar
+Al Asari
+Al Sharaf
+Al Shati Valley
+Al Shoaba Valley
+Arfat
+Al Zaqazeeq
+Al-Jerasi
+Ibn Abdulhaq Al Al Khazrajee
+Eastern Kadaieeyah
+No. 10
+طريق الملك سلمان بن عبدالعزيز، عين البراحة
+Sudair
+Prince Mas'Ayyd Bin Abdur-Rahaman Bon Faisal
+شارع الأمير مساعد بن عبدالرحمن بن فيصل
+Madina Munwarah Road
+South Ring Road
+شارع آل عباد
+سدير
+Sudair
+شارع تميم الداري
+Alsedq
+South Ring Road
+Ali bin Sheeban
+Sarha
+Ibi Ishaq Alzamazime
+Al Saeed Al Sanwse Altarbesi
+Al Aaz Bin Abdul Salam
+Abi Alfetouh Altaeb
+Al Adaim
+'Al Ashta
+Al Bereimi
+Al Jibal
+Al Ajri
+Al Badae
+Al Abtah
+Al Istiqama
+Al Orjwan
+No. 59
+No. 343
+No. 138
+No. 29
+No. 31
+No. 72
+No. 22
+No. 71
+No. 10
+No. 26
+No. 18
+No. 12
+No. 128
+No. 23
+No. 25
+No. 21
+Old Airport Road
+الامير فيصل بن تركي بن عبد العزيز
+Olaya Road
+شارع المعذر
+Old Airport Road
+Ali Ibn Talib Road
+Jeddah Road
+4th Roundabout
+3rd Roundabout
+Abdullah Bin Hazafa As-Shami Road
+Abdullah bin Huzafah, Al-sahmi street
+Abdulhassein Albaqmi
+Tameer
+Al Jaziri
+Barqin
+Al Tirmizi
+Amir Muhammad Ibn Abdulrahman St
+Asma Bint Zaid
+Qais Bin Aeth
+Al Mobarez Al Halabi
+Al Athila
+Tahama
+Industrial area
+Ar Rashad Street
+Dertour
+Nasseriyah Street
+Al Onshodah
+Al Nahda st. شارع النهضة
+Corniche Road
+Abdullah Al Kareeje
+e80
+M 55
+8746
+Arabian Gulf Road
+Haradh Avenue
+Yahiya Almo'alimi
+Long tertiary road
+Residential road
+Al Ansiyat
+Al Jof Valley
+Abdullah Al Mouyas
+Sultan Bin Nimir
+Sulatn Bin Nimir
+طريق الملك عبدالعزيز
+Prince Naif Street
+شارع فيصل بن فهد
+Al Andalus st. شارع الاندلس
+Abdullah Aba Al Khayl
+شارع الامير سلطان Prince sultan st.
+شارع الأمير نايف
+Ameer Naif Road شارع الأمير نايف
+Al Juranah Road
+King Fahd Rd
+King-Abdul-Aziz-Road
+Al Taysir Street
+شارع ابراهيم الخليل
+St-4
+St-6
+St-3
+Street-206
+طريق ابراهيم الخليل
+No. 120
+No. 116
+No. 104
+No. 114
+No. 110
+No. 126
+No. 128
+No. 107
+No. 115
+No. 112
+Nakhlan Al Sharqiya Street
+Al Atraf Street
+Al Shoaba Al Shami Street
+Al Riqa
+Al Ros Street
+Safah Street
+Ush Bin Labid Street
+Badwa Al Olaya Street
+Halbajah Street
+Al Sara Street
+Al Josh Street
+Al Dhalea Street
+Shaab Al Yala Street
+Rifaah Street
+Hadab Al Gora Street
+No. 14
+No. 12
+Wadi Al Shohada Street
+Wadi Al Qasr Street
+Al-Jazera
+Al Hatemiya Street
+Al Hatemiya
+Al Hareth Street
+Al Hasna
+Al Rahibat
+Al Hessami Street
+Al Harf
+Al Hassan
+Al Hajera Street
+Dahshour
+Al Maayesha
+Al Fouti
+Issa Bin Jaffar
+Safwan
+Al Henani
+Al Gharir
+Al Maiman
+Al Jira
+Ibn Arram
+طريق عثمان بن عفان
+94th Street
+Makkah Al Mukarramah Road
+Al Takhassusi Road
+Al Ma'ather Street
+شارع البحيرة
+شارع البحيرات
+شارع سبتة
+شارع البخيت
+شارع أحمد الغافي
+Al Ma'ather Street
+Abi Al Makaram Bin Mafraj
+Al Sfar Al Zhabi
+Loqaha
+Al Nawaras
+Al Qanani
+Khemr
+Abi Abdullah Al Safali
+'Al Rada
+Ibn Al Shaheed
+Al Makasab
+Al-Matrai
+Al Mehdar
+Al Mahjar
+Al Mahboura
+Al Mohayeda
+Al Mahani
+Al Mederi
+Al Ammar
+Al Istiqama
+G Street
+F Street
+Kulaib Bin Mohammad Bin Abdul Rahman Street
+Al Bugawi Path
+Al Jamuh Al Ansarii
+Al Jawafa Street
+Al Jenena Street
+Al Jihad Street
+Al Jandul Street
+Abi Al Abas Al Khatib St.
+Ahmad Bin Sadaqah St.
+Abdulla Ibn Al Argam St
+Tamaria St
+Said Qutob St
+Al Shaap Path
+'Al Shaqraa
+'Al Jawfa
+Al Shamass
+Al Bayar
+Neama
+Pr. Ahmad Bin Abdulrahman St.
+King Abdulaziz Road
+Asha Hamadan Street
+Al-Khayalah
+Al Hasham
+Al-Bakaria
+Al-Daerah
+Al Akhdar
+An-Nasar Road
+Al Musem
+Al Afaq
+Al Ashaab
+Al Azahera
+Al Asseel
+Al-Asad
+Al Hijra
+Al Neairia
+Al-Atlal
+Al-Bararee
+Al-Ashbal
+Al Hashemi
+Al-Budoor
+Al-Thuwor
+Al Mena
+Al Aqtar
+Jenin
+Al Rass
+Al Imam Saud Ibn Abdulaziz Ibn Mohammad Road
+Nabuls
+Al Jomana Street
+Wadi Hajr Street
+Nahawand
+Nawan
+F Street
+P Street
+K Street
+طريق وادي خيم،
+Ali Ibn Abi Taleb Street
+Ali Ibn Abi Taleb street
+Al-Mashatal
+Sufian Bin Al Harith
+Al-Mazmar
+Al Makhzoumi
+Al Muheet
+Al Makhaled
+Al Mohammedi
+Al Mahars
+Al Maratebi
+Al Marabie
+Al Madana
+Al Modawara
+Al Madid
+Al Raqeem
+Al Madiya
+Abdul Razaq Al Qashmaee
+Al Saraya
+Al Merwah
+Al Marsa
+Al Maramiya
+Al Marshadia
+Al Mahdar
+Al Job
+Al Mehsaniya
+Al Makhil
+Al Braida
+Al Matrai
+Abu Manjal
+Al Madahish
+Al Tanifan
+Nasser Bin Ammar
+Al Masoudi
+Ibrahim Naji
+Al Meslema
+Youssef Bin Ahmad
+Al Hardha
+Aban Bin Othman
+Al Samaa
+Batihan
+Al Sadfa
+Al Markaz
+Al Saud
+Al Marwan
+Al Mereikha
+Al Mazouna
+Al Masrouh
+Abi Al Hasah Al Sahatbai
+Ibrahim Al Asharee
+Al Mostaweya
+Al Misrab
+Al Haba
+Al Khatwa
+Al Hassab
+Al Hazem
+Al Jeel
+Al Habil
+Al Jira
+Al Joweihem
+Al Jeishi
+AL Habaq
+Al Habari
+Al Henka
+Al Hadeeqa
+Al Hosein
+Al Ataweya
+Al Hazm
+Al Hasou
+Al Hassan
+Al Jondob
+Al Jihad
+'Al Khadraa
+Al Hataqa
+Al-Janadal
+Al Janadriyah
+Al Hadira
+Al A Ghsan
+Al Amn
+Al Tator
+Al Mubadi
+Al Samer
+Al Hajer
+Abilan
+Al Mahbar
+Arbil
+Amoriha
+Jalil
+Al Raf'A
+Niwan
+Bani Salm
+Al Mas
+Al Halat
+Al Hessami
+Al Hejel
+AL Hadad
+Al Hebab
+Al Holwa
+Al Khashiba
+Al Homeeyah
+Al Hawra
+Al Halila
+Al Khlesat
+Al Aashab Valley
+Al rass
+Al Khazaf
+Hala Valley
+'Wadi Suru
+Horan Valley
+Bihan Valley
+Al Khozam
+Al Hezma
+Al Khereiss
+Al Hatemiya
+Al Khozama
+Al Hayari
+Al Hosayat
+Al Howeir
+Al Khodoud
+Az Raqa Valley
+Ali Alsaqat
+Al Hussain Bin Rawah
+Omer Bin Abi Sulaman
+Qasim Bin Asbag
+Qatada Al Basri
+Mamon Almaliki
+Al Howeimeda
+Mansoor Alakbari
+Nashal Bin Yazid
+Norr uldin Bin Asabag
+Hashim Bin Ajera
+Al Harfein
+Buraz Bin Salma
+Enab
+Al Howeita
+Al Aseel
+Al Harira
+Al Hakima
+Al Hossoun
+Al Hafi
+Al Hasi
+Al Hasad
+Al Ashbal
+Al Haditha
+Al Harra
+Al Hadaqa
+Al Jawz
+Al-Halah
+Al Hamidiya
+Al Joud
+Al Hayaniya
+Al Haja
+Al Hatemi
+Al Hajera
+Al Jenena
+Al Hamasa
+Al Harf
+Ariha
+Al Hulayfah
+Al Adham
+Al Hasham
+Al-Jazera
+Al Hojra
+AL Hossam
+Al Hareth
+Al Jamil
+Al Hakaman
+Al Hatar
+Al Samar
+Al Uraja
+Al Asari
+Al Jasar
+Al Barakat
+Jabhan
+Al Rushda
+Al Tasma
+Al Salima
+Al Tof
+Al Manwar
+Ziad Bin Saad
+Ghofran
+Kayfan
+Atlal
+Al Sadar
+Al-Darb
+Tamim Bin Bashr
+Abi Al Rahee St.
+Sulaiman Al Hamidi St.
+Abi Al Azhar Al Hamami St.
+Al Hamam St.
+Al Aaqeb Al Mansufi Street
+Al Qasr Street
+Al Mubarak Bin Abi Al Ma'ali
+Ibn Utbah Street
+Saeed Bin Sultan Street
+Aban Bin Othman St.
+Hajar Bin Yazid Street
+Sulaiman Bin Hashim Street
+Abdul Rahman Bin Owf St
+Al Ashrafia
+Prince Faisal Bin Abdullah Bin Abdulrahman Street
+Al Zalal
+Al Imtiaz Street
+Al Zaheer
+Al Taheri
+Al Ashrafia Street
+Al-Ajwad
+Al Madarat
+Al Ajmi
+Al Qatadah
+Al Shear
+Al Rushda
+Al Mas
+Naharwan Street
+Al Shahti
+Road to Eye of the World (Not Edge of the World)
+Box Canyon 1S
+Alt. Route to Box Canyon 2S
+Box Canyon 2S
+Alt. Route
+Ridge Road 2S
+Tabuk Road
+No. 247
+No. 213
+No. 94
+No. 96
+No. 86
+No. 2
+No. 121
+No. 201
+No. 127
+No. 90
+No. 75
+No. 200
+No. 116
+No. 217
+No. 235
+No. 144
+No. 255
+No. 128
+No. 211
+No. 56
+No. 28
+No. 311
+No. 36
+No. 88
+No. 207
+No. 80
+No. 108
+No. 53
+No, 2
+No. 31
+No. 60
+No. 51
+No. 26
+No. 1
+No. 12
+No. 6
+No. 3
+No. 176
+No. 186
+No. 191
+No. 146
+No. 119
+No. 156
+No. 128
+No. 141
+No. 110
+No. 222
+Othman Bin Affan Road
+Al Bazan
+Al-Bbader
+Al Anjab
+Al Bab
+Al Daen
+Al Dabatia
+Al Dhahya
+Al Talea
+Al Dhaheya
+Al Taher
+Joma Valley
+Hajar Valley
+Hidaa Valley
+Jalil Valley
+Jarrah Valley
+Baida Valley
+Al Maeedin Valley
+Al Maghmas Valley
+Al Nir Valley
+Al Jathmia
+Ahad
+Abian
+Nahr Morra
+Umm Al Habib Rive
+Asilah
+Al Shibi
+Al Showeykiya
+Al Shemalia
+Al Sariya
+As Salah
+Al Sabihi
+Rakba Valley
+Aoura Mountain
+Abdullah Bin Soweida
+Ad Diyar
+Al Borud
+Salasil
+Khafiya Valley
+Al Oweiqelea
+Horan Valley
+Al Holqa Valley
+Al Tanib
+Al Hafr
+Malik Al Tamimi
+Al Muweileh
+Al Mowafaq
+Khalid Bin Al Walid Street
+Mohammed Al Jinnah
+No. 115
+Al Lijam Valley
+No. 12
+Badie Saud Al Haqbani
+No. 13
+'Ashba
+No. 18
+No. 20
+No. 27
+Malfi Masaad Al Sahemi
+No. 17
+No. 24
+No. 23
+No. 29
+Hussain Ali Al Zabadien
+Salem
+Soda
+Zamra
+Dalej
+Sadwan
+Daghestan
+Khalis
+Halban
+Randa
+Jalila
+Jarir
+Al Warad
+Khadeira
+Basira
+Tamra
+Bahja
+Wadi Al Sarh Road
+Wadi Al Sarh
+المحاني Al Mhani
+Az Raqa Valley
+Abi Bakr As Siddiq Road
+Abdullah Bin Hamad Bin Ateeq Street
+Shafie' Bin Al Saeb Street
+Al Raha Street
+Al Zahabi Street
+Al Sirb Street
+Al Robian Street
+Abdullah Al Hamazani Street
+Ali Bin Zaid Al Tunesi Street
+Al Diwaniya Street
+Ahmad Ibn Asakar Street
+Al Qoreishieah Street
+No. 32
+Al Helia Street
+Al Hakima Street
+Al Helewa Street
+Al Sara Street
+Al Hajla Street
+Al Hadad Street
+Al Habil Street
+Al Hatar
+Al Zrai Street
+Al Dawair Street
+Al Rudaf Street
+No. 9
+Al Jemeiha
+Al Hadeeqa Street
+Al Hamidiya
+Al Hanan
+Al Hulayfah Street
+Al Halila Street
+Al Hadrah Street
+Al Hasad Street
+Al Hosein Street
+Al Hamada
+Al Hazm
+Al Jathoum Street
+Al Howeimeda
+Al Hawasheia Street
+Al Hawatem Street
+Al Hemda
+Al Hanafi
+Al Hamran
+Al Hamaseen
+Al Halal
+Al Henna
+Al Hamra
+Al Halaqa Street
+Al Hosoun Street
+Al Hamda
+Al Rushdeia Street
+Al Hasima Street
+Wadi Nawar Street
+Abi Al Hasan Al Askandari Street
+No. 274
+Al Rabab Street
+No. 15
+No. 11
+No. 310
+No. 326
+No. 344
+No. 364
+No. 21
+No. 262
+No. 246
+No. 27
+No. 324
+No. 342
+Dhoroma
+Al Sabahiya
+Hawli
+Gate-5 (Entrance)
+Gate-5 (Exit)
+Ghaba
+Hassim
+Sabia
+Eida
+Andal
+Amra
+Sajer Street
+Shalhoub
+Raqwan
+Tahama
+Raqghadan
+Jalwa
+Radhi
+Sari
+Al Saqra
+Al Sadri
+Al Safeh
+Al Sobeih
+Al Serar
+Al Safi
+King Abdulaziz Street
+شارع الاندلس
+محمد المعشوق
+الإنشراح
+old Makkah Jeddah Road
+Ash Shaikh Abdullah Al Qarawi
+Muhammad Salih Jamal Street
+الطريق الدائري الثالث
+Third Ring Route الطريق الدائري الثالث
+Third Ring Route
+Naam Mountain
+Arid Mountain
+Abdulrahman AL Telmsani
+Toweiq Mountain
+Hilal Mountain
+Umm Al Habib River
+Nimra Mountain
+Wadan Mountain
+Markouz Mountain
+Nahir Mountain
+Farqan Mountain
+Abe Alkhatteb River
+Madina Qasim Expressway
+al bakrah - al tawal - al wasg road
+No. 291
+No. 278
+No. 259
+No. 363
+No. 290
+No. 261
+No. 277
+No. 271
+No. 252
+No. 495
+East
+No. 261
+No. 309
+No. 322
+No. 359
+No. 383
+طريق واسط
+طريق العظيم - المطيوي الشمالي
+طريق الهبيرية
+طريق الهبيرية القديمة
+شارع باخشب الفرعي
+No. 195
+No. 190
+No. 372
+Abdulrahman Bin Rodan Street
+no.188
+no.55
+no.9
+الملك سعود
+Maliha St.
+Harun Al Wathaq Street
+طريق سوق جدم
+طريق جبل الصعب
+متنزهات
+المخواة
+طريقة غميقة ـ الماء الحار
+طريق الرميضة قلوة
+طريق الحشر وادي عمودعسير
+طريق الحشروادي عمودعسير
+طريق الربوعة
+الطريق العام الداير بني مالك
+طريق حي الجانبه 
+طريق نعامة
+طريق ال عمرو
+طريق الجشر وادي عمودعسير
+طريق حي الناجد2
+طريق مكة القديم الطالع
+Airport St
+طريق المرابي - المنصورية-الشطيفية الاحد
+Prince Sultan St
+Road Prince Mohammed bin Nasser
+طريق الملك فهد
+King Abdulaziz Rd
+شارع الأمير سلطان
+طريق الملك فيصل
+طريق الأمير محمد بن ناصر
+طريق الملك عبدالله
+طريق المضايا السويس
+طريق جبل المقعد
+King Abdullah Rd
+شارع خالد بن الوليد
+Khalid Ibn Alwalid St
+Jarir St
+طريق الملك عبدالله
+طريقة الليث ـ غميقة
+طريق جدة ـ الليث
+شارع الملك عبدالعزيز
+طريق غميقة ـ عيار
+طريق العين الحارة
+سبت الجارة الفائجة
+طريق الليث ـ جيزان
+طريق الرميضة حفار الساحل
+طريق الرميضة حفار الحضن
+طريق الرميضة
+طريق الرميضة - رشوة - سمعة - كروان
+طريق الرميضة - الصعاليك - عليب
+طريق الرميضة شعثان المزيرعة الصفاردة
+نمره-محايل عسير-جيزان
+مثلث المخواة
+طريق الصغرة
+الوادي الأبيض
+طريق الامام عبد الرحمن بن فيصل بن تركي
+omar ibn alkhatab
+king fisal road
+عمر بن الخطاب
+king fisal road
+Street 1
+king faisal street
+Islam abad road
+An Nasr road
+Al Imam Street
+Abi Abdullah Az Zouwawi
+Abdulrahman Bin Adwan
+Saad Bin Obaid Al Aousi
+Al Muqadassi
+Al Kharj Road
+طريق رنية - وادي الدواسر 4245
+Abandoned Road
+Al Thaha
+Abar Al Aarab
+Yadma
+Amr Al Abdi
+Al Mehalhal Ibn Al Mazra
+Ibn Abi Al Fatah Al Souri
+Al Kharadela
+Masyadat Al Olya
+Al Majmaa
+Al-Falaj
+Al Shaaira'h
+Al Naseeha
+Al Hor Ibn Qeiss
+Al Maghaira Bin Nofel
+Al Massahah
+AL Jadeaan
+east bound trace
+Emirates Road
+شارع الإمارات
+East Ring Road
+King Abdul Aziz Road
+No. 104
+No. 60
+An Nahar
+Al Siraj
+Al Mena
+Al Hajeb
+Al Hadaya
+Al Jabouah
+Maliha
+Al Bayaa
+Al Taakhi
+Malham
+Al Azad
+Al Jadi
+Al Azahera
+Al Hadad
+Al Asamer
+Malwa
+Al Hatar
+No. 2
+No. 8
+Om Mohammed Al Maadassiyah
+Abdullah Bin Serag
+Abi Mansur Ibn Abi Al Abbass
+Abi Omar Al Harbi
+Wadi Arbad
+Mohammed AL Khawarizmi
+Al Nahr
+Mohammed Bin Soweilim
+Abi Bakr Tejibi
+Ibn Hisham
+Ibn Al Arabi
+Prince Ahmed Bin Abdulaziz
+Al Khafji
+Prince Ahmed Bin Abdulaziz
+طريق الجوة جبل ,فيفا
+طريق جبل طـــلان
+طريق الرعاية الاولية
+طريق الحشر وادي عمود عسير
+طريق أبو ريان
+طريق الوبيدة
+طريق الشريحاء
+طريق حي الجانبه
+طريق جبل طـــــــلان
+طريق الرحهه
+طريق عيبان نيد الضالع
+طريق وادي هراين
+طريق العيدابي فيفا بني مالك
+طريق وادي لجـــــــــب
+طريق الفرشة سراة عبيدة أبها
+King Fahd St
+خط الوديعه شرورة
+خط شرورة الوديعة
+Timber Boardwalk at King Abdullah Villas
+طريق الدائري الشمالي
+Abi Bakar As-Sudiq Road
+Exit 5, King Abdulaziz Road - North Ring Road (west)
+Al Imam Abdullah Bin Saud Bin Abdulaziz
+Al Thumama
+Prince Saud lbn Mohammad lbn Moqran
+طريق عثمان بن عفان
+Anas Ibin Malek Street
+Anas Ibin Malek Street
+Abdullah Khalota Al Hoda
+Al Jazi Valley
+Al Boseitin Valley
+Ibn Khaldoum
+Ibn Abdulbar
+Al Motanabi
+Saeed Bin Al Mosayeb
+Jeddah Road
+613 to 95 link
+Corniche
+Fire Training Access Road
+Medical Access Road #2
+ramp
+Tank Service Road at Dhahran Bulk Plant
+To Road 95
+1st camel trail
+Access to Sheraton main entrance
+'Al Jafwa
+Al Salasil
+Al Sofwan
+Al Tamimya
+Anas Ibin Malek Street
+Ibn Rasheed
+Kind Salman Road
+Prince Saud lbn Mohammad lbn Moqran
+Wadan Mountain
+VIP Gate
+طريق قرية العفوص
+Exit to Diversion
+Exit to Jeddah
+Ajyad
+Al-Mishaat 13
+Al-Mishaat 15
+Al-Mishaat 15 - Pedestrian Road
+Al-Mishaat 25
+Al-Mishaat Road 1
+Collaboration Avenue
+Creativity Avenue
+Ft-1
+Juman St
+Long Haul U-Turn
+Spine
+Tünel
+الرهوان
+طريق الحرمين
+As Saiouf
+Cordoba Compound Street
+Anas Ibin Malek Street
+Abu Bakar As-Sudiq Road
+Antara Bin Shaddad Street
+Obaydah Ibn Al Harath Street
+Wadi Zam Zam
+الدائري الشرقي
+Dhahran Hills Public Footpath
+King Abdulaziz Road
+Prince Majid Road
+اسماء بنت ابي بكر
+مسار للمشي
+Exit Corridor-1
+Exit Corridor-2
+Exit Corridor-3
+Concourse Area
+Bieehaan
+Al Mouazzah
+P Street
+W Street
+U Street
+R Street
+S Street
+T Street
+Al Roweiss
+Al Sahel Valley
+Al Bab
+Nawar Valley
+شارع شعيب الحمر
+Kindy Plaza
+Tribüne
+Tribüne
+Mataf
+Discovery Square
+Hafs Bin Soliman
+Sufian Al Thori
+Aliman Alqortobi
+Ars Bin Samet
+Khobaib Bin Udi Al Ansari
+Ahmed Bin Eias
+Maqal Bin Yassar Almazni
+Saleh Alboghdadi
+Al Hussein Ibn Al Nather
+Abi Alnaeem
+Abo Alhasan Almawardy
+Al Hussein Ibn Abi Al Qassem
+Hamza Al Kindi
+Al Fodeil Ibn Ayad
+القيروان
+رسالة الحرية
+Sea Bridge
+Parking
+Motorway link
+Tertiary link
+Al Jamaraat
+1
+Camp-25
+Ft-2
+Al Harja
+Al Banafsej2
+Al Bayda
+Al Tawuss
+Al Khold
+Bni Sakar Bin Bilal
+Al Rahalah
+No. 25
+Al-Safi
+Al-Sunbulah
+شارع ابن عميرة المخزومي
+S Street
+T Street
+U Street
+Al Yamama
+Baithan
+Al robeiq
+Ibn Al Ahnaf
+An Nabarawi
+Abu Ubayda Al Bakri
+Al Maymun At Tabarani
+Manarat Bab Al Khalil
+Usfur AlJannah
+Ghina Al Balabil
+Ibn Sumayr
+Saleh Jawdat
+Ash Shaikh As Sadid
+Nab Al Ata
+Manarat Al masa
+Anas Ibin Malek Street
+Anas Ibin Malek Street
+Tarj Valley
+Al Jemathiya Street
+شارع الداخلة
+Al Shadqa
+King Road 44
+St-310
+Al-Mishaat 1
+اجياد
+وادي الباطن
+طريق من الشارع الرئيسي
+Jami'e Souk
+Souk Al Alawi
+Qabil Souk
+شارع شديق
+القصيفه
+درنه
+المعمورة
+King Abdullah Roundabout
+اهل الخير
+طريق دغبج -المدينة المنورة
+Exit to Yanbu
+Ozaime Testing Lab
+Rgf Testing Lab
+Safya Bridge
+Al Ramla
+Little Africa
+Malila
+Rahman
+Al Borj
+Al Bardia
+Al Thaher
+Al Baten Valley
+Al Sabah
+Al Kamel
+Al Merwah
+Al thahira
+Al Hosri
+AL Mihab
+Al Hareth
+Al Banafsej
+Static Park
+Prayer Ground
+Prayer Ground
+Prayer Ground
+Prayer Ground
+Prayer Ground
+Prayer Ground
+Prayer Ground
+Tribüne
+Tribüne
+Abi Bakar As-Sudiq Road
+Prayer Ground
+Othman Bin Affan Road
+Prince Saud lbn Mohammad lbn Moqran
+jabal Al Madhabi Street
+Al Jifn Street
+Al Jafil Street
+Al Joaba Street
+Al Jarfia
+Al Boseitin Valley
+Al Ward
+Nabra
+Al Bohtori
+Airport Road
+Al Thumama
+Prince Saud lbn Mohammad lbn Moqran
+To Royal Commission
+Exit 5
+EICO Gate
+Al Athkhar
+ميدان الخيل
+Medical Access Road #1
+Clinic Access Road
+Africa
+Dertour
+Stables Road
+Fire Building Access Road
+SRO: Temporary entrance for all vehicles
+SRO: Temporary exit for all vehicles
+Entry onto Hwy 95
+Prayer Ground
+sports stands
+Al Melisan
+شارع البراقية
+Al Sabi'A
+Ibn Abi Al Makarem
+طريق جبله ، عين البراحة
+Abandoned Rd
+Asia
+Al Amir Mansur Ibn Abdul Aziz Street
+دارة السلم
+Al Orouba
+Shrowra Street
+Al Hayaniya Street
+Camel Trail 2
+Prince Muhammad bin Abdulaziz Street
+Nakhian
+طريق وادي رحاضة
+طريق الأمير فيصل بن محمد بن سعود
+طريق عنقه
+لعطية
+دوار السوق
+شارع البطحاء
+Exit
+Said Ibn Mubarak
+Manarat Bab Ali
+Al Isra
+Shuayb Ibn Ayub
+رصيف
+The Walkway
+ال بجاد
+طريق الامير فيصل ب محمد بن سعود
+طريق الأمير فيص بن محمد بن سعود
+طريق فرعي
+طريق قرية الخربة
+Baggage Conveyor
+Baggage Collection
+Al Azhar
+Jieda
+Jandobah
+Faied
+Abanan
+Tabriya
+Ghadamas
+Al Ablah
+Um Radhmah
+Taaz
+Tharab
+Al Azier
+Al Hadayah
+Al Shamil
+Yaqub Sabri
+Eastern Ring
+Deera Square
+Prayer Ground
+Tribüne
+Maidan
+Atlal
+Nasseriyah Street
+Al Washam Street
+AL Nahdha
+Mecca Road

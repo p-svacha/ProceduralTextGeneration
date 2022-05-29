@@ -1,0 +1,115 @@
+Boda
+Site de deplacés B/2
+Site de deplacés A/1
+Doaka
+Rue de Brazza
+Rue du Port
+Rue de la Kouanga
+Rue Foureau Lamy
+Rue Durand Ferre
+Avenue du Président Mobutu
+Rue Joseph Degrain
+Avenue de l'Industrie
+Rue de la Moyenne Corniche
+Rue de Navarre
+Rue Gamal Abd el Nasser
+Rue Liotard
+Avenue de la Victoire
+Rue Martin Luther King Jr.
+Avenue de Normandie
+Rue des Missions
+Rue de l'Université
+Rue Charles Rognon
+Avenue Monseigneur Grandin
+Axe Sigbololo
+Rue du Docteur Cureau
+Boalere
+Wouro Baabaari
+Bezere
+Gada-Kelle
+RR 1
+RR26
+2
+Pont Hio
+RN2
+RR12
+RR22
+way to Alindao Airport
+Petit Pont
+Pont Kolo
+Pont Oubangui
+Pont Sur Riviere Sandigui
+RR13
+Route Godawa - Komo-Bombo
+Route de Carnot à Yoro
+Avenue de Normandie
+PK5
+Boulevard du Général de Gaulle
+Avenue Barthélemy Boganda
+Avenue de France
+Avenue des Martyrs
+RN2
+RN2
+RN9
+RN2
+RN2
+Route Borodoul - De Gaulle
+Route Zoulouma - Akpia
+Route Bokote-kete - Bombara-kota
+Route Gbade - Bobili
+RR 12
+RN 10
+Route de Kaga-Bandora à Kotangombé
+Route a Balamba
+RN2
+Route de Ndim à Nzounapaye
+RN2
+RN 2
+RN8
+RR11
+RN2
+RN 2
+RR11
+RR13
+RR15
+RN 11
+Route de Carnot à Yoro
+Route Djembé - Abba
+RN 10
+RR26
+RR 26
+RN10
+RN 10
+Route de Bafio à Date
+RN8
+RN 8
+RR 10
+RR 12
+Axe Ndanda
+Axe Gbilingui O1
+Axe Ngaragba
+Pon De Bawo
+Petit Pont
+Route Djembé - Abba
+Route de Boubougou
+RN 10
+RN10
+RN 10
+Pont Sengué
+Pont Bozingade
+Avenue de l'Indépendance
+Avenue du Tchad
+Rond-point Boganda
+Place de la République
+````````````````````````````````````````````````````````````````````````````````
+chemin
+Accés a l'école
+41
+path
+route de cheval
+Mboko 1
+Path
+Path
+Path
+Pfad
+Rue 2128

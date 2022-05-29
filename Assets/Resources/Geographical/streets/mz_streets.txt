@@ -1,0 +1,1454 @@
+NV
+Residencial Kaya-Kwanga
+Club Naval
+Mbamba
+Catembe
+Palácio da Ponte Vermelha (Palácio Presidencial)
+Residência do Presidente da República
+Condomínio Sommerschield II
+Ex-FACIM
+Assembleia da República
+PMA Parque
+Campo Sanitario
+$
+Mulomba
+Bairro Nyamadjessa
+Bairro Nyamadjessa
+Soalpo
+houses
+house
+farm house
+houses
+Mercado
+gebuurte
+house
+houses
+house
+houses
+Loose Cluster of Buildings
+Large Village in clearing
+unknown
+Bawa
+landuse=residential
+Mualadzi
+Nicupwa
+"Napolimuite ""B"""
+"Napolimuite ""A"""
+Moge
+Milapane
+Nimandro
+Anli
+Mueda
+Muerota
+Xitaxi
+Chiúre
+Guenda
+Nazombe
+Negomano
+Namananga
+Nungo
+Adine 3B
+Mutxora
+Colongo
+Alua
+YNCA ADA
+Camp Site A
+Camp Site BC
+Condominio Garden Park Village
+Massaca
+Futuras Instalacoes da Cidadela da Matola
+4.169
+Rua
+Rua 4.027
+Rua 4.262
+Rua 4.268
+Rua 4.266
+Rua 4.275
+Rua 4.284
+Rua 4.134
+Rua 4.136
+Rua 4.156
+Rua 5.502
+Rua de Bagamoyo
+Rua de São Pedro
+Rua 4.068
+Rua 4.074
+Rua 4.097
+Rua 4.089
+Rua 4.083
+Rua 4.093
+Rua 4.062
+Rua 4.128
+Rua das Mahotas
+Rua 4.098
+Rua 4.106
+Rua 4.110
+Rua 4.100
+Rua 4.076
+Rua 4.070
+Rua 4.124
+Rua 4.105
+Rua 4.118
+Rua 4.130
+Rua 4.092
+Rua 4.090
+Rua 4.120
+Rua 4.064
+Rua 4.091
+Rua 4.081
+Rua 4.082
+Rua 4.032
+Rua 4.067
+Rua 4.069
+Rua 4.075
+Rua 4.077
+Rua 4.095
+Rua 4.186
+Rua 4.188
+Rua 4.150
+Rua 4.056
+Rua 4.164
+Rua 4.042
+Rua 4.061
+Rua 4.024
+Rua 4.026
+Rua 4.063
+Rua 4.073
+Rua 4.071
+Rua 4.008
+Rua 4.162
+Rua 4.012
+Rua 4.022
+Rua 4.020
+Rua 4.101
+Rua 4.104
+Rua 4.116
+Rua 4.667
+Rua 4.628
+Rua 4.669
+Rua 4.661
+Rua 4.659
+Rua 4.675
+Rua 4.673
+Rua 4.671
+Rua 4.084
+Rua 4.031
+Rua 4.037
+Rua do Caju
+Rua 5.280
+Rua de São Paulo
+Rua 5.260
+ananaseiras
+Rua de Djamanguane
+Rua 3.734
+Rua 3.561
+Rua 3.533
+Rua 3.531
+Rua 3.600
+Rua 3.758
+Rua 3.760
+Rua 3.746
+Rua 3.736
+Rua 3.762
+Rua 3.519
+Rua 3.643
+Rua 3.730
+Rua 3.768
+Rua 3.742
+Rua 3.764
+Rua 3.559
+Rua 4.079
+Rua 4.007
+Rua 1.416
+Rua 1.317
+Rua Dom Diniz
+Rua 1.283
+Avenida Fernão Melo e Castro
+Rua Pereira Marinho
+Avenida Cahora Bassa
+Rua Padre António Vieira
+Rua dos Flamingos
+Rua João Nogueira
+Rua 1380
+Rua 3.572
+Rua 3.574
+Rua 3.583
+Rua 3.350
+Rua 3.356
+Rua 3.352
+Rua 3.628
+Rua 3.354
+Rua 3.355
+Rua 3.357
+Rua 3.616
+Rua 3.614
+Rua 3.634
+Rua 3.617
+Rua 3.609
+Rua 3.606
+Rua 3.622
+Rua 3.621
+Rua 3.626
+Rua 3.636
+Rua 3.612
+Rua 3.316
+Rua 3.362
+Rua 3.368
+Rua 3.364
+Rua 3.366
+Rua 3.338
+Rua 3.376
+Rua 3.380
+Rua 3.608
+Rua 3.470
+Rua 3.372
+Rua 3.319
+Rua 3.348
+Rua 3.341
+Rua 3.652
+Rua 3.383
+Rua 3.388
+Rua 3.343
+Rua 3.321
+Rua 3.344
+Rua 3.351
+Rua 3.370
+Rua 3.340
+Rua 3.360
+Rua 3.328
+Rua 3.320
+Rua 3.632
+Rua 3.361
+Rua 3.365
+Rua 3.332
+Rua 3.324
+Rua 3.696
+Rua 3.577
+Rua de Dar es Salam
+Travessa de Azurara
+Rua Daniel Napatima
+Rua Lucas E. Kumato
+Rua Ângelo Azarias Chichava
+Rua Luís Pasteur
+Rua 1271
+Rua 4.115
+Rua 3.400
+Rua 3.434
+Rua 3.381
+Rua 3.655
+Rua 3.390
+Rua 3.436
+Rua 3.384
+Rua 3.389
+Rua 3.391
+Rua 3.398
+Rua 3.382
+Rua 3.375
+Rua 3.408
+Rua 3.428
+Rua 3.402
+Rua 3.378
+Rua 3.392
+Rua 3.406
+Rua 3.420
+Rua 3.438
+Rua 3.432
+Rua 3.399
+Rua 3.410
+Rua 3.422
+Rua 3.404
+Rua 3.367
+Rua 3.347
+Rua 3.653
+Rua 3.472
+Rua 3.647
+Rua 3.637
+Rua 3.702
+Rua 3.754
+Rua 3.639
+Rua 3.716
+Rua 3.712
+Rua 3.714
+Rua 3.710
+Rua 3.776
+Rua 3.778
+Rua 3.659
+Rua 3.690
+Largo Heróis da Fé
+Largo de Nyanzonia
+Travessa do Zezere
+Rua do Tejo
+Rua de Manica
+Rua Oliveira Martins
+Rua Frei Nicolau de Rosário
+Rua do Santarém
+Rua do Frei Amaro de Tomaz
+Rua Éça de Queirós
+Rua Tomás Ribeiro
+Rua Júlio Dinis
+Rua Aníbal Aleluia
+Rua da Munhuana
+Rua 1.375
+Rua de Coimbra
+Rua Vila Nanwali
+Rua 1.136
+Rua Chaves de Aguiar
+Rua Tenente Mendes Alves
+Rua 2.317
+Rua 2.360
+Rua da Manhiça
+Praça da Munhuana
+Rua da Matola
+Rua do Chibuto
+Rua da Xefina
+Rua do Mabozi
+Rua do Maputo
+Rua do Sabié
+Rua do Guijá
+Rua do Manjacaze
+Rua de Ebenizário Guambe
+Rua 2.320
+Rua de Marracuene
+Rua de Muamba
+Rua 2.326
+Rua do Limpopo
+Rua 2.352
+Rua 2.356
+Rua 2.373
+Rua 2.308
+Rua 2.306
+Rua do Xai-Xai
+Rua do Umbeluzi
+Rua 2.358
+Rua do Impaputo
+Rua 2.344
+Rua Major Teixeira Pinto
+Rua 2.336
+Rua de Ivens
+Rua de Honório Barreto
+Rua Victor Gordon
+Rua 3.034
+rua de timor
+Rua 3.051
+Rua 3.043
+Rua 3.045
+Rua do Magude
+Rua Daniel Tomé Magaia
+Rua Dona Leonor
+Rua Manuel António de Sousa
+Impasse 1.106
+Rua Henri Junod
+Rua do Dão
+Rua do Tiracol
+Rua 1.116
+Rua Beato João de Brito
+Rua Clarim Chaves
+Rua do Actor Alves da Cunha
+Rua Actriz Maria Matos
+Rua de Solipa Norte
+Rua de Quionga
+Rua John Issa
+Rua Gabriel Simbine
+Rua da Mesquita
+Rua da Gávea
+Travessa da Palmeira
+Rua Joe Slovo
+Rua de Notícias
+Avenida Patrice Lubumba
+AV Francisco Orlando Magumbwe
+Praça Travessa de Zambézi
+Rua dos Sinais
+Rua da Marracuene
+Rua Fernando Pessoa
+Rua 1.368
+Rua Concórdia
+Rua 1.333
+Rua 1.331
+Rua 1.420
+Rua Pêro d'Anaya
+Rua 1.305
+Rua de Mukumbura
+Rua de Chuindi
+Rua 1005
+Rua Aida Augusto
+Rua Rainha Santa
+Rua 2.026
+Rua 2.03
+Rua 2.041
+Rua da Micaia
+Rua dos Citrinos
+Rua 5.042
+Rua 5.033
+Rua 5.017
+Rua 5.004
+Rua 5.019
+Rua da Alecrim
+Rua das Aleurites
+Rua da Acácias
+Rua das Dálias
+Rua 5.050
+Rua 5.046
+Rua 5.047
+Rua 5.027
+Rua 5.023
+Rua 5.052
+Rua 3.874
+Rua 3.882
+Rua 3.876
+Rua 3.516
+Rua das Orquídeas
+Rua Beijo da Mulata
+Rua 3.509
+Rua do Inhambazula
+Rua das Rosas
+Rua do Rio Vandúzi
+Rua dos Antúrios
+Rua do Rio Inhassune
+Rua 3.508
+Rua do Rio Raraga
+Rua 1.385
+31.013
+Rua 31.092
+Rua 31.053
+31.055
+31.067
+Rua Mocimboa da Praia
+Rua Principal - Rua Do Circulo de Tsalala
+Rua da Igreja
+s
+2
+'
+rural road
+Rua Dr. Araújo da Cerda
+Rua 16 de Junho
+Rua dos Oprimidos
+Avenida Rosalina
+Rue des Bolosses
+Rua de Inhambane
+Rua da Praia
+Rua 4.649
+Rua 4.670
+Rua 4.672
+Rua 4.674
+Rua 4.654
+4.627
+Rua 4.644
+Rua 4.642
+Rua 4.658
+Rua 4.646
+Rua 4.251
+Rua 4.641
+Rua 4.639
+Rua 4.660
+Rua 4.737
+Rua 4.650
+Rua 4.662
+Diego Ave.
+1
+Diego Road
+Tention Road
+Tracer Road
+Redental Way
+a
+Small dirt road
+r
+Rua dos Combatentes
+Rua dos Macombres
+Avenida Mateus Sansao Muthemba
+Goncal da Silveira
+Rua Marques Do Soveral
+Av. do Trabalho
+Avenida 7 de Abril
+Rua dos Combatentes
+31.042
+Avenida do Trabalho
+Rua dos Agricultores
+Rua Sussundenga
+August Street
+Avenida 7 de Julho
+Rua Alberto Mutumula
+Rua 4.004
+Rua 4.018
+Rua 4.039
+Rua 4.041
+Rua 4.059
+Rua 4.080
+Rua 4.099
+Rua 4.126
+Rua 4.140
+Rua 4.253
+Rua 4.333
+Rua 4.651
+Avenida Nuno Álvares
+Rua 2.276
+Rua 2.349
+Rua 2.350
+Rua 2.357
+Rua 2.375
+Rua Américo Tamele
+Rua Aurélia Manhiça
+Rua da Dlhembula
+Rua da Matapa
+Rua da Udenamo
+Rua do Centro Associativo dos Negros
+Rua do Incomati
+Rua do Silêx
+Rua do Tembe
+Rua do Zambeze
+Rua Dr. Almeida Santos
+Rua Estácio Dias
+Rua Matateu
+Rua União Fabril de Moçambique
+Avenida Agostinho Neto
+Avenida Ahmed Sékou Touré
+Avenida Armando Tivane
+Avenida da Maguiguana
+Avenida do Rio Limpopo
+Avenida dos Mártires de Mueda
+Avenida Fernão de Magalhães
+Avenida Francisco Orlando Magumbwe
+Avenida Friedrich Engels
+Avenida Ho Chi Min
+Avenida Ho Chi Minh
+Avenida Josina Machel
+Avenida Kwame Nkrumah
+Avenida Kwame Nkuruma
+Avenida Mártires da Machava
+Avenida Mohamed Siad Barre
+Avenida Olof Palme
+Avenida Paulo Samuel Kankhomba
+Avenida Romão Fernandes Farinha
+Avenida Zedéquias Manganhela
+Consiglieri Pedroso Road
+Largo da Estremadura
+Largo da Ilha de Moçambique
+Largo Tiago Mulller
+Praça 25 de Junho
+Rua D
+Rua da Argélia
+Rua Damião de Góis
+Rua da Reserva da Universidade
+Rua das Mahotas
+Rua de Anguane
+Rua de Chinyamapere
+Rua de Coolela
+Rua de Luabo
+Rua de Silves
+Rua do Padre André Fernandes
+Rua dos Lusíadas
+Rua João de Barros
+Rua Joaquim Mara
+Rua José Mateus
+Rua José Sidumo
+Rua Municipal Este
+Rua Municipal Oeste
+Rua Nachingwea
+Rua Ngungunyane
+Rua Professor Doutor José Negrão
+Travessa de Faria de Sousa
+muradhali mamadussen
+Rua 3.020
+Rua 3.024
+Rua 3.057
+Rua 3.066
+Rua 3.345
+Rua 3.363
+Rua 3.421
+Rua 3.452
+Rua 3.527
+Rua 3.529
+Rua 3.541
+Rua 3.545
+Rua 3.564
+Rua 3.565
+Rua 3.568
+Rua 3.589
+Rua 3.593
+Rua 3.601
+Rua 3.611
+Rua 3.644
+Rua 3.646
+Rua 3.650
+Rua 3.651
+Rua 3.694
+Rua 3.866
+Rua 3.872
+Rua 3.879
+Rua da Goa
+Rua da Lixeira
+Rua de Timor
+Rua Eduardo Viegas Maviha
+Rua Júlio Miambo
+Rua Lisboa Matavele
+Rua Matchik-tchik
+Avenida Nelson Mandela
+Rua 5.003
+Rua 5.021
+Rua 5.038
+Rua 16
+Rua 4.131
+Av. 25 de Junho
+Rua dos Combatentes
+Rua dos Trabalhadores
+31.002
+31.035
+31.074
+31.110
+31.114
+Av. Amilcar Cabrali
+Impasse 31.045
+Nkuhlu
+Rua 31.078
+Rua 31.086
+Rua de Xigubo
+Rua Halaravuna
+Rua Nkanyi
+Rua Timbila
+Rua 3.738
+Rua 3.752
+Rua 3.740
+Rua 3.635
+Rua 3.732
+Rua 3.590
+Rua 3.586
+Rua 3.525
+Rua 3.580
+Rua 3.602
+Rua 3.598
+Rua 3.584
+Rua 3.594
+Rua 3.682
+Rua 4.048
+Rua 4.014
+Rua 4.011
+Rua 4.051
+Rua 4.053
+Rua 1.432
+Avenida dos Presidentes
+Rua 1.418
+Rua de França
+Rua 1.335
+Rua 1.398
+Rua Aquino de Bragança
+Rua C
+Rua 1.404
+Rua 1.383
+Rua 1.314
+Rua Joseph Ki-Zerbo
+Rua 1.414
+Rua 1.406
+Rua Magudzo Khosa
+Avenida do Zimbabwe
+Rua Macombe Macossa
+Rua Faralay
+Rua Afonso Henriques
+Rua Nwamatibyane
+Rua de Dom Sebstião
+Rua 3.566
+Rua 3.607
+Rua 3.620
+Rua 3.562
+Rua 3.603
+Rua 3.585
+Rua 3.613
+Rua 3.605
+Rua 3.615
+Rua 3.619
+Rua 3.624
+Rua João Tomás Navasse
+Rua 3.599
+Rua 3.618
+Rua 3.358
+Rua 3.353
+Rua 3.597
+Rua 3.604
+Rua 3.346
+Rua 3.610
+Rua 3.770
+Rua 3.573
+Rua 3.571
+Rua 3.587
+Rua 3.581
+Rua 3.530
+Rua 3.537
+Rua 3.510
+Rua 3.543
+Rua 3.567
+Rua 3.692
+Rua 3.575
+Rua 3.700
+Rua 3.706
+Rua 3.688
+Rua Fernão Lopes
+Rua dos Cronistas
+Rua Isaac Zitha
+Rua Geração 8 de Março
+Rua do Castanheda
+Rua António Simbine
+Avenida Dr Egas Moniz
+Rua Jerónimo Osório
+Rua A. W. Balyly
+Rua 1.393
+Rua Padre Baltazar Teles
+Rua Kibiriti Diwana
+Rua Pedro Nunes
+Rua Henrique Lopes Mendoça
+Rua 1.007
+Rua 3.386
+Rua 3.393
+Rua 3.396
+Rua 3.377
+Rua 3.426
+Rua 3.418
+Rua 3.414
+Rua 3.369
+Rua 3.430
+Rua 3.401
+Rua 3.416
+Rua 3.394
+Rua 3.397
+Rua 3.424
+Rua 3.374
+Rua 3.412
+Rua 3.686
+Rua 3.724
+Rua 3.726
+Rua 3.718
+Rua 3.722
+Rua 3.728
+Rua 3.720
+Rua 3.750
+Rua 3.698
+Travessa João da Piedade
+Rua de Castelo Branco
+Travessa do Sado
+Largo do Ribatejo
+Rua António de Conceição
+Rua João dos Santos
+Rua Reinata Sadimba
+Largo Dom Gonçalo de Silveira
+Rua de Braga
+Impasse 1.337 / 208
+Rua de Bárué
+Rua da Guarda
+Rua de Évora
+Rua Fialho de Almeida
+Rua 1.298
+Rua Abreu de Lima
+Rua do Eng. Ferreira Maia
+Rua Godinho Mira
+Rua de Chimolo
+Rua Almeida Garrett
+Rua Eugénio de Castro
+Rua de Caramulo
+Rua de Mocimboa da Praia
+Rua Zavala
+Rua 2.303
+Rua da Namaacha
+Rua de Bilene
+Rua do Caniçado
+Rua 2.311
+Rua de Zixaxa
+Rua 2.339
+Praceta Victor Gordon
+Rua 2.376
+Rua 2.341
+Rua 2.354
+Rua 2.253
+Rua Ernesto Pauloi
+Rua Carlos da Silva
+Rua 3006
+3.023
+Rua 3.033
+Rua 3.026
+Rua 3.036
+Rua Estevão Chali
+Rua 3.029
+Muradhali Mamadussen
+Rua Ivete Amós
+Rua Timor
+Rua 3.005
+Rua 3.049
+Rua de Guiné
+Rua 3.014
+Rua 3.016
+Rua Eusébio da Silva Ferreira
+Rua 3019
+Rua 3.023
+Rua 3.025
+3.015
+Rua J. Araújo
+Rua Valentim Siti
+Rua Daniel Malinda
+Rua Ricardo Rangel
+Rua D. Ribeiro
+Rua de Tchamba
+Rua Kamba Simango
+Rua da Alegria
+Rua Reinaldo Ferreira
+Rua do Sol
+Rua da Cruz do Oriente
+Rua do Comandante João Belo
+Rua Justiça
+Rua Fernão Veloso
+Rua Judite Bicker
+Rua Heróis de Dadrá
+Rua Manuel António Sousa
+Rua 1.280
+Impasse 1.144
+Rua do Xitende
+Rua Simões da Silva
+Rua R. de Oliveira
+Rua Joaquim Lemos
+Rua da Igreja
+Rua das Flores
+Rua Alfredo Keil
+Rua Carlos Albers
+Rua Viana da Mota
+Rua da Demanda
+Rua do Hotel Clube
+Rua João Carlos Rapso Beirão
+Rua Francisco Matange
+Rua D. Almeida Ribeiro
+Rua do Bagamayo
+Avenida Mártires de Inhaminga
+Rua do Telégrafo
+Rua Kassuende
+Rua Marconi
+Rua Sá de Miranda
+Rua Crisanto Castiano Mitema
+Rua do Brado Africano
+Rua António Furtado
+Travessa da Boa Morte
+Travessa da Maxaquene
+Travessa do Tenente Valadim
+Rua da Catembe
+Travessa do Varietá
+Rua dos Voluntários
+Rua de Timor-Leste
+Rua de Kongwa
+Rua 3.409
+Rua 3.582
+Rua 3.535
+Rua 3.588
+Rua 3.539
+Rua 3.570
+Rua 3.648
+Rua 3.684
+Rua Mateus Sansão Muthemba
+Rua Belmiro Obadias Muainga
+Rua dos Desportistas
+Rua 1.012
+Rua Roque De Aguiar
+Avenida 10 de Novembro
+Rua José Macamo
+Rua Xavier Botelho
+Rua do Pantano
+Impasse 1.048
+Praceta 1.1186
+Impasse 1.041
+Impasse 1.189
+Rua António de Carvalho
+Rua D. das Neves
+Rua Germano Magalhães
+Rua de Tsangano
+Rua do Alba
+Rua do Príncipe Godido
+Rua 1.282
+Rua do Eng. Vasconcelos e Sá
+Rua Eng. Alexandre Borges
+Travessa Fernão Mendes Pinto
+Impasse 1.106
+Rua Bispo Barroso
+Rua Avelino Mondlane
+Rua 1.276
+Rua 1.278
+Rua 1.293
+Rua Rui Nogar
+Rua 1.050
+Rua Frente de Libertação
+Rua 1.288
+Rua Faustuno Vanombe
+Rua do Parque
+Rua 1.286
+Rua 1.424
+Rua 1.274
+Rua 1.291
+Rua do M'tomoni
+Rua de Sidano
+Rua Nkunya Kilido
+Rua 4.161
+Rua 4.123
+Rua 4.140
+Rua 4.142
+Rua 4.191
+Rua 4.152
+ex rua 16
+Rua do Expresso
+Rua 4.107
+Rua 4.276
+Rua 4.304
+Rua 4.321
+Rua 4.271
+Rua 4.285
+Rua 4.290
+Rua 4.294
+Rua 4.303
+Rua 4.296
+Rua 4.341
+Rua 4.283
+Rua 4.277
+Rua 4.278
+Rua 4.269
+Rua 4.114
+Rua 4.260
+Rua 4.274
+Rua 4.154
+Rua 4.138
+Rua 4.144
+Rua 4.142
+Rua de Sao Pedro
+Rua 5.514
+Rua 5.531
+Rua dos Coqueiros
+Rua Adias Coelho
+31.079
+31.118
+31.308
+R.Mikadjuini
+31.079
+Rua 4.087
+Rua 4.102
+Rua 4.066
+Rua 4.096
+Rua 4.103
+Rua 4.112
+Rua 4.078
+Rua 4.088
+Rua 4.086
+Rua 4.094
+Rua 4.184
+Rua 4.107
+Rua 4.132
+Rua 4.108
+Rua 4.184
+Rua 4.122
+Rua 4.254
+Rua 4.252
+Rua 4.272
+Rua 4.273
+Rua 4.270
+Rua 4.264
+Rua 4.663
+Rua 4.679
+Rua 4.054
+Rua 4.050
+Rua 4.045
+Rua 4.049
+Rua 4.047
+Rua 4.052
+Rua 4.677
+Rua da Agricultura
+Rua da Copra
+Rua do Algodão
+Rua da Sisal
+Rua do Cha
+Rua 3.672
+Rua 3.860
+Rua 3.670
+Rua 3.515
+Rua 3.517
+Rua 3.676
+Rua 3.678
+Rua 3.674
+Rua 3.521
+Rua 3.858
+Rua 3.645
+Rua Leonor Sepúlveda
+Rua Augusto Macamo
+Rua 2.023
+Rua 2.329
+Rua 2.327
+Rua 2.340
+Rua 2.031
+Rua 2.290
+Rua 2.378
+Rua do Chamanculo
+Rua 2.333
+Rua de Fátima
+Rua de São Pedro
+Rua de Makua
+Rua 2.273
+Rua Almeida do Cruzado
+Rua 2.368
+Rua 2.372
+Rua 2.370
+Rua do Major Couto
+Rua Sá de Miranda
+Rua 2.005
+Rua Dr. Amaral
+Rua do Comandante Baeta Neves
+Rua do Comandante Moura Bráz
+Rua 2.015
+Rua das Mafureiras
+Rua da Massala
+Rua dos Eucaliptos
+Rua dos Cajueiros
+Rua das Trepadeiras
+Rua 5.048
+Rua 5.044
+Rua 5.036
+Rua 5.032
+Rua 5.015
+Rua 5.049
+Rua 5.030
+Rua 3.878
+Rua 3.862
+Rua 3.869
+Rua 3.888
+Rua 3.884
+Rua 3.871
+Rua 3.864
+Rua 3.868
+Rua 3.870
+Rua do Rio Inhamiara
+Rua 3.880
+Rua 3.877
+3
+Rua da Mesquita
+Avenida do Arcebispado
+Rua Tenente General Oswaldo Tanzama
+Avenida Emilia Dausse
+Rua Alberto Massavanhane
+Rua Manuel Sepúlveda
+Oswaldo Tanzama
+Rua de João Massamblana
+Rua Vieira de Rocha
+Rua de Silva Porto
+Rua 2.024
+Rua 3.528
+Rua 3.514
+Rua Justino Chemane
+Rua Azarias Inguane
+Rua 3.551
+31.016
+31.008
+31.073
+31.064
+Rua 31.090
+34.035
+31.082
+31.062
+31.070
+Rua da Escola
+Av. Martires de Wiriamu
+Impasse 31.033
+31.086
+31.068
+31.017
+Rua Kadju
+31.042
+Rua 31.057
+Combate a Fome
+Rua 31.093
+31.112
+31.065
+31.011
+Johane Malate
+Mbomborica
+31.006
+31.010
+Ponta Beach Drive
+Avenida Herois de Moçambique
+Avenida de Moçambique
+IFP-ECM
+Rua 4.570
+Rua 4.306
+Rua 4.699
+Rua 4.706
+Rua 4.700
+Rua 4.698
+Rua 4.697
+Rua 4.704
+Rua 4.682
+Rua 4.686
+Rua 4.688
+Rua 4.696
+Rua 4.692
+Rua 4.684
+Rua 4.694
+Rua 4.702
+Rua 4.690
+Hero's Way
+American Imperialism
+Cowboy's Path
+No Name Road
+\
+Rua Patricio Lumumba
+Rua Joaquim Maquival
+Rua Agostino Neto
+unknown
+Rua da Guine
+Rua Correia de Brito
+Rua de Cabo Verde
+Rua de Massurize
+Rua do Hospital
+Rua Pegivide
+Avenida da Liberdade
+Rua 3 de Fevereiro
+Rua Cidade de Lichinga
+Rua Patrice Lumumba
+Rua da Escola
+Rua de Chai
+Casa Barry Road
+Rua das Amendoas
+Albatroz Road
+Av. Amílcar Cabral
+Rua de Tete
+Av. dos Heróis
+Trav. de Matadonro
+Trav. dos Fornos
+Av. dos Continuadores
+Av. Amilcar Cabral
+Trav. de Stº António
+Rua da Solidariedade
+s3
+Rua do Comerico
+R Jeronimo Romero
+R. Cl. 030
+R. Cl. 034
+Givinazzo Boulevard
+Rio de Alegria
+'
+s
+r
+Rua Daniel Napatima
+'
+Rua Rolihlahla Mandela
+Rua de Ngungunhane
+Rua dos Batuqueiros
+Rua dos Continuadores
+Rua Herois da Liberdade
+Rua 7 de Abril
+Rua de Parapato
+Rua 7 de Abril
+Rua 4.656
+Rua 4.676
+Rua 4.657
+Rua 4.653
+Rua 4.664
+Rua 4.640
+Rua 4.666
+Rua 4.638
+Rua 4.668
+Rua 4.648
+Rua 4.265
+Rua 4.652
+Rua 4.280
+Rua das Palmeiras
+Rua 4.636
+Rua 4.643
+Rua 3.890
+Rua 3.881
+Audrey Alley
+Corner Drive
+Rocky Roads
+Av. Eduardo Mondlane
+Av. eduardo Mondlane
+Avenida da Tanzânia
+208
+208
+Av. Eduardo Mondlane
+Av. Liberdade
+Avenida Cardeal Alexandre dos Santos
+Rua 4.308
+Avenida Sebastiao Marcos Mabote
+Rua 4.570
+Rua 4.436
+Macaneta Road
+Macaneta Bridge
+#tsudamapping
+Matthijs Mansveld
+Border Road
+-
+-
+Ponte Samora Machel
+Avenida Julius Nyerere
+Ponte Kassuende
+Possible dirt track or dry river bed
+highway = unclassified
+track
+track2
+R530
+R970
+Avenda Samora Machel
+Rua Pedro Álvares Cabral
+Avenida Samora Machel
+Ponte 30 de Maio
+Massano De Amorim Avenida
+Praça dos Heróis
+Praça da OMM
+Avenida da Independência
+To Beach
+Barra Road
+dongane
+Unity 1
+Lurio Bridge
+Av 1° de maio
+Av 25 de septembre
+Road to Turtle Beach
+Unknown road
+Avenida dos Trabalhadores
+Acesso Causeway
+Caminho Cientifico
+Acesso dessalinizadora
+Rua Acordo de Nkomati
+Avenida Marginal
+Habenero Highway
+The Track of all tracks
+Taquito Drive
+Islicam Lane
+Road
+Rua 1001
+Avenida 7 de Septembro
+104
+Avenida da Marginal
+Avenida Julius Nyerere
+Rua 4.345
+Rua da Beira
+Rua do Aeroporto
+Rua Gulamo Khan
+Av. de Moçambique
+Avenida 24 de Julho
+Avenida da Namaacha
+Avenida da Organização das Nações Unidas
+Avenida da Organização da Unidade Africana
+Avenida de Moçambique
+Avenida de Trabalho
+Avenida do Trabalho
+Rua Eng. Carlos Morgado
+Rua Marcelino dos Santos
+Avenida 24 de Julho
+Avenida 25 de Setembro
+Avenida Albert Lithuli
+Avenida Bernabéthawé
+Avenida da Base N'Tchinga
+Avenida da Organização das Nações Unidas
+Avenida Eduardo Mondlane
+Avenida Joaquim Chissano
+Avenida Kenneth Kaunda
+Avenida Mao Tsé Tung
+Avenida Marien Ngouabi
+Avenida Vladimir Lenine
+Praça da Organização da Mulher Moçambicana
+Rua da Rádio
+Avenida Acordos de Lusaka
+Avenida da Malhangalene
+Avenida da Marginal
+Avenida de Angola
+Avenida Julius Nyerere
+Avenida Vladimir Lenine
+Praça dos Combatentes
+Rua 3.385
+Rua Central
+Rua da Ilha da Quilalea
+Rua do Soveste
+Rua José Carlos Lobo
+Rua Primeiro de Maio
+Avenida 4 de Outubro
+Avenida da Namaacha
+Avenida de Moçambique
+Avenida Joaquim Chissano
+Avenida Maria Lurdes Mutola
+Track coastal forest
+Track east of flood plain
+Avenida do Ingúri
+Avenida da Liberdade
+Rua Carlos Cardoso
+Rua do Aeroporto
+Rua Luís Parruque
+Praça do Destacamento Feminino
+Praça dos Heróis Moçambicanos
+Avenida de Malhangalene
+Praça 20 de Setembro
+Rua de Xipamanine
+Rua dos Irmãos Roby
+Rua João Albasini
+Praça 21 de Outubro
+Avenida Joaquim Chissano
+Avenida Marien Ngouabi
+Rua Malhangalena
+Rua da Sociedade de Estudos
+Rua 1.067
+Rua Caetano Viegas
+Praça Robert Mugabe
+Rua 1.042
+Rua 1.044
+Rua 1.045
+Rua do Farol
+Kirchweg Bunga
+Rua do Mercado
+Avenida Julius Nyerere
+Rua 4.267
+Rua 4.329
+Praça da Juventude
+Av. Sebastiao Marcos Mabote
+Estrada Circular
+Avenida Sebastiao Marcos Mabote
+Avenida Joaquim Chissano
+Rua 2.019
+Praça 16 de Junho
+Rua Dr. Lacerda e Almeida
+Avenida do Rio Tembe
+Rua de Servenita
+Rua de Capelo
+Av. de Moçambique
+Avenida Milagre Mabote
+Avenida Filipe Samuel Magaia
+Rua General Teixeira Botelho
+Avenida Para o Palmar
+Avenida de Tanzânia
+Rua da Resistência
+New accesroad
+Ponte Maputo Catembe
+Avenida das Estâncias
+Ponte Maputo Catembe
+223
+223
+Avenida Julius Nyerere
+Rua dos Caminhos de Ferro de Moçambique
+Avenida Sebastiao Marcos Mabote
+499
+F.P.L.M.
+Road to Ribaue Secondary School
+Armando Tivane
+Avenida 24 de Julho
+R1005
+R529
+R566
+Rua dos Vice Reis
+Rua Major Serpa
+H15
+r
+405
+Avenida das Indústrias
+Avenida Joaquim Chissano
+Avenida Sebastiao Marcos Mabote
+Estrada Circular
+Avenida 25 de Setembro
+R529
+R950
+223
+Avenida 25 de Junho
+Avenida Eduardo Mondlane
+Avenida Samora Machel
+Oakland Way
+Road
+Tissue Railroad
+Volcano Highway
+Rua 4.029
+Rua Alexandre Langa
+Avenida das Forças Populares de Libertação de Moçambique (FPLM)
+Avenidas das Forças Populares de Libertação de Moçambique (FPLM)
+Av. De Angola
+Avenida de Milagre Mabote
+Rua João Albasini
+Rua de Zundap
+Av. Amilcar Cabral
+Rua do Diu
+Praceta Heróis de Mocuba
+Praça da Independência
+Rua Esperança
+Zufahrtsweg Madudu
+Avenida Kanwalanga
+Galaxy Road
+Rua 25 de Junho
+Ponte Armando Guebuza
+Bush track
+mane
+ethan oosthuizen
+oosie
+small rural road
+412
+track3
+Fish Eagle Camp Road
+R531
+Praça de Outubro
+Praça da Juventude
+R1000
+Av 16 de Junho
+R1163
+Acesso Secundário
+Acesso Principal
+Acesso BC
+Picada de acesso para Marogane
+18
+nelle'
+fraans
+mathew oosthuysen
+hout weg
+4
+R1155
+Avenida Sebastiao Marcos Mabote
+Rua dos Caminhos de Ferro de Moçambique
+4.113
+Avenida Eduardo Mondlane
+Mao Tse Tung
+Rua Francisco Samuel Magaia
+Acordos de Lusaka
+Rua Francisco Manyanga
+Rua 4.693
+Rua 2.039
+Path
+Rua 3.680
+Rua 1.255
+Impasse 1.328 / 135
+Praceta António José Guerreiro
+Praceta Souto Maior
+Praceta Monteiro de Matos
+Praceta Fragata Santa Anta
+Praceta Costa Portugal
+Rua do Banco
+Rua da Electricidade
+Praceta Corveta Santíssima Trindade
+Impasse 1.339 / 78
+Rua do Padre Alves Martins
+Impasse 1.094
+Zufahrt Schule Madebunhane
+Radweg Mateo
+Mushai Zufahrt
+Ponte Aerea
+Rua 4.630
+Rua 3.744
+Ruado do Lago Amaramba
+Rua Engenheiro Santos Resende
+Rua 2.028
+Rua 2.029
+Rua 2.027
+Rua 2.035
+Beach Access
+Praça dos CFM
+Zomba
+-
+Zufahrt Randinho Igreja
+cachorro + Ntopa Zufahrt
+Zufahrt Zomba
+Dave S Avenue
+Path
+The Path of Mysteries
+The Path of Enlightenment
+Jasper Walkway
+b
+Avenida das Forças Populares de Libertação de Moçambique (FPLM)
+Rua 3.563
+Impasse 1.328 / 112
+Rua 3.047
+Rua 1.109
+Rua dos Dadores de Sangue
+Radweg nach Matsamwe
+Manyama Zufahrtsweg
+Zufahrt Sambanhe
+Zufahrt Kirche Matarara
+Matsamwe
+Zufahrtsweg Muxamba
+Rua do Aeroporto

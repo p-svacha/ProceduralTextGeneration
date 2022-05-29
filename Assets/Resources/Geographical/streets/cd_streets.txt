@@ -1,0 +1,6139 @@
+Kakombe
+SNEL
+Camp Kabila
+res o2
+Marché
+Kateba
+Kitembo
+Couvent de frères
+res 01
+Vudi
+Muhangi
+Mazinga I
+City Police Quarters
+Le Terminus
+SOS VILLAGES D'ENFANTS
+1
+1
+landuse=residential
+Wohngebiet
+Wohngebiet
+Wohngebiet
+Wohngebiet
+Kabukiki
+Luseke
+Luseke
+1
+B
+A
+B
+C
+Siedlung
+Siedlung
+Siedlung
+Minova
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+Kiromoni
+A
+Ponyville
+Kinyoyi
+A
+A
+Resid B
+Resid C
+Resid B
+D
+C
+Kiromoni
+residental area
+Kamungi
+Kiboba-Matari
+Buzombo-Kingulu
+Musefu
+Luiza
+Kandombe
+Malonga
+Bitshambele-Kisale
+Kulungu
+Kingelema
+Katelenge
+Gungu
+Kakobola
+Banza
+Binga-Vula
+Kinganda
+Kimbinga
+Mutombo-Kangu
+Mashini
+Totshi
+Mindele
+Kisenzele
+Kimwese II
+Kiladi
+Kitondolo
+Kimwese III
+Dongela
+Kisala
+Mankata
+Genda
+Bondo
+Mabanga
+Avenue Wazabanga
+Citadel
+Camp des fonctionnaires d'Etat
+Noyau Bruxelles Nord
+Résidence du Gouverneur de Province
+Bureau de la commune de Matadi
+Londjombo
+Bosenge
+Ngidinga
+Kimpamba
+Lemfu
+Nzuma
+Kimbuba
+Bikaki
+Bosele
+Bondo
+Nkondi
+Mbale
+Basoko
+Disasi
+Mayoyo
+Lusolo
+Luenda
+Sumba
+Zakimosi
+Lubi
+Kiasungwa
+Chian de Battaille
+Mawuila
+Kasenga
+Lumpande
+Site universitaire de Musompo
+UNIKOL
+Complexe Scolaire les Calinours
+Tshilanda
+Camp Mikuba
+Mukabe Kasari
+Bugembwe
+Camp de Bulengo (personnes déplacées)
+Camp Mugunga I (Personnes déplacées)
+Residential Area
+Residential Area
+Residential Area
+Residential Mayo
+urban
+Goma Urbain
+Camp Kongolo
+Nkumbwa
+Zone résidentielle
+Not sure if area
+area
+landuse=residential
+landuse=residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+landuse-residential
+Oisha
+Beni
+Christian Bilingual University of Congo
+Luponde
+Lweki
+Lungambi/Lubutu
+Mulamba
+Kibombo II
+Kamboko
+Localite Usumba Nyama
+Project
+Zombo
+Mboka Miba
+Tshate
+Kembe
+Djunga Lohbela
+Openge
+Lokanda
+Ohambe
+Tshombei
+Etanga
+Oluala
+Dikila
+Difuma II
+Penesula
+Ponge
+Tshombo
+Localite Utshi Lundoa
+Nyangemungi
+Katalama
+Kiyeye
+Kibombo Rive
+Libi
+Shokolondo
+Brahimo
+Lombodi
+Nganda
+Ekola
+Laceve
+Lumbil
+Otshiko
+Osangu
+Viongo Kolo
+Chavico
+Mundeke
+Ngenda
+Belgika
+Region
+Murunkwa
+Lowe II
+Danga III
+Danga II
+Mbinu
+Penesula
+Katako-Kombe
+Makungu
+Bilundu
+Elindu
+Katamba
+Kapome
+Lombela
+Manga
+Lokongo
+Kikuni Bause
+Peneidolwa
+Kindimba
+Kindimba
+Butumba
+Residential Area
+Ngenda
+Etoko
+Engondo
+Okake
+Dihake
+Kabese
+Elongo Demba
+Mukembe
+Likansa
+Tshombe II
+Olanga
+Kiromoni
+Lokenie
+Mimbi
+Ungamo
+Makoba
+Guade
+Kibalabala
+Localite Lumboyo
+Eselo
+Etomba II
+Djah II
+Kasuku
+Likeri
+Alungu
+Kasolomwela
+Kalama
+Katalama Beach
+Lukongengele
+Kint
+Yanda
+Nganze
+Dongo
+Gabon
+Danga I
+Okona
+Kiangata
+Guadianganga
+Kingwengwe
+Kingondji
+Kahungila
+Mukoso
+Kasinji
+Kingumba
+Gienge
+Kianza
+Kahemba
+Shamwana
+Village BUNDWE
+Kiwala
+Mweshi
+Kamuleke
+Lodja
+?
+(km 25?)
+Kanku-Ndambu
+Lubudi
+Bakwa-Tshimini
+Banba-Bilonda
+Ba-Tshifole
+Bakwa-Kalonji
+Bakwa-Wodi
+Ilebo
+Lumbende-Batwa
+Isiro (village/mboka)
+Matari
+Vube
+Aba
+Malala
+Layi
+Kana
+Mawa Nao
+Esui yo Wapi
+Iga Barriere
+Nyakakoma
+Mawa Gare
+Kipupu
+Siedlung
+Kanswe (TBC)
+Mutabi
+Kalela
+Museba
+Andoma
+Niapu
+Moto
+Nzenzengwe
+Ododwe
+Nabulangwe
+Mangana
+Sasi
+Malengwia
++
++
+Possible residential area!
+Matango
+landuse-residential
+Avenue Kapolowe
+Avenue Likasi
+Avenue Lofoi
+Avenue Kiubo
+Avenue Koni
+Avenue Luapula
+Avenue Nguba
+Avenue Lukuni
+Avenue Musongi
+Avenue Libenge
+Avenue Matadi
+Avenue Kindu
+Avenue Kongolo
+Avenue Dispensaire
+Avenue Luebo
+Avenue Aketi
+Avenue Buta
+Avenue Du Stade
+Avenue Sankuru
+Avenue De L'Etain
+Avenue De L'argent
+Avenue De La Sapiniere
+Avenue Des Palmiers
+Avenue Des Acacias
+Avenue Des Flamboyants
+Avenue Des Manguiers
+Avenue des Orangers
+Avenue Du Marché
+Avenue Du Parc
+Avenue Sampwe
+Avenue Des Artisans
+Avenue Des Bobineurs
+Avenue Des Menuisiers
+Avenue Des Chaudronniers
+Avenue des Electriciens
+Avenue Des Macons
+Avenue Des Chaffeurs
+Avenue Des Tuy Auteurs
+Avenue Des Peintres
+Avenue Des Monteurs
+Avenue Du Nickel
+Avenue Des Fondeurs
+Avenue Des Torneurs
+Stain
+Fer
+Charbon
+Uranium
+Avenue Du Cuivre
+Avenue Du Plomb
+Cobart
+Avenue du Cobalt
+Avenue De L'Hopital
+Avenue Du Charbon
+Avenue Mubambe
+Avenue Mwabesa
+Avenue Kiembe
+Avenue Ngalu
+Avenue Mulandi
+Avenue Katanga
+Avenue Du 24 Novembre
+Avenue Bunkeya
+Avenue Kolowezi
+Avenue kasai
+Avenue Kampemba
+Avenue Kampona
+Rue Chalcopyrite
+Rue Azurite
+Promenade Mazembe-Lupopo
+Rue Bornite
+Avenue Karibu
+Rue Cuprite
+Avenue Mama Yemo
+Avenue Monga Ndenge
+Ave. Yambenga
+Avenue du Maniema
+Avenue de L'Hippodrome
+Avenue de La Résidence
+Avenue Fizi
+Avenue de Saio
+Avenue Xavier Dierckz
+Avenue de Nya-Wera
+Avenue de la Cathedrale
+Avenue du Gouverneur
+Avenue des Mimosas
+Avenue Genevieve
+Avenue Général Tombeur
+Corniche de Nia-Lukemba
+Avenue du Kahuzi
+Avenue Paysage
+Petite Corniche de Nyofu
+Avenue des Sports
+Avenue du Lac
+Avenue du Tanganyika
+Avenue de La Cite
+Avenue de La Funu
+Avenue Disasi
+Avenue Mungindu
+Avenue Lukwilu
+Avenue Mampungu
+Avenue du Professeur
+Avenue Matete
+Avenue du port
+Avenue de la Clinic
+Avenue King Kester ( Universitaire)
+Servitude Tomisa
+Avenue de la Mairie
+Avenue Lukengo
+Avenue Virunga
+Avenue Lusemfu
+Avenue Citoyen
+Avenue Lufuku
+Avenue Mulemba
+Avenue Congo
+Avenue Bwele
+Avenu Mawunga
+Avenue Shaba (Esclalier Fuka Unjola)
+Avenue pêcherie
+Avenue Lusambo
+Avenue Nlandu
+Avevue Park
+Avenue NJIBIKILAY
+Avenue Mutombo Katshi
+Pont Mulunguyi
+Avenue Kikwit
+Avenue du 24 Novembre
+Avenue du 24 Novembre
+Avenue Inkisi
+Avenue Mangaya
+Rue Lubumbashi
+Avenue Congo
+Avenue Lukula
+Avenue de la Coopération
+Avenue du Gouverneur et Luilu
+Avenue Bolenge
+Avenue Kasongo
+Avenue Lusambo
+Avenue Buta
+Avenue Mwimba
+Avenue Kivu
+Avenue Lualaba
+Avenue de la PRISON
+Avenue Maniema
+Avenue Ibuka
+Avenue Bukavu
+Avenue Kingombe
+Rue Mai Ndombe
+Rue Kiri
+Rue Oshwe
+Rue Nioki
+Rue Mbee
+Rue Kasai
+Rue Mfimi
+Avenue du 30 Juin
+Rue Kwango
+Rue Bokoro
+Rue Bandundu
+Rue Kwilu
+Rue Kivu
+Rue Equateur
+Rue Tanganika
+Rue Kwa
+Avenue Mazange
+Avenue Arpantere
+Avenue Kapenda
+Avenue Babemba
+Avenue kimbangu
+Avenue Nsoko
+Avenue Bunkeya
+Avenue Likasi
+Avenue Lomami
+Avenue Bukama
+Avenue Kimbangu
+Avenue Mwilambwe Djikulo
+Rue de Quartier Ngulu I
+Avenue du Marche
+Rue de Quartier Ngulu II
+Rue de Quartier Kamuhala III
+Avenue Beni
+Avenue Mobutu
+Avenue Tulipier
+Avenue Bougainvilliers
+Avenue Peligan
+Avenue Batiri
+Avenue Usimulumise Soeur
+Avenue Musambi Medi Marceline
+Avenue Kaki
+Avenue Colonel Mokonzi
+Avenue DSA
+Avenue de la Paix
+Avenue Mandarinier
+Avenue Lumbu
+Avenue Elie
+Avenue Kalonda
+Avenue Mongaliema
+Avenue Les Victorieux
+Avenue Kitule
+Avenue Lualaba
+Avenue Katanga
+Ruelle
+Avenue Maman Sifa
+Avenue Lwena
+Avenue Kahozi
+Avenue des Sports
+Avenue Professeur Osako
+Avenue Le Bienfait
+Avenue Kishimpo
+Avenue du Carmel
+Avenue du Commerce
+Avenue Maman Sifa
+Avenue Cime Djinga
+Avenue Kongolo
+Avenue Kabwelulu
+Avenue Kamina
+Avenue Kelo
+Avenue Kazimoto
+Avenue Haute Tension
+Avenue Kindu
+Avenue Nimrod
+Avenue Nduwa
+Avenue Iwamba
+Avenue La Couronne
+Avenue Mudibengi
+Avenue des Urbanistes
+Avenue de la Chapelle
+Avenue des Urbanismes
+Avenue des Podomètres
+Avenue des Cyclomètres
+Avenue Kasongo Mpelele
+Avenue Telwaonga
+Avenue Damien
+Avenue Mwana Nawej
+Avenue Colonel Doudou Kabwe
+Avenue Mande Mutombo
+Avenue Mulunda
+Avenue Kilumba
+Avenue Saint François
+Rue 1
+Avenue Mukuna
+Avenue Richard
+Rue 1
+Avenue Jack Mulawi
+Rue 2
+Avenue Nganda
+Rue 3
+Avenue Shosho
+Avenue Jolon
+Avenue Colonel Ndumba
+Avenue Kasali
+Avenue Ngoy Ndombe
+Avenue Issa Kabange
+Avenue Rachidi
+Avenue Combattants
+Avenue Kamotela
+Avenue Ecole Dorcas
+Avenue Colonel Lenge
+Avenue Lubinga
+Avenue Colonel Kalenga
+Avenue Kabwelulu
+Avenue Colonel Mujinga
+Avenue Guy Hoka
+Avenue Kaseba Makunku
+Avenue Kasongo Gérard
+Avenue Kahumba
+Avenue Bel-Bien
+Avenue Kisimba
+Avenue Mwenze
+Avenue Kiswaka
+Avenue King Kashala
+Avenue Shimba
+Avenue Polytechnique prolongée
+Avenue Tambila
+Avenue Kyalone Kinama
+Avenue Mushidi
+Avenue Colonel Mokonzi
+Avenue Kalka
+Avenue Tchanzuma
+Avenue Mukoswe
+Avenue Lumbu
+Avenue Kasangulu
+Avenue du Camp prolongée
+Avenue Fene
+Avenue Genèse
+Avenue Samba
+Avenue Kasongo Nyembo
+Avenue Kimankesa
+Avenue des Alliances
+Avenue Pasteur Léon
+Avenue Pax D
+Avenue T.P. Mazembe
+Avenue Major Djadjidja
+Avenue Djuakali
+Avenue Chamamba
+Rue Miradle
+Avenue Colonel Baudouin
+Avenue Mbangu
+Avenue de l'Eglise
+Avenue Barclays
+Avenue du 17 Mai
+Avenue de l'Alliance
+Avenue Sanguza
+Avenue des Chercheurs
+Avenue Laboratoire
+Avenue des Laboratoires
+Avenue 17 Mai
+Avenue Polytechnique
+Avenue Mwenze
+Avenue Omba
+Avenue Kapenda
+Avenue Kinkole
+Avenue des Dépôts
+Avenue Paris
+Avenue Luchimba
+Avenue Jubert
+Avenue Lambo
+Avenue de la Liberation
+Avenue Kabalo
+Avenue Kabange
+Avenue du Dispensaire
+Avenue Lubumbashi
+Rue Manono
+Avenue Des Ecoles
+Avenue Neflier
+Rue Malula
+Rue Tofo
+Rue Wadile Mfumu
+Rue Mbomani
+Rue du Transfo
+Rue Mwake
+Fumu
+Avenue Kiyonde
+Avenue Opium
+Avenue Tshombe
+Filtre Leger
+Avenue Congo Leger
+Avenue Cigare
+Avenue Mantola
+Avenue Chemin Publique 2
+Avenue Mashuwa
+Avenue Congo Fort
+Avenue Inga
+Basilique Demi
+Avenue Kafubu
+Avenue Kamina
+Avenue Zimambo
+Rue Kilobelobe
+Rue du Marché
+Rue Kibali
+Rue Wele
+Dikwa Bis
+Rubi Bis
+Aruwimi
+Loange
+Mahonged
+Rue Mahiko
+Rue Ituri
+Rue Tshopo
+Rindi
+Rue Kipopo
+Rue Kafira
+Rue Kasapa
+Rue Kimilolo
+Avenue Moero
+Avenue Barundi
+Rue Lubumbashi
+Rue Lukafu
+Rue Lofoï
+Avenue Kinshasa
+Rue Mukulueshi
+Rue Lukoshi
+Rue Lubudi
+Rue Lufira
+Rue 4
+Rue 10
+Rue 12
+Rue 11
+Rue 13
+Rue 9
+Rue 3
+Rue 2
+Rue 1
+Avenue Kenda Biela
+Avenue Kapanga
+Avenue Kamina
+Avenue Bukama
+Avenue Anicet
+Avenue Luena
+Avenue Tembo
+Avenue des Carrières
+Avenue Baobab
+Rue IV
+Rue X
+Rue VIII
+Rue XI
+Avenue Kishima
+Avenue Sandowa
+Rue XII
+Avenue Luxembourg
+Avenue Lomami
+Avenue NdayWell
+Rue IX
+Avenue Kaseba
+Avenue Okito
+Avenue Mwange
+Avenue de la Victoire
+Rue VI
+Rue V
+Avenue Mwanke
+Avenue Lualaba
+Avenue des Astres
+Avenue Mukumbi
+Avenue Ilunga Kabulo
+Avenue Moero
+Avenue Mikombe
+Avenue Kingandu
+Avenue Kongolo
+Rue XXI
+Rue XIV
+Avenue du Soleil
+Avenue Kamarenge
+Rue XX
+Rue XIX
+Rue XV
+Rue X
+Rue XVIII
+Avenue Tambwe
+Rue Kanyama
+Rue Makutano
+Rue Fundamina
+Rue Kasapa
+Rue Kafwira
+Rue Lufira
+Rue Kilela Balanda
+Rue Katenda
+Rue Kamona Forest
+Avenue Mwitwa
+Avenue Azinda
+Muyumba
+Avenue Bondo
+Avenue du Parc
+Rue de la Regideso
+Avenue du Commerce
+Avenue La Maman bis
+Avenue Kamungo
+Avenue de la Mission
+Avenue Muteba
+Avenue du Parc
+Avenue Lubumbashi
+Avenue St Fortunat
+Avenue Rama
+Rue Ituri
+Rue Shimba
+Rue Pepa
+Avenue Katangu
+Avenue Kyungu Wa Kumwanza
+Avenue Lomami
+Avenue Océan atlantique
+Avenue Luzonde
+Avenue Danny Kapend
+Route Manshinga
+Avenue Gemena
+Avenue Ocean
+Avenue de la Victoire
+Avenue Bupe
+Territoire
+Mwenge
+Mwenge
+Avenue de l'Eglise
+Avenue Tenga
+Avenue de la Paroisse
+Avenue Chamba
+Avenue des Epiciers
+Avenue Tanganyika
+Ziro
+Avenue Katambe
+Avenue Nsenga
+Avenue Sarazin
+Avenue de la Paroisse
+Avenue Manono
+Avenue Violence
+Avenue de la Paroisse
+Avenue Mulolo
+Avenue des Rosiers 2
+Kanyama
+La Fontaine
+Manono
+La vallée
+Avenue Kasongo
+Avenue Wamba 2
+Avenue Ndunga
+Avenue Dikuluwe
+Avenue Wamba 1
+pweto
+pweto2
+Avenue de La Paix
+Avenue Feza
+Avenue Lukuga
+Avenue Kalombo
+Avenue du Parc
+Avenue Léopard
+Avenue Jerusalem
+Avenue des Ecoles
+Avenue Kazembe
+Avenue Kayabala
+Avenue Madiakudiaku
+Chemin public
+Moba
+Mujinga
+Avenue Mutombo
+Kaseba
+Avenue de la Victoire
+Du cable
+Avenue de la Paix
+Kamukulu
+Avenue de l'Université
+Avenue de la Vigne
+Avenue Psychologie
+Avenue Nambo
+Avenue Nyanda
+Avenue Ariel
+Avenue Kabwekatanda
+Avenue Mutombo
+Avenue Kangele
+Avenue Vangu
+Avenue Lubiayi
+Avenue Kapele
+Avenue de la Paix
+Avenue Circulaire
+Avenue Congo Motor
+Avenue Manika
+Avenue Imara
+Avenue Dilolo bis
+Avenue des Pioniers
+Avenue des Eglises
+Avenue les Vainqueurs
+Avenue Kaminungu III
+Avenue Kaminungu I
+Avenue des Aigles
+Avenue Kaminungu II
+Avenue du Congo
+Avenue de la Gloire Bis
+Avenue Lulua 1
+Avenue Kapele
+Avenue des Etoiles
+Avenue du Soleil
+Avenue Sinai
+Avenue des Volontaires
+Avenue de la Gloire
+Avenue Dilolo
+Avenue du Roche
+Avenue des Termitières
+Avenue du PDG
+Avenue de l'Evangile
+Avenue Emaus
+Avenue Musanji
+Avenue Luapi
+Avenue du PDG
+Avenue du Conservateur
+Avenue du Camp
+Chemin public
+Avenue de la RTNC
+Avenue Kafwankumba
+Rue Biano
+Avenue Nsamba
+Avenue Ndemba
+Avenue De La Ferme
+Rue Mwangaza
+Rue Lenge
+Avenue Du Plateau
+Avenue Kafwankumba
+Avenue Lumbe
+Avenue Kunda
+Avenue Mwene Lunda
+Avenue Lungenda
+Avenue Kapanga
+Avenue Hewa Bora
+Avenue Mulekwa
+Avenue Kawama
+Aveue Kabila
+Avenue Kolwezi
+Avenue Kalemie
+Avenue Nsulu
+Avenue Kasongo
+Avenue Kindu
+Avenue De La Paix
+Avenue de la Paix
+Avenue Sabemba
+Avenue Sakania
+Avenue Kaseke
+Avenue Kindu
+Aveue Kabila
+Avenue Kamina
+Avenue Kazadi
+Avenue Lusuku
+Avenue Kaniama
+Avenue Katuzembe
+Avenue Rusuku
+Avenue Mulunguishi
+Avenue Mukalenge Makala
+Avenue Kasongo
+Avenue Ngumba
+Avenue Kafwankumba
+Avenue Kaseke
+Avenue Nsamba
+Rue Kansenia
+Rue Tshisenda
+Avenue Moba
+Avenue Baluba
+Avenue de La Ruashi
+Avenue Kapanga
+Avenue Samba
+Avenue Mbemba
+Avenue Sambembe
+Avenue Kabongo
+Avenue Sabemba
+Avenue Manika
+Avenue Mukaleng
+Avenue Des Cabines
+Avenue Vincent Pascal
+Avenue Kanyama
+Avenue Musumba
+Rue Boma
+Avenue Kyubo
+Avenue de la Nsele
+Rue Kanene
+Rue 15
+Rue Matadi
+Rue Kananga
+Rue Warega
+Rue Boma
+Rue 17
+Rue 16
+Rue Matadi
+Rue Ababuwa
+Rue Bangala
+Rue 14
+Rue 12
+Rue 4
+Rue 10
+Rue 8
+Rue 9
+Rue 7
+Rue 6 Bis
+Rue 5 Bis
+Rue de la Republique
+Avenue Kinyama
+Rue 1
+Rue 2
+Rue 3
+Rue Kalongwe
+Avenue Kabongo
+Rue Naringa
+Rue Ubangi
+Rue Kiankodi
+Rue Kashileshi
+Avenue Musumba
+Rue Lulonga
+Rue Mongala
+Avenue 1er Espace
+Rue 10
+Rue 6
+Avenue Sunga
+Rue 4
+Rue 5
+Rue 9
+Rue 12
+Rue 19
+Rue 14
+Rue 18
+Avenue Sunga
+Rue 15
+Rue 11
+Rue 13
+Rue 16
+Rue 17
+Rue 8
+Rue Kafuya
+Rue Lufutuka
+Rue Bilolo
+Rue 25
+Rue 26
+Avenue de la Republique
+Avenue Basalampasu
+Rue 22
+Territoire 1
+Rue Bilolo
+Rue Lusambo
+Rue Azante
+Rue Mongokundu
+Rue Basonge
+Rue Lubunda
+Rue Bakongo
+Rue Lwizi
+Rue Luvua
+Rue Nyemba
+Avenue Tshinyama
+2eu Espace
+Avenue 1
+Avenue Sous Station
+Avenue Kabongo
+Avenue 3
+Territoire 1
+Territoire 2
+Rue Lufutuka
+Rue Makutano
+Rue Kafwira
+Avenue Sunga
+Rue 2 Bis
+Rue 3 Bis
+Avenue Tunnel
+Avenue Osoke
+Avenue Lualaba
+Avenue Kongolo
+Avenue du Marché
+Avenue de Likasi
+Avenue Faradja
+Mbuji-Mayi
+Avenue Promoteur (Rue 5)
+Avenue Ruth Van
+Avenue Banza
+Avenue Munua
+Avenue Jacaranda
+Avenue Karavia
+Avenue Kabayo
+Avenue Kimpinde
+Avenue Kazadi
+Avenue Mafuta
+Avenue Omba
+Avenue Kitalo
+Avenue Amani
+Avenue Kazadi bis
+Avenue Mbombo Kasongo
+Rue Karavia 2
+Avenue Manshinga
+Avenue Mwilambwe
+Rue Mitwaba
+Rue Territoire
+Rue Bandundu
+Avenue Saint Michel
+Avenue de La Ferme
+Rue Mufunga
+Avenue Kayakeze
+Rue 6
+Rue Munama
+Rue Kambove
+Rue de la ferme
+Rue 5
+Rue Manono
+Rue Kapolowe
+Avenue Luisha
+Rue Baluba
+Rue Kamina
+Avenue Kasongo Paul
+Avenue Muyombo
+Avenue Tenke
+Avenue Tshibangu
+Avenue Penga Penga
+Avenue Nguza
+Avenue Mafuta
+Avenue Mufungwa
+Avenue Makwaruzo
+Avenue Gbadolite
+Avenue Lualaba
+Avenue Mumbunda
+Avenue Karavia
+Avenue Mbulula II
+Avenue Mokolo
+Avenue Makutano
+Avenue du Fleuve
+Avenue Katumanga
+Avenue Tshikaji
+Avenue Kalenda
+Avenue de La Paix
+Avenue Croix Rouge
+Avenue De La Penthecote
+Avenue Mungu Moya
+Avenue De L'Eglise
+Avenue Tshisenge
+Avenue Banza
+Rue Mwangaza
+Avenue Populaire
+Avenue Masamba
+Avenue Changalele
+Avenue Mala
+Avenue Kundelungu
+Avenue Mukala
+Avenue Katumanga
+Chemin public
+Avenue des Gisements
+Chemin Public
+Avenue Mpala
+Avenue Mubambe
+Avenue Kundelungu
+Avenue Mpoy Kalambay
+Avenue Kasabala
+Avenue Kalembi
+Avenue Géometre
+Avenue Des Nivelles
+Avenue Bacongo
+Avenue Kabalo
+Avenue Nyembo
+Avenue Malonga
+Avenue de la Paix
+Avenue Simplice
+Avenue des Ardennes
+Avenue Bonheur
+Avenue Amuri
+Avenue du Lycée
+Avenue Soke
+Avenue Manshinga
+Avenue Jean-Baptiste
+Avenue Paul Mpande
+Avenue Ken Kimaimba
+Avenue Rulca
+Avenue de l'Ecole
+Avenue la Grâce 1
+Avenue Kabongo
+Avenue Docteur Kabamba
+Avenue Haute Tension
+Avenue Capitaine Mukena
+Rue Ida II
+Avenue Baluba
+Rue Adventiste
+Avenue Sampwe
+Avenue Sandoa
+Avenue Sola
+Rue de Dépot
+Avenue Cocotier
+Avenue Philaos
+Avenue Tilipier
+Avenue Sapinier
+Rue de Begomias
+Rue de Palmier
+Avenue des Eglises
+Rue de Lilale
+Rue Revelias
+Avenue des Oranges
+Rue Mashinipa
+Avenue Avocatier
+Avenue Papayer
+Rue Munyongamay
+Avenue du Pain
+Avenue Kamalondo
+Avenue Goyavier
+Rue Patrick
+Avenue Baluba
+Kasolo
+Avenue Balamba
+Rue Kalambaye
+Avenue Karavia
+Rue Balamba
+Avenue Circulaire
+Avenue Babemba
+Rue Souris
+Avenue Kamina
+Avenue Lumbda
+Rue Lubumbashi
+Rue des Écoles
+Avenue Bahemba
+Rue Shapi
+Kasanda
+Avenue Kamalondo
+Avenue Basilique
+Avenue Matabwa
+Avenue de N'Djamena
+Avenue de Kambove
+Avenue du Lubilashi
+Avenue Mama Yemo
+Avenue des Chutes
+Avenue Kabalo II
+Avenue Kayembe
+Avenue De La Rive
+Rue Kitenge
+Avenue Kasombo
+Avenue Laboritoire
+Avenue De La Morgue
+Avenue Du Laboratoir
+Route de la Karavia
+Avenue des Etoiles
+Avenue de la Justice
+Avenue Mukendi Kabongo
+Avenue du Bassin
+Avenue de la Grâce
+Chemin Public
+Avenue Djoka
+Avenue des Sports
+Avenue du Parc
+Avenue de la Nation
+Avenue Mitongo
+Avenue Boya
+Avenue d'Arden
+Avenue Lac Kipopo
+Avenue Kalubwe
+Avenue des Ecoles
+Avenue de Nyanza
+Avenue de Mugusi
+Avenue d'Asosa
+Avenue Kibati
+Avenue Kingali
+Chemin public
+Avenue Shangugu
+Avenue Mahenge
+Avenue du Gambela
+Avenue du Musée
+Avenue de Kafubu
+Avenue du Lwapula
+Avenue Katanga
+Avenue des Paturages
+Rue Kampanga
+Rue Katofu
+Avenue Kalubwe
+Rue Biombo
+Avenue Ruenzori
+Avenue Munyatwa
+Avenue Lutuayi
+Rue Sampa
+Avenue Kanaviundu
+Rue Kilobelobe
+Rue Okapi
+Avenue Rutshuru
+Rue Kalenga
+Domaine Taba Congo
+Avenue Locale
+Avenue Inga
+Avenue Okapi
+Avenue du Boulanger II
+Rue Lokolo 2
+Avenue Kinda
+Rue Katofu
+Avenue Chemin Publique
+Rue Kinkunki
+Avenue Pilipili
+Avenue Makimbiliyo
+Avenue Butgrezi
+Avenue Dibaya
+Avenue Katwishi
+Avenue Tshenge
+Avenue Mundi
+Avenue Kilimandjaro
+Avenue Petit Moero
+Rue Vangu
+Rue Bakanja
+Avenue Des Stades
+Avenue Dibaya
+Avenue Lualaba
+Rue V
+Rue IV
+Chemin Public
+Rue Sambembe
+Rue Tshisenda
+Rue Lubudi
+Rue Mutaka wa Dilomba
+Rue Bena Longwa
+Avenue Kolwezi
+Avenue Kindu
+Avenue Sondoa
+Avenue Mweka
+Avenue Bunkeya
+Avenue Lwebo
+Avenue Dilolo
+Avenue Mianda Ekeba
+Avenue Kafwankumba
+Avenue Kambove
+Avenue Kasenga
+Avenue du Marché
+Avenue Manono
+Avenue des Sports
+Avenue de la Forêt
+Avenue Lubumbashi
+Avenue Kolwezi
+Avenue Beni
+Avenue Nyangara
+Kundelungu
+Avenue Sanga
+Aveue Fininga
+Avenue Kipenda Roho
+Avenue Lac Kipopo
+Avenue des Ignames
+Avenue de la Paix
+Avenue Kayombo
+CP
+C
+Avenue Sankuru
+Kabina
+Kanyuma
+Sobongo
+Lunguki 1
+Kasongo
+Avenue des Petunias
+Avenue des Zinnias
+Avenue des Orchidées
+Avenue des Roses
+Avenue des Tulipes
+Avenue Jeramine
+Dr Kanas
+Avenue des Bégonias
+Avenue Myosotis
+Avenue des Travaux Publics
+Avenue Kinda I
+Avenue Lac Ipopo
+Avenue Kaya
+Avenue Baraka
+Avenue de la Grâce
+Avenue la Colombe
+Avenue Lumbu
+Rue Kyubo
+Rue Taba
+Rue Kalubwe
+Rue Suya
+Rue Lofoyi
+Avenue Mwasha
+Rue Musombo
+Rue Mwasha
+Rue Katete
+Avenue Panthère
+Avenue Lulua
+Avenue Kipushi
+Avenue Alpha
+Avenue du Bienfait
+Avenue Emeraude
+Avenue Makutano
+Avenue Mbayo 2
+Avenue Kamale
+Avenue Kalubi
+Avenue Kibali
+Avenue Kabongo
+Avenue Kahozi
+Avenue Ndumbi
+Avenue Kakudji
+Avenue Lombe
+Avenue Shindano
+Avenue Mbayo
+Avenue Tshibal
+Avenue Kahozi
+Avenue Kalubi
+Avenue Muleka
+Avenue Kamalenge
+Avenue Marie Auxiliatrice
+Avenue Maître Mwaka
+Hortance Mbuyu
+Avenue Socrate Kazadi
+Avenue Mining
+Avenue Mano
+Avenue Jules Verne
+Avenue OVD
+Avenue Mbav Nicolas
+Avenue Andre Lumbu
+Avenue Géneral Muyumba
+Avenue Fifi Masuka
+Avenue Géomètre
+Avenue Chef Mpweto
+Avenue Louise Mwange
+Avenue Idiamine
+Avenue Chute Lofoï
+Avenue Bunduki
+Rue 16
+Rue 12
+Rue 5
+Rue 10
+Rue 6
+Avenue de l'Est
+Six
+Avenue de l'Ouest
+Rue 11
+Premier
+Cinq
+Sept
+Rue Centrale
+Rue 2
+Rue 15
+Trois
+Rue 4
+Rue 7
+Quatre
+Rue 3
+Avenue Kasisa
+Avenue Mukunto
+Avenue Kiola Bakanaka
+Avenue Abidjan
+Avenue Biano
+Avenue Bunduki
+Avenue Plateau
+Avenue Royale
+Avenue Tele (Chemin Public 4)
+Avenue Kaseba
+Avenue Mbule
+Avenue Sankuru
+Avenue Kansamba
+Bloc VIII
+Bloc VI
+Bloc IV
+Bloc III
+Bloc II
+Avenue Lukwesa
+Bloc V
+Avenue Du Dispensaire
+Avenue Fundamia
+Avenue De Cimetiere
+Avenue Kyungu
+Avenue Kaponda
+Avenue Kolwezi
+Avenue Kabamb
+Avenue Industrielle
+Avenue de l'Abbé Kaozi
+Avenue Kalulaku
+Avenue du Maniema
+Avenue Munongo
+Avenue de la Huitième Armée
+Avenue du 30 Octobre (ex-Avenue Emile Banning)
+Avenue Govuverneur Meolmeester
+Deuxième Transversale
+Avenue de la Radio
+Quartier de Musiciens
+Avenue Gouve Rneur Moeller
+4 Av. De musicien
+2 Av. De musicien
+Rue de Lokandu
+Avenue des Chênes
+Avenue des Cocotiers
+Avenue des Érables
+Avenue Sergent Ketele
+Rue Isangi
+Première Transversale
+Avenue Hotel Riviera Beach
+2ème Avenue
+route Aux Pieds dans l'eau
+Route de Théa
+Rue Kalanga
+Rue Sukami
+Rue Kabata
+Avenue Mbamba Kilenda 1
+Avenue Mbamba Kilenda 2
+Rue Kalamuleyi
+Rue Mangembo
+Avenue Duma
+Avenue Ngoyulu
+Avenue de Vivi
+Avenue Likinda
+Avenue Bondjobo
+Avenue Saturne
+Mai-ndombe
+Avenue de la Lowa
+Rue de la Luvua
+Avenue Kato
+Rue du lac Moero
+Avenue Mboloko
+Émancipation
+Rue Ngathie
+Rue du Plan
+Rue de la Plaine
+Rue Équateur
+Avenue Maluku
+Avenue de l'Église
+Rue Sankuru
+Rue Lubaya
+Rue Wahanga
+Bondo
+Rue Lukutu
+Rue Bosso
+Rue Yalingo
+Rue Wagenia
+Rue Baneba
+Rue Boseko
+Rue Balinga
+Rue Bangba
+12e Rue
+8e Rue
+Rue Biamange
+Rue Bomenge
+9e Rue
+Avenue Ngowa
+Rue Dinga
+Rue Ma Sœur
+Bibwa
+Kimbangu
+Rue Mpati
+Mpunu
+Rue Potopoto
+Rue Lukaya
+Mwata
+Rue Kimpese
+Rue Bateke
+Rue Congo
+Rue Kitomisa
+Basoko
+Lubwa
+Kimbole
+Rue Kodia
+Rue Kimpolo
+Avenue Kingampika
+Avenue Mpumbu
+Avenue Ekumba
+Avenue Mango
+Masua
+Rue Tembo
+rue Kikindu
+rue Kisantu
+rue Manzewo
+rue Mwanza
+rue Tomba
+Lutendele
+rue Embo I
+Matadi Mayo
+Kimpuanza
+Bahumbu
+Mikonga
+Avenue de l'Indépendence
+Masano
+Avenue Kasangulu
+Kimpushi
+Mukenukenu
+Avenue Kulumba
+Rue Wanga
+Rue Feshi
+Rue de l'Unité
+Dela Paix
+Avenue de l'Usine
+Rue Ngungun
+Rue kwilu
+Rue Buimba
+Rue Bobila
+Rue Katambi
+Rue Mukila
+Rue Mbakabi
+Rue Gizenga
+Rue Motango
+Rue Kahemba
+Rue Kasombo
+Rue Bwagongo
+Avenue de l'Ecole
+Avenue Nkodia
+Rue Mundele
+Rue Makengo
+Rue de Bosenge
+Rue de Monkoto
+Rue de Yangambi
+Mompono
+Yakata
+Simba
+Rue Kasangulu
+Rue Tumbumani
+Rue Kwilu
+Rue Isangila
+Lokolenge
+Rue Lutunu
+Rue Wafania
+22e Rue
+Rue Londo
+19e Rue
+18e Rue
+Rue Nkulu
+Avenue Colonel Mpia
+Avenue Lubula
+Avenue Kisangani
+Kitona
+Nyembo I
+Musualu
+Lushiku
+Kiko
+Musumari
+Miao
+Kahoha
+Tumba
+Kayange
+Kikimi
+Kilubi2
+Kilubi1
+Bima
+Kasumu
+Bushimayi
+Dundi
+Kwenge
+Tuana
+Epulu
+Kigira
+Bili
+Tele
+Kadjeke
+Basanga
+Tele 2
+Avenue Bukavu
+Yambi
+Avenue Kitona
+Rue Fidi
+Avenue Lusanga
+Avenue Ngina
+Inga
+Kingulu
+Nzadi
+Kaziama
+Avenue Mwanza
+Avenue Bukanga
+Avenue Lumumba
+Avenue Feshi
+Avenue Panzi
+Avenue Kanioka
+Avenue Kahemba
+Avenue Mazengele
+Avenue Lobo
+Avenue Mawanga
+Avenue Bidungi
+Avenue Kinzengunzengu
+Avenue, De l'Ecole
+Avenue, Du Parc II
+Avenue Etoile
+Avenue, Frontière
+Avenue Du Parc
+Avenue De la Montagne
+Avenue Kwilu
+Avenue Boyata
+Rue de Luvua
+Avenue de Kato
+Av. Loya
+Aveneue Mazout
+Avenue Nganda malala
+Av. Matumona
+Av. Kitudi
+Rue de Kimwisi
+Rue de Kimbola
+Rue de Kibambi
+Rue Ituri
+Rue Lisasi
+Avenue Assolongo
+Rue de Mahenge
+Avenue de Madimba
+Rue Boma
+Avenue Kwango
+Rue Utexco
+Rue Mungamba
+Avenue Lukelenge
+Avenue Jireh
+Avenue du Fleuve
+Rue Bauka
+Avenue Boboliko
+Avenue du Parc
+Rue des Hirondelles
+Rue Bassin Vert
+Rue des Vautours
+Rue des Moineaux
+Rue Frère Mboyo
+Cocotier
+Rue des Aigles
+Rue des Eperviers
+Rue Kokolo
+Rue Idiofa
+Rue Kwilu
+Rue Kobo
+Canetton
+Avenue Riviera
+Rue Sangra
+Rue Kitona
+Église
+Chemin de la Forte
+Rue du Ring
+Rue de Casongo Lunda
+Rue du lac Moero
+Avenue de la Tshuapa
+Avenue Mbomu
+Rue de Luisa
+Rue Panyamutombo
+Rue de Ngele
+Rue de Limaya
+Rue Bomu
+Rue de libenge
+Avenue Omekongo-Safi
+Rue D'Isangi
+Avenue Kabambare
+Avenue Bolongo
+Avenue de Kikwit
+Rue de Bukama
+Rue de Buta
+Rue Lubaki
+Avenue Mgr. Kimbombo
+Avenue Kiobongoy
+Rue Mombo
+Rue Konzo
+Avenue Brabanta
+Avenue Lac Edouard
+Avenue Bungudi
+Avenue Bayaka
+Rue Bantandu
+Avenue Mavungu
+Rue Madiakoko
+Rue Bas Congo
+Rue Kassi
+Avenue Basalapasu
+Avenue Bambala
+Rue Muabi
+Rue Mungumungu
+Rue Belaki
+Rue Mvuete
+Rue Kinkola
+Rue Mbozi
+Rue Tongoni
+Avenue Lemba
+Avenue Tonde
+Avenue Mpumbu
+Rue Ntoya
+Avenue Kiluinzi
+Avenue Mongoluala
+Rue Basakata
+Rue Baluba
+Rue Baswahili
+Rue de Ganeketi
+Rue de Mawanga
+Rue de Kibunda
+Rue de Ubangui
+Rue de Mayulu
+Rue de Luvua
+Rue de Yonsomba
+Avenue Kama
+Avenue Kifunga
+Avenue Kipata
+Avenue Kikweta
+Avenue Yoko
+Avenue Bandulugu
+Avenue Mompoy
+Avenue Makere
+Avenue Kembe
+Avenue miningulu
+Avenue Wado
+Avenue Mabika
+Avenue Mombesa
+Avenue Gindu
+Avenue Kimpwanza
+Rue de kibunda
+Avenue Bokia
+Rue Benkana
+Avenue Bangala
+Avenue Kasa-Vubu
+Avenue Mpolo
+Avenue Nzeza
+Rue Kasilu
+Rue Kwenge
+Rue Kwango
+Rue Lumbi
+Rue Nganaketi
+Rue Lukala
+Rue Loyi
+Rue Diata
+Rue Wamba
+Rue Popokabaka
+Rue Itari
+Rue Petepete
+Avenue Mbuyi
+Avenue Lundula
+Avenue Mapende
+Avenue Finant
+Avenue Muntuadi
+Avenue Maboto
+Avenue Fesa
+Ntomueyi
+Lusansu
+Avenue SEP
+Avenue Bukala
+Avenue Ibwani
+Mongo
+Wassa
+Bikuku
+Avenue Bateke
+Avenue Bahumbu
+Ndelo
+Avenue Ikunda
+Avenue Emission
+Des ondes
+Matankumu
+Avenue ACP
+Avenue orientation I
+Kifoi I
+Orientation II
+Kabongo
+Orientation III
+Ngabenge
+Kimpoko
+Nzazi
+Wenie
+Mayumakala
+Kimia
+Kamango
+Charité
+Ekutshu
+Yamfu
+Avenue Kingabwa
+Avenue Division
+Nzongo
+Liberté
+Mangala
+Marechal
+Bobozo
+Ambassadeur
+Muamba
+UDPS
+Ngufulu
+Orientation
+Kamutsha
+Liboke
+Idiofa
+Kimiala
+Avenue du congo
+Avenue Goma
+Avenue Kasai
+Makengo
+Masimango
+Route des Mineurs
+Avenue Mobutu
+Todinga
+Rue Ngudifaka
+Rue Kimpe
+Rue Kabongo
+Avenue du Marché
+Avenue Kwango
+Avenue Bahumbu
+Avenue des Frères / Rue Kikwit
+Avenue Kimpwanza
+Rue Songo
+Monette
+Avenue Ebonda
+Avenue Lubumbashi
+Avenue de l'Équateur
+Avenue Congo Ya Sika
+Ekila
+Rue Yanongué
+Avenue du Haut-Congo
+Rue Dr Akinja II
+Avenue Mukwala
+Mawana ( Muwana)
+Drève de Selembao
+Avenue Makasila
+Avenue Budjala
+Avenue Makasila2
+Avenue Lisala
+Avenue Pumbu
+Avenue Lukala
+Avenue Benierwanada
+Avenue Matete
+Avenue Kalwena
+Avenue Ndembo
+Avenue Barundi
+Avenue Kimbundu
+Avenue Tshokwe
+Avenue Babinji
+Avenue Bayeke
+Avenue Manganèse
+Avenue des Manguiers
+5 Av. De musicien
+Rue d'Usumbura
+Rue Ubundu
+3 Av. De musicien
+1 Av. De musicien
+Avenue Colonel Muller
+Avenue Captaine Hanssens
+Avenue Binnie
+0 Av. De musicien
+Avenue Musibasiba
+Avenue des Ateliers
+Avenue Chaltin
+6 Av. De musicien
+Avenue de Tabora
+Rue de Yongama
+Avenue de Lyser
+Avenue Mangubu
+Avenue Pili Pili
+Avenue de la chapelle
+Avenue Lunda
+Avenue Lulua
+Avenue Chrome
+Avenue des Manguiers
+Avenue Argent
+Avenue du 27
+Avenue KATUBA
+Avenue SENDWE
+Avenue de la Révolution
+Avenue KASAVUBU
+Avenue John Seya
+Bloc 6
+Avenue Kitambo
+Bloc 7
+Avenue Rédès
+Avenue Kamanda
+Avenue André Lumbu
+Avenue Kyungu Wa Kumwanza
+Avenue du Complexe Commercial
+Avenue Monga Muyampe
+Bloc 4
+Avenue Les Lushois
+Avenue Papa Erick
+Avenue Babanibaba
+Avenue Mwepu
+Avenue la Colombe
+Avenue de l'Eléphant
+Avenue Kalumba
+Avenue Malonga Kaj
+Avenue Kyungu Wa Kumwanza
+Rue 18
+Avenue Banza Mukalayi
+Avenue Mwa Tshisenge
+Tchangwe bis
+Rue 5
+Avenue Yacinthe Bukasa
+Avenue Kingombe
+Avenue Lwalaba
+Avenue Lac Kivu
+Avenue Muswaswa
+Avenue Nkalanyi
+Avenue Ngwej Seraphin
+Avenue Lubembe
+Avenue Eglise Maranatha
+Avenue Géologie
+Avenue Katanga
+Avenue Masengo
+Avenue Père Tshimanga
+Avenue Lwanza
+Rue Batiste
+Rue Mwant Yav
+Avenue Batabwa
+Avenue Mangowa
+Rue M'siri
+Rue Mwa Tshisenge
+Rue Le Berceau
+Rue Kisa Mamba
+Rue Vatican
+Avenue Telecel
+Rue Mulongo
+Avenue des Wamboto
+Avenue Matoleo
+Avenue Mukalenga Makala
+Avenue Kasaji
+Rue Kaseba
+Rue Kaoma
+Rue Benda Sandongo
+Avenue Mukalenga Makala
+Avenue Masuka
+Kimba
+Rue Kilelabalanda
+Avenue Shangwe
+Rue Bahemba
+Rue 6
+Rue Kashala
+Luapula
+Rue Lwalaba
+Avenue Kalukuluku
+Avenue du Rein
+Avenue Sango
+Avenue de Mwene Ditu
+Avenue de Methe
+Moise Katumbi
+Avenue Pierres Vivantes
+Avenue de l'Uranium
+Avenue Shindaïka
+Rue7
+chemin public
+Kilwa
+Ecole Rhode
+Kalubwe
+Rue 1
+Avenue Kaniama
+Assani
+Katumbi
+Avenue Manono
+Avenue Bukama
+Avenue Lusambo
+Avenue des Sports
+Avenue Lubudi
+Avenue Lubumbashi
+Avenue Basanga
+Avenue Kanda Kanda
+Avenue Lusambo
+Avenue Mweka
+Avenue Tshofa
+Avenue Chute Lofoi
+Avenue du Marché
+Avenue Zambèze
+Avenue Lac Kivu
+Avenue de l'internat
+Avenue Dikuluwe
+Avenue Kolwezi
+Avenue Baluba
+Avenue Fungurume
+Avenue Balamba
+Avenue Nkole
+Avenue Babemba
+Avenue Tshimanga
+Avenue Moba
+Avenue Tshebwe
+Avenue du Foyer Penga Penga
+Avenue Kolwezi
+Avenue Lac Kipopo
+Avenue Dikuyi
+Avenue Kabamba
+Avenue Pataule
+Avenue Sangwa
+Avenue Duga Kubetero
+Avenue Ndala
+Avenue Kenge
+Rue Kiswishi
+Avenue de la Basilique
+Avenue de Lubudi
+Rue Kayinda
+Rue Tshisenda
+Rue Kasumbalesa
+Rue 3
+Rue 1
+Rue Sakania
+Rue Mokambo
+Rue Kafira
+Chemin public
+Avenue Kalulako
+Avenue Mukema
+Avenue Lwela
+Avenue Le Savant Congolais
+Avenue des Ecoles prolongée
+Avenue Artisan
+Avenue la Nuée
+Avenue Circulaire
+Avenue Jolie Soire
+Avenue Bendera
+Avenue Beya
+Avenue de l'Eglise
+Chemin public
+Avenue Kazembe
+Avenue Kamalondo
+Rue Bienge
+Rue Kamalondo
+Rue Kalulako
+Avenue du Cadastre
+Rue Mulopwe 1
+Rue Kyembe
+Rue Kasongo wa Nyembo
+Rue Kadogo
+Rue Mungwej
+Rue Lukombi
+Rue Kimilolo 1
+Rue Lwembe
+Rue Chemin Publique
+Rue Mzee
+Rue Uhuru
+Rue Sobongo
+Rue Kimbo
+Rue Moke
+Rue Kamina 1
+Rue Kimolo 2
+Avenue Kamalondo
+Avenue Kamasaka
+Rue du Vervier
+Avenue Kamibanga
+Avenue Kilobelobe
+Avenue Kata
+Rue Vangu
+Rue Kassa
+Rue Mzee
+Rue Mibanga
+Rue Mubingayi
+Rue Mulopwe 2
+Rue Kyembo
+Rue Mivezi
+Rue Stela
+Rue 5
+Rue Shaka
+Rue Kabaya 2
+Rue Kamine
+Rue Kasomeno
+Rue Miamba ya Kebe
+Rue Lucie
+Rue Kafubu
+Rue Mwanza Lulu
+Rue Luva
+Rue Tanganyika
+Rue Kaosi
+Rue Kabaya 1
+Rue Djafari
+Rue Peza
+Rue Djadja
+Rue Kisalaba
+Rue Kapaya
+Rue Kisala
+Rue Kamibanga
+Rue Kimbo
+Rue Mubanga
+Rue Kileshi
+Rue Mienzi
+Rue Kitobo
+Rue 3
+Rue Mulumba
+Rue Yafiotwe
+Rue Mukalu
+Rue Nyunzu
+Rue Tont Vachange
+Le Rock
+Avenue Kasongo wa Nyembo
+Chemin public du cadastre
+Avenue Ngoie Mutele (Chemin public)
+Avenue Kapimo
+Avenue Lobutu
+Avenue Maramba
+Avenue du Lac Munkamba
+Avenue Batwa Senda
+Avenue Ndjolo
+Avenue Lisala
+Avenue Bangali
+Avenue Sankuru
+Avenue Binanga
+Avenue Basoko
+Avenue Sapinier prolongé
+Chemin Public
+Avenue Kamwashi
+Avenue Kaleja
+Avenue Boungevier
+Avenue Sapinières prolongées
+Avenue Nyembo
+Avenue Mukadi
+Rue V
+Avenue Kimbwambwa
+Avenue Souzanella
+Avenue Yahuma
+Avenue des Lauriers
+Avenue Boungevier
+Avenue des Lilas
+Avenue Kayunge
+Avenue Bumba
+Avenue Fizi
+Avenue Bangu Bangu
+Avenue Mahagi
+Avenue Boende
+Avenue Disangi
+Avenue Nyangara
+Avenue des Héritiers
+Avenue des Agaves
+Avenue des Boissons II
+Avenue des Abricotiers
+Avenue Basanga
+Avenue des Bayeke
+Avenue des Batwaba
+Avenue de Kipushi
+Avenue Kakontwe
+Avenue Kipushi II
+Rue Kalenda 2
+Rue Lokong
+Avenue Uvira I
+Avenue Lokolo
+Rue Kajileshe
+Avenue du Boulanger I
+Avenue de Kaonde
+Avenue Panda
+Avenue Lunda
+Avenue des Sports
+Camp Kiebe (SNCC)
+Rue Tumbwe
+Rue Sila Simba
+Rue Lukuni
+Rue Munama
+Rue Lwisha
+Rue Kapolowe
+Rue Baya
+Rue Baya
+Avenue de Kolwezi
+Rue Tumbwe
+Rue Munama
+Avenue Sila Simba
+Rue Lukuni
+Avenue de Moba
+Avenue Circulaire
+Rue 2
+Rue 1
+Rue 3
+Rue Kabembe
+Rue Lubembe
+Rue Kasumbalesa
+Rue Musoshi
+Rue Kainda
+Rue Tshisemba
+Rue Kafira
+Sotumongo
+Rue Ritumbwe
+Rue Silas Simba
+Rue Silantembo
+Rue Mokambo
+Rue Kafura
+Rue Sakania
+Avenue du Cuivre
+Avenue de l'Administration
+Avenue des Ecoles
+Avenue Titanic
+Avenue Centrale
+Avenue des Bakusu
+Avenue Kakontwe
+Avenue Kaonde II
+Avenue Monga
+Avenue Kimba
+Avenue des Usines
+Rue Kazumba
+Avenue du Cuivre
+Avenue Kongolo
+Avenue du Zinc
+Avenue Luano
+Avenue des Baluba
+Avenue Salama
+Avenue Mumgomba
+Avenue Bulaya I
+Avenue Bulaya II
+Avenue Verte
+Avenue Wenge
+Rue Kabulo 2
+Avenue de Kabamba
+Avenue Bangwelo
+Avenue 2
+Avenue 4
+Rue 8
+Rue 7
+Avenue 5
+Rue 25
+Rue 26
+Rue 28
+Rue 27
+Rue 29
+Rue 30
+Rue 17
+Rue 20
+Rue 19
+Rue 18
+Rue 21
+Rue 23
+Rue 24
+Rue 20
+Rue 21
+Rue 22
+Avenue de Sport
+Rue 17
+Rue 19
+Rue 22
+Rue 24
+Rue 21
+Rue 23
+Rue 15
+Rue 13
+Rue 14
+Rue 15
+Rue 16
+Rue Tingitingi
+Rue Manyota
+Rue Mujinga
+Avenue 6
+Rue 13
+Rue 12
+Rue 16
+Rue 13
+Rue 14
+Rue 17
+Rue 20 HT
+Rue 12
+Rue 16
+Rue 20
+Rue 20 étroite
+Rue 13
+Rue 8
+Rue 13
+Avenue des Sports
+Rue 12
+Rue 7
+Rue 5
+Chemin public
+Rue Nawej
+Des Internats
+Rue de la Rivière
+Rue Territoire
+Rue du Lac
+Rue des Eglises
+Rue Mangaza
+Rue De la Riviere
+Rue Kongolo
+Avenue des Ecoles
+Rue Mapendo III
+Rue Buchiri
+Avenue Limite Penaco
+Bembeleza
+Batabwa
+Mbweze/Mbebeleza
+Avenue de la Victoire
+Tshimji (Djuve)
+Avenue Penaco
+Rue Kazadi Mwane
+Rue Lofoyi
+Rue Myamba ya Keba
+Rue Mutombo Mukulu
+Avenue Kampemba
+Rue Du Marché
+Rue Kayabala
+Rue Lubembe
+Rue 7
+Rue 6
+Rue 5
+Rue 4
+Rue 3
+Rue 1
+Avenue Mulumbi
+Rue Kampemba
+Rue Kasombo
+Avenue Baluba
+Rue Fataki
+Rue Shalom
+Rue de l'Église
+Rue de la Victorie
+Avenue Fumu
+Ligrette Simba
+Avenue Regideso
+Avenue Chemin Publique 3
+Avenue Lufu Karibu
+Rue Odi
+Avenue Penaco
+Avenue Songololo
+Avenue Kamaska
+Avenue Kidicho
+Avenue du Lac
+Avenue Lofoi
+Avenue Shiwala
+Avenue Kinshasa
+Avenue Matobo
+Avenue Muteb Dipang
+Avenue Kapopola
+Avenue Mubembe
+Avenue de Kisambi
+Avenue Kyalu
+Avenue Lusambilo
+Avenue Ruwe Prolonge
+Avenue Kifufula
+Avenue des Roches
+Kipopo
+Avenue Le Verger
+Avenue de Cimetière
+Avenue Tenke I
+Avenue Mulutu
+Avenue Zawadi-Bora
+Avenue Kapweta
+Avenue Tshiela
+Avenue Tenke I
+Avenue Sabot I
+Avenue Dibathay
+Avenue Dur
+Rue 7
+Rue 8
+Rue 9
+Avenue Kapanga
+Avenue de la Lukuga
+Avenue Circulaire
+Mwana Shaba
+Kahinda
+Rue Batshokwe
+Rue 1
+Rue Bakuba
+Rue 2
+Rue Balunda
+Gemena
+Rue 3
+Rue 4
+Avenue de la mission
+Rue Chemin Public II
+Avenue Sambwa
+Rue Mbaya
+Rue du Couvent
+Avenue Bon Samaritain
+Avenue Kasungami
+Avenue Kamalenge
+Avenue Dikuluwe
+Avenue Kasekei
+Avenue Ngalala
+Avenue Mitwaba
+Avenue Mukinai II
+Rue Bukavu
+Rue Ujumbura
+Avenue Kinshasa
+Rue 21
+Avenue Mwana-Shaba
+Avenue Tanganyika
+Rue Busira
+Rue Salonga
+Avenue Tshimbalay
+Avenue Sunga
+Avenue Kikungulu
+Avenue Kasungani
+Rue Katete
+Rue Kundelungu
+Rue Kasekeyi
+Avenue Funamina
+Rue Chemin Public II
+Rue Kawama
+Rue Chemin Public I
+Rue Funamina II
+Avenue Kasengeneke
+Avenue Mukowenu
+Avenue Mwambuyi
+Rue 1'
+Rue 2
+Avenue De La Carriere
+Avenue 4
+Rue 1''
+Rue 1
+Rue 2''
+Rue 3
+Rue 2'
+Rue Kabinda
+Avenue Uzumbura
+Avenue Kapopo
+Rue Kanakolwe
+Avenue Musumba
+Avenue Kafubu
+Avenue Sambwa
+Avenue Kafubu
+Rue 17
+Rue 16
+Rue 18
+Rue 19
+Rue 14
+Rue 2
+Rue 1
+Tshiapwe
+Mundi
+Rue Lulua
+Kwango
+Avenue Colonel Muzimba
+Avenue de Vua
+Avenue Mwanga
+Avenue Lundula
+Avenue Tshiama
+Avenue Ngoie Yenge Kyansonyi
+Avenue de la Luano
+Rue 2bis
+Avenue Colonel Tshatshi
+Rue Armée du Salut
+Rue Tshokwe
+Chef Shindaika
+Shindaika
+Rue 10
+Rue 7
+Rue 9
+Zambia
+Rue 8
+Rue 6
+Rue 11
+Avenue De L'uranium
+Avenue De La Victoire
+Avenue Mayonde
+Avenue Bukama
+Sanguza
+Kyungu
+Chef Shindaika
+Rue 5
+Avenue du 17 Mai
+Nianza
+Kamina
+Avenue Mungomba
+Kilwa
+Madiakudiaku
+Zawadi
+Kakanda
+Rue 3
+Rue 4
+Rue 5a
+tshola
+tshilenge
+Avenue Kaponda
+Ruwe
+Rue 5
+Masengo
+Tshilumba
+Avenue Baringwa
+Avenue Mwant-yav
+Avenue du Cimetière
+Avenue Jean paul II
+Des Eloges
+Dr Lunumbi
+Avenue des Eloges
+Avenue Kundelungu
+Avenue Musesa
+Avenue Bosanga
+Avenue du Marché
+Avenue Tshangolowe
+Avenue Lubefu
+Avenue Makwarunzu
+Avenue Songela
+Avenue Musonoïe
+Avenue Panda
+Avenue Kamina
+Avenue Bukavu
+Avenue Kasombo
+Avenue des fondeurs
+Avenue Lufira
+Avenue Kamoto
+Rue Mbunda
+Avenue Kapenta
+Avenue Kisimba
+Rue Musoshi
+Avenue de Bukama
+Rue Kabembe
+Avenue de Kambove
+Rue 2
+Avenue kilobelobe
+Avenue Mulemba
+Avenue Kitumaini
+Avenue Avril
+Chemin Public 3
+Avenue Kinda
+Avenue le Roc
+Rue des Écoles
+Rue Kakatayi
+Rue Mulongo
+Rue Hewa Bora
+Rue Mutokole
+Rue 4
+Rue Pepa
+Avenue Baobab
+Avenue Ambonias
+Avenue des Mandariniers
+Avenue des Oliviers
+Avenue des Flamboyants
+Avenue Cafeier
+Avenue du Cadastre
+Avenue des Pommier
+Avenue des Riguiers
+Avenue des Abricotiers
+Avenue des Paypayers
+Avenue des Pins
+Avenue Dibaya
+Avenue Naviundu (Chemin public)
+Avenue Maniema
+Avenue Kabongo
+Avenue Susanella
+Avenue Yangambi
+Rue III
+Avenue des Daturas
+Avenue de la Ruashi
+Avenue Basoko
+Avenue Naviundu
+Avenue des Sapinières prolongé
+Avenue Kanene
+Avenue Bunia
+Avenue Bunia Beton
+Avenue Batabwa
+Avenue Bondo
+Avenue Mutoto
+Avenue Crocodile
+Avenue Kampemba
+Avenue Dilungu
+Avenue des Sports
+Avenue Kalenda
+Rue Ya Bahonde
+Avenue de Lukafu
+Avenue de Kilwa
+Avenue de Pweto
+Avenue Kikanda
+Avenue des Bakusu
+Avenue Abbe Kasongo
+Rue Kabembe
+Avenue de Sindaka
+Avenue Sante
+Avenue Circulaire
+Avenue du Cuivre
+Avenue Koyagialo
+Avenue Kiwanza
+Avenue Bakowa
+Avenue Kantotoka
+Avenue du Cercle
+Avenue Tshiswaka
+Rue IV
+Avenue Chemin public
+Rue Karavia
+Rue 5
+Rue 4
+Avenue Umoja
+Avenue du Cobalt
+Rue Saidi
+Avenue Luapula
+Rue Ushindi
+Avenue Tanganika
+Rue des Sports 2
+Rue Kipushi
+Avenue Lomami
+Avenue de Kabamba
+Rue Miao
+Rue Mbuji-Maï
+Rue Sankuru
+Avenue Luembe
+Rue Lubilanji
+Rue Asumani
+Avenue Kabalo
+Avenue Kalemie
+Rue 7
+Rue 9
+Avenue Pongolo
+Rue 11
+Rue 10
+Rue Kisanga
+Avenue Sakania
+Rue 18
+Rue 15
+Rue 17
+Rue 6
+Avenue Sokwe
+Avenue Fleuve Congo
+Rue des Sports 2
+Rue Tanganyka
+Rue 1
+Rue 3
+Rue 2
+Rue 4
+Rue 13
+Rue de la Ferme
+Avenue Kapenda
+Avenue Mukoswa
+Rue Bisote
+Odi Karibu
+Rue Kabongo
+Rue Toubikilisa
+Rue Siska
+Rue Kafubu 2
+Rue Toulisana
+Rue des Écoles
+Rue de la Rivière 2
+Rue Terri
+Avenue Tulizana
+Kayembe
+Tshimji (DJuve)
+Rue Kikuyu
+Rue Kazembe
+La Grace
+Avenue Persévérance
+Avenue Kongolo
+Avenue de Kabinda
+Avenue Kikwit II
+Avenue Kikwit I
+Avenue Circulaire
+Rue 2
+Avenue Isangila
+Avenue Basongo
+Avenue des Roches
+Avenue de Bunkeya
+Avenue Lukonzolwa
+Avenue Major Vangu
+Avenue Niunzu
+Avenue Kapolowe
+Avenue Ditu
+Avenue Kalenga
+Avenue Kasongo-Nyembo
+Avenue de Mpala
+Avenue Sombe Sombe
+Avenue Mwenda
+Avenue Lukafu
+Avenue Musofi
+Avenue Nyota
+Avenue Chuma
+Avenue Kananga
+Avenue Rumb
+Avenue Mitonga
+Avenue Nyembo Delphin
+Avenue Kahutu
+Avenue Zawadi-Bora
+Avenue des Deux Vérités
+Avenue B 52
+Avenue Tenke II
+Avenue du Commerce
+Avenue Géneral Muyumba
+Avenue Kalolako
+Avenue Ndala
+Avenue Mwamba
+Avenue Méthodiste
+Avenue Salveta
+Avenue Lidjo
+Avenue Kahutu
+Avenue Kibwe Pampala
+Notre-Dame catholique
+Avenue Kanyama
+Chemin public
+Avenue Tshondo
+Avenue Kanyama
+Avenue Penga-Penga
+Avenue Sanguza
+Kanyama bis
+Avenue des Briquetiers
+Avenue Shebwe 2
+Avenue Shebwe 1
+Avenue Foyer Penga-Penga
+Avenue Magistrat Kakudji
+Avenue Bemba Mwiba
+Avenue Jourdain
+Avenue Robertom
+Avenue Liliane
+Avenue Longanja Guy
+Avenue Du Camp II
+Avenue Prudent
+Avenue Kapolowe
+Avenue Kalubi
+Avenue de la Haute Tension
+Avenue de la Mission
+Avenue Ngoy Ngoy
+Avenue Nsenia
+Avenue STL 1
+Avenue Hubert Kirongozi
+Avenue Ilunga Monga
+Avenue Ndumi
+Avenue Azad
+Avenue Kisula
+Avenue Maman Safi
+Bloc 1
+Avenue Dominique Kikonde
+Avenue Zoe
+Avenue Beryl
+Avenue Kasese
+Avenue Bula
+Avenue Nonda
+Avenue Singa
+Avenue de la Rivière
+Avenue Misha
+Avenue Rumb
+Office des Routes
+Avenue de l'Energie II
+Avenue de l'Energie
+Avenue Changalele III
+Avenue Changalele II
+Avenue Shahiya
+Avenue Mohamed
+Avenue Mandunga
+Avenue Kilengwe
+Avenue de la Moto
+Avenue des Elites
+Avenue Maman Saïdi
+Avenue Oasis
+Mohamed
+Avenue Mandungu
+Avenue Ouagadougou
+Avenue Okapi
+Avenue de Molundu
+Avenue Biabule
+Avenue Mwengwe Mata
+Avenue K. Fupe
+Avenue Evariste Kimba
+Avenue Kahilu Koj
+Avenue Kisula Ngoy
+Avenue Kibasa Maliba
+Avenue Commerciale
+Avenue Dikonzo
+Avenue de la Luano
+Rue 14
+Avenue Unazai
+Avenue Kaponda
+Avenue Mutombo
+Rue 19
+Rue 20
+Rue XVI
+Rue 14
+Avenue Kibasa Maliba
+Avenue Manika
+Rue 4
+Avenue Shituru
+Lumpungu
+Avenue Imara
+Avenue du Depôt
+Avenue du Palmier
+Avenue Lomami
+Avenue Balnière
+Avenue du Potager
+Avenue Lemera
+Avenue de la Rivière
+Avenue Danis
+Avenue Kabongo
+Avenue de Plateau
+Avenue Maman Ilunga
+Avenue Mubanzo
+Avenue Bayukita
+Avenue Kalani
+Avenue Mbomb
+Avenue Katembo Adolphine
+Avenue Mukebo
+Huit Mulongo
+Avenue Mangue
+Avenue Kasongo
+Avenue Mizumi Theophile
+Avenue de l'est
+Avenue Jimmy Kazembe
+Avenue Amisi
+Avenue Muchebele
+Avenue Colonel Kasongo Nongolola
+Avenue des As
+Avenue Ribambele
+Avenue Fatuma
+Avenue Muchebele
+Avenue Papa Yuma
+Avenue Les Battants
+Avenue Tabiale
+Avenue Mwandwe
+Avenue Kalyibo
+Avenue Kipuluka
+Avenue Bien Aimés
+Avenue Chef Kenge
+Avenue de la Loi
+Avenue Kasende
+Avenue Ramazani
+Avenue Rubi
+Avenue In Mazaz
+Avenue Mulungwishi
+Avenue Lac Murung
+Avenue Ngombe
+Avenue Tshiela
+Avenue Office de Routes
+Avenue Dessinateurs
+Avenue du Jalon
+Avenue des Urbanismes
+Avenue des Mines
+Avenue des Arpenteurs
+Avenue Kaseke
+Avenue des Lunettes
+Avenue Géometre 1
+Avenue Katuma
+Avenue des Enseignants
+Avenue des Colonels
+Avenue Antenne
+Rue Kyona Nzini
+Avenue Kalemie
+Avenue Circulaire
+Rue Mulongo
+Avenue de la Ferme I
+Lomela
+Avenue Gemena
+Rue 5
+Tshuapa
+Lomela
+Rue 6
+Rue Kamaamba
+Kaniama
+Rue Mwamba
+Avenue Kafubu
+Sentier Mumba
+Avenue Changalele
+Avenue du Domaine
+Avenue Kambikila
+Avenue Lupweshi
+Rue des Arbres
+Avenue Kikungulu
+Rue 22
+Rue 20
+Avenue Kabambare
+Avenue Kyungu / Cheval Blanc
+Avenue Kalemi
+Avenue Maranata
+Avenue Des Ecoles
+Avenue Dikuluwe
+Avenue Mukinay I
+Avenue Terrasse Ilunga
+Rue 15
+Kwilo
+Boulevard Mubaya
+Rue Mumboyo
+Rue Mwamba
+Rue Lukenya
+Rue Fimi
+2
+Avenue du Marché
+Avenue du President
+Avenue Lothaire
+Troisième Transversale
+Avenue de l'Hopital
+Avenue Kisalwa
+Avenue Circulaire
+Avenue KOLWEZI
+Avenue LUJIMA
+Avenue LUMUMBA
+Avenue De La Mission
+Avenue De Saio
+Avenue Electolyse
+Avenue Kasongo
+Avenue Kasongo Michel
+Avenue Kivu
+Avenue Lomani
+Avenue Maniema
+Avenue Mwango
+Avenue Nzilo
+Avenue Sankuru
+Avenue Tanganika
+Avenue Tshangalece
+Avenue Upemba
+Boulevard Kamanyola
+Route de Kamatanda
+Avenue Astrid
+Avenue des Arômes
+Avenue des Cocotiers
+Avenue du Vallon
+Avenue Kadutu
+Kabuabua
+Avenue Basoko
+Avenue Ngaliema
+La Paix
+Liberté
+Lumière
+No name
+Rue Abbé Kaozi
+Rue de L'équateur
+Tshibambi
+Kenge
+Kimbao
+Kolas
+Kwilu
+Luebo
+Luka
+Mosamba
+Panzi
+Rue de Bambili
+Rue de Bondo
+Rue de Kingabwa
+Rue de la Yolo
+Assolongo
+Avenue Inga
+Rue Babonge
+Rue Balari
+Rue Biboanga
+Rue Bukaka
+Rue Bundi
+Rue Bungu
+Rue Isangila
+Rue Kansavu
+Rue Kimbanza
+Rue Kimvula
+Rue Loango
+Rue Luima
+Rue Lulua
+Rue Lutshuma
+Rue Nzobe
+Rue Palabala
+Rue Patu
+Rue Ruwenzori
+Rue Sundi
+Rue Tsanga
+Rue Tuidi
+Rue Wombo
+Avenue de Zomfi
+Luozi
+Rue de Binanga
+Rue de Bomboma
+Rue de Gemena
+Rue de Kasangulu
+Rue de Kimpemba
+Rue de Sandoa
+Rue de Luvungi
+Avenue de Kapanga
+Avenue de Kongolo
+Avenue de la Région
+Avenue de la Tshuapa
+Avenue Dodoma
+Avenue du Sankuru
+Avenue du Village
+Avenue Kalembelembe
+Avenue Kigoma
+Avenue Kitega
+Avenue Mbomu
+Rue de Baraka
+Rue de Kabalo
+Rue de Kibate
+Rue de Kindu
+Rue de Luapula
+Rue de Luvungi
+Rue de Maluku
+Rue de Mbanza-Ngungu
+Rue de Songoloto
+Rue de Tshela
+Avenue Pierre Elengesa
+Mbaya
+10e Rue
+20e Rue
+Avenue Bakusu
+Avenue Kingunda
+Avenue Kinsudi
+Avenue Kitona
+Camp Pinzi
+Rue Bagata
+Rue Denis
+Rue Gama
+Rue Kamina
+Rue Katu
+Rue Kingete
+Rue Niemba
+Rue Nioki
+Rue Sakania
+Lukula
+Avenue Essabe
+Bisimwa
+Ebengo
+Ilunga
+matondo
+Avenue Caisse d'Epargne
+Avenue des Étoiles
+Avenue de Tabora
+Avenue Gemena
+Avenue Milambo
+Avenue Mpeti
+Avenue Mwene-Ditu
+Avenue Nyembo
+Avenue Révolution
+Place de la République
+Promenade de la Raquette
+Rue de l'étoile
+Avenue Banku
+Avenue Baudouin
+Avenue Butulu
+Avenue du Lac
+Avenue Fayala
+Avenue Fiadaka
+Avenue Kasongo Sangolo
+Avenue Mbee
+Avenue Mongata
+Baku
+de la Paix
+Masitu
+Mutombo
+Rue Kinguzi
+Rue Mulula
+Rue Ntanga
+10ème Rue
+15ème Rue
+16ème Rue
+1ère Rue
+2ème Rue
+3ème Rue
+4ème Rue
+5ème Rue
+6ème Rue
+7ème Rue
+8ème Rue
+9ème Rue
+Bateke street
+Apate
+Avenue Lukwila
+Bangamelo
+Bomokandi
+Lubefu
+Lufira
+Lufuku
+16ème Rue
+Av. Esengo
+Av. Inkisi
+Av. Kimani
+Av. Kimbenza
+Av. Kinzambi
+Av. Kinzola
+Av. Madimba
+Av. Matadi
+Av. Mayinda
+Av. Sukami
+Av. Tango
+Av.Tukakongo
+Kingabwa
+Luwezu
+Mambufu
+Masuala
+Mongana
+Nfunzu
+Ngana
+Rue de la Commune
+Rue Kabila
+Rue Ngambo
+Rue Nzungu
+Sakuba
+Wunga
+Avenue Bomongo
+Avenue Loango
+Avenue Ludisi
+Avenue Songi
+Avenue Tombe
+Bantandu
+Commercial
+Dianga
+Katalay
+Rue Sabena
+Telex
+Avenue de La République
+Avenue des Sports
+Avenue Frédéric
+Avenue haute tension
+Avenue Haute Tension
+Avenue Kalume
+Avenue Kimbwala
+Avenue Kutu
+Avenue Luzizila
+Avenue Malweka
+Avenue Maso Lokele
+Avenue Mbinza
+Avenue Trois Vallées
+Avenue Yumbu
+Avenue Zeka
+Chemin e Dames
+Colline
+Lubumbashi
+Mwayuma
+Rue Vunga
+Rue Wanba
+Avenue Etonga
+Avenue Nino
+Avenue Looko
+Avenue tshitenge
+Avenue Accasias
+Avenue des Grevilleas
+Avenue Ecoles
+Avenue Parallèle
+Avenue Tulipiers
+Avenue Walikale
+Rue Lyn Lusi
+Avenue du Commerce
+Avenue Mgr Nzita
+Avenue Babemba
+Avenue Kajama
+Rue 8
+Avenue Cocaine
+Avenue des Bauhinias
+Avenue des Etangs
+Avenue des Mimosas
+Avenue du Lotus
+Avenue Kanzele
+Avenue Mbuyu
+Avenue Tshabangani
+Avenue des Dahlias
+Avenue des Glaïeuls
+Avenue Garengaze
+Avenue Kinda II
+Avenue du Cimetière
+Avenue Kampemba
+Avenue Kapata
+Avenue Naviondo
+Chemin public
+Avenue Kisanga
+Chemin public
+Rue Kiyombo
+Territoire
+Rue Luebo
+Rue 10
+Rue 11
+Rue 12
+Rue 13
+Rue 6
+Rue 7
+Rue 8
+Rue 9
+Rue 1
+Rue 2
+Rue 3
+Rue 6
+Ruelle
+Rue Muzuzu
+Rue Baraka
+Rue 15
+Rue 16
+Rue 2
+Rue Kahozi
+Rue Mayenge
+Rue II
+Rue Bakanja
+Rue Mangaza
+Avenue Tubiangariye
+Rue Esther
+Rue Papa Pierre
+Rue Chemin Publique
+Rue Kampanga
+Rue Lwika
+Avenue de L'Officier
+Rue Kinka
+Avenue Kamalondo
+Rue Kafira
+Avenue Kapemba
+Avenue de Kasenga
+Avenue de la Munama
+Avenue Kikanda
+Rue Aruwini
+Avenue Ilunga
+Avenue Kaponda
+Avenue Kundelungu
+Avenue Mimbulu
+Avenue Nzenza
+Avenue Sadiki
+Avenue Sankuru
+Rue IV
+Rue XII
+Avenue des Boissons
+Avenue des Elephants
+Avenue Kilomoto
+Avenue des Etoiles
+Avenue du Marché
+Avenue du Soleil
+Rue I
+Rue Pepa
+Rue VII
+Avenue Nyembo
+Square d'Uvira
+chemin public
+Avenue de Lubutu
+kindu
+Avenue Ilunga Ndala
+Avenue Ouagadougou
+Avenue Kashobwe
+Avenue Mwando
+Avenue Kashobwe
+Avenue Lumpungu
+Boundy
+Avenue Afia
+Avenue Baraka
+Avenue Camp Misepe
+Avenue Circulaire bis
+Avenue de la Mosquée
+Avenue du Carmel
+Avenue Kabwit
+Avenue Kapolowe
+Avenue Lipu
+Avenue Mapendo
+Avenue Moanda
+Avenue Mwangaza
+Avenue Ndemba
+Avenue Nuru
+Avenue Okapi
+Avenue Songa
+Avenue Zebra
+Avenue des Cimetières
+Avenue des Ecoles
+De l'Eglise
+Avenue Kakontwe
+Avenue Kindu
+Avenue Sarazin
+Avenue de la Joie
+Avenue Général Kyabu
+Avenue Kaite
+Avenue Kangunga
+Avenue Makolo
+Avenue Viens et vois
+Kaite
+Avenue des Amaranthes
+Avenue des Violettes
+Avenue Dondji
+Avenue Boya
+Avenue Kaseba
+Avenue Fizi
+Avenue Nsenga
+Avenue Ocean
+Chemin public
+Avenue du Camp
+chemin public
+Chipeng
+Avenue Pangula
+Avenue de la Victoire
+Mukulu
+Rue 2
+Avenue des Cimetières
+Avenue Dondji
+Avenue du Cable
+Avenue Du Cuivre
+Avenue du Pasteur
+Avenue Kaponda
+Avenue Kasongo 2
+Lukumba
+Rue 6
+Avenue Jupiter
+Avenue Charpentier
+Rue 4 Poteaux
+Avenue de la Grâce
+Avenue des Oliviers
+Avenue du Congo
+Avenue du Camp
+Avenue Kaseba
+Avenue Sola
+Avenue Double Poteau
+Avenue du Collège
+Avenue Lulua 2
+Avenue Lwena
+Avenue Basantu
+Avenue de Garage
+Avenue Jacob
+Avenue Sanière
+Avenue des Ecoles
+Avenue Kakanda
+Avenue Kasumbalesa
+Avenue Kinkonja
+Avenue Shiwala
+Avenue Katanda
+Avenue Lupembe
+Avenue Saint Andre
+Avenue Kahembwe
+Avenue Vua
+Avenue de la Paix
+Avenue de la Victoire
+Avenue de Tennis
+Avenue Nguba
+Avenue Nyangwe
+Avenue Towa
+Avenue Mwangaza
+Avenue Amani
+Avenue Lualaba
+Avenue Mampala
+Avenue Mwanza
+Avenue Kabolela
+Avenue Lufira
+Rue 6
+Rue des Sports 2
+Avenue Kabuyi
+Avenue Luebo
+Avenue Musonoïe
+Avenue Luebo
+Route de la Karavia
+Avenue Kafubu
+Avenue Kaya
+Avenue Tshebwe Prolongée
+Rue Lofoyi II
+Avenue Lwebo
+Avenue Makutano
+Rue de La Garre
+Avenue Osoke 2
+Avenue CS Cyky
+Avenue Podomètre
+Avenue de la Restauration
+Avenue De la Restauration
+Avenue Calcaire
+Avenue Contribution
+Avenue de la Borne
+Avenue Makutano
+Avenue Ruban
+Avenue de la Nation
+Avenue des Gisements
+Avenue Chemaf
+Avenue de L'Eglise
+Avenue de Méthodiste
+Avenue des Arpenteurs
+Avenue Dessinateurs
+Avenue de La Paix
+Avenue Djamena
+Chemin public
+Avenue Circulaire
+Avenue des Urbanistes
+Avenue des Bananiers
+Avenue des Filaos
+Avenue des Manguiers
+Avenue des Nefliers
+Avenue Prunier
+Avenue Aru
+Avenue de Sapiniers
+Avenue des Églantiers
+Avenue des Érytrines
+Avenue Wamba
+Avenue Watcha
+Avenue Neflier prolongé
+Avenue des Baluba
+Avenue Ngoy
+Avenue Sifa
+Avenue Tele
+Avenue 7
+Avenue Kalemie
+Avenue Kinama
+Avenue Kolwezi
+Avenue Zaina
+Avenue Des Premices
+Avenue Mwadingusha
+Bloc IX
+Bloc VII
+Rue 5 Ans
+Rue Fungurume
+Rue Kongolo
+Rue Mwadingwisha
+Avenue de la Mission
+Avenue Mama Kibawa
+Semtier
+Bahemba
+Avenue Hewa Bora
+Avenue Luputa
+Avenue Upemba
+Avenue Nguba
+Avenue du Zambèze
+Avenue Babwabwa
+Avenue Sango
+Avenue du Cobalt
+Avenue de la Lubumbashi
+Avenue du Canal
+Avenue du Cuivre
+Avenue Circulaire
+Avenue du Katanga
+Avenue De La Maternite
+Avenue Simama
+Avenue du Kasai
+Avenue Jason Sendwe
+Avenue Mwepu
+Avenue de Tabora
+Rue 4 Bis
+Rue 5
+Rue 5
+Rue 6
+Rue 7
+Rue 8
+Rue Kamoa
+Avenue Mastaki Nyembo
+Avenue Mwa Tshisenge
+Avenue de la Paix
+Avenue des Cabines
+Avenue Kibalongo
+Avenue Mukulukulu
+Avenue Lwebo
+Avenue Sakania
+Avenue Vision
+Avenue Flambloyant
+Avenue Flamboyant
+Avenue Jean Ilunga
+Cabine SNEL
+Avenue Mandungu
+Avenue Oasis
+Avenue de l'Amitié
+Avenue Kandolo
+Avenue Katuba
+Avenue Kenda Biela
+Avenue Lumpungu
+Avenue Mpanga
+Avenue Nyembo
+Avenue Twikale
+Avenue Pongolo
+Avenue Kabuya
+Avenue Nonda
+Baba Zive
+Défendeurs
+Kasweshi
+Défendeurs
+Kibasa
+Kitungulu
+Négociants
+Avenue des Etoiles
+Avenue Maman Misakabu
+Avenue Pl. Publique
+Avenue Jimmy Kazembe
+Avenue Katamea
+Avenue Kiambi
+Avenue Ulindi
+Avenue du Club Nautique
+Avenue Manyonya Grand Baobab
+Avenue Marcel Nsenga
+Avenue Mwepu
+Avenue Tshiela 2
+Avenue Kambu
+Avenue Kiboko
+Avenue Tuta
+Avenue Kaminungu I
+Rue 28
+Rue 29
+Rue 30
+Rue 31
+Rue 32
+Rue 33
+Rue 34
+Avenue Karavia2
+Rue Katete
+Territoire
+Avenue Manika
+Avenue Muanda
+Avenue Ntambwe
+Avenue General Tshibumb
+Avenue Kalunga
+Avenue Upemba
+Avenue Likasi
+Avenue Lualaba
+Avenue Sandoa
+Chemin public
+Avenue Manda Kansabala
+Avenue Marina
+Avenue Lulua
+Avenue Lwamba
+Avenue Maïs
+Avenue Nguvi
+Avenue de la Ferme
+Avenue Maindombe
+Avenue Maniema II
+Avenue Ankoro
+Avenue Bonzele
+Avenue Des Merveilles
+Avenue Du Camp I
+Avenue Kahasha Mwenze
+Avenue la Persévérance
+Avenue Magnetisme
+Avenue Mulo
+Avenue Sola
+Avenue Sumaïli
+Avenue Cosmas Shungu
+Rue Luvua
+Avenue Bawusa
+Kabamba
+Avenue STL 2
+Avenue de la Haute Tension
+Singa
+Route Manshinga
+Avenue la Grâce 2
+Avenue Champ du Potier
+Avenue Mayisha
+Avenue Sabot II
+Avenue Mafuta
+Avenue Mugimba
+Avenue Mwema
+Avenue Mayisha
+Avenue Patient Kaimbi
+Avenue Luhata
+Avenue Adventiste
+Avenue God Sud
+Avenue Kabwe S
+Avenue Fizi
+Avenue Chantal
+Avenue Leopold I
+Avenue Lieutenant Simonet
+Boulevard Reine Elisabeth
+Avenue Tshilomba
+Avenue Bulungu
+Avenue Kikwit
+Avenue Shaba Kivu
+Boulevard kamanyola
+Avenue Des Chantiers
+Avenue Gambela
+Avenue Du Commerce
+Avenue Kaponda
+Avenue De La Mine
+Avenue Du Plomb
+Avenue Ecofe
+Avenue Swakala
+Avenue Du Marche
+Avenue Des Austeurs
+Avenue De La Police
+Avenue Kikuyu
+Avenue Shamalenge
+Avenue Lukoshi
+Avenue Du Magnese
+Avenue Lualaba
+Avenue Basanga
+Avenue Kipushi
+Avenue Livingstone
+Avenue Mwadingusha
+Avenue Lupweshi
+Avenue Dilolo
+Avenue Matala
+Avenue Bakuvu
+Avenue Lusambo
+Aveneu pande
+Aveneue Manono
+Avenue Kindu
+Avenue Stanley
+Avenue De Bronze
+Avenue Mukumbi
+Avenue Lubundi
+Avenue Des Ecoles
+Avenue Foyer Social
+Avenue Mbandaka ?
+Avenue Muhumba
+Boulevard de L'abattoire
+Avenue Lushoze
+Rue Trambo
+Corniche de Dendere
+Avenue M. Hansen
+Avenue Mimosa
+Avenue du Plateau
+Avenue de La Ruzizi
+Boulevard de L'athenee
+Avenue Lieutenant Lange
+Avenue de Mahenge
+Avenue Kalehe
+Avenue de La Montagne
+Avenue de Golfe
+Avenue de La Kahawa
+Avenue de La Mission
+Corniche Kahawa Canalisee
+Avenue de La Cite
+Avenue de La Kahawa
+Avenue Inongo
+Avenue Gungu
+Avenue du Parc
+Avenue de la Mission
+Avenue Kasaï
+Avenue Lumumba
+Avenue du Port
+Avenue Idiofa
+Avenue Mangai
+Avenue Mabadika
+Avenue Lutshima
+Avenue Kwango
+Avenue Salongo
+Avenue Yonso
+Avenue Pindi
+Avenue Mukoso (Ex-avenue Kindundu/Bujimbila)
+Avenue Kanza
+Entrée La Tortue
+Avenue Mwamba kalala
+Avenue Kimbanguiste
+Avenue Nzebo
+Avenue Commandant Kwamba
+Avenue Nsadisi
+Avenue Kimbu mabiala
+Entrée Résidences des officiers Camp Redjaf
+Nouvelle avenue
+Avenue Kibunzi
+Avenue Mobutu
+Rue Bukavu
+Avenue Mangaya
+Avenue des Écoles
+Avenue Lubi
+Avenue Lumumba
+Avenue Salongo
+Avenue Likasi
+Avenue Gloire
+Avenue Filair
+Camp des Infirmiers
+Avenue Maniema
+Avenue Lubao
+Avenue Baraka
+Avenue Kitongo
+Avenue Laurent Desire Kabila
+Avenue de l'HOPITAL
+Avenue NK Wakadilo
+Avenue du Port
+Avenue Bukama
+Avenue Kibomo
+Avenue Butumba
+Avenue de la GARE
+Avenue Kapamay
+Rue BAKAMA
+Avenue Pêcheur
+Avenue Ubundu
+Avenue du Commerce
+N. Dirt Road
+S. Dirt Road
+Rue Inongo
+Rue Mahenge
+Avenue Mobutu
+Avenue Géomètre Kisimba
+Avenue Mbuji-Mayi
+Avenue Musokatanda
+Avenue Kananga
+Avenue De La Mission
+Unknown
+unmade road with residential properties
+Avenue du Gouverneur
+Rue de Luapula
+Rue de Baraka
+Avenue Kalembelembe
+Aviation
+Rue de Tshela
+Rue de Songoloto
+Avenue de la Tshuapa
+Rue de Maluku
+Rue de Mbanza-Ngungu
+Epolo
+Essandja
+Rue 8 décembre
+Rue Koko
+Rue Bamboma
+Rue Ngafani
+Avenue Bamboma
+Avenue Kamba
+Avenue Kingotolo
+Avenue Kinduti
+Avenue Nsubuka
+Avenue Kimpese
+Avenue des Coyaviers
+Avenue Regideso
+Avenue Mpangala
+Avenue Mpika
+Avenue Kinsambi
+Avenue Mayala
+Avenue Makanda manza
+Avenue Mfuti
+Rue Kikanza
+Avenue Nsilulu
+Avenue Kasangulu
+Avenue Baketukila
+Avenue Mukoko
+Avenue Nguya
+Avenue Kimbangu
+Avenue de la Paix
+Avenue Parlement
+Avenue Tinta
+Avenue du Baketukila
+Avenue Kiminzita
+Avenue Kansanzi
+Avenue Gungu
+Rue Kimpese
+Rue kipemba
+Direction progrée
+Avenue Kimwingu
+Avenue Kasa Vubu
+Avenue Ngafani
+Avenue Diomi
+Avenue Lukaya
+Avenue Mobutu
+Ngungu
+Kinzoni
+Kimvuidi
+Rue Tatamena
+Ntualani
+Manifeste
+Lwila
+Sonabata
+Depot
+Ngeba
+Avenue Kimvula
+Avenue Kimwenza
+Avenue Ngafani
+Rue Makala
+Rue Ngeba
+Rue Mabwana
+Rue kasongo-Lunda
+Rue Lukengo
+Rue Ngufu
+Rue Dua
+Rue kizongo
+Rue Kingusi
+Rue Kinsiona
+Rue Kintumba
+Avenue Ngeba
+Mbanzabooma
+Avenue Monkole
+Cocotiers
+Palmiers
+Citroniers
+Cito
+Cypres
+Lukala
+Bas-Zaire
+Rue Kingizia
+Rue de Lubaki
+Rue de Mayidi
+Rue Manianga
+Rue Loya
+Rue Timasi
+Rue Mayulu
+Rue Kimvuka
+Avenue Minikongo
+Avenue Kimbao
+Avenue Sanzu
+Avenue Bulungu
+Avenue Bindungi
+Rue Nikamba
+Avenue Lobo
+Avenue Bukanga
+Avenue Kingunzi
+Avenue Kianza
+Avenue Kinzengunzengu
+Rue de Momboyo
+Avenue Busu-Djanoa
+Rue de Kinanga
+Rue Lopori
+Rue Mapeso
+Rue de Mayidi
+Rue de Luapula
+Rue de Mayulu
+Rue de Yonsomba
+Rue de Luvua
+Avenue Saio
+Rue de Mawanga
+Rue Kimalaya
+Rue Luyindula
+Rue M'siri
+Rue Luvambanu
+Rue Fatundu
+Rue Ngongo Lutete
+Rue Lungueni
+Rue Masengi
+Rue Tuwizana
+Rue Souvenir
+Rue Bumbu
+Rue Mayulu
+Rue Ndungini
+Rue Zongo
+Rue Nsayi
+Rue Kisielele
+Rue de Lokolenge
+Petit Saio
+Avenue Kwilu
+Rue de Elipa
+Rue de Boyenge
+Bordane
+Prevoyance
+Sports
+Cendre
+Banalia
+Flora
+Cafeier
+Marais
+Kolas
+Rue de Quartier Kamuhala I
+Avenue des Ecoles
+Rue de Quartier Kabobo
+Avenue de la Piste
+Avenue Kamabwe
+Avenue Apendao
+Avenue des Ibis
+Av du Gouverneur
+Avenue Orchidée
+Avenue Orchidées
+Avenue des Mésanges
+Avenue Jacarandas
+RD Congo - Rwanda
+Avenue Lycée
+Rue Camps des Enseignants
+Avenue Ussy
+Avenue Aérodrome
+Rue Tala Kak
+Avenue Penenyembo
+Avenue Camp Scout
+Avenue du Manguier
+Avenue des Aigles
+Avenue des Etoiles
+Avenue Kapemba
+Avenue Kimbeimbe
+CS Lycaonienne
+Avenue Kalulwa
+Avenue Nyimb
+Avenue Moba
+Avenue Maman Adel
+Avenue Richard
+Avenue Maman Ariette
+Avenue Bodine
+Avenue Lubiay
+Avenue Nyange
+Avenue Dr Mubinda
+Avenue Kakunyi
+Avenue Mukenge
+Avenue Mwenya
+Avenue des Dessinateurs
+Avenue Jean Felix Antine
+Avenue des Carrières
+Avenue REGIDESO
+Avenue des Mines
+Avenue Bethel
+Avenue Willy Kilombo
+Avenue Salike 1
+Avenue Baobab
+Avenue Nouveaux Disciples
+Avenue CS Progrès
+Avenue Chrinos
+Avenue Salike 2
+Avenue Mukuna
+Avenue Kaseke
+Avenue Noteurs
+Avenue REGIDESO
+Avenue Cyclomètres
+Avenue Enac
+Avenue Limite - Sud
+Avenue Mupiere
+Av.Chemin Public
+Avenue Kalenga
+Chemin public
+Avenue Kahumba
+Avenue Boanerge
+Avenue Général Ndima
+Avenue Mageran
+Avenue Masudi
+Avenue Banza
+Avenue Kwebe
+Avenue Circulaire
+Avenue Kalwa
+Avenue Joseph Kabila
+Avenue Kaposo
+Avenue Mutombo
+Avenue Jack Mwamba
+Avenue Nkonga
+Avenue Changwe wa Changwe
+Avenue Umba Kyamitala
+Avenue Chabala
+Avenue Jacob
+Avenue Mwenge
+Avenue Kasongo Micheline
+Avenue Mont Flory
+Avenue Shabunda
+Avenue Deutérenome
+Avenue Mapendo
+Ruelle
+Avenue Général Ndima
+Avenue Exode
+Avenue Lévitique
+Avenue Nombre
+Avenue Kilufya
+Avenue Emmanuel Kyanda
+Avenue Ilunga
+Avenue Mukena
+Avenue les Elites
+Avenue Butuku
+Avenue Mbuyu
+3
+Avenue Gouverneur Wauters
+Avenue des Cannas
+Avenue Auguste Beernaert
+Avenue Dibanda
+Avenue Walikale
+Avenue de Macar
+Avenue Sapin
+Avenue Gecamines
+Avenue Lubaya
+Avenue des Flamboyants
+Avenue Charles Seghors
+Avenue de Tabora
+Avenue des Palmiers
+Avenue des Eucalyptus
+Rue de la Brasserie
+Avenue Commandant Preys
+Avenue Émile Valleys
+Avenue Huyges de Mahenge
+Avenue colonel Tshiatshi
+Avenue Bena-Dibela
+Avenue Likasi
+Avenue Gouverneur Wenner
+Kabuluanda
+Kitona
+Tshisuku
+Route Makala
+Avenue Mulongo
+Avenue Miketo
+Rue Courant
+Quartier Kabalo
+Avenue Rutuku
+Avenue de la Source
+Avenue Mahila
+Avenue Kabambare
+Avenue Aeroport
+Avenue Kolwezi
+Avenue Kambove
+Avenue Bembeleza
+Avenue Bambemba
+Avenue Kamina
+Avenue Despins
+Rue Kafubu 2
+Avenue des Artistes
+Avenue Simba
+Rubi Bis
+Rue Loange
+Rue Mukwepa
+Rue Ruashi
+Rue Luano
+Avenue des Assistants
+Rue Dikwa
+Rue Luebo
+Rue Kamboue
+Avenue Marungu
+Rue Panda
+Rue Dikulue
+Rue Lufupa
+Avenue des Ecoles
+Avenue Lengwe
+Avenue Mahomed
+Avenue Luhata
+Avenue Okapi
+Avenue Kanama
+Avenue Plateaux
+Avenue des Ecoles
+Avenue Mwangaza
+Avenue Khoji
+Avenue Lubumbashi
+Avenue Midi
+Avenue Masengo
+Avenue Kalemie
+Avenue Mayombo
+Avenue Tshiakwiza
+Avenue du Golf
+Avenue Kolwezi
+Avenue Kyabukwa
+Avenue Piston
+Rue III
+Avenue de la Cabine
+Rue II
+Avenue Mbombo Kasongo
+Avenue Basanga
+Avenue Kasima
+Avenue Nakiluba
+Avenue Mofia
+Rue XIII
+Rue XVI
+Rue XVII
+Lufutuka
+Rue La Maman
+Avenue Mpiana
+Avenue de Pain
+Avenue Haute Tension
+Avenue Citronnelle
+Avenue Lunda
+Avenue des Ecoles
+Avenue du Plateau
+Avenue Mulando
+Avenue de la Loi
+Avenue Kalombo
+Avenue Beni
+Avenue Kamwanga
+Avenue Ntambwe
+Chindaika
+Avenue de l'Eglise
+Avenue Luapula
+Chipeng
+Avenue Musimbwa
+Avenue Syviastre
+Avenue Géranium
+Avenue des Rosiers
+De la paroisse
+Avenue des Bena Marungu
+Avenue des Bakusu
+Kabongo
+Avenue de Buta
+Kaponda
+Mukulu (étage)
+Kapolowe
+Musoshi
+Avenue Shabunda
+Avenue Bakwasumpi
+Avenue Manganèse
+Mbaya
+Avenue Lwizi
+Avenue de la Lumière
+Avenue de la Carrière
+Avenue Kalulako
+Katumbi
+Mpangula
+Avenue Kakope
+Mujinga
+Kazi Bora
+Avenue de la Mission
+Ngalula
+Mwaiseni
+Chola Lambert
+Entrée
+Avenue Miami
+Avenue Mbandaka
+Chemin public
+Avenue du Carmel
+Avenue Lufungula
+Avenue de L'Eglise
+Avenue Chem-Chem
+Avenue des Ecoles
+Avenue des Trésors
+Avenue Libermann
+Avenue Lulua
+Avenue Wylem
+Avenue Mukulakula
+Avenue Dominique
+Avenue Kansele
+Avenue du Rocher
+Avenue du Sinaï
+Avenue Kamoto
+Avenue du Congo
+Avenue Manika
+Avenue Kakontwe
+Avenue Shituru
+Avenue Panda
+Rue Congo
+Avenue Yamoto
+Avenue Vangu
+Avenue du Camp
+Avenue Emaus
+Avenue Kipoyi
+Avenue le Bambi
+Avenue de la Puissance
+Avenue du Foyer
+Avenue des Princes
+Avenue du Mukulakula
+Avenue Kalombo
+Avenue du Cadastre
+Avenue Vangu
+Avenue Mutombo
+Avenue de la Lumière
+Avenue Kilimanjaro
+Avenue Aka
+Avenue Aka bis
+Avenue Batiste
+Avenue du 30 Juin
+Avenue Mukoj
+Avenue 36 Oiseaux
+Avenue Potagée
+Avenue Ndombe
+Avenue Maïsha
+Avenue Kabulo
+Avenue Pacifique
+Avenue Yav
+Avenue Gabi
+Avenue du Tabernacle
+Avenue AG Umba
+Avenue de la Paix
+Avenue Tshikez
+Avenue Chokwe
+Avenue Dolbin Mwamba
+Avenue Ma Campagne
+Avenue de la Paix
+Avenue Baluba
+Avenue Sakania
+Avenue Fumbwe
+Avenue De L'Eglise
+Avenue Ndemba
+Avenue Tshikwej
+Avenue Kapenda
+Avenue Shangwe
+Likasi
+Avenue Kibalongo
+Avenue Kasanji
+Avenue Baya
+Avenue Nyunzu
+Avenue Nsulu
+Avenue Bansala
+Avenue Kindu
+Rue 13
+Rue 11
+Rue 6
+Rue Lopori
+Rue 7
+Rue Lufungwa
+Rue 21
+Rue 20
+Avenue de la Ferme II
+Territoire 2
+Rue 27
+Avenue Trait D'Union
+Avenue de la Ferme
+Rue 23
+Rue 24
+Rue Kalume Ngongo
+Rue Luvidjo
+Rue Luvinza
+Rue 1 Bis
+Rue Ibis
+Avenue Mpanda
+Avenue Garamba
+Avenue Virunga
+Avenue Ruwe
+Avenue Kamoto
+Avenue Tshala
+Avenue de La Capitaine
+Avenue Musoshi
+Avenue de Sabat
+Avenue Pelende Nkobo
+Avenue des Grevilleas
+Avenue des Frangipaniers
+Avenue Kita
+Avenue Kalule Nord
+Avenue des Bambous
+Avenue Sakania
+Avenue Canne à sucre
+Rue 6
+Avenue Betty (Rue 4)
+Avenue de l'Eglise
+Avenue de l'Etat
+Avenue des Jacarandas
+Avenue des Salvias
+Avenue des Arums
+Avenue des Capucines
+Avenue des Iris
+Avenue May ya Pondu
+Avenue Makemba
+Avenue Urbanisme
+Avenue Kindwe
+Avenue des Violettes
+Avenue Kinkole
+Avenue des Rosiers
+Avenue Salem
+Avenue Kabanza
+Avenue Kaungu
+Avenue Kondrose
+Avenue Kenge I
+Avenue Kenge II
+Avenue des Ardenes
+Avenue du Lotus
+Avenue Tulipier bis
+Avenue des Planteurs
+Avenue du Cacao
+Avenue des Choux
+Avenue de l'Eglise
+Avenue Tshilenge
+Avenue Kilenge
+Avenue des Miriés
+Avenue de Thuyas
+Avenue Araucarias
+Avenue Okapi
+Avenue Bitoke
+Avenue des Poivriers
+Avenue Faradja
+Avenue Ngala
+Avenue Kapindula
+Avenue Matadi
+Avenue Mbayo
+Rue Halaj
+Rue I
+Rue VI
+Avenue Malandala
+Rue V
+Avenue Kanyinda
+Rue IX
+Avenue de Potager
+Avenue Basanga Kabwe
+Avenue Lumumba
+Rue II
+Rue VIII
+Rue VII
+Avenue Kimba Kasongo
+Avenue Gbadolite
+Avenue Kabanza
+Avenue Mumbunda
+Avenue Omba
+Avenue Mbayo
+Avenue Mufungwa
+Avenue Ilunga
+avenue Nyembo
+Avenue Kisanga
+Rue Luvinza
+Rue Nyemba
+Avenue Luapula
+Avenue Muleba
+Chemin public
+Avenue Kanao
+Avenue Kimpanga
+Avenue Luapula
+Rue Karavia 1
+Rue Kasungano
+Avenue Lugoma
+Rue L'Ovel
+Avenue Kabanza
+Avenue Mbulula I
+Avenue Hewa Bora
+Avenue Katuzembe
+Avenue Sandoa
+Avenue Azimuth
+Avenue Katongola
+Avenue Kalenda
+Avenue Mbulula I
+Avenue du Calcaire
+Avenue Musumba
+Avenue Kongolo
+Avenue 5 Chantiers
+Avenue Muyej
+Avenue De La Victoire
+Avenue Okingo
+Avenue Maman Kasanga
+Avenue Maman Kibawa
+Avenue des Etoiles
+Avenue Jongea
+Avenue la Reine
+Avenue Circulaire
+Avenue Mr Alexandre
+Avenue de la Santé
+Avenue Matayabo
+Avenue Lukama
+Avenue Astride
+Avenue Capitaine Kawel
+Avenue Cesar
+Avenue Major Guy Kalend
+Avenue Ghylain Yumba
+Avenue Asifiwe
+Avenue Tanganyika
+Avenue Tshiwew
+Avenue Kilwa
+Rue Kaseba
+Avenue Neflier
+Avenue Des Ecoles
+Avenue Bashila
+Batabwa Bis
+Avenue Cascade
+Avenue Kikas
+Avenue Lupembe
+Avenue Tshondo
+Avenue Kayumba Ngolo
+Avenue Elie Minda
+Avenue Kamanda
+Avenue Nyembo
+Avenue Nefoka
+Avenue Vua
+Avenue du Chef Katanga
+Avenue du Luvwa
+Avenue Kapenda
+Cercle de Lubumbashi
+Avenue Jason Sendwe
+Avenue Mwepu
+Avenue Kapenda
+Avenue Foyer
+Avenue Tambwe
+Avenue Munabe
+Avenue Des Ecoles Prolongées
+Avenue De La Rive
+Rue Kitenge
+Rue Simama
+Avenue Des Assistants II
+Avenue Des Assistants I
+Avenue de Zilo
+Avenue de Koni
+Avenue de Mwadingusha
+Avenue de Likasi
+Avenue du Parc
+Avenue de l'Étain
+Avenue du Radium
+Avenue du Cobalt
+Avenue de la Cassiterite
+Avenue des Tribunes
+Avenue de Likasi
+Avenue Moero
+Avenue Moero
+Avenue Adoula
+Avenue du Lomami
+Avenue Kapenda
+Avenue des Usines
+Avenue Kaniama
+Avenue Madungu
+Avenue Katongola
+Avenue Abc
+Avenue Kalubwe
+Avenue Mafunda
+Avenue Kasila
+Avenue Kamalondo
+Avenue Lubilashi prolongée
+Avenue Idiofa
+Avenue de la Lufira
+Rue Matamata
+Rue Lubutu
+Rue Kinkuki
+Avenue Chamvre
+Avenue Lubishi
+Avenue Uvira II
+Rue Lofo ou Kanyaka
+Rue Katwishi
+Avenue Kote Kubaya
+Avenue Esengo
+Avenue Mahongolwa
+Avenue Kisanga
+Avenue Kapenda
+Avenue Kafubu
+Avenue Nguba
+Avenue Kalenga
+Rue Bene lega
+Rue Kansenia
+Rue Kaniama
+Avenue Kongolo
+Rue Upemba I
+Avenue Tshemtshem
+Avenue Kabongo
+Avenue Mwene Ditu
+Avenue Lubao
+Avenue Bukavu
+Avenue Kivuko
+Avenue de la Ruashi
+Avenue Kambambare
+Avenue Muteko
+Fungurume
+Lubuya
+Kakontwe
+Lulua
+Lunguki 2
+Avenue Isiro
+Numbi
+Kilenge
+Avenue Chandelier
+Avenue des UNs
+Avenue des Rosiers
+Avenue des Lys
+Avenue de la Paix
+Avenue de la Ferme
+Avenue Tshondo
+Avenue Okapi
+Rue Kampemba
+Avenue Mwayuma
+Pont Louis
+Océan
+Tujenge
+Avenue Hewa Bora
+Avenue Guépard
+Avenue Marungu
+Avenue Kimpende
+Tanganyika
+Rue Lubefu
+Avenue Mulumbwa
+Avenue Enzi
+Avenue Sankuru
+Avenue Kamwando
+Avenue Kawika
+Avenue Nyembo Bonganga
+Avenue Mapendo
+Avenue Mwamba
+Avenue Nyembo
+Avenue des Anges
+Avenue des Pylones
+Chemin Public
+Avenue de la Victoire
+Avenue Kalonda
+Avenue Chuma
+Avenue Ngongo
+Avenue Major Nsensele
+Avenue du Palmier
+Avenue Mijibu
+Rue de la Miséricorde
+Avenue Tinangwa
+Avenue de la Vie
+Avenue des Aiglons
+Avenue de l'Espérance
+Avenue Kasongo
+Avenue Mulongo
+Pont de la Rivière Karavia
+Avenue Maria Isa
+Avenue Likita
+Avenue Dr Kaj Nathalie
+Avenue du Nord
+Avenue Mukwen
+Rue 14
+Rue 1
+Rue 9
+Rue 8
+Rue 13
+Avenue Daniella
+Avenue Munkuntwe
+Avenue Kasonde
+Avenue Lukenge
+Avenue Aaron Ngwashi
+Avenue de la Source
+Avenue Kundelungu
+Avenue Mazembe
+Bloc I
+Avenue Lufira
+Avenue Shamwange
+Avenue Tenke
+Avenue Luebo
+Bloc VI Avenue Tanganyika
+Avenue Tanganyika
+Avenue Dilolo
+Avenue Gemiel
+Bloc X
+Avenue Virginie
+Avenue NBanza
+Bloc III
+Avenue Kyonanginga
+Avenue Rehema
+Avenue Yangwa
+Avenue Nawej
+Avenue Kamina
+Avenue Nazareth
+Avenue Ngongolu
+Avenue des Ecoles
+Avenue Mungongo
+Avenue de la Colline
+Avenue du Marché
+Avenue de Refugés
+Avenue Okito
+Avenue du Couvent
+Avenue Kafwankumba
+Impasse
+Avenue de la Lufira
+Avenue de la Nécropole
+Avenue de la Mission
+Avenue Mbuji-Mayi
+Avenue du Comité urbain
+SOFIDE
+Nenga
+Avenue Mbamba Kilenda
+Avenue Kemba
+Avenue Fuma
+Avenue Kimayala
+Avenue Muanga
+Avenue Masiala
+Avenue de l'Avenir
+Kikwit
+Diatila
+Avenue Abedy
+Avenue du 1er Juillet
+Bobila Dawa
+Avenue du Livre
+Avenue Lokonga
+Avenue Lokele
+Avenue Nioki
+Avenue de la T.S.F.
+Avenue Claude Maluma
+Avenue des Jacarandas
+Avenue de l'O.M.S.
+rue de l'étoile
+Avenue de Rutshuru
+Avenue de l’École
+Avenue d'Udjidji
+Avenue de Kasongo
+Avenue de la Commune
+Avenue Kwango
+Avenue de Kabolo
+Avenue de Goma
+Avenue Musosa
+Avenue Yangambi
+Rue Frontière
+Av. Ngongo lutete
+Av. Makanga
+Av. Bukala
+Av. Kamba
+Av. Luvaka
+Av. Kinzau
+Avenue de l'Eglise ECC/CADC
+Av. MBUKU
+Avenue Mulele
+Av. Manenga
+Avenue de l'Eglise Saint Thomas
+vitamine
+Avenue Viaza
+Busira
+Lufu
+Bombi
+Biena
+Bembezi
+Avenue Bateke
+Rue Rivière
+Rue Vergée
+Yasa
+Rue Kingabwa
+Rue Yolo
+Avenue Goa
+Rue Baleke
+Rue Kombe
+Rue Lindja
+Bambili
+Rue Mabinza
+Yolo
+Kingabua
+Rue Babira
+Rue Bamanga
+11e Rue
+13e Rue
+Rue Mokaria
+Rue Timansi
+Rue Fayala
+Avenue Mukubwa
+Ngombe
+Makonga
+Avenue Mangele
+Avenue Nsondi
+Avenue Kimpakasa
+Avenue Mbimbu
+Avenue Mabele Mokonzi
+Avenue Bolenge
+Rue Banana
+Rue Ndunu
+Avenue Gombe Sud
+Avenue Kalaka
+Tomba
+Nsanga
+Rue Kimpioka
+Ngasu
+Wasa
+Nuakulu
+Rue Buma
+Nzazi
+Rue de la Révolution
+Rue Kimbimi
+Rue Mangengenge
+Rue Moba
+Rue Ndinoa
+Rue Kinzenga
+Rue Mandundu
+Rue Kingugi
+Rue Katanga
+Rue Idiofa
+Rue Kingunda
+Rue Mbangui
+Rue Kuengo
+Rue Luka
+Rue Kabama
+Rue Ngowa
+Avenue Biko (Ex Royaume)
+Conseil
+Rue Kulumba
+Rue Mozengo
+Riviere
+Rue Mombele
+Avenue Lumière
+13ème Rue
+12ème Rue
+11ème Rue
+Avenue KATUMBA
+Rue Tsewe
+Rue Bondo
+Rue d'Ingende
+Rue de Bolafa
+Tende
+Yakata
+Ingende
+Simba
+Yangambi
+14e Rue
+Rue Bolobo
+Rue Yanonge
+Rue Bemeli
+Rue Barumbi
+Luila
+13ème Rue
+Monkoto
+Rue Watsa
+Malembe
+Rue Semendwa
+Avenue Benkana
+Rue Bukavu
+Bolafa
+Nfumunvula
+Rue Zune
+Rue Mosango
+Rue Toyokana
+Rue Turumbu
+Rue Lukenie
+Rue Dembo
+Avenue Sakania
+Rue Panga
+Rue Matete
+Ndjombo
+Rue de Bandundu
+Rue de Budjala
+Rue de Lusambo
+Avenue Chute de Lofoy
+Avenue de la Source
+Rue de Mai Ndombe
+Avenue de Maniema
+Avenue de L'uele
+Avenue du Congo
+Anue Ring
+Avenue Yoseki
+Avenue Katakokombe II
+Avenue des 18 Parcelles
+Avenue Kitomesa
+Avenue Katakokombe
+Avenue Nawazawadio
+Avenue d'Inkisi
+Avenue Vive Congo
+Avenue de la Plaine
+Avenue de la Montagne
+Avenue Hesbaye
+Avenue Kipasi
+Avenue Mazengele
+Avenue de la Paix 2
+Paroisse
+Av. Kanza
+Av. Kindayi
+Beni
+Avenue paroisse
+Avenue Kipase
+Mongala
+Irungu
+Gonzi
+Kibali
+Avenue Beyapumbu
+Ruvuvu
+Karonge
+Kama
+Tua
+Botango
+Rukozizi
+Vemba
+Bangu
+Dikulwe
+Dungu
+Fulula
+Avenue Zaba
+Avenue Kidima
+Avenue Mopulu
+Avenue Kipasi
+Avenue Masimaninba
+Avenue Kinguzi
+Avenue Gizhenga
+Avenue Mbandaka
+Rue Ubangi
+Avenue Gardénias
+Rue Petunias
+Ixhoras Avenue
+Rue Bégonias
+Rue Marantas
+Rue Cannas
+Avenue Vénus
+Rue Freesias
+Avenue Dahlias
+Avenue Lusa
+Avenue Nzoloko
+Avenue Nguya
+Avenue Kimpoko
+Avenue Sankuru
+Avenue Limete
+Avenue, Etoile
+Avenue Volcan
+Avenue Nation
+Avenue, Lilas
+Rue Bayombe
+Rue Bungudi
+Rue Congo
+Rue Kitantu
+Rue Kuangu
+Rue Makwebo
+Rue Bansundi
+Rue Kindiga
+Virunga
+Chapelle
+Avenue de la Chapelle
+Avenue Grand Seminaire
+Wenge
+Avenue Panzi
+Avenue Manzengele
+Avenue Uvira
+Avenue Pumbu
+Avenue Lubefu
+Avenue des Coteaux
+Avenue Zongo Ntolo
+Avenue Dracena
+Avenue Kauka
+Avenue du Cocotier
+Avenue Kalume Mwana Kahambwa
+Avenue des Flamboyants
+Avenue des Citronniers
+Avenue de la Vallée
+Av. Kivunda
+Av. Lutunu
+Av. Sikama
+Av. Kitomesa
+Av. Kiri
+Rue de Lemfu
+Avenue Milambo
+Avenue des Forces Armées
+Bungu
+Avenue Nduisi
+Rue Lutete
+Avenue Lodja
+Avenue Kanga
+Avenue Rufidji
+Avenue de Tabora
+Rue Bakusu
+Avenue Lado
+Rue Kimbala
+Avenue Bobobliko
+Rue de Lomami
+Avenue de la Sante
+Avenue Maniema
+Rue Sankuru
+Avenue Kivu
+Avenue de l'Uele
+Avenue Limaya
+Rue du Kasai
+Avenue Tanganika
+Rue de Dima
+Avenue de la Ferme
+Avenue Bandoma
+Avenue Mawazo
+Avenue de l'État-Major
+Avenue de la Crique
+promenade de la Raquette
+Rue Ngaliema
+Rue Kimbao
+Rue Kasanga
+Rue Mosamba
+Rue Kimbele
+Afrique
+Rue Wamba
+Rue Kimona
+Rue de mweka
+Avenue Kitega
+Avenue Beaux-Arts
+Avenue Okitundu
+Avenue Lualaba
+Avenue de l’Hôpital
+Avenue de l'Hopital
+Avenue Province
+Avenue Kimpaka
+Avenue Chef Kinzonzi
+Avenue Kundelungu
+Avenue Mpika
+Avenue Kasangulu
+Avenue Ntantu
+Avenue Zola
+Avenue Pinzi
+Kalengo
+Lukamawa
+Avenue Kimondo
+Lukamawa
+Kalengo
+Ruelle Sasa
+Rue Kingoyo
+Avenue Duma
+Avenue Bangi
+Avenue Kinzuzi
+Rue kimpwanza
+Rue Kinzuzi
+Avenue Mbole
+Avenue Mbabelota
+Rue de Ganeketi
+Rue Buma
+Avenue Lippens
+Avenue Mweka
+Avenue Mwene Ditu
+Rue de Bombo
+Rue de KImwenza
+Rue de Kimwenza
+Rue de Yongo
+Rue Inzia
+Avenue de lokalama
+Rue de Tshikapa
+Rue de Lodja
+Rue Oshwe
+Rue Masi-manimba
+Rue de tshikapa
+Avenue de lokalama
+Rue Masi-manimba
+Rue Gombari
+Rue Zoao
+Avenue du Parc
+Air Congo
+Rue Ndobo
+Avenue Mikala
+Rue Miao
+Avenue Mwenzi
+Avenue Mami Mwata
+rue Gombe
+rue Nsona
+rue Lumbu
+rue Matadi-Mayo
+rue Musolo
+rue Kimwanga
+rue Embo II
+rue Mayala
+rue Mayala
+Kimowa 2
+Avenue De l`hopital
+Avenue Muana Nkosi
+Kimowa 3
+Avenue Marche
+Avenue Kamina
+Avenue Gbadolite
+Avenue Bibwa
+Lukunga
+Lwanza
+Kimbangu
+Kolwezi
+Katembo
+Kimowa 1
+Avenue Bakis
+Kimowa 4
+Avenue Kingunda
+Avenue Benamukuele
+Kinsuka
+Makazu
+Boluzi
+Dikevu
+Nzuzi
+Avenue Kayamesu
+Avenue Kumbi
+Tuzolana
+Avenue Mayimpili
+Avenue Kwamouth
+Avenue Langa Langa
+Avenue Mbakana
+Avenue Mpila
+Avenue Milelegani
+Avenue Muemalo
+Avenue Fatundu
+Avenue Nkana
+Avenue Kimangunu
+Liberte
+Avenu Wombali
+Rue Musoso
+Rue Lobo
+Rue Hortensias
+Rue des Charpentiers
+Rue Muteba
+Avenue Wombali
+Avenue Wunga
+Avenue du 27 Octobre 1996
+Deux Maisons
+Avenue Kahungu
+Avenue Teke
+Rue Sagitaire
+Avenue Mpolo
+Avenue Garneaux
+Avenue Mundjana
+Avenue Kunzulu
+Avenue Mukoko
+Idiba
+Avenue Lua
+Arwimi
+Ruzibazi
+Kisale
+Monzi
+Rubi
+Loange
+Avenue Lutshatsha
+Luenda
+Avenue Lumene
+Avenue Mombele
+Avenue Kinsudi
+Mbemba
+Bolozi
+Mazongo
+Tumbu
+Nsimba
+Mangana
+Avenue Luzizila
+Avenue Nduanunu
+Avenue Ndunga
+Démocratie
+Bobila
+Mokanzo
+Imbwani
+Makabu
+Bosembo
+Emission
+Des antennes
+Tamufu
+OCPT
+Mukoso
+Singa
+RTNC
+Mbeyi
+Mosengo
+Bolobo
+Kifwema
+Muyene
+Limete II
+Munene
+Makala
+Limete I
+Mwanza
+De la Poste
+Justice
+Victoire
+Lukunga
+Matungulu
+Kawata
+Watambolo
+Mungulu
+Logec
+Centre
+Avenue de l'Eglise
+Fondation
+INSS
+INSS 2
+Misengeni
+Avenue Mbenza
+Avenue Kanza
+Avenue Suisse
+Avenue Kimbangu
+Avenue Luyeye
+Rue Kipemba
+Usine
+Kimbemba
+Wasalusu
+Rue Kingangala
+Avenue 4 Janvier
+Rue Tshopo
+Petite Masikita
+Rue Mobilisi
+Avenue Luyeye
+Avenue Bumba
+Rue Bobozo
+Avenue Nioka
+Rue Bakonga
+Rue du Collège
+Avenue du Congo
+Avenue Wenzel
+Dreve de Salembao
+Rue Maternité
+Avenue de Kilosa
+Rue de Nyanza
+Rue de Mahenge
+Rue de Bolobo
+Rue de Lukotela
+Avenue Luvua
+Avenue Sankuru
+Avenue Lowa
+Avenue Bas-Congo
+Avenue du Parti
+Avenue de Kongolo
+Echevin
+Avenue Dodoma
+Rue de Mahenge
+Rue de Nyanza
+Avenue de Kilosa
+Rue de Kabolo
+Rue de Kibate
+Avenue Kitega
+Avenue Bakongo
+Rue de Kindu
+Avenue de Kapanga
+Avenue du Progrès
+Avenue Usoke
+Avenue Mbomu
+Avenue Kigoma
+Rue de Dilolo
+Rue Kivunda
+Rue Msiri
+Rue Tulundi
+Rue Lac Tumba
+Rue Biabu-Est
+Rue Banza-Mwembe
+Rue Luputa
+Rue Pendjua
+Rue Biabu-Ouest
+Rue Sampwe
+Rue Kikenge
+Rue Ntimansi
+Rue Kivulu
+Rue N'sabuka
+Rue Shiloango
+Avenue Lufu
+Lubudi
+Rue Kinsuka
+Rue d'Inongo
+Rue de Vivi
+Rue Banana
+Rue Lutendele
+Rue de Matadi
+Rue Lunionzo
+Rue Loadi
+Rue Kwamouth
+Rue Kimbwala
+Rue Seke Banza
+Eben Ezer
+Mbemba
+Petit Bois
+Avenue de La Paix
+Avenue Petronie
+Avenue des Étangs
+Avenue Diomi
+Avenue Balombadio
+Avenue Table Ronde
+Avenue Gombe
+Avenue Tshimanga
+Avenue du Pasteur Lungi Lukumbi
+Avenue Rodebi
+Avenue Mpoyi
+Avenue Kusa
+Avenue Tendele
+Avenue des Citroniers
+Avenue Dimbelenge
+Avenue Kitona
+Rue Luzumu
+Rue Matadi
+Rue Inada
+Rue Kisantu
+Rue Luvemba
+Avenue Luila1
+Avenue Luila
+Sécurité
+Orangers
+Manguiers
+Dahlas
+Longo IV
+Rue Batandu
+Rue Fatundu
+Rue Kinanga
+Avenue de Lisala
+Rue de Banalia
+Rue de Faradje
+Avenue Opala
+Rue de Bosobolo
+Rue de Yahuma
+Avenue Lukandu
+Rue de Busu-Melo
+Rue de Djolu
+Rue de Befale
+Rue de Irebu
+Avenue Maringa
+Rue de Kindongolosi
+Rue de Mbonda
+Rue de Kinzwana
+Rue de Dembo
+Avenue Dialela
+Rue de Kipaku bis
+Rue de Kintanu
+Rue de Kiduma
+Rue de Kivuka
+Rue de Kipaku
+Rue de PoPo Kabaka
+Rue de Ikelemba
+Rue de Bongandanga
+Rue Eala
+Rue de Mangai
+Rue de Jean Loya
+Rue de Ubangui
+Malonga
+Soyo
+D'Akala
+Avenue Bompete
+Bonga
+Rue Lopori
+Rue de Boyera
+Laurirs
+Bambu
+Cottoniers
+Bunia
+Avenue Taba Congo
+Avenue Jason Sendwe
+Avenue Karavia
+Avenue Tanganyika
+Boulevard de la Katuba
+Chaussée de Kasenga
+Avenue M'siri
+RN27
+Avenue Wagenia
+Avenue de l'Équateur
+Avenue de la Douane
+Place du soldat congolais
+Avenue colonel Lukusa
+Avenue Gécamines
+Avenue de Kalemie
+Avenue Dumi
+Avenue Ngongo Lutete
+Avenue du Fleuve
+Route Matadi
+Avenue des Touristes
+Avenue des Rapides
+Avenue de la Lowa
+Rond-point de l'Afrique centrale
+Avenue de la Presse
+Avenue Mpolo
+Avenue du Tchad
+Avenue de la Mongala
+Avenue du Cercle
+Avenue Basoko
+Avenue du Marais
+Avenue des Vieillards
+Avenue de Kananga
+Avenue du Canal
+17ème Rue
+16ème Rue
+Route Kisenso
+Avenue Diwaz
+Lushatsha
+Avenue Khartoum
+Rue Movenda
+Avenue Ngiri-Ngiri
+Rue Boboro
+Niangara
+Luyeye
+Boulevard Lumumba
+Pont Petit
+Pont Mango
+small and narrow
+Route de Nsanda
+Rue Kimbau
+Poids lourd
+Chembe Bridge
+Pont de la Kyimbi
+RN5
+Pont de la Mudjale
+Route Karavia
+Avenue Tshiniama
+Avenue Rubi
+Avenue Singa
+Boulevard de Kilwa
+Avenue Ruwe
+Avenue de la Source
+Avenue Principale
+Route vers Katabe
+Concession Katuba Mwanke
+stairway to heaven
+Vers chez le chef
+Avenue du Katanga
+Rue de Niangara
+Avenue de Birmanie
+Makanza
+Bosenge
+Mompono
+Lukengo
+Avenue des Anciens Combattants
+Avenue de l'Escorte Présidentielle
+Ma Champagne
+Avenue de l’Université
+Malula
+Avenue Ruzizi
+12ème Rue
+Zinias
+10ème Rue
+Avenue Pierre Elengesa
+Avenue de la Foire
+rond-point de Ngaba
+Avenue des Cliniques
+Avenue des Nations Unies
+Avenue du Roi Baudouin
+Avenue de la Justice
+Avenue du Petit pont
+Rond Point Sentiment
+Rond point Désespoir
+Avenue de la Libération
+Avenue Malemba-nkulu
+Avenue de la Science
+Avenue Sergent Moke
+Avenue Roi Baudoin
+Place du Marché central
+Avenue Wangata
+Avenue Mgr. Kimbondo
+Rond-Point Ezo
+15ème Rue
+Avenue Saint Christophe
+Avenue Pierre Mulele
+Avenue Sendwe
+Rue de Selo
+Rue de Dibaya
+Enseignement
+Boulevard Triomphal
+Rue Oshwe
+Route de Nsanda
+Boulevard Luemba
+Boulevard Kimbuta
+Rue des Tropiques
+Kibongo
+18ème Rue
+14ème Rue
+Avenue Révolution
+Avenue Maître Croquet
+Avenue Jeunesse
+Marine
+Avenue By Pass
+Mbianda
+Direction Saint Norbert
+Rue PONZI
+Avenue de la Libération
+Avenue Kananga
+Avenue Kokolo
+Mbanza Mboma
+Concession
+Avenue Upemba
+Avenue Kisale
+Avenue Kabulo Roger
+Avenue du Cimetière
+Avenue Circulaire
+Avenue des Sapiniers
+Avenue des Sapiniers
+Avenue de la Ferme
+Avenue de Charleroi
+Avenue de Verviers
+Avenue Mutunimubaya
+Avenue Kafubu
+Mayonde
+Route Kilobelobe
+Rue Kashala
+Avenue Kiwele
+Forest
+Dilolo
+Rue 5
+Kiwele
+Avenue Kiwele
+Avenue Mushengeshi
+Avenue de la Mine
+Avenue Ngandu
+Avenue Rond-Point
+Boulevard Kanyamuhanga
+Rond Point Kanyamuhanga
+Avenue Wamba
+Route de Dima
+Avenue Tanganyka
+Boulevard Lumumba
+Route Katanga - Kivu
+Avenue Libération
+Avenue Royal
+RN20
+Avenue Mwake
+Avenue de Luvungi
+Avenue des Plaines
+Rue 4
+Avenue du Lubilashi
+Square Forrest
+Avenue Kabalo
+Avenue Kilela Balanda
+Avenue de La Ruashi
+Avenue Lulangulu
+Avenue Manoah
+Avenue Mwanke
+Route de Kipushi
+Avenue Lumumba
+Chaussée de Kasenga
+Avenue Lumumba
+Avenue Kapenda
+Avenue Kasavubu
+Avenue de La Ruashi
+Avenue des Aviateurs
+Avenue Kitenge
+Avenue Mitonga
+Route Kipopo
+Route du Golf
+Avenue Tshiniama
+Avenue de la Libération
+Avenue des Tulipiers
+Avenue Biayi prolongée
+Avenue M'siri
+Avenue des Plaines
+Avenue Lubi
+Avenue Haut Katanga
+Avenue Tshiniama
+Boulevard de L'inderpendance
+Avenue Des Acarandas
+Boulevard President J. D. Mobuto
+Avenue Patrice Lumumba
+boulevard De Panda
+Route de Kambove
+Pont Monvia
+Route Kasolondo
+Water Tank Road
+Route Bravo
+Chemin Lukotola
+Avenue President Mobutu
+Avenue Lieutenant Dubois
+Pont Luvungu
+Avenue Industrielle
+Avenue de La Presse
+Place Major Vangu
+Boulevard du 30 Juin
+Route Kitulu
+Mbau-Kamango
+Pont Semuliki
+Régionale secondaire 421
+Pont Kalule Nord
+Poko Road
+Route de Dima
+pont de la Lufimi
+Piste CADIM
+Avenue de l'Église
+avenue kwango
+Vanga-Bilili Mandondo
+Avenue Wazabanga
+Boulevard Kabila
+Unknwon
+Unknown
+Unknown
+Unknown
+Avenue Prince de Croy
+Avenue Dorcas
+Avenue Kembukusua
+Matadi - Boma - Moanda
+Matadi - Ango Ango
+Avenue Pharaon
+Avevue Dalias
+AvenueSedou
+Avenue Badu wa badu
+Avenue Mpialu
+Avenue de la SONAS
+Avenue Umba-di-Masiala
+Avenue Lukeni
+Route Nkala Nkala
+AVENUE Pala Bala
+Avenue Kinkanda
+Avenue Shaba
+Route du Commerce
+Avenue Makulu
+Avenue Inga
+Avenue Kalonji
+Avenue Kasavubu
+Rond-Point de l'université
+Rond-Point Bakwadjanga
+Avenue Lusambo
+Avenue Lusambo
+Avenue Inga
+Rond-Point Cohydro
+Inkisi River (border)
+Pont Lukenie
+unc road E
+unc road D
+unc road G
+unc road C
+Pont de Mulongwe
+B
+Avenue Clinique
+Avenue Zongo
+Avenue Yuma
+Avenue Mondenge
+Avenue Kamukolobondo
+Le Grand Boulevard Lumumba
+Pont de Kongolo
+Piste d'aviation
+Pont Mukera
+Pont Mayu
+La route principale de Sebele vers Kazimia et Kikonde
+Pont Mpanda
+Route Nationale 5
+RN5
+Avenue de la Cite
+Avenue Lwena
+Avenue Ipeko
+Avenue Bosomi
+Avenue Mudji
+Avenue Itela
+Avenue Bonsomi
+Avenue Révolution
+Avenue Sendwe
+Avenue du Congo
+Temp N24 By-Pass
+Avenue Sungula
+Avenue du 4 janvier
+Avenue Lumumba
+Boulevard Joseph Kabila
+Avenue Eriko
+Yolgomo
+Avenue Kongolo
+Avenue Kazembe
+Avenue Kamina
+Avenue Salongo
+Avenue Des Industries
+Avenue mama Yemo
+Avenue Kazemebe
+Avenue Mpolo
+Avenue Bunkeya
+Avenue Mama Mulinga
+Avenue De La Mission
+Avenue Mandradele
+Avenue Mukulakula
+Avenue Fungurume
+Avenue Kambove
+Avenue Kakanda
+Avenue Lufuma
+Route Kipopo
+Muhaba
+Route de Likasi
+Pont Lindi
+Avenue Liesnard
+Route de l'aéroport
+Avenue Guy Dupret
+Avenue Leopold III
+Avenue Patrice Emeri Lumumba
+Avenue Victimes de La Rebellion
+Route d'Uvira
+Avenue Papa Masengo
+Avenue de la Pharmacie
+Avenue Itaga
+Avenue du Pont
+Yolo
+Limete
+Avenue Saio
+Avenue Shaba
+Avenue Gambela
+Bayombe
+Avenue Gambela
+Avenue Badjoko
+Avenue de la Cathedral
+Boulevard Kimberlite
+Avenue de l'université
+Avenue Inga
+Boulevard Laurent-Désiré Kabila
+Minor path
+Lisala-Gbadolite
+Avenue de la Tshopo
+Avenue Des Eucalyptus
+Boulevard du 30 Juin
+Boulevard LUMUMBA
+RN5
+RP631
+Avenue MAMA YEMO
+Route vers Kivuko
+Avenue de la Gare
+Avenue De Lukafu
+Avenue Des Ateliers
+Avenue Des Usines
+Route de Kakontwe
+Route de Kanianina
+RP607
+Ancien RP230
+Unknown
+Avenue de la Pompe
+Avenue Kabila
+Avenue Kanioka
+Bld Lumumba
+Boulevard Goma
+Boulevard Lumumba
+r
+Avenue du Mont Goma
+Rond Point Rutshuru
+Avenue du 20 Mai
+Avenue du lac
+RD Congo - Rwanda
+Avenue Mombo
+Avenue Sulukutu
+track
+,
+road
+chemin
+Avenue Joseph Kabila
+Avenue Joseph Kabila
+Route de l'Aéroport
+Route de la Luano
+RN5
+Avenue Biayi
+Route Kasapa
+Avenue Biayi prolongée
+RN39
+Avenue de l'Industrie
+Avenue de la Lulua
+Avenue Kasavubu
+Boulevard Mukenge Shabantu
+Place de la Gare
+Avenue Princesse de Liège
+Avenue du Gouverneur Hotkens
+Avenue du Commerce
+Rue des Moulins
+Avenue Muhona
+Avenue Industrielle
+Avenue Centrale
+Avenue de la Source
+Avenue du stade
+Route de la Revolution
+Boulevard Lumumba
+Pont Kituku
+Avenue Kabongo Ngoy
+Avenue Mutwale
+Avenue Kamasaka
+Avenue KDL
+Avenue KDL
+Avenue KDL
+Kundelungu
+Avenue Manono
+Avenue des Ecoles
+Dilolo
+Avenue de Psychologie
+Avenue Polytechnique
+Avenue de la Révolution
+Avenue des Volontaires
+Avenue de la libération
+Avenue de la Libération
+Avenue KDL
+Avenue Sakania
+Avenue de La Ruashi
+Avenue Kigoma
+Avenue Kundelungu
+Avenue Savonnier
+Avenue Mwamba
+Avenue Kinshasa
+Avenue Mwamba
+Route de Kipushi
+Route de la Luano
+Avenue Usoke
+Avenue de Kingoma
+Avenue Maman Irene
+Boulevard RDC
+Avenue Mulaji
+Avenue Nguba
+Avenue Ngandu
+Route de Kipushi
+Avenue Ngandu
+Avenue Biayi
+Avenue Kasavubu
+Avenue Kabalo II
+Avenue du 30 Juin
+Avenue Ruwe
+Avenue Kasavubu
+Boulevard Kamanyola
+Avenue du Zambèze
+Avenue du Congo
+Chaussée Mzée Kabila
+Avenue Biayi
+Avenue Lac Kipopo II
+Avenue Bakakwanda
+Avenue du 30 Juin
+Rue Kanyaka
+Chaussée de Kasenga
+Route de Munana
+Avenue Dilolo
+Kilobelobe
+Avenue de Lazaret
+Avenue de Lazaret
+Avenue Kikanda
+Avenue Muela
+Avenue Fifi Masuka
+Avenue. Samba
+Avenue Katumbi
+Avenue Kalule
+Avenue Circulaire
+Avenue Biayi
+Avenue Kashobwe
+Avenue du 30 Juin
+Route des Poids-Lourds
+Avenue Bukavu
+Avenue Circulaire
+Avenue Kasavubu
+Avenue Lutete Nzau
+Avenue Mama Yemo
+Avenue Mobutu
+Avenue Mpolo
+Avenue Nlandu Panzu
+Avenue Tsanga Luyeye
+Matadi - Sona Bata - Kinshasa
+Fort Portal - Bundibugyo Road
+Avenue du 30 Juin
+Avenue Kalima
+Avenue Kasenga
+Avenue Kipushi
+Avenue Lusanga
+Avenue Okito
+Avenue Sakania
+Boulebard Kabila
+Route Bravo
+Route LIP
+Route Mofya
+Route Mulumbu
+Avenue Biayi
+Avenue Munua
+Avenue Mulongo
+Avenue Sumaïli
+Avenue Kaponda
+Avenue Mulumbwe
+Avenue du Lac Kipopo
+Avenue Biyayi
+Avenue Kigoma
+Chaussée de Kasenga
+Route Ruashi Mining
+Avenue de la Gécamines
+Avenue Mohamed
+Avenue des Aviateurs
+Avenue Rubi
+Avenue Munua
+Avenue Du Camp II
+Boulevard Moise Katumbi Chapwe
+Avenue Usoke
+Avenue de la Croix rouge
+Avenue Kabinda
+Rue de la Luvua
+Avenue Itaga
+Palace de la Justice
+Avenue Kabambare
+Avenue Rwakadingi
+Avenue Kase Vubu
+Forgerons
+Avenue de la Funa
+Pont Makelele
+Avenue Ma Campagne
+Avenue Cataractes
+Avenue de l'École
+Hôpital
+Belladones
+Longo II
+Avenue Birmanie
+Rond-point Moulaert
+Avenue Kisangani
+Avenue du Stade
+Avenue Henri Bongolo
+Avenue des Tulipiers
+Avenue Savonnier
+Avenue Victimes de la rebellion
+Chaussée de Kasenga
+Avenue Chrétienne
+Avenue de Bangala
+Avenue de l’Hôpital
+Avenue du Grand Séminaire
+Avenue Kasa-Vubu
+Avenue de Ngiri Ngiri
+Rue de Makanza
+Rue de Movenda
+Avenue de la Libération
+Avenue Kasa-Vubu
+Inga
+Avenue Assossa
+Avenue de la Force Publique
+Avenue de la Victoire
+Avenue des Sports
+Avenue Gambela
+Avenue Kasa-Vubu
+Boulevard Triomphal
+place du 17 mai
+Avenue de Mushie
+Avenue des Huileries
+Avenue Nyangwe
+Palace de la Justice
+Avenue Kabasele Tshiamala Joseph
+Boulevard Lumumba
+Avenue Kasa-Vubu
+Avenue Luambo Makiadi
+Avenue Bongolo
+Avenue de la Victoire
+Avenue de l’Université
+Avenue Ezo
+Avenue Kapela
+Avenue Kasa-Vubu
+Avenue Kase Vubu
+Avenue Luambo Makiadi
+Avenue Sendwe
+Boulevard Lumumba
+Longo III
+Avenue Assossa
+Avenue Pierre Elengesa
+Avenue Bakali
+Kikwit
+Avenue de la Libération
+Avenue de la Paix
+Avenue de l’Ouganda
+Avenue des Aviateurs
+Avenue des Huileries
+Avenue Dongo
+Avenue du Bas-Congo
+Avenue du colonel Tshatshi
+Avenue du Kasaï
+Avenue du Port
+Avenue Ipenge
+Avenue Katanga
+Avenue Kisangani
+Avenue Mutombo Katshi
+Avenue père Boka
+Avenue Sergent Moke
+Boulevard du 30 Juin
+Place de l'Indépendance
+1ère Rue
+2ème Rue
+3ème Rue
+4ème Rue
+5ème Rue
+6ème Rue
+7ème Rue
+8ème Rue
+9ème Rue
+Avenue Mombele
+Avenue Yolo
+Boulevard Lumumba
+Direction Lumumba
+Petit Boulevard Industriel
+Poids lourd
+Zinnias
+Avenue Mulele
+Boulevard Lumumba
+Kiyimbi
+Avenue Bakali
+Avenue By Pass
+Avenue de l'Université
+Elila
+Kikwit
+Kiyimbi
+Route de Livulu
+Avenue de la IIème République
+Avenue Pierre Kiesse
+Route de Mokali (Mbinza)
+Avenue Elf
+Route Mama Mobutu
+Boulevard Lumumba
+Rue Imbali
+Avenue colonel Mondjiba
+Avenue Colonel Mondjiba
+Avenue Général Basuki
+Avenue Ma Campagne
+Avenue Masikita
+Chaussée Mzee Laurent-Désiré Kabila (Route de Matadi)
+Conseil de Ville
+Route de Matadi
+Boulevard Lumumba
+Route de Nsanda
+Piste Cadim
+Avenue Industrielle
+Avenue Tchamba
+Avenue Des Pins
+2eme Avenue
+Avenue de l'Hopital
+Avenue Bekelebwe
+Avenue Baluba
+Avenue du stade
+Avenue DJugu
+Avenue du Cimetière
+Avenue Monseigneur Malunga
+Avenue du Cimetière
+Avenue LOMAMI
+Avenue de l'Ecole
+(unknown)
+Route Congo-Nil
+Avenue Lubudi II
+Avenue Mukaka
+Avenue Lubudi I
+Avenue Dilolo
+Avenue Kabambare
+Avenue Moero
+Avenue Lwalaba
+Avenue Lumbumbashi
+Avenue Luena
+Avenue Sayo
+Avenue 3z
+Avenue Député Makonga
+Avenue Mangi
+Avenue Chanika
+Avenue Kutu
+Avenue Banza-Mona
+Avenue Ungu - Ngandu
+Avenue Muela
+Avenue le Baton
+Avenue John Tshiabola
+Avenue de Luvungi
+Avenue Lulangulu
+Avenue du Lac Changalele
+Avenue Kambu
+Avenue Bambi
+Avenue Kigoma
+Avenue Colonel Ebeya
+Avenue Mwanke
+Avenue Kundelungu
+Rue de Quartier Shamwana
+Avenue Colonel Tshatshi
+Forest
+Matou
+kasongolo
+Chaussée de Kasenga
+Avenue de la Vallée
+Avenue Kamasaka
+Route de Kipushi
+Avenue Kamoto
+Avenue Kabulo
+Avenue de la Digue
+Avenue Centrale
+Avenue de Verviers
+Route Kasimba
+Avenue de la Carrière
+Avenue Circulaire
+Rue Kafubu
+Avenue des Sports
+Route le Roc
+Penaco
+Avenue du Cimetière
+Avenue des Plaines
+Avenue Circulaire
+Avenue des Babemba
+Boulevard de la Katuba
+Avenue Circulaire
+Avenue de la Mission
+Avenue Circulaire
+Avenue de la Mission
+Avenue de la Basilique
+Avenue de Bukama
+Avenue de la Basilique
+Avenue de Mitwaba
+Avenue de Manono
+Avenue du Marché
+Avenue du Kasai
+Avenue de Kaponda
+Avenue de Manono
+Avenue Kabulo
+Avenue Upemba
+Avenue du Marché
+Rue 10 HT
+Avenue Upemba
+Avenue Des Sports
+Route de Munana
+Avenue des Sports
+Route du Golf
+Boulevard de Kilwa
+Boulevard de Kilwa
+Route de Munana
+Avenue Centrale
+Avenue des Cimetières
+Avenue Samba
+Avenue Samba
+Avenue des Cimetières
+Pont 5 Camps Kafubu
+Avenue Munama
+Avenue Kawama
+Avenue Kikunguru
+Avenue Mukuwenu
+Route Kasumbalesa
+Rue 3
+Rue 3
+Rue de N'djombo
+Avenue Assossa
+Allée verte
+Avenue Ngungu
+Avenue Malandi
+Avenue Banunu 1
+Avenue Kikwit
+Avenue Kianza
+Mbianda
+Avenue Birmanie
+Avenue Pierre Mulele
+Avenue du Mont des Arts
+Avenue des Ambassadeurs
+Avenue Pierre Mulele
+Sentier
+Avenue de l'Aéroport
+Rue Mission Protestante
+Rue Nyalusukula
+Route Kasapa
+Avenue Kunda
+Avenue Biayi prolongée
+Pont Poleni
+Route de Kasenga
+Avenue Fungurume
+Avenue REGIDESO
+Route de Kasenga
+Route de Kinsevere
+Avenue Luano
+Avenue des Araucarias
+Route de la Luano
+Avenue Maman Pauline
+Avenue Podomètres
+Avenue de l’OUA
+Avenue Ntangu
+Avenue Kalikaki
+Rue la Nueé
+Avenue Colonel Mpia
+Avenue Tanganyika
+Avenue Karavia
+Route Kasumbalesa
+Route Kasumbalesa
+Route de Kipushi
+Avenue du Plateau
+Avenue Tujenge
+Avenue des Plaines
+Pont Moïse
+Route Kilobelobe
+Geranium
+Avenue René Wauthion
+Avenue de la Mission
+Kibasa
+Forest
+Route Kasapa
+Avenue Polytechnique
+Avenue du Lac Changalele
+Place de l'Identité Katangaise
+Avenue du Carmel
+Avenue des Eglises
+Avenue Kasangulu
+Avenue Biayi
+Avenue Kamina
+Rue 18
+Avenue Mulongo
+Avenue Salongo
+Avenue Upemba
+Avenue du Parc
+Avenue 3ieme Espace
+Avenue des Tulipiers
+Avenue Kiwele
+Avenue Kenge
+Rue 4
+Avenue des Araucarias
+Avenue Nyembo
+Pont de la Ruashi
+Avenue Haute Tension
+Avenue Maman Kasanga
+Avenue Materday
+Avenue Eustache Koj
+Avenue Maman Kapende
+Avenue du Marché
+Avenue Kasavubu
+Avenue Kabalo
+Avenue Kasavubu
+Avenue Kabalo
+Avenue de Likasi
+Avenue des Femmes congolaises
+Avenue de Likasi
+Boulevard Kamanyola
+Avenue Mpolo
+Avenue d'Osoke
+Avenue Kato
+Avenue Kajileshi
+Avenue du Marché
+Avenue du Coeur
+Rue Magone 2
+Rue Magone 1
+Avenue Kundelungu
+Chaussée de Kasenga
+Avenue Léopard
+Avenue Mulamba Nyunyi
+Avenue Ba Nabi
+Boulevard Katumbi
+Avenue S.T.L.
+Avenue Ludovic Nkulu
+Muela
+Boulevard Katumbi
+Pont Kalule
+Boulevard Kamanyola
+Avenue de la Révolution
+Avenue Lumumba
+Boulevard Katumbi
+Avenue Sandoa
+Avenue du Prophète Kimbangu
+Avenue des Écoles
+Avenue Jason Sendwe
+Avenue de la mission
+Joli Parc
+Place Commerciale
+RN39
+Avenue du Kasaï
+Rue Kalemie
+Avenue Kapangula
+Avenue Manika
+Avenue Kikwit
+Accès Université Kongo - Nouveau Campus
+Avenue Mobutu
+Avenue Munyororo
+Avenue Presidentielle
+Rond Poind Stade
+Avenue Kitima
+Avenue President Kasa vubu
+Avenue Asiou Tshini
+Avenue Lundula
+Avenue Colonel Straus
+Avenue Bechal Montgomery
+Rond Poind du Pond
+Avenue Tropiques
+Rue des Éléphants
+Avenue Mobutu
+Avenue Abattoir
+Boulevard Lumumba
+kisantu
+avenue mbujimayi 3
+Place du Canon
+Route de Buta
+Pont Tshopo
+Boulevard Lumumba
+Avenue Baron Dhanis
+Avenue Reine Elisabeth
+Place Léopold II
+Route T.P.
+Avenue Des Écoles
+Place Colonel Dufour
+4ème Avenue
+5ème Avenue
+6ème Avenue
+Avenue des Poivriers
+1ère Avenue
+Avenue Kinkole
+Avenue du théatre
+Avenue des écoles
+Avenue M'Siri
+Avenue de la Base
+Boulevard Mobutu
+Avenue des Huileries
+Avenue Itaga
+Avenue Kabinda
+Avenue Kalembelembe
+Bokingi Tabu
+Rue KANZA
+Avenue Bakavu
+Avenue Du Zing
+Avenue Du Germanium
+Avenue Des Forgerons
+Avenue Kisunka
+Route Bravo
+Chemin Mwenga Musonge
+Avenue du Fleuve
+Avenue President Mobutu
+Avenue de La Cathedrale
+Place Mulamba
+Ruzizi International Bridge
+Place Royale
+Place 24 Novembre
+Route de l'aéroport
+Boulevard Ozumbura
+Boulevard National
+Avenue de la Paix 1
+Avenue Colonel Muzimba
+Avenue du Tourisme
+Avenue Rwakadingi
+13ème Rue
+Movena
+17e Rue
+Tshimpi Airport
+Avenue Enseignement
+Avenue de la Poste
+Avenue Futi Masaka
+Avenue de l'Hopital
+Avenue du CONGO
+Avevue Landu Wamba ex Zikwa
+Avenue TSHELA
+Avenue Moanda
+Avenue du 24 Novembre
+Avenue Odia David
+Avenue Kikwit
+Avenue de la Kanshi
+Avenue Inga
+Avenue Inga
+Avenue Salongo
+Rond-Point Kimberlite
+Avenue Inga
+Avenue de la Kanshi
+Rond-Point du Rectorat
+Rond-Point de la Cathedral
+Rond-Point Petrombu
+Rue Kabila (ex Mobutu)
+RJ TEST road
+Route de Nsanda
+M
+O
+L
+N
+Avenue Nkoso
+Avenue Cimetière
+Avenue Hôtel de Ville
+Avenue d'Eala
+Avenue Maternité
+Avenue Salongo
+Avenue Yasanyama
+Avenue Kivu
+Zongo Falls Path
+Avenue Kampemba
+Rue Maraicher
+Rue Limete
+Rue Kikumbi
+Rue Briquetier
+Rue Sonabata
+Rue Bas-congo
+Rue Mfu
+Rue Lunzadi
+Couloir Abattoir
+Mangembo
+Cimetière Chamalale
+ferme mpelo - ferme papa noel
+Shortcut
+avenue lukula
+Allée principale de Lumbi
+allée principale de Lumbi
+Entrée de l'église
+Driveway
+Piste derièe Station
+une route etroite
+chemin de pieton
+route m
+Avenue de l'Ouest
+Avenue de l'Est
+Avenue Tissakin
+Galerie Albert
+hôpital
+Avenue Likasi
+Lulonga
+Lukunga
+Luebo
+Lutshatsha
+Luwu
+Rue piétonne du Tribunal de paix
+Buburu
+Morcellement
+Avenue des Aviateurs
+Galerie Présidentielle
+Lubisi
+Rue Sambembe
+Avenue Passage
+is this real or a stream?
+Territoire 1
+Sentier
+Rue Petit Plus
+Avenue Kamalondo
+Bruisonnier
+Rue Sambembe
+Avenue du Marché
+Pont Naviondo
+Avenue Malemba
+Rue Mupet
+Avenue Haute tension
+Avenue THTCC Inga-Kolwezi
+Espace du bureau
+Terriasa
+Pont Kafubu
+Palace de Justice
+Place de la Libération
+Avenue De Aluminium
+Avenue du Centre
+Avenue de la Corniche
+Avenue Banunu 2
+Bokiki
+Escalier Fukanzola
+Rue 17
+Avenue de l'Eglise
+Avenue De la prisson
+Sentier Kimbangu

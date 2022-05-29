@@ -1,0 +1,603 @@
+Long Cheng Airbase
+Tami
+Village portuaire
+Dongpaesak Village
+西猛路
+Asem Villa
+Alex House
+Border Crossing Station
+Hmong Refugee Village
+Vang Vieng
+Ban Phatang
+Ban Keo Kouang
+Nong Khiaw
+Houayhoy
+Namkham
+Donechai
+Oudomsin
+Namdet-Mai
+Saylek
+Namai
+Nammay
+Chongka
+Pakha
+Poungkok
+Houaykoth
+Tinthard
+Yangphieng
+Thong-Mai
+Silimoon
+Kokmuang
+Donmai
+Chom
+Houayla
+Houaylong Mai
+Muang Sing
+Namkeo-Louang
+Tapao
+Ban Singphadthana
+Namday
+Khouang
+Silihuang
+Kangmai
+Houaykhaem
+Nongkam
+Nongbua
+Namkeo-Noy
+Patoy
+Koum
+Sop-I-Mai
+Yanglouang
+Nam Lek
+Homesai
+Ban Non Sa
+Ban Houay Toum
+Ban Phounglak
+Ban Houay Toum
+Ban Nam Fuang
+Ban Namon
+Sor
+Xiengmoon
+Village portuaire
+Village portuaire
+Village portuaire
+Naxai
+Lakkham
+Laokhao
+Seuadeng
+Ban Pik Nyai
+Village
+Hom 2
+Kaysone Museum
+Hom 6
+Hom 16
+Hom 2
+Tanmixay Hom 28
+Hom 18
+Hom 1
+Chommany Neua Hom 5
+Chommany Neua Hom 3
+Hom 15
+Hom 2
+Hom 17
+Chommany Neua Hom 1
+Chommany Neua Hom 4
+Dondeng Hom 7
+Hom 5
+Hom 9
+Hom 4
+Hom 7
+Hom 11
+Chommany Neua Hom 6
+Hom 6
+ຮ່ອມຫ້າ ຫນອງບົວທອງເຫືນອ
+Hom 5
+Hom 1
+Dognaxoktai Hom 2
+Dognaxoktai Hom 8
+Dognaxoktai Hom 9
+Hom 10
+Dognaxokneua Hom 8
+Dognaxoktai Hom 7
+Hom 4
+Nongdouangtai Hom 9
+Hom 5
+ดงโดก
+Phonephanao Hom 9
+Phonephanao Hom 10
+Phonephanao Hom 13
+Phonephanao Hom 11
+Hom 7
+Chommany Neua Hom 8
+ຮ່ສມທີ 2
+Don Koi Hom 12
+Hom 18
+Hom 1
+Hom 19
+Hom 7
+Place Nam Phou
+Bartholoni Street
+Rue Chou Anou
+Rue Manthatourath
+Rue Sakkarine
+Ban Phonsinouan Hom 6
+Fay Hom 3
+Fay Hom 4
+Rue Nokèokoummane
+Chanthakoummane Street
+Hom 6
+Ban Saphanthong Neua Hom 11
+Phiavat Hom 2
+Phiavat Hom 1
+Si Meuang Hom 6
+Haysok Hom 2
+Dongpalantha Hom 6
+Ban Phonsinouan Hom 5
+Ban Phonsinouan Hom 4
+Ban Phonsinouan Hom 7
+ທາງຮ່ອມ
+Sibouaban Road
+Phônthannua Hom 12
+Hom 2
+Ban Saphangmo Hom 2
+Ban Saphangmo Hom 8
+Ban Saphangmo Hom 4
+Ban Phônthannua Hom 15
+Hom 6
+Hom 17
+Hom 15
+Hom 3
+Hom 10
+Hom 4
+Hom 9
+Hom 2
+Hom 14
+Ban Thôngkang Hom 12
+Hom 1
+Ban Thôngkang Hom 9
+Hom 7
+Ban Thôngkang Hom 3
+Ban Thôngkang Hom 13
+Ban Thôngkang Hom 5
+Hom 2
+Watnak Nyai Road
+Hom 5
+Ban Thôngkang Hom 8
+Ban Thôngkang Hom 10
+Ban Thôngkang Hom 7
+Hom 8
+Hom 9
+Hom 6
+Hom 10
+Khounta Road
+Khountathong Hom 3
+Nakham Hom 2
+Nakham Hom 1
+Nongdouangneua Hom 7
+Nongdouangneua Hom 2
+Xiengve Road
+ຮ່ອມຄຸ້ມປົ່ງຈະເລີນ
+ຮ່ອມຫຼັງ ST Tractors
+Hom 16
+Dongpalantha Hom 7
+Dongpalantha Hom 5
+Dongpalane Tha Hom 4
+Dongpalantha Hom 10
+ບ້ານ ສະພານທອງເໜືອ ຮ່ອມ 9
+Rue Si Meuang
+Fay Hom 1
+Rue de la Mission
+Sakarine Street
+Fay Hom 2
+Dongpalantha Hom 8
+Dongpalantha Hom 9
+Dongpalantha Hom 1
+Si Meuang Road
+Si Meuang Hom 3
+Si Meuang Hom 4
+Ban Saphanthongneua Hom 3
+Ban Saphanthongneua Hom 4
+Ban Saphanthong Neua Hom 10
+Ban Saphanthong Neua Hom 12
+Ban Thôngkang Hom 11
+Ban Thôngkang Hom 4
+Nongdouangneua Hom 8
+Nongdouangneua Hom 5
+Nongdouangneua Hom 1
+Nongdouang Road
+ถนน นำ้ตก กวางชี
+Sathouyaithao Road
+Chaotonkham Road
+Sathoutan Road
+Ban Mano Road
+Khoualouangtai Hom 8
+Rue Hèngboun
+Phnom Penh Street
+Rue Tourane
+Rue de Hanoi
+Haysok Hom 3
+Khoualouangtai Hom 2
+Phonexay Hom 15
+Phonexay Hom 16
+Hom 13
+Homti 13
+Khoualouangtai Hom 3
+Sihom Hom 4
+Khoualouangtai Hom 1
+Nongdouangneua Hom 3
+Phanga Sy Road
+Sihom Hom 1
+Nongdouangtai Hom 1
+Hongkè Hom 7
+Hongkè Hom 6
+Hongkè Hom 2
+Hongkè Hom 4
+Singapore Rd
+Latsaphanith Road
+Tha He Road
+Khangluang Road
+Senna Road
+Siengsa Road
+Soutthanou Road
+Latsaphanith
+Luanglom Road
+Wat Pa Road
+Nalao Road
+Pheunchit Road
+Sanamxay 10 Road
+Dongdamdouan 1 Road
+Saphanneua 1 Road
+Chaleun Sin Road
+A2 Road
+Phonsa-at 1 Road
+Vilay Road
+Kilometer 3 Road
+Pak Dong Rd
+ປາກກະດິງເຫນືອຖະຫນົນເລກທີ່.13
+Chaimeuang Road
+Oudomsin Road
+Khounxoa Road
+Th 12
+Th 21
+Th 5
+Th 9
+ຮ່ອມ 16
+Hom 14
+Hom 2
+Hom 3
+Hom 4
+Hom 7
+Khamhoung Hom 13
+Phakhao Hom 5
+ໂພນທັນເໜືອ ຮ່ອມ13
+Hom 1
+Hom 13
+Hom 14
+Hom 2
+Hom 4
+Hom 5
+Hom 7
+Hom 9
+Hongkè Hom 1
+Lounalath
+Nokeokoummane Road
+Pangkham Road
+Phonephanao Hom 15
+Rue Mahosot
+Sihom Hom 3
+Thongtoum Hom
+Phayameungchan Road
+Ounheuan Road
+Sisaleumsack Road
+Hom 8
+Hom 6
+Thongtoum Hom 8
+Nongdouangtai Hom 4
+Nongdouangtai Hom 5
+Nongdouangtai Hom 2
+Hom 4
+Thatlouangkang Hom 1
+Nongdouangneua Hom 10
+Nongdouangneua Hom 9
+Nongdouangtai Hom 6
+Tanmixay Hom 28/1
+Tanmixay Hom 28
+Tanmixay Hom 28/2
+ທາງເຂົ້າໂຮງຮຽນທະນາຄານ
+Hom 11
+Rue de Haiphong
+Rue Le Ky Huong
+Sihom Hom 2
+Saigon Street
+Phai Nam Street
+Rue Nehru
+Rue du Puits
+Sihom Road
+Khoualouangtai Hom 10
+Khoualouangtai Hom 6
+Sihom Hom 5
+Houameuang Road
+Khamhoung Hom 12
+Nongphagna Hom 1
+Hom 6
+Sivilay Hom 11
+Hom 9
+Hom 7
+Hom 9
+Hom 8
+Hom 1
+Hom 5
+Hom 7
+Hom 3
+Khem Ngum
+Phonsavang Neua 1 Road
+Saphantai 2 Road
+Latsadanai Road
+Chao Kim Road
+Sayaphoum Road
+Kinnali Road
+Phagnapui Road
+Singthong Road
+Siriseuka Road
+Fa Ngoum Road
+Oudomvilay 9 Street
+Oudomvilay 11 Street
+Nongbouakham Road
+Phonsay 1 Road
+Saysomboun
+Fuxing Road
+Th 34
+Th 8
+นาคอ่น
+Lao-Nippon-Bridge
+Th 46
+New 18A
+Main Street
+Toll bridge
+Deep river crossing
+Pasathipatai Road
+Namhoung Bridge
+Bypass road
+Road being repaired - Late 2017.
+Piste d'exploitation
+Thaduea-Pak Khone Bridge
+Namsameub Bridge
+Namkasan Bridge
+Huai Kon - Ban Ngeun Border Crossing
+Nampha Bridge
+Namyone Bridge
+Sakkaline Road
+Phousi Road
+Souvannabanlang Road
+Phou Vao Road
+Chittalat Road
+Baily Bridge
+Soukkhaseum Road
+Inthasome Road
+Chunkham Road
+Sisavangvong Road
+Baily Bridge
+Pha Mahapatsaman Road
+Construction Zone
+Thanon Anou
+Patuxay
+Chou Anou Road
+23 Singha Road
+Hinheup Bridge
+Hom 9
+ຫນອງພະຍາ ຮ່ອມ 11
+Rue Saylom
+Rue de Saylom
+Avenue Souphanouvong
+Dongdok-Phonetong Road
+Donnoun Hom 17
+Road to Ban Keun
+Houaxaimoun Bridge
+Nam Mang Bridge
+Nam Lo Bridge
+Nam Ching Bridge
+Gravel road
+Bypass Road
+Saphantai 1 road
+Ounkham Road
+Chou Anou Road
+Phonsavanh temple road
+Latsavongseuk Road
+Phetsalat Road
+Vientiane Road
+Second Thai–Lao Friendship Bridge
+Sonexay Road
+Nam Ya Bridge
+Nam Thoung Bridge
+Nam Hong Bridge
+River Crossing
+River Crossing
+Oudomxay Bypass
+Namkor Bridge
+River Crossing
+River Crossing
+River Crossing
+River Crossing
+Houy Yang Haul Road
+Western Areas Local Area Access Road
+Production Office to SHEC Road
+Production office to SHEC Road
+River Crossing
+Quốc lộ 9
+Xa Ot bridge
+Airport Padan Road
+Hinsom Round-a-bout
+Hinsom Loop
+Hinsom Production Office Road
+Production Office Road
+TSF1 Access Road
+Nam Thoay Bridge
+Nam Kap Bridge
+River Crossing
+River Crossing
+Namphak Bridge
+Nam Ou Brifge
+137
+Road to Kong Leng lake
+9W Road
+Piste forestière
+Luangnamtha Road
+Baily Bridge
+Chao Fa Ngum Road
+Kingkitsarath Road
+Kitsalat Road
+Phommathat Road
+Phothisarath Road
+Sisavangvatthana Road
+Souvanhnakhamphong Road
+Wisunalat Road
+Souphanouvong Bridge
+Th 1
+Th 10
+Th 35
+Th 38
+Th 42
+Xieng Khouang - Nghe An Friendship Road
+Quốc Lộ 8A
+Setthathilat Road
+เสั่นทางหลวง
+Avenue Kaysone Phomvihane
+Road 13 South
+Vientiane 450 Year Road
+Limestone Quarry Haul Road
+Local Access Road
+Access Road Nam Ngum 3
+Nam Chat Bridge
+Nam Lard Bridge
+Nam Sam Bridge
+Nam Huang Bridge
+Nam Kap Bridge
+To Nam Tha Power stn
+ທາງດອນດູ
+Asean Road
+Avenue Kaysone Phomvihane
+Avenue Lane Xang
+Boulevard Kamphengmeuang
+Boulevard Khounboulom
+Boulevard Khouvieng
+Chao Anou Road
+Donchan Road
+Dongdok-Phonetong Road
+Dong Palan
+First Thai–Lao Friendship Bridge
+Khoun Boulom
+Lao-Thai Road
+Phonephanao-Phonetong Road
+Phonpapao Road
+Sibounheuang Road
+Sisangvone
+Sithong Road
+Souphanouvong Avenue
+Thadeua Road
+Vientiane 450 Year Road
+Old Bridge
+Namkhan Bridge
+Nam Ngum Bridge
+River Crossing
+River Crossing
+38
+River Crossing
+Nam Ku Bridge
+Nam Hong Bridge
+Nam Choy Bridge
+Nam Ngiap Bridge
+River Crossing
+River crossing
+Bamboo bridge
+1506A
+Houayang Bridge
+Nam Lao Bridge
+Namoun Bridge
+Namkham Bridge
+ຮ່ອມຫລັງວັດ ຫນອງບົວທອງ
+Maliny Bridge
+ທາງຕັດໃໝ່ລະຫວ່າງ ລີ້ງຊັນ - ວຽງຄຳ
+Nam Mong Bridge
+Namsat Bridge
+Nambouay Bridge
+"""Hinhehup Old Bridge"""
+Namnga Bridge
+Houaymieng Bridge
+Dongpalane
+Hom 6
+Rue Dongpalane
+Thatkhao Road
+Phonsinuan Street
+Bourichane Road
+Boulevard Kouvieng
+Setthathirath Road
+สีทาน
+Dongpaina Road
+Saphangmo
+Khunjing Road
+Ming Muang Road
+Piste forestière (vue sur DigitalGlobe E00 en 2016)
+Ratsavong Road
+Bounkhong Road
+Hongkè Hom 3
+ຂົວເຂົ້າ ນຳ້ງື່ມສາມ
+Kuvoravong Road
+Khanthabouli Road
+Khantabouli Road
+Sisavangvong Road
+Santiphab Avenue
+Kaysone Phomvihane Road
+Saphantai 3 Road
+Soukkhavadi Road
+Dinosaur Junction
+ໂພນສິມ
+River Crossing
+Haul Road
+Light Vehicle Access Road
+Padan Camp Road
+Production Airport Road
+Core Shed Rd
+Old French Bridge
+No Cars
+very steep road
+Rue Samsènethai
+Rue Setthatirath
+Sokpaluang
+Mahosot Street
+Nongbone Road
+Rue Nongbone
+Bamboo seasonal bridge
+bamboo seasonal bridge
+Vientiane Wattay Airport
+หลวงพบาง
+kt1
+Bamboo Bridge
+Cosmo Hotel
+mountain pass mesch canc
+Hike to Pha Ngeun Peak
+Way to waterfall
+Way to waterfall (incomplete)
+Suspension Bridge
+A1-3 Access Stairs
+Collapsed bridge, broken path
+yes
+Running track
+Tad Aland falls path
+Ferry ramp
+Esquive crossing 2 times the river
+Theaheua Market
+ທາງເຂົ້າ ມ.ຊ
+Ferry Ramp
+Ferry Ramp
+Ferry Ramp
+Wat Bouppharam
+Walking Street
+Mekong Shore Boardwalk
+Nam Phou
+Theaheua Market
+Theaheua Market
+Fußweg zum Hotel Eingang
+Hotel Service Road
+ທາງເກົ່າລັດໃສ່ທາງຕາດມູນ
+Running track
+Night Market

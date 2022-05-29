@@ -1,0 +1,1180 @@
+Gold miner's camp
+30
+33
+47
+46
+38
+48
+42
+5
+39
+55
+40
+37
+43
+49
+41
+56
+52
+54
+45
+59
+57
+53
+60
+69
+68
+71
+70
+78
+44
+58
+64
+66
+5
+67
+62
+61
+63
+29
+34
+28
+27
+36
+24
+25
+26
+57
+52
+58
+59
+5
+55
+3
+18
+11
+2
+43
+42
+100
+41
+98
+99
+40
+96
+89
+95
+76
+77
+95
+1
+86
+9
+93
+68
+80
+13
+20
+59
+60
+8
+10
+15
+16
+51
+72
+73
+52
+53
+2
+74
+61
+789
+85
+11
+78
+81
+90
+97
+12
+58
+74
+7
+50
+44
+90
+6
+57
+99
+75
+85
+8
+86
+49
+87
+45
+46
+50
+47
+51
+53
+56
+64
+65
+67
+66
+70
+71
+73
+75
+76
+77
+79
+80
+72
+73
+74
+72
+22
+24
+25
+27
+29
+30
+31
+32
+33
+34
+35
+37
+36
+39
+40
+38
+41
+43
+42
+66
+64
+63
+65
+69
+67
+68
+92
+97
+99
+23
+91
+26
+28
+70
+94
+98
+6
+7
+8
+9
+10
+12
+13
+14
+23
+25
+24
+28
+31
+30
+29
+33
+35
+36
+34
+39
+83
+88
+94
+1
+44
+90
+71
+14
+61
+89
+96
+17
+48
+54
+69
+82
+93
+92
+84
+56
+100
+76
+7
+80
+81
+82
+84
+83
+82
+83
+88
+95
+96
+4
+97
+5
+45
+46
+54
+47
+77
+78
+48
+98
+89
+53
+55
+19
+21
+62
+100
+63
+81
+86
+87
+92
+94
+93
+2
+3
+91
+85
+84
+87
+60
+75
+Al Haj Yousif
+Al haj Yousif South
+Hilat Koko
+Dar Al Salam
+Jiraif East
+U.S.A embassy
+Nabta
+Al Qadisiya
+مجمع ساريا السكني
+عصام الشيخ
+Al Rowad Residential Compund - Smart Housing
+داخلية حسيب
+مجمع النصر السكني
+22
+17
+21
+16
+20
+15
+19
+26
+27
+32
+38
+37
+rumah 7
+rumah8
+22
+2
+rumah9
+rumah10
+88
+4
+20
+89
+21
+85
+90
+86
+17
+100
+19
+21
+27
+32
+22
+25
+33
+34
+26
+30
+31
+94
+95
+87
+5
+1
+6
+7
+3
+32
+31
+17
+18
+13
+14
+19
+15
+20
+18
+21
+20
+22
+23
+24
+23
+28
+29
+12
+9
+8
+16
+10
+11
+rumah5
+rumah 6
+26
+27
+29
+25
+34
+28
+66
+77
+23
+91
+78
+24
+39
+40
+44
+99
+45
+38
+46
+41
+42
+35
+3
+36
+37
+96
+33
+92
+93
+98
+97
+3
+1
+rumah11
+rumah12
+rumah 3
+38
+13
+37
+30
+31
+36
+69
+32
+71
+35
+rumah dua
+67
+72
+68
+rumah 4
+70
+73
+75
+47
+48
+49
+50
+1
+39
+74
+52
+53
+rumah14
+2
+5
+10
+12
+13
+9
+56
+57
+80
+81
+82
+84
+60
+61
+64
+62
+74
+70
+7
+69
+99
+6
+14
+71
+56
+64
+65
+79
+58
+97
+98
+41
+44
+54
+55
+57
+62
+63
+43
+53
+85
+86
+4
+11
+15
+7
+8
+54
+57
+59
+9
+81
+82
+56
+66
+80
+65
+76
+55
+63
+67
+78
+51
+73
+84
+75
+83
+52
+87
+96
+rumah 16
+rumah19
+rumah 18
+49
+50
+91
+93
+94
+40
+42
+88
+89
+90
+95
+68
+77
+79
+rumah17
+92
+100
+46
+47
+48
+61
+45
+83
+51
+16
+جزيرة بلنارتي
+Mowrka
+Adow
+أرودين
+saysab
+Airkateib Gold miners camp
+القلابات
+The Indian community
+Resettlement Area
+Resettlement Village
+Resettlement Village
+Resettlement Village
+سوق الطواحين
+بابنوسة
+لقاوة
+Southerners Refugees Camp
+كوستي
+ربك
+Guli Town
+Julud
+Habila
+العباسية
+Bereket
+أرارا
+هبيلة
+الجديدة
+البيضاء‎‎
+Goreisho
+Songo
+Birkat Saira
+كبكابية (Kebkabiya)
+Simiat
+Golei
+unknown
+Mellit
+Dam Workers Residential Area
+Om Sarieh
+Abu Haraz
+ارقو
+Dagarti
+Goshabi Resettlement Area
+el-Multaga Resettlement Area
+unknown
+Street 21
+شارع البوستة السجانة
+Street 1
+Street 21
+Khour Street
+Street 59
+Street 57
+Street 61
+Street 53
+Street 51
+Street 49
+Street 43
+Abu Sin Street
+Street 49
+Street 55
+Street 63
+Khour Street
+Al-Tayar al-Gameil Street
+Hashim Bey Street
+شارع البرلمان
+El Tayer Zulfu Street
+17th Street
+Zubeid Haj al Amin Avenue
+21st October Street
+19th Street
+شارع الجمارك
+Kassala
+Sha'bia Road
+Street 25
+1 Hay Almatar
+2 Hay Almatar
+17th Street
+Al Zubeir Pasha Street
+Street 53
+Street 47
+Street 51
+Street 19
+Street 41
+Street 3
+Badr Street
+Al Sawahli Street
+Al Salam Street
+شارع المطبك
+6th Street
+2nd Street
+12th Street
+Al Rayan Street
+Jubayt
+Sinkāt
+Abu Hamad
+Tokar
+شارع الفرنساوي
+شارع يعقوب
+شارع برهان
+7
+شارع العرش غرب
+شارع النيل شمال
+شارع الخليفة
+شارع اسماعيل سالم
+شارع السليماب
+شارع كوفي
+شارع عمر ود بشيرة
+شارع يوسف التريتيري
+شارع المركز الثقافي
+شارع عبد الله هاشم
+شارع محمد علي
+شارع الفلاتة
+سماني محمد احمد
+شارع الامين الشاعر
+شارع الامين سعيد
+خليفة
+شارع ابشلة
+شارع المقبر شمال
+شارع الرضي
+شارع حاج ابراهيم
+شارع خوجلي
+شارع حاج المامون
+شارع المرضي
+شارع بابكر مصطفى
+شارع المدارس شمال
+المقابر غرب
+شارع احمد حاج علي
+شارع يوسف ود ابراهيم
+شارع البدوي
+شارع الرشيد
+شارع البطري
+شارع حياتي
+شارع يوسف ابصريمة
+شارع ابو القاسم الشيخ
+شارع مبارك الامين
+شارع عوض الجيد اب شلخ
+شارع نصر الدين سالم
+14
+9
+شارع معروف
+شارع ودمدني المناقل
+شارع ابنعوف
+8
+10
+15
+شارع ود الشيطان
+12
+13
+شارع محمد الو عاقلة
+شارع المقابر
+ود العبيد
+معروف الصديق
+معروف الصديق 2
+امتداد معروف 2
+شارع كمبو سجابة
+Er Roseires
+Ad-Damir
+Siedlung
+Atbarah
+Hamshkorieb
+Albaldia Street
+Ali Abdel Latif Avenue
+Street 46
+Alqawz
+Street 43
+Street 51
+Street 59
+Street 27
+Street 29
+Street 31
+Street 33
+Street 39
+Street 45
+Street 49
+Street 9
+Al Jami Street
+Street 45
+شارع الصالحة
+شارع فرحات
+Street 25
+Taha al-Roubi Road
+Saleh Pasha el Mek Street
+Street 69
+Street 67
+35th Avenue
+Street 31
+Street 25
+شارع النجوم
+Street 1
+Street 63
+Street 57
+Street 41
+Street 45
+Street 69
+Street 67
+Street 65
+Sreet 65
+35th Avenue E
+33th Avenue East
+31st Avenue East
+Hospital Street
+Parliament Street
+Al Mahdi Avenue
+Ali Dinar Street
+Street 10
+Abusiid Block 3
+ç
+شارع ٢٠
+كبري الدباسين
+جسر ابو زعيمة
+Al Zubeir Pasha Street
+شارع البرلمان
+Street 54
+Street 48
+Street 50
+17th Street
+Al Tayer Izzedin Street
+New Halfa
+To Elsaid Elhassan Archaelogical Mosuque
+Street 59
+Street 31
+Al-Haj Ahmad Mohmoud El-Tom
+45th Street
+5th Avenue
+4th Avenue
+3rd Avenue
+2nd Avenue
+Street 59
+Street 55
+Street 57
+Street 5
+Street 11
+Street 7
+Street 37
+Street 43
+Street 25
+Street 13
+Street 17
+الازهري
+8th Street
+4th Street
+Al-Albait Street
+Bashir al-Nefeidi Street
+Alnasr Neighborhood Residential Street
+Alnasr Road extension leads to the Market
+Sannar
+طريق سنجة -الدبكرة
+Kober Bridge
+Kober Bridge
+Omdurman Bridge
+Blue Nile road & Railway Bridge
+Tuti Bridge
+Tuti Bridge
+Shambat Bridge
+Salha Road
+Abrouv Road
+Al-Halfaia Bridge
+Alwadi Road
+AlWadi Road
+Garri Ring Road
+Khartoum-Wad Madani Road
+Salha Road
+Umbadda Front Street
+Umm Baddah Street
+Madani-Qadarif Highway
+شارع جوادة
+شارع حلة حمد
+شارع ودرعية
+معروف الصديق
+Qadarif-Kassala Highway
+Khartoum-Kosti
+Renk-Kosti
+Abu_Gebiha-Athidway
+Kadugli-Higlig
+Dongola Bridge
+Nyala to Al-Fashir
+Ridge
+Ahmed Khair Street
+Al-Azhari Road
+Al-Imam Al-Mahdi Road
+Al Mak Nimir Bridge
+Al Manshiya Bridge
+Al-Maouna Street
+Garri Ring Road
+huria Street
+Ingaz Road
+Inqaz Bridge
+Juba Street
+Mamoon Beheiri Street
+Nile Street
+Wad Medani Highway
+شارع البلدية
+شارع الزعيم الازهري
+شارع القيادة
+شارع الكلاكلة القبة
+شارع المك نمر
+شارع بيويوكوان
+شارع جبل أولياء
+شارع مامون بحيري
+Atbara-Port Sudan Highway
+Atbara-Port Sudan Highway
+Atbara-Port Sudan Highway
+Atbara-Port Sudan Highway
+Kassala PortSudan Highway
+Kassala-Port Sudan Highway
+Kalakla Road
+Street 61
+Ghaba Street
+Nile Street
+Gaza Street
+Al-Tayeb Saleh Street
+شارع عبد المنعم محمد
+Gaza Street
+Ghaba Street
+Al Ma'arad St
+Nile Street
+شارع محمد صلاح الدين
+Bashir Elnefeidi St
+Street 60
+Braha Street
+Tutti Bridge
+Al Haj Youssef Street
+شارع الخور
+Mawrada Road
+Morada Road
+شارع البوابة
+Morada Road
+Al-Arbaeen Road
+Al-Arbaeen Road
+Muhandiseen South
+Al-Arbaeen Road
+Muhandiseen South
+Umbadda Front Street
+Muhandiseen South
+Al-Shingiti Road
+شارع البوابة
+Garri Ring Road
+شارع ساريا
+Street 35
+شارع 25 العشرة
+شارع المعونة
+Muzdalafa Road Hajyousef
+شارع الانقاذ
+شارع بحرى الصناعات
+Al-Mazad Road
+Al Said Ali St.
+Sayed Ali Road
+Alzaeem Alzhri
+شارع جبل أولياء
+Nile Street
+Ingaz Road
+Al Fakee Osman
+Toyota Street
+شارع الحرية
+Army Road
+Jamhuriya Avenue
+Al-Imam al-Mahdi
+Street 35
+شارع الجزيرة
+Street 55
+Al Mek Nimir Avenue
+Al Mak Nimur Avenue
+Al-Maouna Street
+Al Baladiya Avenue
+Gama'a Avenue
+Blue Nile Bridge
+Burri Road
+Avenue 39
+Africa Road
+Huria Bridge
+Street 39
+Abu Sin Street
+al Qasr Avenue
+Al Nugumi Street
+Othman Digna Avenue
+Ishreen Road
+Arda Road
+Umbadda Front Street
+Fitehab Road
+شارع 6 أبريل
+Muhandiseen North
+Fitehab Road
+Banat Street
+Banaat Street
+Al-Arbaeen Road
+شارع الشيخ النذير
+شارع المستشفي التركي
+شارع الجبل
+Umm Baddah al Sabeel Street
+Al-Arbaeen Road
+Muhandiseen South
+Ishreen Road
+صينية المنصوره
+Salha Road
+Sinkat Street
+Al Baladiya Avenue
+Sinkat Street
+Al Shaabiya Road
+Al Lafa Road
+Toteil Well aqueous
+Saudi Hospital Street
+University Steet
+Gharb Elgash Road
+Al-Sawaqi Ganoubia Street
+Old Gash Bridge
+Khatmiya Street
+Souq Steet
+Mastora Street
+Kassala Hospital Street
+Cinema Sharqia Street
+Schools Street
+To Said Al-hassan Archaelogical Mosque
+Haykota Street
+Khatmiya Steet
+Turaa Street
+Hai Al-Omal Street
+Hai Alumal Street
+Hai Al-Arab Street
+Hai Al-Arab Road
+Wad Sharefay Road
+Gash Bridge
+Qadarif-Kassala Highway
+Mohamed Nageeb Street
+Street 41
+Mohamed Nageeb Street
+Street 35
+Mohamed Nageeb Street
+al Mufti Street
+Al-Imam Al-Mahdi Rd.
+Al-Imam Al-Mahdi Rd.
+Jamhuriya Avenue
+شارع القيادة الجديد
+Abulgasim Hashim Street
+Obaid Al Khatim St.
+Obeid al Khatim Street
+شارع بري بالنص
+Al-Azhari Road
+30th Street
+شارع 15
+Station 7 Road
+Street 35
+Obeid al Khatim Street
+Mecca Street
+al Jazar Street
+Bashir Elnefeidi St
+Mamoon al Berar Street
+Sahafa Sharg Street
+Al-Imam Al-Mahdi Road
+Juba Street
+Obeid al Khatim Street
+Khartoum - Wad Medani National Highway
+Sahafa Sharg Street
+Ibeid Khatim Street
+Mubarak Gismalla
+Airport Departure Street
+Nuzha Street
+Banat Road
+الشبيراب - الفريجاب
+Tabbat Road
+Track
+Shendi-Atbara Road
+Barbar
+Atbara-Port Sudan Highway
+Shandi - Atbara Road
+Khartoum-Shendi Road
+Al-Merghaniya Street
+Al-Muraba't Street
+Al-Souq Street
+Al-Wali Street
+Cinema Watanya Street
+Ghareb Elghas Road
+Halanga Street
+Sika Haded Road
+Soriba Steet
+Kassala-Port Sudan Highway
+Madani-Qadarif Highway
+Madani-Qadarif Highway
+Madani-Qadarif Highway
+Ad Damazin Kurmuk Road
+Ad Damazin Kurmuk Road
+Ad-Damazin-Sennar Road
+plastine road
+Al-Mazad Road
+North Street
+Water Street
+Drushab South Road
+Muzdalafa Road Hajyousef
+Khartoum - Atbarah - Wadi Haifa National Highway
+شارع السلام
+Al-Nos Road
+شارع المدارس
+شارع الامتداد
+Ombada Ashra Street
+Al Wagha Street
+Ad-Damazin-Sennar Road
+Ad-Damazin-Sennar Road
+Station 7 Road
+Alzariba town crossing road leads to Elobied Highway road
+Industrial Area Secondary Road leads to the Big Market
+Khartoum-Kosti
+Ed Dueim Bridge
+Shendi
+Al Matammah
+Madani - Gadarif Highway
+piste
+شارع الصديق مصطفى شرق
+كبري القنطرة
+كبري القنطرة الثاني
+شارع شرفت
+شارع المزرعة
+شارع 6
+شارع 8
+شارع 4
+شارع 5
+شارع سجابة
+شارع 11
+شارع الحواشات
+شارع المستودع
+شارع جوادة 3
+الشبيك- النويلة - الشبيراب
+الشبيراب ---- الفريجاب
+Al-Maouna Street
+huria Street
+شارع الحلة بالنص
+Sajana balnos st
+شارع البوستة السجانة
+huria Street
+شارع الخور
+Al-Mazad Road
+شارع المزاد
+Sayed Ali Road
+شارع الحاج يوسف
+Huria Street
+شارع سوداتل
+Katarena Street
+Atbara Street
+Al Mak Nimur Av.
+Huria Street
+Street 39
+Gorashi Garden Roundabout
+Usra Club Road
+Al Qasr Avenue
+Sajana Street
+Gama'a Avenue
+Al Haj Youssef Street
+Al Haj Youssef Street
+Sayed Abdel Rahman Avenue
+Al Baladiya Avenue
+شارع عبد المنعم محمد
+Al-Arbaeen Road
+Arda Road
+Salha Road
+Salha Road
+Qadarif-Kassala Highway
+Thoura Steet
+Doctors Street
+Souq Street
+North Halanga Street
+Street 21
+Street 15
+Mohamed Nageeb Street
+Ozone Roundabout
+شارع الصحافة زلط
+شارع الصحافة زلط
+Ahmed Khair Street
+Street 47
+Sahafa Sharg Street
+obaid khatem
+Africa Road
+Street 21
+Street 1
+Street 15ا
+Sahafa Sharg Street
+Mamoon Behairi Street
+al Nakheel Street
+Abdallah Al Tayeb Street
+Mashtal Street
+Street 117
+Aljazar Road
+Al-Doha St
+Abulgasim Hashim Street
+Al Safa Rd
+Al-Firdous Street
+Mamoon Beheiri Street
+Cornish Street
+new
+Kassala PortSudan Highway
+Kassala PortSudan Highway
+Kassala PortSudan Highway
+Kassala PortSudan Highway
+Kassala PortSudan Highway
+Abu Sibaa Bridge
+شارع الابيض - النهود
+بارا - الابيض
+شارع خورطقت
+28 squire road
+Khartoum-Kosti
+Locality Road crossing and linking Rural Villages
+34 Squire Residential street
+Secondary main road to kosti town
+Locality Road crossing rural villages
+AL Kurumuk
+Ad Damazin Kurmuk Road
+ناما -دفرا Nama-Difra
+Kadugli-Higlig
+شارع الموسيقار إبراهيم عوض
+شارع الامتداد
+Alwadi Road
+shuhada road
+dakatra road
+Al-Nos Road
+Al-Wadi Road
+شارع شيكان
+Al-Shingiti Road
+Samrab Street
+South Road
+Azhari Roundabout
+Alzaeem Alazhari Road
+Alzaeem Alazhari Road
+شارع الدروشاب شمال
+Khartoum-Shendi Road
+Khartoum Refinary Road
+Nyala to Al-Fashir
+Qadarif-Kassala Highway
+Qadarif-Kassala Highway
+شارع العرش
+شارع الصديق مصطفى شمال
+شارع الغلاماب
+شارع البلال
+شارع النص
+شارع الجامع الجديد
+شارع شرفت
+الطريق الدائري
+شارع النيل جنوب
+شارع الجامع القديم
+شارع النص غرب
+شارع بشير صديق
+شارع الشريف صديق
+شارع معروف شمال
+شارع معروف جنوب
+شارع الصديق مصطفى جنوب
+شارع المسيد
+شارع السوق قدة
+شارع النويلة
+شرفت النويلة
+شرفت ودرعية
+شارع السوق
+كبري الدسيس
+شارع كدوك
+شارع زنقاحة ودالجمل ودربيعة
+الشبيك -- الشبيراب
+Abu_Gebiha-Athidway
+piste
+A
+Al-Tayeb Saleh Street
+Banat Street
+شارع النشاط
+Fitehab Road
+شارع النشاط
+Al Zubeir Pasha Street
+Ebed Khatim St
+Wad Medani Highway
+share3 bet
+from church to home
+share3
+Al Shargi Street
+Al-Firdous Street
+Track
+Merowe Airport Road
+Karora
+Juba Street
+Hamid Ali Elkhir Branch Street
+trav
+ممشى شارع النيل
+Alsouq Alshaby -Main Bus Station Road

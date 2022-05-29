@@ -1,0 +1,1581 @@
+Buingili (Ilahita 6)
+Kapal
+Nangup (Ilahita 7)
+Balanga (Ilahita 4)
+Elilip (Ilahita 3)
+Buingili (Ilahita 6)
+settlements
+5 mile ridge settlements
+Sogeri Urban
+Kompleks Perumnas Pegawai Kantor Gubernur
+Kompleks Kokoda
+Lae Market
+Tega Primary School
+settlements
+settlements
+Hospital barracks
+Umbukul
+Nangup (Ilahita 7)
+Ilifalimb (Ilahita 1)
+Lumi
+Vutung
+Moso
+Kuala Kencana
+Langda village
+Balanga (Ilahita 4)
+Awe (Ilahita 5)
+Elilip (Ilahita 3)
+Hengawenif (Ilahita 2)
+Buingili (Ilahita 6)
+Gapun
+settlements
+settlements
+settlements
+Wara Sangkung
+Saraga settlements
+2.4 settlements
+Paiawa
+PAU Kinakon Village
+Vada Vada settlements
+Sogeri Urban
+PAU Farm Village
+Talai Gorobe settlements
+Kingfisher Apartments
+Kaugere Settlements
+Talai Gorobe settlements
+East Boroka settlements
+Hohola settlements
+settlements
+Mabuduwan Village
+Ramu Housing
+Ramu Housing
+Main Camp
+settlements
+settlements
+Hospital Compound
+Kimininga Police Barracks
+settlements
+settlements
+Ela Police Barracks
+settlements
+settlements
+settlements
+settlements
+settlements
+Hagen Park teachers compound
+Anglican Church Compound
+settlements
+Asikie
+Newcamp 2
+Newcamp 1
+Karanas
+National Housing Commision
+Siapan
+Bayliss Road 2
+Number 8
+Anamapi
+Bayliss Road 1
+Number Two Ship
+Forestry Compound
+Wampit Village
+PNG Motors
+Bridgestone Tyres
+Trukai Site 1
+Kingdom Hall
+ECPNG Compound
+Biri Camp
+Koravake Village
+Teredau camp
+Kopi
+Hisiu
+Limol
+Malam
+Wim
+Lihir International Primary School
+Noipuas
+Kone
+Metetui
+Taun
+Kulitengelik
+Residential Development Area
+Gelam Tail
+Parama #1 Corner
+Kikori Corner
+Katatai Corner
+Tureture Corner
+Samari Corner
+Severimabu Corner
+Sepe Corner
+Jordan Corner
+Ipisia (Forty-Two) Corner
+Manus
+Sosson
+Ungalabu
+Tingwon
+Metemaung
+Tengelik
+Angat
+Warl Village
+Mbuke Village
+Gaima Corner
+Water Board
+Oromosapuo Corner
+Iasa Corner
+Red Point
+Doctor Point
+Hospital Compound
+Frog Town
+Pursehouse Street
+Chater Street
+Independence Drive
+Garden Street
+Airport Road
+Wisdom Street
+Elizabeth Street
+Brechin Street
+Waukaue Street
+Ide Street
+Sitani Street
+Siganuga Street
+Kepahina Street
+Rohanoka Street
+Goriba Street
+Makis Street
+Schaffhausen Street
+Gosok Place
+Binnen Road
+Kumul Place
+Gehu Street
+Bemlon Street
+Wadu Street
+Taleo Street
+Nicholai Maclay Drive
+Luan Street
+Miliok Road
+Gaudidi Road
+Sapir Road
+Ecuador Street
+Lovely Street
+Larike Street
+Katalila Place
+Albert Hahl Road
+Wharft Road
+Blanche Street
+EllWell Street
+Kuuk Street
+Kumul Drive
+MaiMai Crescent
+Pisipu Loop
+Kadea Street
+Mataunage Street
+Paripu Road
+Mamutu Street
+Gimaune Place
+Hoge Street
+Tamarua Place
+Sogo Place
+Mahuru Street
+Hari Street
+Eava Street
+Fowlers Road
+Kulubung Street
+Boboro Place
+Kivivi Place
+Baimumu Crescent
+Geda Place
+Turua Avenue
+Kivaru Place
+Logohu Place
+Omuku Street
+Harons Drive
+Tau Place
+Moru Street
+Giboi Street
+Namo Street
+Vanagi Place
+Lagatoi Place
+Besele Street
+Igua Street
+Ninoa Place
+Foster Street
+Ruma Street
+Bego Crescent
+Madi Place
+Onno Street
+Seuwa Road
+Spoonbill Drive
+Lapwing Drive
+Jabiru Drive
+Ibis Crescent
+Duna Place
+Bittern Place
+Hornbill Crescent
+Baimumu Place
+Abal Street
+Melanesian Avenue
+Toliman Road
+Govea Street
+Henao Drive
+Madaha Street
+Rohi Place
+Geita Place
+Homoka Street
+Heni Place
+Old Kennedy Road
+Gum Place
+Poinciana Street
+Croton Street
+Bauhinia STreet
+Orchid Street
+Palm Street
+Klinki Street
+Acacia Street
+Tomu Place
+Rui Place
+Moita Place
+Giriwa Place
+Legi Crescent
+Tarpot Street
+Kagabuna Street
+Maple Street
+Gordonia Street
+Gea Place
+Kaeme Street
+Noho Place
+Leke Street
+Hua Place
+Lohia Street
+Hedu Street
+Gaigo Street
+Sina Street
+Arua Place
+Kabua Crescent
+Cuthbertson Street
+Armit Street
+Hayes Street
+Whittaker Street
+Bramell Street
+Brampton Street
+Kermadec Street
+Lakosi Place
+Tugini Street
+Elanese Road
+Koki Street
+Tadi Street
+Portlock Street
+Harris Street
+Pandora Crescent
+Hamilton Street
+Davetari Drive
+Bligh Street
+Aviat Street
+Bareto Street
+Tohu Street
+Olmsted Street
+Ela-Makana Street
+Huxley Street
+Bouganville Crescent
+Chalmers Crescent
+Gaibodubu Street
+Utuma Place
+Helai Avenue
+Momondo Place
+Magani Crescent
+Maikai Place
+Gari Avenue
+Bagaka Place
+Manoka Place
+Oraka Drive
+Sevese Morea Drive
+Rakatani Road
+Vaibori Avenue
+Kookaburra Drive
+Mynah Place
+Thrush Street
+Daure Crescent
+Ganigo Street
+Garia Street
+Shirke Street
+Grebe Place
+Kunemaka Place
+Puni Place
+Rail Place
+Crake Place
+Pelican Street
+Swallow Place
+Coot Place
+Pitta Street
+Narnia Way
+Flint Place
+Marigutukohu Place
+Naure Hara Street
+Autubu Street
+Moyon Street
+Barton Place
+Lambden Street
+Autubua Road
+Rabia Crescent
+Munikae Place
+Ruby Street
+Geboso Place
+Wallach Place
+Pearl Place
+Eros Street
+Koboka Street
+Manubada Street
+Peteru Place
+Mirigini Avenue
+Pimco Street
+Meara Place
+Kokoda Street
+Queenscliffe
+Macdhui Crescent
+Chinsurah
+Wareo Street
+Gona Street
+Ioriba Crescent
+Kibi Place
+Imita Crescent
+Markham Street
+Fly Drive
+Kumalu Drive
+14th Street
+Salamanda Avenue
+Cassowary Road 1E
+Doyle Street
+Swallow Road
+Tern Street
+Eagle Street
+Plover Street
+Nathatches Street
+Gannet Street
+Cassia Crescent
+Memorial Avenue
+10th Street
+12th Street
+11th Street
+Pitta Street
+Butcher Street
+Oleander Avenue
+Oak Street
+Drayton Street
+Voco Point Road
+Church Street
+Mataram Street
+Swift Street
+Hibiscus Avenue
+Gurney Street
+Sicklebill Street
+Buchanan Avenue
+Parer Street
+Maiwara Street
+Dambi Street
+Sletfjord Street
+Phillips Road
+Church Road
+White Drive
+Beverley Crescent
+Golf Course Road
+Montoro Street
+Marsina Street
+Marsh Street
+Speybank Street
+Mubo Street
+Frigate Street
+1st Street
+Hermes Street
+Seagull Street
+Airways Avenue
+Ibis Street
+Goodwin Street
+Road 01
+Road 25
+Onoga Place
+Heduru Place
+Goava Drive
+Fifth Street
+Fourth Street
+Abel Street
+Koma Place
+Kegayro Place
+Rai Street
+Nikints Street
+Unu Place
+Gomara Crescent
+Tutunava Street
+Toka Street
+Gewa Place
+Sanga Place
+Koloka Street
+Kuruha Street
+Gahusi Street
+Badu Street
+Bodua Place
+Waki Place
+Raho Place
+Ala Street
+Daka Street
+Maika Street
+Kamas Street
+Duru Place
+Aiva Street
+Opao Place
+Ekure Crescent
+Aniani Street
+Tokaita Place
+Gogosi Crescent
+Obuta Crescent
+Botai Place
+Ganavali Avenue
+Vakari Street
+Helen Street
+Castlereagh Street
+Kaevaga Road
+Spring Garden Road
+Cananga Street
+Frangipani Street
+Kaubebe Street
+Biku Street
+Vaivai Avenue
+Goroa Street
+Garden Hills Road
+Mavabu Street
+Hunu Place
+Gaba Place
+Moale Place
+Gordia Street
+Stores Road
+Osi Avenue
+Rabaul Avenue
+Ororo Crescent
+Nusa Street
+Boio Street
+Ilimo Avenue
+Jacksons Parade
+Dakota Place
+Saraga Street
+Curtis Street
+Snipe Street
+Plover Street
+Komuta Crescent
+Kauka Place
+Iarogaha Street
+Varo Place
+Ti Street
+Maba Street
+Raga Street
+Vahu Vahu Street
+Babaga Street
+Konio Crescent
+Gobuta Street
+Neada Crescent
+D'Albertis Street
+Government House Road
+Gabi Road
+Badihagwa Road
+Hekei Dobi Street
+Elevala Road
+Gorobe Street
+Hudoko Crescent
+Sepik Avenue
+Ramu Road
+Markham Avenue
+Turama Avenue
+Lakekamu Road
+Purari Avenue
+Galip Place
+Moonah Road
+Brushwood Drive
+Sterculia Street
+Mango Street
+Beech Street
+Fig Street
+Cedar Street
+Amoora Street
+Erima Street
+Satin Street
+Ebony Place
+Warbler Place
+Dabara Street
+Aslan Court
+Maranatha Street
+Teak Street
+Pothier Place
+Ash Street
+Sinau Drive
+Metakata Place
+Modewa Street
+Preston White Street
+Garubol Street
+Seventh Street
+Third Street
+Beremer Crescent
+Second Street
+Sixth Street
+Fourth Street
+First Street
+Kimbe Crescent
+Fifth Street
+Mamus St
+Tanabal Rd
+Jalan Kemuning
+Jalan Johar
+Jalan Turi
+Jalan Soka
+Jalan Tanjung
+Jalan Teratai
+Jalan Manggis
+Jalan Trikora
+Jalan Pulau Batanta
+Jalan Raja Ampat
+Jalan Cakalang
+Jalan Pulau Kofiau
+Jalan Yapen
+Jalan Ade Irma Nasution
+Jalan Gunung Batur
+Jalan Gunung Kerinci
+Jalan Misol
+Jalan Gunung Agung
+Jalan Gunung Tidar
+Jalan Gunung Isusu
+Jalan Wageo
+Jl. Moyo
+Jalan Suteja
+Jembatan Klawuyu
+Jalan Abi Manyu
+Jl. Teratai
+Jalan Srikandi
+Jl. Melati Raya
+Jl. Patriot
+Jalan Kanal Victory
+Jl. Cendrawasih
+Jalan Olom Fagu
+Jalan Klaselo
+Jalan Bima
+Jl. Baronang Perumnas
+Jl. Kakap
+Jl. Baronang Raya
+Jl. Lumba-lumba
+Jl. Flamboyan
+Jl. Tenggiri Raya
+Jl. Cakalang
+Gang Lumba-lumba
+Jl. Atta
+Jl. Poncowati
+Jalan Sungai Remu
+Jl. Rumberpon Belakang
+Jl. Selat Sairere
+Jalan Rajawali
+Jl. Selat Morotai
+Jalan Tanjung Mas
+Jl. Perkici
+Jl. Maleo
+Jl. Terong
+Jl. Gambas
+Jl. Tren
+Jl. Kacang
+Jl. Lobak
+Jl. Obadiri
+Jl. Mandiri
+Jl. Sepakat RW 06
+Jalan Sedap Malam
+Jalan Menur
+nusantara 5
+gang pelita 2
+JL. TRANSITO
+Jln. Kebun Cengkeh
+Jl.Manado_Brbdur
+Jl.setapak Km Susweni
+Jalan Shimponi Rindu
+Jair
+Panki Ranku Avenue
+Biuru Avenue
+Koniano Drive
+Kokorei Street
+Melisa Street
+Ghana Street
+Firth Avenue
+Groves Avenue
+Peru Street
+Ram Road
+Vietnam Street
+Colombia Street
+Mexico Road
+North Firth Avenue
+Philippines Road
+The Parkway
+Aborigine Street
+Eagle Street
+Enos Drive
+Hawk Street
+Dowapia Street
+George Brown Street
+Dunlin Crescent
+Crane Street
+Whipbird Street
+Kingfisher Place
+Heron Street
+Teal Place
+Skua Place
+Woodcock Road
+Stilt Street
+Dotterel Street
+Pidgeon Place
+Kaekae Crescent
+Ugava Road
+Sandpiper Road
+Kitogara Street
+Gahuko Street
+Kiroki Street
+Kekekeke Street
+Odubora Street
+Kouka Place
+Turuha Place
+Magemage Place
+Munahu Street
+Ruta Place
+Mabi Street
+Morata Street
+Ahuia Street
+Maniota Street
+Banksia Street
+Mabata Street
+Gorogo Street
+Boge Place
+Avaka Street
+Koneva Place
+Macgregor Street
+Bernal Street
+Davarra Road
+Chester Street
+Ogoa Street
+Webb Street
+Erskine Street
+Stanley Esplanade
+Mary Street
+Winter Street
+Durville Street
+Konenamo Crescent
+Daugo Drive
+Sillot Avenue
+Chesterfield Street
+Le Hunte Road
+Vanama Crescent
+Doko Street
+Munidubu Street
+Bevan Place
+Siale Street
+Taraga Road
+Erupi Place
+Vaieke Street
+Doura Street
+Burns Peak Road
+Tuene Street
+Koru Street
+Ovaro Street
+Iamaina Street
+Iduhu Street
+Niue Street
+Gaveta Street
+Maria Street
+Heagi Street
+Boni Street
+Kodua Street
+Sparrow Place
+Finch Place
+Oriole Street
+Dove Place
+Eighth Street
+Sixth Street
+Cormorant Street
+Koisere Place
+Kepoka Place
+Petrek Street
+Cassowary Road
+First Street
+Second Street
+Third Street
+Goha Place
+Guiraura Place
+Diho Avenue
+Valkyrie Place
+Muniara Street
+Lokua Avenue
+Guitau Avenue
+Mairi Place
+Kevau Place
+Maho Place
+Nita Street
+Lahara Avenue
+Turumu Street
+Huala Place
+Minihi Avenue
+Kourabada Street
+Regione Street
+Lolorua Street
+Doroga Place
+Mahuru Circle
+Tagula Street
+Humphries Place
+Kobo Place
+Gagoma Street
+Pipigari Street
+Kuku Place
+Kaia Place
+Doma Street
+Moisana Street
+Kano Place
+Emerald Street
+Doreen Place
+Laba Place
+Karao Place
+Laurabada Avenue
+Tara Place
+Kwadi Place
+Galo Place
+Noko Place
+Tabari Place
+Myola Street
+Wewak Street
+Maprik Street
+Tauri Crescent
+Milne Bay Circuit
+Wau Avenue
+Nonu Avenue
+Hodava Avenue
+Crane Street
+Kingfisher Road
+Cormorant Street
+Hawk Street
+Hornbill Crescent
+Mula Street
+Josey Street
+Abel Tasman Street
+Kisere Street
+Cedarbank Street
+Aurabada Street
+3rd Street
+5th Street
+Central Avenue
+4th Street
+Crows Road
+Vee Street
+Ngalung Street
+Bau Street
+Hata Biang Street
+Nip Street
+Baling Street
+Keso Gedec Crescent
+Sangeng Street
+Kalelong Street
+Taraka Street
+Ngamili Street
+Razo Street
+Casuaraina Avenue
+Poinciana Avenue
+Sturt Street
+Cedar Road
+Kwila Road
+Falcon Street
+Bowerbird Road
+Lark Road
+MacDhui Street
+Ariel Road
+Fairywren Street
+Laurina Crescent
+Sema Place
+Ore Place
+Ilipo Place
+Noinoi Place
+Ura Street
+Ikupu Place
+Welpam Place
+Venisi Street
+Seventh Street
+Kovasala Place
+Loby Place
+Vibobu Place
+Gado Place
+Kate Street
+Wilhelm Place
+Hera Street
+Goada Place
+Kabolu Street
+Kurukuru Place
+Ponu Ponu Place
+Brian Bell Street
+Garokoni Place
+Varubi Street
+Digo Place
+Koka Place
+Modara Street
+Vuvusai Place
+Butubutu Street
+Laurina Place
+Hela Place
+Daradara Street
+Dahaka Place
+Omanada Place
+Maitama Street
+Buledi Street
+Lonia Place
+Safas Place
+Idu Street
+Keasu Street
+Hitolo Place
+Enehako Street
+Gamu Place
+Movivina Street
+Esa Ala Place
+Dihotavi Place
+Kariahu Street
+Keruma Street
+Kaput Street
+Bede Place
+Dogodo Crescent
+Lukas Crescent
+Talvung Place
+Japhlom Crescent
+Kinimura Place
+Mekwa Crescent
+Ladava Place
+Arehava Street
+Maigana Crescent
+Debona Crescent
+Adira Street
+Gaudi Street
+Digohe Street
+Milner Drive
+Apau Place
+Koai Street
+Agolo Drive
+Karuka Street
+Oika Street
+Uduka Street
+Nauani Street
+Ravini Street
+Dabu Street
+Enga Place
+Naime Crescent
+Mua Place
+Harinamoma Street
+Taumaku Crescent
+Hagita Place
+Kakapeta Crescent
+Kokokoko Street
+Kwanau Crescent
+Sariba Street
+Onoga Crescent
+Simona Street
+Alotau Street
+Mareva Place
+Stoltz Drive
+Lapan Place
+Pelo Street
+Amogo Place
+Paparutave Place
+Robyn Street
+Earth Station Road
+Sharon Street
+Damu Street
+Tanatana Street
+Maragi Gardens
+Ranu Place
+Torokina Avenue
+Aitape Circuit
+Garuga Street
+Buna Circuit
+Irimo Place
+Ume Street
+Soare Road
+Ago Street
+Ebala Place
+Dogura Place
+Hudson Street
+Siale Place
+Tamara Road
+Magila Road
+Vohua Place
+Old Studio Road
+Niu Place
+Budoa Avenue
+Pua Pua Place
+Gere Gere Street
+Savaka Street
+Bagita Street
+Salote Street
+Tauedea Avenue
+Gabe Place
+Ureke Place
+Ameri Place
+Dorido Street
+Ruatoka Street
+Kavari Street
+Lahua Street
+Goldie Street
+Kapena Street
+Kapa Street
+Diara Street
+Arere Street
+Adare Street
+Idau Street
+Loa Place
+Isuka Street
+Kenese Avenue
+Biri Street
+Mea Crescent
+Gevana Avenue
+Malas Street
+Vatica Street
+Vitex Street
+Taun Street
+Oak Street
+Ginate Place
+Hides Street
+Muniogo Crescent
+Pascall Avenue
+Melbourne Street
+Dublin Road
+Canberra Crescent
+Litsea Place
+Rosewood Street
+Casuarina Place
+Bombax Street
+Spondias Street
+Penda Place
+Kwila Street
+Kapiak Street
+Tern Street
+Gull Street
+Ninth Street
+Wren Place
+Darodaro Place
+Lailai Place
+Parani Crescent
+Nohokau Crescent
+Ambu Street
+Kumba Road
+Rui Place
+Kongin Street
+Garua Street
+Ela Street
+Kimininga Police Barracks Street
+Kola Place
+Stret Road
+Manda Street
+Lagun Street
+Tanim Place
+Paka Place
+El Place
+Numan Place
+Kona Romu Street
+Muruk Place
+Benzin Road
+Pena Place
+Pen Place
+Minimp Road
+Rot Place
+Pailimp Road
+Munga Street
+Kwip Place
+Keinor Road
+Ninji Drive
+Mai Place
+Ragaba Street
+Ku Place
+Kabia Place
+Dei Place
+Gu Place
+Kai Place
+Kilanda Street
+Nonbuga Place
+Second Street
+Puni Street
+Wamp Nga Street
+Murray (Mangopari) Rd
+Bomana Back St
+Bomana Front St
+Cameron Road
+2nd Street
+6th Street
+8th Street
+9th Street
+Bau Bau Street
+Boe Vagi Road
+Dodo Street
+Elliot Street
+Fox Street
+Giung Street
+Grenvold Road
+Hagen Drive
+Heron Street
+Hibiscus Street
+Hidiha Road
+Huxley Street
+Igo Street
+Independence Drive
+Jalan Dr. Sam Ratulangi
+Jalan F. Kaisepo
+Jalan Gunung Semeru
+Jalan Kalimantan
+Jalan Kompleks Bumi Marina Asri
+Jalan Pasifik Permai
+Jalan Pulau Kasim
+Jalan RA Kartini
+Jalan Rawa Indah
+Jl. D. S Yan Mamoribo
+Jl. F. Kalasuat
+Jl. Karimata
+Jl. Kesehatan
+Jl Malakai
+Jl Malibela
+Jl. Masjid Raya
+Jln. Kompleks Irman Jaya
+Jln. Kompleks Kebun Cengkeh
+Jl. Rumberpon
+Jl. Sorong Makbon
+Jl Teminabuan
+Jl. Wortel
+Jl. Yohanes Fak Dawer
+Kittyhawk Street
+Konedobu Road
+Kuminga Road
+Kupanda Street
+Kyle Street
+Malaita Street
+Matunga Place
+Miki Street
+Milne Bay Place
+Moka Place
+Monise Street
+Mt. Kiss Lookout
+Norman Street
+Nuana Road
+Paraka Place
+Pine Street
+Quail Crescent
+Rabura Street
+Romba Street
+Toi Street
+Varahe Road
+Woyne Road
+Nuk St
+Tum St
+Menga St
+Yaman St
+Jalan Nindya
+Jalan Matahari
+Jalan Jambu
+Jalan Hanurata
+Jalan rabat beton PNPM
+Jalan Rabat beton PNPM TA
+Old Runway?
+Sp 5 Jlr 1
+SP 5 Jlr 1 a
+SP 5 b
+SP 5 c
+SP 5 d
+Jln Poros SPV
+ACTIVE LOG 019
+Jl. Selat Makasar
+Jalan Nagka
+Jalan Pelangi
+Jalan Sukun
+Jl. Delima
+Jl. Unta RW 07
+Jl. Puak RW 07
+Jl. Taman Makam Pahlawan
+Jl. Sri Gunting RT 01/07
+Jl. Sri Gunting
+Jalan Nusa Indah
+Jalan Sultan Hasanudin
+Jalan Udang
+Jl. Sam Ratulangi
+Jalan Gunung Gamalama
+Jalan Pulau Gak
+Jalan Gunung Kawi
+Jalan Gunung Merapi
+Jl. Bunga Kuning
+Jl. Bunga Merah
+Jalan Pulau Sulawesi
+Jalan Gunung Umsini
+Jalan Pulau Pisang
+Jalan Pulau Pam
+Jl. Gunung Rinjani
+Jalan Pulau Sop
+Jl. Yosep Yapen
+Road1
+Road2
+dark street
+Jl. Anggrek Raya
+Jl. S. Kamundan
+Jl. AM Sangaji
+Jl Atta
+Jalan Bolo Dewo
+Jalan TPU
+Jl. Mawar
+Jalan Sungai Kamundan
+Jl. Hutan Lindung
+Jl. Klamana
+Jl Klasibi
+Jalan Ketiwilas
+Jl Meles
+Jl. Saton
+Gang Imayoh
+Jalan Seblum Bebari
+Jalan Sele Be Solu I
+Jl. Kembang
+Jl. Mabulolo
+Jl. Damai
+Jalan S. Klamilik
+Gang Sadewa VII
+Gang Sadewa VIII
+Gang Sadewa V
+Gang Sadewa IV
+Gang Sadewa VI
+Gang Sadewa
+Jl Madukoro Belakang
+Jalan Pendidikan
+Jalan PLTD
+Jalan Tg. Pinang
+Jalan Kapten Tendean
+Jalan Pipit
+Jalan Mamiri
+Jl. Itik
+Jalan Tg. Sele
+Jalan Maesa
+Jalan Trikora
+Jl. S. Warsamson
+Jl. Nangka
+Jalan Bangau II
+Jl Melatiraya
+Jalan Malageda
+Jl. Puyuh
+Jalan F. Klasuat
+Jl. Cendrawasih
+Jl. Kurana
+Jl. Mambruk
+Jl. KPR PDAM
+Jl. Tanjung Rimoni/Arteri
+Jl. Selat Kalobo
+Jl. Sriti 1 Rw 03
+Jalur 1
+Jalur 2
+Jalur 7a
+JL. Nusantara 2
+JL. Nusantara 1
+JL. Nusantara 3
+JL. Nusantara 4
+dealer toyota
+jln Marampa
+jln kompleks bugis
+handoko
+gang pelita 1
+Jalan Sulawesi
+Jalan Bandung
+Batri Road
+Angaya road
+Kauwini River bridge
+Baiyer Road
+Moika Road
+Trugl Bridge
+North Wahgi Road
+Wabag Highway
+Mount Ambra Road
+Kagamuga Airport Road Access
+Kumbame Road
+The Centre
+Memorial Drive
+Warasua River
+Nagum
+Balif - Ilahita Road
+Ilahup Road
+Balif-Ilahita Road
+Road to Tadel
+Jalan Sujarwo Condronegoro
+Tasangkapura
+Jalan Koti
+Jalan Halmahera
+Jalan Samudera Maya
+Jalan Olahraga
+Jalan Pembangunan
+Jalan Angkasa Indah
+Jalan Supriyadi
+Jalan Percetakan
+Amphibi
+Jalan Setiapura
+Pos 7
+Route Uncertain
+kk shortcut 1
+Route Uncertain
+Route Uncertain
+Jalan SD Percobaan
+Jalan Bhayangkara
+Jalan Pattimura
+Jalan Sulawesi
+Jln. Irian
+Jalan Irian
+Jalan Safri Darwin
+Jalan Panjaitan
+Jalan Diponegoro
+Jalan Yos Sudarso
+Jl Kampung
+Jembatan Muari
+Jalan Oransbari - Ransiki
+Jembatan Kali Mati
+Jl. Ransiki - Momi
+Jalan Womnowi
+Jalan Obet Mubalus
+Jalan Yos Sudarso
+Jalan Gunung Arfak
+Jl. Kapitan Patimura
+Jl. Warkap
+Jalan Distrik
+Jalan SP4
+Jembatan Sungai Aimasi
+Jembatan Kali Mati
+Jalan Pahlawan
+Jl. Trikora Woasi
+Jln. Kompleks Kampung Makassar
+nusantara
+Jl. Acet
+Jl. Pertanian Wosi
+Jln. Pujam
+Jalan Swapen
+Jln. Trikora wosi
+Akses landas pacu 35
+Jln. Reremi Puncak
+Jln. Lembah hijau
+Jalan Poros Prafi Mulya
+Jl. Nimiar
+Jl. Unibrieb
+Jl. Nompoy
+Jl. Tuanggu
+Jln. Kampus
+Jalan Kampus Unipa
+Jln. Fakultas Teknik
+Jalan Ayam Bori
+jl. bandung
+Jalan Manado
+Jalan Merdeka
+jln.komplek unipa
+Jalan Condro Negoro
+Jl.Aipirii
+Jl.poros Kmpung Aipiri
+Jalan Bakaro
+Jembatan Kwawi
+Jalan Gunung Salju
+Trans Papua
+Boluminski Highway
+Hoskins-Kimbe Highway
+Kimbe-Biala-Highway
+Kimbe-Talasea
+Kokopo-Rabaul Road
+Malaguna Road
+Mango Avenue
+Robos Street
+Talasea road
+Tunnel Hill Road
+Air Corps Road
+Benaria Road
+Berna Bena road
+Bewani Road
+Bouganville Drive
+Butibum Road
+Cameron Road
+Charles Abel Highway
+Demakwa Wafi access road
+Douglas Street
+Erave Road
+Gabaka Street
+Geauta Drive
+Gerehu Drive
+Godwit Road
+Goro-Kaeaga Road
+Halongani Road
+Healy Parade
+Henga Road
+Highlands Highway
+Hiritano Highway
+Hom-Hom
+Hunter Street
+Ialibu Highway
+Ialibu-Pangia Highway
+Jalan Ahmad Yani
+Jalan Arteri
+Jalan Basuki Rahmat
+Jalan DI Panjaitan
+Jalan Diponegoro
+Jalan Gatot Subroto
+Jalan Handayani
+Jalan Irian
+Jalan Kampung
+Jalan Lapangan Timur
+Jalan Percetakan
+Jalan Petrus Kafiar Amban Pantai
+Jalan Raya Oransbari
+Jalan Siliwangi
+Jalan S. Kalagison
+Jalan Sorong Makbon
+Jalan Suntey
+Jalan Track Bintuni
+Jalan Trikora
+Jalan Utarum
+Jalur Sp5
+Jl. Aimas-Seget
+jl.angrem
+Jl. Brigjen marinir (purn.) Abraham O.Atururi Arfae Manokwari
+Jl. Koridor Arteri Sekunder Pemerintahan Mansel
+Jl. Koridor Kolektor Sekunder Pemerintahan Mansel
+jl. Ligban
+Jln. Anggi Gida - Menyambouw
+Jln Brawijaya
+jln.kampus
+Jln. Kampus (Rektorat Lama)
+Jln. Pasir Putih
+Jln. Raya Pantura
+Jln. Raya Prafi
+Jln Yos Sudarso
+Jl. Poros Kampung Aipiri
+Jl. Prafi - Sidey
+Jl. Ransiki - Momiwaren
+Jl. Raya Maruni - Oransbari
+Jl. Sidey - Kebar
+Kennedy Road
+Kiunga-Tabubil Highway
+Koroba Road
+Kreer by-pass
+Kudam Street
+Kumul Flyover
+Markham Road
+Mendi - Kandep Road
+Milfordhaven Road
+MiniRoad2
+MiniRoad3
+Modiki Road
+Morea-Tobo Road
+Old Mission Road
+Old Mission Road, now bush path
+Parer Street
+Pori Road
+Poroma road
+Poros Manokwari - Maruni
+Ramu Highway
+Route Uncertain
+Saksak Road
+Sausapor-Werur
+Sivari Road
+Sogeri-Sirinumi Dam Road
+Tari Highway
+Taurama Road
+Track1
+Trans Papua
+Trans Papua Tanah Merah - Merauke
+Tuhiba Stenkool
+Vanimo - Indonesia border road
+Wards Road
+Wau-Bulolo Highway
+Wewak-Angoram Road
+Yamauan Street
+Jl. Poros
+Sogeri Road
+Jalan menuju kabupaten Nduga
+Namanula Road
+Tobaining Drive
+Pockley Road
+Sebea Road
+Gavamani Road
+Bisini Road
+Islander Drive
+Elamakana1
+Somare Circuit
+Mokoraha Road
+Guitana Road
+Independence Drive
+Grassland Road
+Scrub Road
+Wood Road
+Markham Bridge
+7th Street
+Jawani Street
+Biringa Street
+Maiwarra Street
+The Esplanade
+Banghai Street
+Erica Street
+Weybank Street
+Simbang Street
+Karimun Street
+Karimata Street
+Matabudi Street
+Tolana Street
+Gahunagaudi Drive
+Kasio Circle
+Tauriganika Street
+Hagwa Street
+Karius Road
+Hanuabada Road
+logging road - shortcut
+Ling Crescent
+Voae Street
+Hoskins Street
+San Remo Drive
+Waka Street
+Kimbe Street
+Elais Road
+Marmar
+Kiunga-Tabubil Highway
+Takam Rd
+Jalan Nirwana
+Jalan Ahmad Yani
+Jalan Trikora
+Jalan Nusa Tenggara
+Jalan Soa Siu
+Ardipura
+Argapura
+Road1
+Jalan Ahmad Yani
+Kupei Road
+Upper Kupei Road
+Jl. Sorong-Aimas/Jl. Basuki Rahmat
+Jalan Aimas Seget
+Jl. Sorong-Aimas
+Jalan Kilang
+Jl. Sorong-Aimas
+Jl. Sorong-Aimas/Basuki Rahmat
+Jalan Sungai Maruni
+Werur - Sausapor
+Jl. Makam Aimas
+Jalan Sungai Mamberame
+Jalan Reremi Puncak
+Jl. Trikora Wosi, Taman Ria
+Jln. Gaya Baru Wosi
+jl. Trikora Wosi
+Jalan Reremi Palapa
+Jalan Angkasa Mulyono
+Jalan Drs. Esau Sesa
+Jalur 1 Prafi Mulya
+Jalan Kampung Umbuy-Mebji
+Jalur 2 Prafi Mulya
+Jalur 5 Prafi Mulya
+Jalur 3 Prafi Mulya
+Jalan Melintang Barat
+Jl. Poros Km Susweni
+Jalan Merapi
+Jembatan Sahara
+Makinono Street
+Morchhauser Street
+Griffiths Street
+Mokara Street
+Vohoe Street
+McNicholl Street
+Gafuka Street
+Modilon Road
+Coronation Drive
+Nuna Street
+Cassia Avenue
+Balam Street
+Patosten Street
+Karua Street
+Nabasa Road
+Nanulaon Street
+Ixora Avenue
+Kasagten Street
+Puna Street
+Badaten Road
+Kusbau Road
+Kalibobo Drive
+Serilom Street
+Drummond Street
+Voillea Street
+Chalmers Street
+to Volcano Observatory
+PMAR
+Karoona Street
+Karu Street
+Airvos Avenue
+Lawes Road
+Port Road
+Boragaino Road
+Dikagari Road
+Gannet Street
+Air Corps Road;Morobe Avenue
+Boundary Road
+Coronation Drive
+Sandpiper Road
+13th Street
+Fleetbank Street
+Talapia Street
+Keni Vani Road
+Lorengau Road
+Toliman Circuit
+Bitapaka Street
+Nigibata Road
+Kamarere Street
+Yabob Road
+Priddle Street
+Ata Street
+Passik River Bridge
+Maprik Road
+Valley Lane
+Wewak - Maprik Road
+Hill Street
+Seaview Road
+Albinama road
+New South Road
+Kelwa Airport back road
+Mulubi road
+Goilavi-Ubu'o Track
+2014-10-31 00:00:30 Day
+2014-11-01 05:07:17 Day
+ACTIVE LOG 022
+ACTIVE LOG132403
+Akses MAF
+Path
+Timika to Tembagapura
+Wama road
+Jalan Anny Weho
+Airport Access Road
+Akses Road Fire
+Lolat - Ambulong Path
+Lolat - Bimaheik Path
+Barramundi Hatchery
+Jalan Setapak
+Jalan
+ACTIVE LOG071705
+Jalan setapak menuju dermaga
+to Ba'anitagol
+to Lahinga
+to Ba'anitagol
+Path to Sambaf
+path to ondop
+School-Airstrip Track
+Titihui-Airstrip Track
+Ubu'o-Buri Track
+wama road
+Barrie Crescent
+Spine Rd
+HEAT Road
+to Ingamblis
+Ara'ava Track
+Kairimai Track
+Jetty-Airstrip Road
+(boardwalk)
+Nancy Crescent
+Center Road
+Papindo
+Goroka Airport
+Dal Crescent
+Dallman Street
+Path follows river bed
+Path through old mission grounds
+Angau Drive Mall
+Lower Loop
+Gym Hill Road
+Upper Road
+Lower Road
+Front Hill Road
+Wheelchair Ramp
+Path down steep cliff
+Path
+Turning Road
