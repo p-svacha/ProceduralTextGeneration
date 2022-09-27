@@ -54,8 +54,6 @@ namespace PersonGenerator
                 if (CountryToggle.isOn) line += p.Origin.Name + ";";
                 line = line.TrimEnd(';');
                 line = line.Replace("\"", "");
-                line = "\"" + line;
-                line += "\",";
                 outputLines.Add(line);
             }
 
